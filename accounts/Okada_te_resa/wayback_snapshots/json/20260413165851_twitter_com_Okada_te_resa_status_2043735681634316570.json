@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2043735681634316570",
+    "created_at": "2026-04-13T16:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043735681634316570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AngffaBang/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/AngffaBang/status/2043665808820515041",
+          "start": 10,
+          "url": "https://t.co/7AYatF5eaZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043735681634316570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043665808820515041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求你了希望没事。。 https://t.co/7AYatF5eaZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72305,
+        "height": 1280,
+        "media_key": "13_2043665510219554816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043665510219554816/img/xtuQUheMrt2LL8cU.jpg",
+        "public_metrics": {
+          "view_count": 387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/320x568/oSBxxK5XUw1XTS-8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/480x852/VsvvcXZOIwvIsnLN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/720x1280/VuWwNCnZkvAiiSYE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/pl/BhQ8bD5jwkgJRDwi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2043735681634316570",
+        "created_at": "2026-04-13T16:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043735681634316570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngffaBang/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/AngffaBang/status/2043665808820515041",
+              "start": 10,
+              "url": "https://t.co/7AYatF5eaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043735681634316570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043665808820515041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求你了希望没事。。 https://t.co/7AYatF5eaZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043665510219554816"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2043665808820515041",
+        "created_at": "2026-04-13T12:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043665808820515041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjfhwFCqPy",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/2043665808820515041/video/1",
+              "media_key": "13_2043665510219554816",
+              "start": 0,
+              "url": "https://t.co/BjfhwFCqPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043665808820515041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1273,
+          "like_count": 28,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BjfhwFCqPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 755,
+          "like_count": 36549,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 2446
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 598,
+          "like_count": 6374,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 2846
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

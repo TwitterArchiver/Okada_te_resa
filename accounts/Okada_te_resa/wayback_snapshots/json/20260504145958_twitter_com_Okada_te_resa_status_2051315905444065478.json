@@ -1,0 +1,658 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051294966287147008"
+      ],
+      "media_source_tweet_id": [
+        "2051294989599035743"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2051315905444065478",
+    "created_at": "2026-05-04T14:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051315905444065478"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "lovelive"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "园田海未"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "缪斯"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "umi"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "cos"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "cosplay"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "御姐"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964265669362667520",
+          "start": 3,
+          "username": "zuiaiyiyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BOnEwoj78C",
+          "end": 86,
+          "expanded_url": "https://x.com/zuiaiyiyi/status/2051294989599035743/photo/1",
+          "media_key": "3_2051294966287147008",
+          "start": 63,
+          "url": "https://t.co/BOnEwoj78C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051315905444065478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051294989599035743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuiaiyiyi: 依旧巨乳\n#lovelive #园田海未 #缪斯 #umi #cos #cosplay #御姐 https://t.co/BOnEwoj78C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2051294966287147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHep51MXoAAq_U6.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051294966287147008"
+          ],
+          "media_source_tweet_id": [
+            "2051294989599035743"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2051315905444065478",
+        "created_at": "2026-05-04T14:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051315905444065478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "lovelive"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "园田海未"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "缪斯"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "umi"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "cos"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "cosplay"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "御姐"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964265669362667520",
+              "start": 3,
+              "username": "zuiaiyiyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOnEwoj78C",
+              "end": 86,
+              "expanded_url": "https://x.com/zuiaiyiyi/status/2051294989599035743/photo/1",
+              "media_key": "3_2051294966287147008",
+              "start": 63,
+              "url": "https://t.co/BOnEwoj78C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051315905444065478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051294989599035743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuiaiyiyi: 依旧巨乳\n#lovelive #园田海未 #缪斯 #umi #cos #cosplay #御姐 https://t.co/BOnEwoj78C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051294966287147008"
+          ]
+        },
+        "author_id": "1964265669362667520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2051294989599035743",
+        "created_at": "2026-05-04T13:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051294989599035743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "lovelive"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "园田海未"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "缪斯"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "umi"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "cos"
+            },
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "cosplay"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "御姐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOnEwoj78C",
+              "end": 71,
+              "expanded_url": "https://x.com/zuiaiyiyi/status/2051294989599035743/photo/1",
+              "media_key": "3_2051294966287147008",
+              "start": 48,
+              "url": "https://t.co/BOnEwoj78C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051294989599035743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1553,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "依旧巨乳\n#lovelive #园田海未 #缪斯 #umi #cos #cosplay #御姐 https://t.co/BOnEwoj78C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 803,
+          "like_count": 37758,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 2656
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n标签纯引流，当真的那你这辈子有了。我会用ai修图，介意勿烦我。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4PlwH\n纯擦着玩，🈚️收费内容，说菩萨可以，说我是福利姬死老冯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 122,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 99,
+                "url": "https://t.co/uLfKv4PlwH"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2049070365826228308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21338,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 49,
+          "media_count": 216,
+          "tweet_count": 1121
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

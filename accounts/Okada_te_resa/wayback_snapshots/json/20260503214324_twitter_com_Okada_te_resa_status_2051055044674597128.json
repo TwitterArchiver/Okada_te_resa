@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2051053630804099334",
+    "created_at": "2026-05-03T21:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051055044674597128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051055044674597128",
+    "in_reply_to_user_id": "1767107094313160704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051053630804099334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不针对所有东北人妈咪们我很温良"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2051053618590306304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbOZi9a0AAhlmh.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2051053630804099334",
+        "created_at": "2026-05-03T21:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051055044674597128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051055044674597128",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051053630804099334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不针对所有东北人妈咪们我很温良"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051053618590306304"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2051053630804099334",
+        "created_at": "2026-05-03T21:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051053630804099334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9MK05Q8KJ",
+              "end": 42,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2051053630804099334/photo/1",
+              "media_key": "3_2051053618590306304",
+              "start": 19,
+              "url": "https://t.co/p9MK05Q8KJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051053630804099334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被东北🐶恶心到了\n我现在是曲婉婷附体 https://t.co/p9MK05Q8KJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 801,
+          "like_count": 37747,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 2653
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

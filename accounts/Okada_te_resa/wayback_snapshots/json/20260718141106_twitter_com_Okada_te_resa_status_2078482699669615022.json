@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078475387240407040"
+      ],
+      "media_source_tweet_id": [
+        "2078475396069413057"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2078482699669615022",
+    "created_at": "2026-07-18T14:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078482699669615022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "NIKKE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1073215503315783680",
+          "start": 3,
+          "username": "Yasal_170"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gdjukhna8k",
+          "end": 65,
+          "expanded_url": "https://x.com/Yasal_170/status/2078475396069413057/photo/1",
+          "media_key": "3_2078475387240407040",
+          "start": 42,
+          "url": "https://t.co/Gdjukhna8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078482699669615022",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078475396069413057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yasal_170: #NIKKE\n니케 밴드 라이브 진짜 미핀거갗ㅎ아 https://t.co/Gdjukhna8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078475387240407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg6WjrbYAAnJTN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078475387240407040"
+          ]
+        },
+        "author_id": "1073215503315783680",
+        "conversation_id": "2078475396069413057",
+        "created_at": "2026-07-18T13:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078475396069413057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gdjukhna8k",
+              "end": 50,
+              "expanded_url": "https://x.com/Yasal_170/status/2078475396069413057/photo/1",
+              "media_key": "3_2078475387240407040",
+              "start": 27,
+              "url": "https://t.co/Gdjukhna8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078475396069413057",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 9357,
+          "like_count": 597,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "#NIKKE\n니케 밴드 라이브 진짜 미핀거갗ㅎ아 https://t.co/Gdjukhna8k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078475387240407040"
+          ],
+          "media_source_tweet_id": [
+            "2078475396069413057"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2078482699669615022",
+        "created_at": "2026-07-18T14:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078482699669615022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "NIKKE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1073215503315783680",
+              "start": 3,
+              "username": "Yasal_170"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gdjukhna8k",
+              "end": 65,
+              "expanded_url": "https://x.com/Yasal_170/status/2078475396069413057/photo/1",
+              "media_key": "3_2078475387240407040",
+              "start": 42,
+              "url": "https://t.co/Gdjukhna8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078482699669615022",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078475396069413057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yasal_170: #NIKKE\n니케 밴드 라이브 진짜 미핀거갗ㅎ아 https://t.co/Gdjukhna8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 985,
+          "like_count": 43085,
+          "listed_count": 5,
+          "media_count": 721,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T13:58:10.000Z",
+        "description": "RZ Cos | RZ Heroes / Business : teamrz@naver.com / One and only Yasal's real account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yasal_170",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yasal_170",
+                "start": 0,
+                "url": "https://t.co/eJFm7QU5Fi"
+              }
+            ]
+          }
+        },
+        "id": "1073215503315783680",
+        "location": "weesuzana@naver.com",
+        "name": "야살 / Yasal",
+        "pinned_tweet_id": "2053397906124910750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932840115141029889/96jIZRqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907761,
+          "following_count": 597,
+          "like_count": 9102,
+          "listed_count": 2196,
+          "media_count": 1753,
+          "tweet_count": 17298
+        },
+        "url": "https://t.co/eJFm7QU5Fi",
+        "username": "Yasal_170",
+        "verified": true
+      }
+    ]
+  }
+}

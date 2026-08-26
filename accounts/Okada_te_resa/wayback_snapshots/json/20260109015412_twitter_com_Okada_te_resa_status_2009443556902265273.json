@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2009443556902265273",
+    "created_at": "2026-01-09T01:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T02:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009443556902265273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "451578976",
+          "start": 3,
+          "username": "tylertheuzivert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009443556902265273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002738269965230309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tylertheuzivert: 回归福利，转发本条推文并评论 抽2个小宝送1盒noopept，再抽5位包平邮，感谢宝宝们对我的支持与关心，转发50开奖😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2009443556902265273",
+        "created_at": "2026-01-09T01:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009443556902265273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "451578976",
+              "start": 3,
+              "username": "tylertheuzivert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009443556902265273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002738269965230309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tylertheuzivert: 回归福利，转发本条推文并评论 抽2个小宝送1盒noopept，再抽5位包平邮，感谢宝宝们对我的支持与关心，转发50开奖😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "451578976",
+        "conversation_id": "2002738269965230309",
+        "created_at": "2025-12-21T13:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002738269965230309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tylertheuziver…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/tylertheuzivert/status/2002736617103253770",
+              "start": 61,
+              "url": "https://t.co/36mLyPl4qZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002738269965230309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1545,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002736617103253770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回归福利，转发本条推文并评论 抽2个小宝送1盒noopept，再抽5位包平邮，感谢宝宝们对我的支持与关心，转发50开奖😘 https://t.co/36mLyPl4qZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 677,
+          "like_count": 28903,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 1707
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T18:16:39.000Z",
+        "description": "一个ADHDer……..大部分促智药都有，目前正常发货 私信回复不及时可联系Tg @tylertheuzivert TG药物频道https://t.co/z3VdoIPVmT 投诉快递一律不退不发货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "tylertheuzivert"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 87,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 64,
+                "url": "https://t.co/z3VdoIPVmT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 23,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 0,
+                "url": "https://t.co/z3VdoIPVmT"
+              }
+            ]
+          }
+        },
+        "id": "451578976",
+        "name": "Tyler促智/苯基吡拉西坦/Noopept/专注达",
+        "pinned_tweet_id": "2009317307928203353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977015448563785728/M-BtDaob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 83,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/z3VdoIPVmT",
+        "username": "tylertheuzivert",
+        "verified": false
+      }
+    ]
+  }
+}

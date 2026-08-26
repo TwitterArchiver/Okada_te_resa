@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995512379845791745"
+      ],
+      "media_source_tweet_id": [
+        "1995512391078199669"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1995669175315091706",
+    "created_at": "2025-12-02T01:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T02:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995669175315091706"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "リエラ生放送"
+        },
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "liella"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1549978285643223040",
+          "start": 3,
+          "username": "moben____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0i5XpwkxT3",
+          "end": 54,
+          "expanded_url": "https://x.com/moben____/status/1995512391078199669/photo/1",
+          "media_key": "3_1995512379845791745",
+          "start": 31,
+          "url": "https://t.co/0i5XpwkxT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995669175315091706",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995512391078199669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moben____: #リエラ生放送 #liella https://t.co/0i5XpwkxT3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995512379845791745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7F779GaUAEY9MA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995512379845791745"
+          ],
+          "media_source_tweet_id": [
+            "1995512391078199669"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1995669175315091706",
+        "created_at": "2025-12-02T01:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T02:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995669175315091706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "リエラ生放送"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "liella"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1549978285643223040",
+              "start": 3,
+              "username": "moben____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0i5XpwkxT3",
+              "end": 54,
+              "expanded_url": "https://x.com/moben____/status/1995512391078199669/photo/1",
+              "media_key": "3_1995512379845791745",
+              "start": 31,
+              "url": "https://t.co/0i5XpwkxT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995669175315091706",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995512391078199669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moben____: #リエラ生放送 #liella https://t.co/0i5XpwkxT3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995512379845791745"
+          ]
+        },
+        "author_id": "1549978285643223040",
+        "conversation_id": "1995512391078199669",
+        "created_at": "2025-12-01T15:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995512391078199669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "リエラ生放送"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "liella"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0i5XpwkxT3",
+              "end": 39,
+              "expanded_url": "https://x.com/moben____/status/1995512391078199669/photo/1",
+              "media_key": "3_1995512379845791745",
+              "start": 16,
+              "url": "https://t.co/0i5XpwkxT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995512391078199669",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 18704,
+          "like_count": 1016,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "#リエラ生放送 #liella https://t.co/0i5XpwkxT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 652,
+          "like_count": 26279,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 1522
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T04:43:25.000Z",
+        "description": "你好 🇨🇳大学生 推園田海未 薮島朱音\n🏹/⛵️/👏/🐾/⏰ \n我喜欢🐾🧪和やぶくま\n图自用随意 转载请标注",
+        "id": "1549978285643223040",
+        "name": "末本",
+        "pinned_tweet_id": "1945893790511952221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873361742098788352/A7Vb30tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 299,
+          "like_count": 2136,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 1452
+        },
+        "username": "moben____",
+        "verified": false
+      }
+    ]
+  }
+}

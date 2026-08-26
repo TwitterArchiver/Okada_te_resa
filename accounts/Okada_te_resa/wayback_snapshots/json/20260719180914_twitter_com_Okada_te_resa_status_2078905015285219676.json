@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078817196021850112"
+      ],
+      "media_source_tweet_id": [
+        "2078817214984327305"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2078905015285219676",
+    "created_at": "2026-07-19T18:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078905015285219676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476541324820385796",
+          "start": 3,
+          "username": "ayunochan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJMgSu80oU",
+          "end": 51,
+          "expanded_url": "https://x.com/ayunochan_/status/2078817214984327305/photo/1",
+          "media_key": "3_2078817196021850112",
+          "start": 28,
+          "url": "https://t.co/fJMgSu80oU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078905015285219676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078817214984327305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayunochan_: ｢今日も…キレイに💚｣ https://t.co/fJMgSu80oU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078817196021850112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlxOcnbIAAfguR.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078817196021850112"
+          ]
+        },
+        "author_id": "1476541324820385796",
+        "conversation_id": "2078817214984327305",
+        "created_at": "2026-07-19T12:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078817214984327305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJMgSu80oU",
+              "end": 35,
+              "expanded_url": "https://x.com/ayunochan_/status/2078817214984327305/photo/1",
+              "media_key": "3_2078817196021850112",
+              "start": 12,
+              "url": "https://t.co/fJMgSu80oU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078817214984327305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1857,
+          "impression_count": 92478,
+          "like_count": 10173,
+          "quote_count": 15,
+          "reply_count": 39,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "｢今日も…キレイに💚｣ https://t.co/fJMgSu80oU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078817196021850112"
+          ],
+          "media_source_tweet_id": [
+            "2078817214984327305"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2078905015285219676",
+        "created_at": "2026-07-19T18:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078905015285219676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476541324820385796",
+              "start": 3,
+              "username": "ayunochan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJMgSu80oU",
+              "end": 51,
+              "expanded_url": "https://x.com/ayunochan_/status/2078817214984327305/photo/1",
+              "media_key": "3_2078817196021850112",
+              "start": 28,
+              "url": "https://t.co/fJMgSu80oU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078905015285219676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078817214984327305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayunochan_: ｢今日も…キレイに💚｣ https://t.co/fJMgSu80oU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 985,
+          "like_count": 43201,
+          "listed_count": 5,
+          "media_count": 724,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:11:18.000Z",
+        "description": "猫と美少女フィギュアが好きな155cm cosplayer&グラビア🐈‍⬛ 【お仕事のご依頼はhttps://t.co/wCmDnKEkRl】FANBOX▷https://t.co/xFM8VQjieD #あゆのちゃんあのね",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "あゆのちゃんあのね"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gdl-entertainment.tokyo",
+                "end": 70,
+                "expanded_url": "http://gdl-entertainment.tokyo",
+                "start": 47,
+                "url": "https://t.co/wCmDnKEkRl"
+              },
+              {
+                "display_url": "ayunochan.fanbox.cc",
+                "end": 101,
+                "expanded_url": "https://ayunochan.fanbox.cc/",
+                "start": 78,
+                "url": "https://t.co/xFM8VQjieD"
+              }
+            ]
+          }
+        },
+        "id": "1476541324820385796",
+        "location": "🩵🐾",
+        "name": "あゆの",
+        "pinned_tweet_id": "2062855867939328368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997362863367995392/1EvRV2gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486625,
+          "following_count": 182,
+          "like_count": 10192,
+          "listed_count": 2151,
+          "media_count": 499,
+          "tweet_count": 8657
+        },
+        "url": "",
+        "username": "ayunochan_",
+        "verified": true
+      }
+    ]
+  }
+}

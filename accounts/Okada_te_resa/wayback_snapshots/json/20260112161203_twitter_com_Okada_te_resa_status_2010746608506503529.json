@@ -1,0 +1,594 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010620789977206784"
+      ],
+      "media_source_tweet_id": [
+        "2010621008923984159"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2010746608506503529",
+    "created_at": "2026-01-12T16:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010746608506503529"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 98,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 114,
+          "start": 106,
+          "tag": "ブシロード新春"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "857776931399319552",
+          "start": 3,
+          "username": "revuestarlight"
+        }
+      ],
+      "urls": [
+        {
+          "description": "スタァライトプロジェクト「完全新作アニメーション」に関する特報映像となります。プロジェクトの各種展開をお楽しみ頂きながら続報をお待ち下さい。■スタァライト公式サイト：http://revuestarlight.com■スタァライト公式X：https://twitter.com/revuestarlight#スタァ...",
+          "display_url": "youtu.be/7M6YUlbkA0E",
+          "end": 95,
+          "expanded_url": "https://youtu.be/7M6YUlbkA0E",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2010619993696940032/17r0Dsj3?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010619993696940032/17r0Dsj3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "【スタァライト プロジェクト】特報「いつかだれかにとどく■■■」",
+          "unwound_url": "https://www.youtube.com/watch?v=7M6YUlbkA0E&feature=youtu.be",
+          "url": "https://t.co/sUpuknrfo3"
+        },
+        {
+          "display_url": "pic.x.com/JAFokdG9eZ",
+          "end": 138,
+          "expanded_url": "https://x.com/revuestarlight/status/2010621008923984159/photo/1",
+          "media_key": "3_2010620789977206784",
+          "start": 115,
+          "url": "https://t.co/JAFokdG9eZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010746608506503529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17962
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010621008923984159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @revuestarlight: 【特報】\nスタァライトプロジェクト 完全新作アニメーション制作中\n制作：株式会社キネマシトラス\n\n特報➡https://t.co/sUpuknrfo3\n\n #スタァライト #ブシロード新春 https://t.co/JAFokdG9eZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2010620789977206784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-co9KybUAAENSL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010620789977206784"
+          ],
+          "media_source_tweet_id": [
+            "2010621008923984159"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2010746608506503529",
+        "created_at": "2026-01-12T16:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010746608506503529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 114,
+              "start": 106,
+              "tag": "ブシロード新春"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "857776931399319552",
+              "start": 3,
+              "username": "revuestarlight"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スタァライトプロジェクト「完全新作アニメーション」に関する特報映像となります。プロジェクトの各種展開をお楽しみ頂きながら続報をお待ち下さい。■スタァライト公式サイト：http://revuestarlight.com■スタァライト公式X：https://twitter.com/revuestarlight#スタァ...",
+              "display_url": "youtu.be/7M6YUlbkA0E",
+              "end": 95,
+              "expanded_url": "https://youtu.be/7M6YUlbkA0E",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2010619993696940032/17r0Dsj3?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010619993696940032/17r0Dsj3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "【スタァライト プロジェクト】特報「いつかだれかにとどく■■■」",
+              "unwound_url": "https://www.youtube.com/watch?v=7M6YUlbkA0E&feature=youtu.be",
+              "url": "https://t.co/sUpuknrfo3"
+            },
+            {
+              "display_url": "pic.x.com/JAFokdG9eZ",
+              "end": 138,
+              "expanded_url": "https://x.com/revuestarlight/status/2010621008923984159/photo/1",
+              "media_key": "3_2010620789977206784",
+              "start": 115,
+              "url": "https://t.co/JAFokdG9eZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010746608506503529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17962
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010621008923984159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @revuestarlight: 【特報】\nスタァライトプロジェクト 完全新作アニメーション制作中\n制作：株式会社キネマシトラス\n\n特報➡https://t.co/sUpuknrfo3\n\n #スタァライト #ブシロード新春 https://t.co/JAFokdG9eZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010620789977206784"
+          ]
+        },
+        "author_id": "857776931399319552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2010621008923984159",
+        "created_at": "2026-01-12T07:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010621008923984159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 94,
+              "start": 86,
+              "tag": "ブシロード新春"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スタァライトプロジェクト「完全新作アニメーション」に関する特報映像となります。プロジェクトの各種展開をお楽しみ頂きながら続報をお待ち下さい。■スタァライト公式サイト：http://revuestarlight.com■スタァライト公式X：https://twitter.com/revuestarlight#スタァ...",
+              "display_url": "youtu.be/7M6YUlbkA0E",
+              "end": 75,
+              "expanded_url": "https://youtu.be/7M6YUlbkA0E",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2010619993696940032/17r0Dsj3?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010619993696940032/17r0Dsj3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "【スタァライト プロジェクト】特報「いつかだれかにとどく■■■」",
+              "unwound_url": "https://www.youtube.com/watch?v=7M6YUlbkA0E&feature=youtu.be",
+              "url": "https://t.co/sUpuknrfo3"
+            },
+            {
+              "display_url": "pic.x.com/JAFokdG9eZ",
+              "end": 118,
+              "expanded_url": "https://x.com/revuestarlight/status/2010621008923984159/photo/1",
+              "media_key": "3_2010620789977206784",
+              "start": 95,
+              "url": "https://t.co/JAFokdG9eZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010621008923984159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1775,
+          "impression_count": 2039700,
+          "like_count": 26682,
+          "quote_count": 3108,
+          "reply_count": 156,
+          "retweet_count": 17962
+        },
+        "reply_settings": "everyone",
+        "text": "【特報】\nスタァライトプロジェクト 完全新作アニメーション制作中\n制作：株式会社キネマシトラス\n\n特報➡https://t.co/sUpuknrfo3\n\n #スタァライト #ブシロード新春 https://t.co/JAFokdG9eZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 680,
+          "like_count": 29191,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 1733
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-28T02:02:11.000Z",
+        "description": "コンソールゲーム「舞台奏像劇 遙かなるエルドラド」発売中🎮12月13日～14日スペシャルライブ\"Starry Horizon\"アーカイブ配信中🎤12月27日青嵐BabyBlue Blu-rayリリースイベント開催📀\n劇場版特設サイト https://t.co/VbAIwMDeXR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cinema.revuestarlight.com",
+                "end": 140,
+                "expanded_url": "http://cinema.revuestarlight.com",
+                "start": 117,
+                "url": "https://t.co/VbAIwMDeXR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "revuestarlight.com",
+                "end": 23,
+                "expanded_url": "http://revuestarlight.com",
+                "start": 0,
+                "url": "https://t.co/zwa9WlV0b4"
+              }
+            ]
+          }
+        },
+        "id": "857776931399319552",
+        "name": "少女☆歌劇 レヴュースタァライト",
+        "pinned_tweet_id": "2010621008923984159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343513465017622528/FwJkGBlj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169412,
+          "following_count": 116,
+          "like_count": 14,
+          "listed_count": 1617,
+          "media_count": 6077,
+          "tweet_count": 12487
+        },
+        "url": "https://t.co/zwa9WlV0b4",
+        "username": "revuestarlight",
+        "verified": true
+      }
+    ]
+  }
+}

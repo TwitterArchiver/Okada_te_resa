@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2044947236828877311",
+    "created_at": "2026-04-17T01:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T02:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044950625520370117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1167533670875435010",
+          "start": 0,
+          "username": "JayCheung1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044950625520370117",
+    "in_reply_to_user_id": "1167533670875435010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044948512748577169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayCheung1989 我是小男女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2044947236828877311",
+        "created_at": "2026-04-17T01:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044950625520370117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1167533670875435010",
+              "start": 0,
+              "username": "JayCheung1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044950625520370117",
+        "in_reply_to_user_id": "1167533670875435010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044948512748577169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayCheung1989 我是小男女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167533670875435010",
+        "conversation_id": "2044947236828877311",
+        "created_at": "2026-04-17T01:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044948512748577169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044948512748577169",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044947236828877311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 宝宝你是男娘吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 766,
+          "like_count": 36721,
+          "listed_count": 3,
+          "media_count": 462,
+          "tweet_count": 2483
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T20:25:02.000Z",
+        "description": "",
+        "id": "1167533670875435010",
+        "name": "阿特拉斯不换肩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915259521913569280/FKw3-bxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 625,
+          "like_count": 21781,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 6688
+        },
+        "username": "JayCheung1989",
+        "verified": false
+      }
+    ]
+  }
+}

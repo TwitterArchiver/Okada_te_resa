@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051620689959157760",
+        "3_2051620689975848960"
+      ],
+      "media_source_tweet_id": [
+        "2051620697651519581",
+        "2051620697651519581"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2051650767443120226",
+    "created_at": "2026-05-05T13:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051650767443120226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1610865989398462465",
+          "start": 3,
+          "username": "BeforeNoise0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8gzhXwwxIC",
+          "end": 77,
+          "expanded_url": "https://x.com/BeforeNoise0/status/2051620697651519581/photo/1",
+          "media_key": "3_2051620689959157760",
+          "start": 54,
+          "url": "https://t.co/8gzhXwwxIC"
+        },
+        {
+          "display_url": "pic.x.com/8gzhXwwxIC",
+          "end": 77,
+          "expanded_url": "https://x.com/BeforeNoise0/status/2051620697651519581/photo/1",
+          "media_key": "3_2051620689975848960",
+          "start": 54,
+          "url": "https://t.co/8gzhXwwxIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051650767443120226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051620697651519581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeforeNoise0: 许愿 🚬\n体脂下降5% 背肌饱满+3\n腹部脂肪-10% 手臂紧致+10 https://t.co/8gzhXwwxIC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051650767443120226].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051650767443120226",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051650767443120226"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051620689959157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjSJcbbgAATlkx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1876,
+        "media_key": "3_2051620689975848960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjSJcfaMAAOOke.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051620689959157760",
+            "3_2051620689975848960"
+          ]
+        },
+        "author_id": "1610865989398462465",
+        "conversation_id": "2051620697651519581",
+        "created_at": "2026-05-05T11:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051620697651519581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gzhXwwxIC",
+              "end": 59,
+              "expanded_url": "https://x.com/BeforeNoise0/status/2051620697651519581/photo/1",
+              "media_key": "3_2051620689959157760",
+              "start": 36,
+              "url": "https://t.co/8gzhXwwxIC"
+            },
+            {
+              "display_url": "pic.x.com/8gzhXwwxIC",
+              "end": 59,
+              "expanded_url": "https://x.com/BeforeNoise0/status/2051620697651519581/photo/1",
+              "media_key": "3_2051620689975848960",
+              "start": 36,
+              "url": "https://t.co/8gzhXwwxIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051620697651519581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "许愿 🚬\n体脂下降5% 背肌饱满+3\n腹部脂肪-10% 手臂紧致+10 https://t.co/8gzhXwwxIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 805,
+          "like_count": 37798,
+          "listed_count": 4,
+          "media_count": 526,
+          "tweet_count": 2660
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "entp/双子/一般人 \n目前喜好是互攻高壮男（会害羞惯着我的玩具",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051037732663611392/Qx_RzDGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 723,
+          "like_count": 9248,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 4214
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      }
+    ]
+  }
+}

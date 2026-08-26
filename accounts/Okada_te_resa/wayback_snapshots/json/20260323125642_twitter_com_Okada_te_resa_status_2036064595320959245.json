@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2036064595320959245",
+    "created_at": "2026-03-23T12:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036064595320959245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Saito_Shuka/st…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Saito_Shuka/status/2036033064917512667",
+          "start": 72,
+          "url": "https://t.co/IcweD7NxMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036064595320959245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036033064917512667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶卧槽我眼睛一下子瞪大了你知道吗宝宝宝宝宝宝宝宝宝宝宝宝宝宝宝好萌好萌好萌好萌好萌好萌好萌好萌好萌好萌好萌😭😭😭😭😭🥺🥺❤️❤️❤️🥰🥰😘😘🤯 https://t.co/IcweD7NxMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036033050333884417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFxRZwbMAE6lHM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2036064595320959245",
+        "created_at": "2026-03-23T12:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036064595320959245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Saito_Shuka/st…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Saito_Shuka/status/2036033064917512667",
+              "start": 72,
+              "url": "https://t.co/IcweD7NxMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036064595320959245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036033064917512667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶卧槽我眼睛一下子瞪大了你知道吗宝宝宝宝宝宝宝宝宝宝宝宝宝宝宝好萌好萌好萌好萌好萌好萌好萌好萌好萌好萌好萌😭😭😭😭😭🥺🥺❤️❤️❤️🥰🥰😘😘🤯 https://t.co/IcweD7NxMu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036033050333884417"
+          ]
+        },
+        "author_id": "3801397033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2036033064917512667",
+        "created_at": "2026-03-23T10:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036033064917512667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLWKgKJIaS",
+              "end": 25,
+              "expanded_url": "https://x.com/Saito_Shuka/status/2036033064917512667/photo/1",
+              "media_key": "3_2036033050333884417",
+              "start": 2,
+              "url": "https://t.co/pLWKgKJIaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036033064917512667",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 60066,
+          "like_count": 4803,
+          "quote_count": 86,
+          "reply_count": 135,
+          "retweet_count": 878
+        },
+        "reply_settings": "everyone",
+        "text": "👓 https://t.co/pLWKgKJIaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 735,
+          "like_count": 35392,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 2248
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T08:36:22.000Z",
+        "description": "斉藤朱夏 公式！声優/アーティスト◎！。#lovelive #Aqours 渡辺曜/ #俺好き サザンカ/ #ワンエグ 川井リカ/ #明日ちゃんのセーラー服 福元幹 /#草食ドラゴン 水の聖女 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "lovelive"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aqours"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "俺好き"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "ワンエグ"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "明日ちゃんのセーラー服"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "草食ドラゴン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atashi-shuka.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://atashi-shuka.bitfan.id",
+                "start": 0,
+                "url": "https://t.co/g9g3Xbx0Wj"
+              }
+            ]
+          }
+        },
+        "id": "3801397033",
+        "location": "あたしの推しはファンの子達。",
+        "name": "斉藤 朱夏",
+        "pinned_tweet_id": "2014501571439296925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028418221431484417/kUXtra_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369594,
+          "following_count": 459,
+          "like_count": 7207,
+          "listed_count": 8428,
+          "media_count": 2219,
+          "tweet_count": 11090
+        },
+        "url": "https://t.co/g9g3Xbx0Wj",
+        "username": "Saito_Shuka",
+        "verified": true
+      }
+    ]
+  }
+}

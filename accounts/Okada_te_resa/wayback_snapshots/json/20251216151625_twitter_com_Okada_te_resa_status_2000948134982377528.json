@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2000883921857458339",
+    "created_at": "2025-12-16T15:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000948134982377528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929142623769378816",
+          "start": 0,
+          "username": "JayGreen5638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000948134982377528",
+    "in_reply_to_user_id": "1929142623769378816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000947404154265649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayGreen5638 冲上去骂他他就怕了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2000883921857458339",
+        "created_at": "2025-12-16T15:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000948134982377528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929142623769378816",
+              "start": 0,
+              "username": "JayGreen5638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000948134982377528",
+        "in_reply_to_user_id": "1929142623769378816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000947404154265649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayGreen5638 冲上去骂他他就怕了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929142623769378816",
+        "conversation_id": "2000883921857458339",
+        "created_at": "2025-12-16T15:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000947404154265649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000947404154265649",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000883921857458339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 我一直不明白为什么 很多人受欺负了是选择跪下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 654,
+          "like_count": 27312,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1620
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T11:47:08.000Z",
+        "description": "",
+        "id": "1929142623769378816",
+        "name": "JayGreen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997684219359985665/6L3YnsJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 44,
+          "like_count": 389,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 963
+        },
+        "username": "JayGreen5638",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2033883978214867364",
+    "created_at": "2026-03-17T13:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033897597371556335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033897597371556335",
+    "in_reply_to_user_id": "1498893713178644482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033893505865814234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParanQidAndrQid 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2033883978214867364",
+        "created_at": "2026-03-17T13:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033897597371556335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033897597371556335",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033893505865814234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParanQidAndrQid 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498893713178644482",
+        "conversation_id": "2033883978214867364",
+        "created_at": "2026-03-17T13:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033893505865814234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033893505865814234",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033883978214867364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 可以来抱我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 727,
+          "like_count": 34985,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 2162
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 ｜ 抒澄/Cassie ｜ She/They ｜ Aro-Ace",
+        "id": "1498893713178644482",
+        "location": "在你背后！",
+        "name": "呆頭鵝Cassie🍭",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949882996213088256/kBnA9xb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 533,
+          "like_count": 26750,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 5273
+        },
+        "username": "ParanQidAndrQid",
+        "verified": false
+      }
+    ]
+  }
+}

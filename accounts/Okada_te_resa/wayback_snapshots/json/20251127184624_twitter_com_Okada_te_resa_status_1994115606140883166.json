@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1935987834600534017"
+      ],
+      "media_source_tweet_id": [
+        "1935987856482226452"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1994115606140883166",
+    "created_at": "2025-11-27T18:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994115606140883166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "816250250511777792",
+          "start": 3,
+          "username": "_fufu77_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpkMifBVdy",
+          "end": 44,
+          "expanded_url": "https://x.com/Dailyloveeposts/status/1935987856482226452/photo/1",
+          "media_key": "16_1935987834600534017",
+          "start": 21,
+          "url": "https://t.co/FpkMifBVdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994115606140883166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993600266499948879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_fufu77_: 好想急一個\n https://t.co/FpkMifBVdy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "16_1935987834600534017",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gt4CraLXsAEw515.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gt4CraLXsAEw515.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1935987834600534017"
+          ],
+          "media_source_tweet_id": [
+            "1935987856482226452"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1994115606140883166",
+        "created_at": "2025-11-27T18:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994115606140883166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "816250250511777792",
+              "start": 3,
+              "username": "_fufu77_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpkMifBVdy",
+              "end": 44,
+              "expanded_url": "https://x.com/Dailyloveeposts/status/1935987856482226452/photo/1",
+              "media_key": "16_1935987834600534017",
+              "start": 21,
+              "url": "https://t.co/FpkMifBVdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994115606140883166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993600266499948879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_fufu77_: 好想急一個\n https://t.co/FpkMifBVdy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1935987834600534017"
+          ],
+          "media_source_tweet_id": [
+            "1935987856482226452"
+          ]
+        },
+        "author_id": "816250250511777792",
+        "conversation_id": "1993600266499948879",
+        "created_at": "2025-11-26T08:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993600266499948879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpkMifBVdy",
+              "end": 30,
+              "expanded_url": "https://x.com/Dailyloveeposts/status/1935987856482226452/photo/1",
+              "media_key": "16_1935987834600534017",
+              "start": 7,
+              "url": "https://t.co/FpkMifBVdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993600266499948879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 175560,
+          "like_count": 1100,
+          "quote_count": 13,
+          "reply_count": 16,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "好想急一個\n https://t.co/FpkMifBVdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 651,
+          "like_count": 25874,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1482
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-03T11:49:59.000Z",
+        "description": "不在",
+        "id": "816250250511777792",
+        "location": "New Taipei City, Taiwan",
+        "name": "失眠數羊🐑",
+        "pinned_tweet_id": "1664553537672732672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912867500280479744/ahkss4Jt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 41,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "_fufu77_",
+        "verified": false
+      }
+    ]
+  }
+}

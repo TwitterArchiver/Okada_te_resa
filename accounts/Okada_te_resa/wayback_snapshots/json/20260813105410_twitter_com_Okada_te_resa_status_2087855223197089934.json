@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087828620584812544",
+        "3_2087828352589832192"
+      ],
+      "media_source_tweet_id": [
+        "2087828927972798543",
+        "2087828927972798543"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2087855223197089934",
+    "created_at": "2026-08-13T10:54:10.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087855223197089934"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 83,
+          "tag": "あいすをあいす"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1446066966",
+          "start": 3,
+          "username": "s2__x_s2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjtFGJzxKh",
+          "end": 115,
+          "expanded_url": "https://x.com/s2__x_s2/status/2087828927972798543/video/1",
+          "media_key": "13_2087828620584812544",
+          "start": 92,
+          "url": "https://t.co/KjtFGJzxKh"
+        },
+        {
+          "display_url": "pic.x.com/KjtFGJzxKh",
+          "end": 115,
+          "expanded_url": "https://x.com/s2__x_s2/status/2087828927972798543/video/1",
+          "media_key": "3_2087828352589832192",
+          "start": 92,
+          "url": "https://t.co/KjtFGJzxKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087855223197089934",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087828620584812544"
+      },
+      {
+        "media_key": "3_2087828352589832192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087828927972798543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s2__x_s2: あいすちゃんの投稿あいらいふぁーさんに届いてよかった🤍⟡.·\nとっても可愛かったこちらも共有させていただきますჱ̒ˆT ˙̫ Tˆ👌🏻💞\n#あいすをあいす https://t.co/KjtFGJzxKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11448,
+        "height": 3840,
+        "media_key": "13_2087828620584812544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087828620584812544/img/JgPH-AX1rqFZtkoP.jpg",
+        "public_metrics": {
+          "view_count": 7835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087828620584812544/vid/avc1/2160x3840/WxGO12Xhpt4-IdGK.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087828620584812544/vid/avc1/320x568/Xvf77V-o7QIdHgvj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087828620584812544/vid/avc1/720x1280/jkwm47RcaDkUzcEl.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087828620584812544/vid/avc1/1080x1920/CzOPa_X5BEYJYVq2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087828620584812544/pl/RwzvJLSi6KqsFAip.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087828620584812544/vid/avc1/480x852/oC5Y5R0zbpeJxGVt.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 1970,
+        "media_key": "3_2087828352589832192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl00ywbIAA6uGi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087828620584812544",
+            "3_2087828352589832192"
+          ]
+        },
+        "author_id": "1446066966",
+        "conversation_id": "2087828927972798543",
+        "created_at": "2026-08-13T09:09:41.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087828927972798543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "あいすをあいす"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjtFGJzxKh",
+              "end": 101,
+              "expanded_url": "https://x.com/s2__x_s2/status/2087828927972798543/video/1",
+              "media_key": "13_2087828620584812544",
+              "start": 78,
+              "url": "https://t.co/KjtFGJzxKh"
+            },
+            {
+              "display_url": "pic.x.com/KjtFGJzxKh",
+              "end": 101,
+              "expanded_url": "https://x.com/s2__x_s2/status/2087828927972798543/video/1",
+              "media_key": "3_2087828352589832192",
+              "start": 78,
+              "url": "https://t.co/KjtFGJzxKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087828927972798543",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087828620584812544"
+          },
+          {
+            "media_key": "3_2087828352589832192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 25528,
+          "like_count": 812,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "あいすちゃんの投稿あいらいふぁーさんに届いてよかった🤍⟡.·\nとっても可愛かったこちらも共有させていただきますჱ̒ˆT ˙̫ Tˆ👌🏻💞\n#あいすをあいす https://t.co/KjtFGJzxKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087828620584812544",
+            "3_2087828352589832192"
+          ],
+          "media_source_tweet_id": [
+            "2087828927972798543",
+            "2087828927972798543"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2087855223197089934",
+        "created_at": "2026-08-13T10:54:10.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087855223197089934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "あいすをあいす"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1446066966",
+              "start": 3,
+              "username": "s2__x_s2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjtFGJzxKh",
+              "end": 115,
+              "expanded_url": "https://x.com/s2__x_s2/status/2087828927972798543/video/1",
+              "media_key": "13_2087828620584812544",
+              "start": 92,
+              "url": "https://t.co/KjtFGJzxKh"
+            },
+            {
+              "display_url": "pic.x.com/KjtFGJzxKh",
+              "end": 115,
+              "expanded_url": "https://x.com/s2__x_s2/status/2087828927972798543/video/1",
+              "media_key": "3_2087828352589832192",
+              "start": 92,
+              "url": "https://t.co/KjtFGJzxKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087855223197089934",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087828620584812544"
+          },
+          {
+            "media_key": "3_2087828352589832192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087828927972798543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s2__x_s2: あいすちゃんの投稿あいらいふぁーさんに届いてよかった🤍⟡.·\nとっても可愛かったこちらも共有させていただきますჱ̒ˆT ˙̫ Tˆ👌🏻💞\n#あいすをあいす https://t.co/KjtFGJzxKh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2087855223197089934",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 1014,
+          "like_count": 45063,
+          "listed_count": 5,
+          "media_count": 753,
+          "tweet_count": 3463
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-21T11:15:00.000Z",
+        "description": "#てんしの輪 🪽⟡.·",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "てんしの輪"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/s2__x_s2?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/s2__x_s2?igsh=bjZvb3Bxd2ZocWp5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Zo8AjVIFCI"
+              }
+            ]
+          }
+        },
+        "id": "1446066966",
+        "is_identity_verified": false,
+        "location": "カワイイを記録✨️📷💭💕💕",
+        "most_recent_tweet_id": "2087841224476758504",
+        "name": "𝚁.⋆𝜗𝜚.†⋆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446066966/1784976737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846443039897886720/CResLYzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 82,
+          "like_count": 24540,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1442
+        },
+        "url": "https://t.co/Zo8AjVIFCI",
+        "username": "s2__x_s2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

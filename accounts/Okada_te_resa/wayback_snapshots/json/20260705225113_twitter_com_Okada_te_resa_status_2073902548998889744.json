@@ -1,0 +1,1214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073812399577059328"
+      ],
+      "media_source_tweet_id": [
+        "2073812713273163895"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Coverage of the Formula 1 racing action.",
+          "id": "10027483505",
+          "name": "Live: Formula 1 Motor Racing"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Racing",
+          "id": "1058103880376971264",
+          "name": "Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": "Scuderia Ferrari",
+          "id": "854706572252987392",
+          "name": "Scuderia Ferrari HP"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Auto racing",
+          "id": "847900599387430912",
+          "name": "Auto racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Scuderia Ferrari",
+          "id": "854706572252987392",
+          "name": "Scuderia Ferrari HP"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408917095550976",
+          "name": "Formula 1 teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1497266565669998594",
+          "name": "Open-wheel racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509530211146088466",
+          "name": "Motorsport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516426469680955392",
+          "name": "British Grand Prix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524349601792241664",
+          "name": "Formula 1 Grand Prix"
+        }
+      }
+    ],
+    "conversation_id": "2073902548998889744",
+    "created_at": "2026-07-05T22:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073902548998889744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "108247668",
+          "start": 3,
+          "username": "ScuderiaFerrari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/830Cr2zgCD",
+          "end": 91,
+          "expanded_url": "https://x.com/ScuderiaFerrari/status/2073812713273163895/photo/1",
+          "media_key": "3_2073812399577059328",
+          "start": 68,
+          "url": "https://t.co/830Cr2zgCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073902548998889744",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1743
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073812713273163895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScuderiaFerrari: A landmark victory at the British Grand Prix 👏 https://t.co/830Cr2zgCD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2073812399577059328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMepY8-XUAATMsK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073812399577059328"
+          ],
+          "media_source_tweet_id": [
+            "2073812713273163895"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage of the Formula 1 racing action.",
+              "id": "10027483505",
+              "name": "Live: Formula 1 Motor Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "description": "Scuderia Ferrari",
+              "id": "854706572252987392",
+              "name": "Scuderia Ferrari HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scuderia Ferrari",
+              "id": "854706572252987392",
+              "name": "Scuderia Ferrari HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408917095550976",
+              "name": "Formula 1 teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516426469680955392",
+              "name": "British Grand Prix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524349601792241664",
+              "name": "Formula 1 Grand Prix"
+            }
+          }
+        ],
+        "conversation_id": "2073902548998889744",
+        "created_at": "2026-07-05T22:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073902548998889744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "108247668",
+              "start": 3,
+              "username": "ScuderiaFerrari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/830Cr2zgCD",
+              "end": 91,
+              "expanded_url": "https://x.com/ScuderiaFerrari/status/2073812713273163895/photo/1",
+              "media_key": "3_2073812399577059328",
+              "start": 68,
+              "url": "https://t.co/830Cr2zgCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073902548998889744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1743
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073812713273163895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScuderiaFerrari: A landmark victory at the British Grand Prix 👏 https://t.co/830Cr2zgCD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073812399577059328"
+          ]
+        },
+        "author_id": "108247668",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "description": "Scuderia Ferrari",
+              "id": "854706572252987392",
+              "name": "Scuderia Ferrari HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scuderia Ferrari",
+              "id": "854706572252987392",
+              "name": "Scuderia Ferrari HP"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408917095550976",
+              "name": "Formula 1 teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516426469680955392",
+              "name": "British Grand Prix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524349601792241664",
+              "name": "Formula 1 Grand Prix"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          }
+        ],
+        "conversation_id": "2073812713273163895",
+        "created_at": "2026-07-05T16:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073812713273163895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/830Cr2zgCD",
+              "end": 70,
+              "expanded_url": "https://x.com/ScuderiaFerrari/status/2073812713273163895/photo/1",
+              "media_key": "3_2073812399577059328",
+              "start": 47,
+              "url": "https://t.co/830Cr2zgCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073812713273163895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 149827,
+          "like_count": 15064,
+          "quote_count": 78,
+          "reply_count": 109,
+          "retweet_count": 1743
+        },
+        "reply_settings": "everyone",
+        "text": "A landmark victory at the British Grand Prix 👏 https://t.co/830Cr2zgCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 957,
+          "like_count": 41908,
+          "listed_count": 5,
+          "media_count": 699,
+          "tweet_count": 3246
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-25T09:43:14.000Z",
+        "description": "The official home of the Tifosi. 🇮🇹 🏆 16x Constructors’ Champions 🏆 15x Drivers’ Champions",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ferrarif1.com",
+                "end": 23,
+                "expanded_url": "http://www.ferrarif1.com",
+                "start": 0,
+                "url": "https://t.co/wKDr68e6Qk"
+              }
+            ]
+          }
+        },
+        "id": "108247668",
+        "location": "Maranello - Italy",
+        "name": "Scuderia Ferrari HP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/947659786555940865/P5eYYYIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755703,
+          "following_count": 78,
+          "like_count": 6719,
+          "listed_count": 41808,
+          "media_count": 34777,
+          "tweet_count": 84448
+        },
+        "url": "https://t.co/wKDr68e6Qk",
+        "username": "ScuderiaFerrari",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076728153624687044",
+    "created_at": "2026-07-13T17:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076728153624687044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/watoson_killer…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/watoson_killer/status/2076577285814255622",
+          "start": 9,
+          "url": "https://t.co/szJmVbBne9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076728153624687044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076577285814255622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁把我拍下来了😂 https://t.co/szJmVbBne9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21478,
+        "height": 788,
+        "media_key": "7_2076574084167761920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076574084167761920/pu/img/ckEyQHvIfx4IGtML.jpg",
+        "public_metrics": {
+          "view_count": 485387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076574084167761920/pu/vid/avc1/320x436/466J43Q08P64Ca6o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076574084167761920/pu/vid/avc1/480x656/KJ3lNmMd4hZuG1Lt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076574084167761920/pu/vid/avc1/576x788/Y4avqhfSKAfFYs3a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076574084167761920/pu/pl/aHLj-Q1FcRXztxun.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076728153624687044",
+        "created_at": "2026-07-13T17:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076728153624687044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/watoson_killer…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/watoson_killer/status/2076577285814255622",
+              "start": 9,
+              "url": "https://t.co/szJmVbBne9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076728153624687044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076577285814255622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁把我拍下来了😂 https://t.co/szJmVbBne9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076574084167761920"
+          ]
+        },
+        "author_id": "1593909946571071488",
+        "conversation_id": "2076577285814255622",
+        "created_at": "2026-07-13T07:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:47:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076574103239327977",
+          "2076577285814255622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVXSPo7Nbu",
+              "end": 46,
+              "expanded_url": "https://x.com/watoson_killer/status/2076577285814255622/video/1",
+              "media_key": "7_2076574084167761920",
+              "start": 23,
+              "url": "https://t.co/TVXSPo7Nbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076577285814255622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1899,
+          "impression_count": 1405619,
+          "like_count": 8137,
+          "quote_count": 709,
+          "reply_count": 256,
+          "retweet_count": 1021
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】\nオタク、授業中にコールしてしまう… https://t.co/TVXSPo7Nbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 972,
+          "like_count": 42721,
+          "listed_count": 5,
+          "media_count": 711,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T10:12:07.000Z",
+        "description": "アニメ・漫画・その他面白ツイートを配信中！釣り、猫好きです♪フォローすると毎日面白いネタが見れます♪フォロバ基本100％です！/推し様@Aikyan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "Aikyan_"
+              }
+            ]
+          }
+        },
+        "id": "1593909946571071488",
+        "name": "👿ヘドロ👿@面白ツイート",
+        "pinned_tweet_id": "2041747236825206855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069687404034760704/HFr9BsYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4933,
+          "following_count": 5476,
+          "like_count": 3941,
+          "listed_count": 18,
+          "media_count": 1104,
+          "tweet_count": 2613
+        },
+        "url": "",
+        "username": "watoson_killer",
+        "verified": true
+      }
+    ]
+  }
+}

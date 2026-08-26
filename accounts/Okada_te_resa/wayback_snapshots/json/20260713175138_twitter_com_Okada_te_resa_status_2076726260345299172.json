@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076689667441971371",
+    "created_at": "2026-07-13T17:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076726260345299172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076726260345299172",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076689667441971371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 ylg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076689667441971371",
+        "created_at": "2026-07-13T17:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076726260345299172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076726260345299172",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076689667441971371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 ylg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2076689667441971371",
+        "created_at": "2026-07-13T15:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076689667441971371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/666666666ZT/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/666666666ZT/status/2076612959242158463",
+              "start": 12,
+              "url": "https://t.co/AlDerG21Pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076689667441971371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076612959242158463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼，真有MTF警哥啊 https://t.co/AlDerG21Pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 972,
+          "like_count": 42716,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 3306
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 156,
+          "like_count": 3526,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

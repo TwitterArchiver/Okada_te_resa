@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kim Kardashian",
+          "id": "806570121959383040",
+          "name": "Kim Kardashian"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "Kim Kardashian",
+          "id": "806570121959383040",
+          "name": "Kim Kardashian"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kim Kardashian",
+          "id": "806570121959383040",
+          "name": "Kim Kardashian"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Celebrities",
+          "id": "1095352268046495745",
+          "name": "Celebrities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715167440527360",
+          "name": "Famous families"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303718958520889345",
+          "name": "Kardashian-Jenner"
+        }
+      }
+    ],
+    "conversation_id": "2063458600690082033",
+    "created_at": "2026-06-07T03:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063458600690082033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903597256701579264",
+          "start": 3,
+          "username": "FerrariF1BR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063458600690082033",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063275615684346335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FerrariF1BR: isso tudo é culpa da kim kardashian, ontem ela nao tava e o carro tava bom"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kim Kardashian",
+              "id": "806570121959383040",
+              "name": "Kim Kardashian"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Kim Kardashian",
+              "id": "806570121959383040",
+              "name": "Kim Kardashian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kim Kardashian",
+              "id": "806570121959383040",
+              "name": "Kim Kardashian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715167440527360",
+              "name": "Famous families"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303718958520889345",
+              "name": "Kardashian-Jenner"
+            }
+          }
+        ],
+        "conversation_id": "2063458600690082033",
+        "created_at": "2026-06-07T03:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063458600690082033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903597256701579264",
+              "start": 3,
+              "username": "FerrariF1BR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063458600690082033",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063275615684346335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FerrariF1BR: isso tudo é culpa da kim kardashian, ontem ela nao tava e o carro tava bom"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903597256701579264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kim Kardashian",
+              "id": "806570121959383040",
+              "name": "Kim Kardashian"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Kim Kardashian",
+              "id": "806570121959383040",
+              "name": "Kim Kardashian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kim Kardashian",
+              "id": "806570121959383040",
+              "name": "Kim Kardashian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715167440527360",
+              "name": "Famous families"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303718958520889345",
+              "name": "Kardashian-Jenner"
+            }
+          }
+        ],
+        "conversation_id": "2063275615684346335",
+        "created_at": "2026-06-06T15:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063275615684346335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063275615684346335",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 26306,
+          "like_count": 1516,
+          "quote_count": 33,
+          "reply_count": 16,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "isso tudo é culpa da kim kardashian, ontem ela nao tava e o carro tava bom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 898,
+          "like_count": 39988,
+          "listed_count": 4,
+          "media_count": 630,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T23:58:57.000Z",
+        "description": "15x Campeões de Pilotos | 16x Campeões de Construtores | Conta não oficial | Not affiliated with Ferrari |\nFalando sobre a vermelhinha e o que mais der vontade.",
+        "id": "1903597256701579264",
+        "name": "Scuderia Ferrari BR",
+        "pinned_tweet_id": "2061281591964410218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941126707659862016/VLGs2ZBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23736,
+          "following_count": 783,
+          "like_count": 2192,
+          "listed_count": 75,
+          "media_count": 2315,
+          "tweet_count": 9008
+        },
+        "username": "FerrariF1BR",
+        "verified": true
+      }
+    ]
+  }
+}

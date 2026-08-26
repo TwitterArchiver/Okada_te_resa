@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1947707192410575225",
+    "created_at": "2025-07-22T17:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947707192410575225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815968553931268099",
+          "start": 3,
+          "username": "Nogenki_offic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947707192410575225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947597875531419725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nogenki_offic: 7月27日-8月11日 1st anniversiry記念\nキャンペーン第一弾:\n合計6,000-1,2000円のお買い上げの方にオリジナルのスマホショルダーチェンをプレゼント🎁\n普段使いにぴったりの可愛いデザインで、デザイナー自ら手がけた…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21633,
+        "height": 1920,
+        "media_key": "13_1947597585730179072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947597585730179072/img/wwc_pCGk1aPl3cz6.jpg",
+        "public_metrics": {
+          "view_count": 1388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947597585730179072/vid/avc1/1080x1920/B-vsd48SSH9SDqAQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947597585730179072/vid/avc1/480x852/UtjrMV0TkG6QYyB7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947597585730179072/vid/avc1/320x568/1ihxbTgupUWKyt-5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947597585730179072/vid/avc1/720x1280/2OIM0sn1BpC7NOVK.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947597585730179072/pl/CZ2Ijyhyk5Dt11Tj.m3u8?tag=16&v=6ec"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1947707192410575225",
+        "created_at": "2025-07-22T17:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947707192410575225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815968553931268099",
+              "start": 3,
+              "username": "Nogenki_offic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947707192410575225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947597875531419725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nogenki_offic: 7月27日-8月11日 1st anniversiry記念\nキャンペーン第一弾:\n合計6,000-1,2000円のお買い上げの方にオリジナルのスマホショルダーチェンをプレゼント🎁\n普段使いにぴったりの可愛いデザインで、デザイナー自ら手がけた…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947597585730179072"
+          ]
+        },
+        "author_id": "1815968553931268099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "1947597875531419725",
+        "created_at": "2025-07-22T10:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947597875531419725"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 146,
+              "tag": "NoGenki"
+            },
+            {
+              "end": 162,
+              "start": 155,
+              "tag": "サブカル地雷"
+            },
+            {
+              "end": 167,
+              "start": 163,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqZqjmqpgP",
+              "end": 191,
+              "expanded_url": "https://x.com/Nogenki_offic/status/1947597875531419725/video/1",
+              "media_key": "13_1947597585730179072",
+              "start": 168,
+              "url": "https://t.co/OqZqjmqpgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947597875531419725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 5219,
+          "like_count": 163,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "7月27日-8月11日 1st anniversiry記念\nキャンペーン第一弾:\n合計6,000-1,2000円のお買い上げの方にオリジナルのスマホショルダーチェンをプレゼント🎁\n普段使いにぴったりの可愛いデザインで、デザイナー自ら手がけた一点です💖\n(1,2000以上はバッグも選択肢)\n\n#NoGenki #サブカル地雷 #地雷系 https://t.co/OqZqjmqpgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 433,
+          "like_count": 17885,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 876
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T04:33:50.000Z",
+        "description": "🖤地雷系・量産型ブランド🖤 大人かわいいブランド:(デビュー準備中) @bunnylis_offic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "bunnylis_offic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nogenki.com",
+                "end": 23,
+                "expanded_url": "http://nogenki.com",
+                "start": 0,
+                "url": "https://t.co/TFEDW0yN89"
+              }
+            ]
+          }
+        },
+        "id": "1815968553931268099",
+        "name": "NoGenki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815968689856077826/YBI3ba_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4197,
+          "following_count": 51,
+          "like_count": 36,
+          "listed_count": 31,
+          "media_count": 186,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/TFEDW0yN89",
+        "username": "Nogenki_offic",
+        "verified": true
+      }
+    ]
+  }
+}

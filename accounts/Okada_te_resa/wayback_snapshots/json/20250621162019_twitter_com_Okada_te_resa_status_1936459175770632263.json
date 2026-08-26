@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936422365187145904",
+    "created_at": "2025-06-21T16:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T17:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936459175770632263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        },
+        {
+          "end": 19,
+          "id": "1292795033272213510",
+          "start": 10,
+          "username": "xuaning2"
+        },
+        {
+          "end": 46,
+          "id": "1767107094313160704",
+          "start": 32,
+          "username": "Okada_te_resa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936459175770632263",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936430128420319238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 @xuaning2 💝约过的很骚的妹妹就是她@Okada_te_resa，第一次约就约到了😛我都没想到X上居然还能约到身材这么极品的妹妹🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936422365187145904",
+        "created_at": "2025-06-21T16:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T17:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936459175770632263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            },
+            {
+              "end": 19,
+              "id": "1292795033272213510",
+              "start": 10,
+              "username": "xuaning2"
+            },
+            {
+              "end": 46,
+              "id": "1767107094313160704",
+              "start": 32,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936459175770632263",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936430128420319238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 @xuaning2 💝约过的很骚的妹妹就是她@Okada_te_resa，第一次约就约到了😛我都没想到X上居然还能约到身材这么极品的妹妹🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "conversation_id": "1936422365187145904",
+        "created_at": "2025-06-21T14:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T15:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936430128420319238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            },
+            {
+              "end": 24,
+              "id": "1292795033272213510",
+              "start": 15,
+              "username": "xuaning2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936430128420319238",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936429924589715785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa @xuaning2 来🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 331,
+          "like_count": 15191,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 670
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 门槛80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "jiangshi1121"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930435608746569730/RgFfuLcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19797,
+          "following_count": 1071,
+          "like_count": 16871,
+          "listed_count": 54,
+          "media_count": 693,
+          "tweet_count": 9322
+        },
+        "username": "akui1121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T12:08:55.000Z",
+        "description": "纯情小药娘遇到奇葩之-中南海特工道士的老公和明知对方结婚知三当三的老婆。\n170/50超级大黑皮药娘一枚，无证含糖hrt（2025.2.22开始），高p的可爱小狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/malaxiaozi",
+                "end": 23,
+                "expanded_url": "http://t.me/malaxiaozi",
+                "start": 0,
+                "url": "https://t.co/BtW1jVJz72"
+              }
+            ]
+          }
+        },
+        "id": "1292795033272213510",
+        "location": "🚪52  请我喝奶茶",
+        "name": "小蜘xiaozi",
+        "pinned_tweet_id": "1927626699862102288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915789412212051968/Qb4e7bVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9440,
+          "following_count": 689,
+          "like_count": 4135,
+          "listed_count": 41,
+          "media_count": 160,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/BtW1jVJz72",
+        "username": "xuaning2",
+        "verified": false
+      }
+    ]
+  }
+}

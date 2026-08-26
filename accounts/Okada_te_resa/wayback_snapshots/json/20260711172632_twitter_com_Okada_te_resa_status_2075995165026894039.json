@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075946660384120832"
+      ],
+      "media_source_tweet_id": [
+        "2075946674367979843"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2075995165026894039",
+    "created_at": "2026-07-11T17:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075995165026894039"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "田山さん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815416264770428928",
+          "start": 3,
+          "username": "Etsuko827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hCQ8dqXdnm",
+          "end": 44,
+          "expanded_url": "https://x.com/Etsuko827/status/2075946674367979843/photo/1",
+          "media_key": "3_2075946660384120832",
+          "start": 21,
+          "url": "https://t.co/hCQ8dqXdnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075995165026894039",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075946674367979843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Etsuko827: #田山さん https://t.co/hCQ8dqXdnm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2075946660384120832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8-fSDaoAANqvt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075946660384120832"
+          ],
+          "media_source_tweet_id": [
+            "2075946674367979843"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2075995165026894039",
+        "created_at": "2026-07-11T17:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075995165026894039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "田山さん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815416264770428928",
+              "start": 3,
+              "username": "Etsuko827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCQ8dqXdnm",
+              "end": 44,
+              "expanded_url": "https://x.com/Etsuko827/status/2075946674367979843/photo/1",
+              "media_key": "3_2075946660384120832",
+              "start": 21,
+              "url": "https://t.co/hCQ8dqXdnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075995165026894039",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075946674367979843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Etsuko827: #田山さん https://t.co/hCQ8dqXdnm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075946660384120832"
+          ]
+        },
+        "author_id": "1815416264770428928",
+        "conversation_id": "2075946674367979843",
+        "created_at": "2026-07-11T14:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075946674367979843"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "田山さん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCQ8dqXdnm",
+              "end": 29,
+              "expanded_url": "https://x.com/Etsuko827/status/2075946674367979843/photo/1",
+              "media_key": "3_2075946660384120832",
+              "start": 6,
+              "url": "https://t.co/hCQ8dqXdnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075946674367979843",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 7464,
+          "like_count": 592,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#田山さん https://t.co/hCQ8dqXdnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 969,
+          "like_count": 42480,
+          "listed_count": 5,
+          "media_count": 708,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T15:59:25.000Z",
+        "description": "cosplayer 梦游发电姬^感谢喜欢｜接正片/自拍/拍立得委托｜ ♡ Patreon: https://t.co/tKVfKb6BYG ♡ ♡淘宝：https://t.co/KLdb2jImUk ♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ZhiYueEtsu_ko",
+                "end": 69,
+                "expanded_url": "http://www.patreon.com/c/ZhiYueEtsu_ko",
+                "start": 46,
+                "url": "https://t.co/tKVfKb6BYG"
+              },
+              {
+                "display_url": "m.tb.cn/h.7YnEneRmnTRL…",
+                "end": 99,
+                "expanded_url": "https://m.tb.cn/h.7YnEneRmnTRLfmI",
+                "start": 76,
+                "url": "https://t.co/KLdb2jImUk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ZhiYueEtsu_ko",
+                "end": 23,
+                "expanded_url": "http://patreon.com/c/ZhiYueEtsu_ko",
+                "start": 0,
+                "url": "https://t.co/63666W5E7Q"
+              }
+            ]
+          }
+        },
+        "id": "1815416264770428928",
+        "name": "纸悦 Etsu_ko",
+        "pinned_tweet_id": "2075513203526897894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815416629813190657/QY61eLDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185690,
+          "following_count": 258,
+          "like_count": 6051,
+          "listed_count": 768,
+          "media_count": 554,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/63666W5E7Q",
+        "username": "Etsuko827",
+        "verified": true
+      }
+    ]
+  }
+}

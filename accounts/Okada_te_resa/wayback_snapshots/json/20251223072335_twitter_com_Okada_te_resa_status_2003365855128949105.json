@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2003323265453031587",
+    "created_at": "2025-12-23T07:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T08:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003365855128949105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1297788519906082817",
+          "start": 0,
+          "username": "laurus0711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003365855128949105",
+    "in_reply_to_user_id": "1297788519906082817",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003323265453031587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laurus0711 🎄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2003178078109872128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8y32UeWsAAURIB.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2003323265453031587",
+        "created_at": "2025-12-23T07:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003365855128949105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1297788519906082817",
+              "start": 0,
+              "username": "laurus0711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003365855128949105",
+        "in_reply_to_user_id": "1297788519906082817",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003323265453031587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laurus0711 🎄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003178078109872128"
+          ]
+        },
+        "author_id": "1297788519906082817",
+        "conversation_id": "2003323265453031587",
+        "created_at": "2025-12-23T04:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003323265453031587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jX21f5sZ9n",
+              "end": 57,
+              "expanded_url": "https://x.com/laurus0711/status/2003323265453031587/photo/1",
+              "media_key": "3_2003178078109872128",
+              "start": 34,
+              "url": "https://t.co/jX21f5sZ9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003323265453031587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4554,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "comment 🎄 for a nudyy in your DMs https://t.co/jX21f5sZ9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 661,
+          "like_count": 27943,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1657
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T06:51:19.000Z",
+        "description": "I dropped my OF from $25 to just $3 — just to satisfy YOU 😈\nDon't keep me waiting...\n👉 https://t.co/HG8BWfdbSl\n\nhttps://t.co/cqp0HnEbuF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/laurus0711",
+                "end": 110,
+                "expanded_url": "https://onlyfans.com/laurus0711",
+                "start": 87,
+                "url": "https://t.co/HG8BWfdbSl"
+              },
+              {
+                "display_url": "patreon.com/laurus0711",
+                "end": 135,
+                "expanded_url": "https://www.patreon.com/laurus0711",
+                "start": 112,
+                "url": "https://t.co/cqp0HnEbuF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Tokar711",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Tokar711",
+                "start": 0,
+                "url": "https://t.co/IY3SeIl2pA"
+              }
+            ]
+          }
+        },
+        "id": "1297788519906082817",
+        "location": "Taichung City, Taiwan",
+        "name": "浵卡Tokar🔞Patreon & OnlyFans✨",
+        "pinned_tweet_id": "2002833552027927005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962052244049993729/pclYKH6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629851,
+          "following_count": 731,
+          "like_count": 5495,
+          "listed_count": 2327,
+          "media_count": 1020,
+          "tweet_count": 2495
+        },
+        "url": "https://t.co/IY3SeIl2pA",
+        "username": "laurus0711",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

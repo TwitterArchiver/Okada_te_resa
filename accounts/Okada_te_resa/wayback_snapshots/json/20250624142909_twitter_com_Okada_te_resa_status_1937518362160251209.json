@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1937518362160251209",
+    "created_at": "2025-06-24T14:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937518362160251209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862557266890956800",
+          "start": 3,
+          "username": "lzb_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937518362160251209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937503923939721457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lzb_haishui: 凭什么你们喜欢谁就和谁在一起了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1937518362160251209",
+        "created_at": "2025-06-24T14:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937518362160251209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862557266890956800",
+              "start": 3,
+              "username": "lzb_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937518362160251209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937503923939721457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lzb_haishui: 凭什么你们喜欢谁就和谁在一起了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "1937503923939721457",
+        "created_at": "2025-06-24T13:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937503923939721457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937503923939721457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1420,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么你们喜欢谁就和谁在一起了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 350,
+          "like_count": 15636,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 703
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "互关可+v 私信常开欢迎叨扰\n不想惹任何人 也请不要莫名其妙cue我\n不想参与任何网络纷争",
+        "id": "1862557266890956800",
+        "location": "🚪52/88/188/388/520",
+        "name": "一直游到海水变蓝",
+        "pinned_tweet_id": "1937429758595432488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921437330474221568/Xar5e4OD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5594,
+          "following_count": 394,
+          "like_count": 18486,
+          "listed_count": 7,
+          "media_count": 87,
+          "tweet_count": 3501
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

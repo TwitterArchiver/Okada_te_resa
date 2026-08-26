@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1968417490897444864"
+      ],
+      "media_source_tweet_id": [
+        "1968417558316368190"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019630191803527477",
+    "created_at": "2026-02-06T04:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019630191803527477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oVksdcOHVi",
+          "end": 68,
+          "expanded_url": "https://x.com/y__o6_/status/1968417558316368190/video/1",
+          "media_key": "13_1968417490897444864",
+          "start": 45,
+          "url": "https://t.co/oVksdcOHVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019630191803527477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 810
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019392520036446544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: スマホから聞いたことない音出てきたのまだ面白い\n\n https://t.co/oVksdcOHVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20766,
+        "height": 1280,
+        "media_key": "13_1968417490897444864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968417490897444864/img/r-PEQp3NEl4H7hNV.jpg",
+        "public_metrics": {
+          "view_count": 6854682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968417490897444864/vid/avc1/320x568/3qXIJlRmxWNp-5GL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968417490897444864/vid/avc1/480x852/oGbxR9swqj4pHqMz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968417490897444864/vid/avc1/720x1280/ya7UmgXEwfC-PfUj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968417490897444864/pl/48pq3K0GrmST3Il-.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968417490897444864"
+          ],
+          "media_source_tweet_id": [
+            "1968417558316368190"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019630191803527477",
+        "created_at": "2026-02-06T04:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019630191803527477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVksdcOHVi",
+              "end": 68,
+              "expanded_url": "https://x.com/y__o6_/status/1968417558316368190/video/1",
+              "media_key": "13_1968417490897444864",
+              "start": 45,
+              "url": "https://t.co/oVksdcOHVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019630191803527477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 810
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019392520036446544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: スマホから聞いたことない音出てきたのまだ面白い\n\n https://t.co/oVksdcOHVi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968417490897444864"
+          ],
+          "media_source_tweet_id": [
+            "1968417558316368190"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019392520036446544",
+        "created_at": "2026-02-05T12:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019392520036446544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVksdcOHVi",
+              "end": 49,
+              "expanded_url": "https://x.com/y__o6_/status/1968417558316368190/video/1",
+              "media_key": "13_1968417490897444864",
+              "start": 26,
+              "url": "https://t.co/oVksdcOHVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019392520036446544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3144,
+          "impression_count": 1681286,
+          "like_count": 11620,
+          "quote_count": 119,
+          "reply_count": 279,
+          "retweet_count": 810
+        },
+        "reply_settings": "everyone",
+        "text": "スマホから聞いたことない音出てきたのまだ面白い\n\n https://t.co/oVksdcOHVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 679,
+          "like_count": 31501,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 1898
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものをDMにて募集しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285131,
+          "following_count": 0,
+          "like_count": 4486,
+          "listed_count": 443,
+          "media_count": 2324,
+          "tweet_count": 2326
+        },
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

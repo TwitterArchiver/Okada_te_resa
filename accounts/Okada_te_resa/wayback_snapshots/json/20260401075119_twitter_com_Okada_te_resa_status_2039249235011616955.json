@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2039249235011616955",
+    "created_at": "2026-04-01T07:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039249235011616955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3274499084",
+          "start": 3,
+          "username": "neverbeZelda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039249235011616955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038978524967739679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neverbeZelda: 全紅嬋在巴黎奧運後才來第一次生理期⋯⋯什麼意思⋯⋯這些國家是瘋子嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2039249235011616955",
+        "created_at": "2026-04-01T07:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039249235011616955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3274499084",
+              "start": 3,
+              "username": "neverbeZelda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039249235011616955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038978524967739679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neverbeZelda: 全紅嬋在巴黎奧運後才來第一次生理期⋯⋯什麼意思⋯⋯這些國家是瘋子嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3274499084",
+        "conversation_id": "2038978524967739679",
+        "created_at": "2026-03-31T13:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038978524967739679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038978524967739679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 534824,
+          "like_count": 1912,
+          "quote_count": 6,
+          "reply_count": 96,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "全紅嬋在巴黎奧運後才來第一次生理期⋯⋯什麼意思⋯⋯這些國家是瘋子嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 739,
+          "like_count": 35926,
+          "listed_count": 3,
+          "media_count": 428,
+          "tweet_count": 2350
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-10T13:28:49.000Z",
+        "description": "人間新手 • 永保新鮮的少女｜ 講一些吃的和不能吃的💩｜這裡有很多狐狸🦊✨ 頭像來自https://t.co/otz70dIpyq @magpie_egg /背景：@FopsHourly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "magpie_egg"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "FopsHourly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "picrew.me/en/image_maker…",
+                "end": 65,
+                "expanded_url": "https://picrew.me/en/image_maker/1364276",
+                "start": 42,
+                "url": "https://t.co/otz70dIpyq"
+              }
+            ]
+          }
+        },
+        "id": "3274499084",
+        "location": "台灣Taiwan",
+        "name": "新手少女𓀿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980519131163017216/9QXigmUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 181,
+          "like_count": 91723,
+          "listed_count": 4,
+          "media_count": 832,
+          "tweet_count": 17212
+        },
+        "username": "neverbeZelda",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1983066556985946462",
+    "created_at": "2025-10-28T07:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T08:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983066556985946462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/uFMme",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/uFMme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983066556985946462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982901048487690732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 对郑智化登机事件最到位的评论。\n由于设施不完善，给身障人士造成的窘境，会带来一种源于“屈辱”的愤怒，这种感受普通人很难理解，所以被读解成“矫情”。而那些健全人会理所当然的说“不是有人帮你了吗？这还不行吗？” https://t.co/uFMme…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1982900781897465856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4StwVnXwAAwTMk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1983066556985946462",
+        "created_at": "2025-10-28T07:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983066556985946462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/uFMme",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/uFMme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983066556985946462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982901048487690732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 对郑智化登机事件最到位的评论。\n由于设施不完善，给身障人士造成的窘境，会带来一种源于“屈辱”的愤怒，这种感受普通人很难理解，所以被读解成“矫情”。而那些健全人会理所当然的说“不是有人帮你了吗？这还不行吗？” https://t.co/uFMme…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982900781897465856"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1982901048487690732",
+        "created_at": "2025-10-27T20:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T21:02:43.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982900788201697562",
+          "1982900975854858510",
+          "1982901048487690732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFMmeuwvwu",
+              "end": 127,
+              "expanded_url": "https://x.com/iPaulCanada/status/1982901048487690732/photo/1",
+              "media_key": "3_1982900781897465856",
+              "start": 104,
+              "url": "https://t.co/uFMmeuwvwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982901048487690732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 55625,
+          "like_count": 700,
+          "quote_count": 14,
+          "reply_count": 112,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "对郑智化登机事件最到位的评论。\n由于设施不完善，给身障人士造成的窘境，会带来一种源于“屈辱”的愤怒，这种感受普通人很难理解，所以被读解成“矫情”。而那些健全人会理所当然的说“不是有人帮你了吗？这还不行吗？” https://t.co/uFMmeuwvwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 603,
+          "like_count": 23449,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 1253
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148576,
+          "following_count": 503,
+          "like_count": 7540,
+          "listed_count": 612,
+          "media_count": 10273,
+          "tweet_count": 16699
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

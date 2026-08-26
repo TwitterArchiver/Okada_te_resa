@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076279425730260992",
+        "3_2076279438808125440"
+      ],
+      "media_source_tweet_id": [
+        "2076279451542069359",
+        "2076279451542069359"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076667308253249836",
+    "created_at": "2026-07-13T13:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076667308253249836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "地雷系女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2066490052587438080",
+          "start": 3,
+          "username": "sasasakanakawai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UI1XIVoq8v",
+          "end": 66,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2076279451542069359/photo/1",
+          "media_key": "3_2076279425730260992",
+          "start": 43,
+          "url": "https://t.co/UI1XIVoq8v"
+        },
+        {
+          "display_url": "pic.x.com/UI1XIVoq8v",
+          "end": 66,
+          "expanded_url": "https://x.com/sasasakanakawai/status/2076279451542069359/photo/1",
+          "media_key": "3_2076279438808125440",
+          "start": 43,
+          "url": "https://t.co/UI1XIVoq8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076667308253249836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076279451542069359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasasakanakawai: 警服buff叠加嘛拍照好清秀 #地雷系女子 https://t.co/UI1XIVoq8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2076279425730260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBtIxkasAAqrN7.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2076279438808125440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBtJiSbEAAvzSE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076279425730260992",
+            "3_2076279438808125440"
+          ],
+          "media_source_tweet_id": [
+            "2076279451542069359",
+            "2076279451542069359"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076667308253249836",
+        "created_at": "2026-07-13T13:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076667308253249836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "地雷系女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2066490052587438080",
+              "start": 3,
+              "username": "sasasakanakawai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UI1XIVoq8v",
+              "end": 66,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076279451542069359/photo/1",
+              "media_key": "3_2076279425730260992",
+              "start": 43,
+              "url": "https://t.co/UI1XIVoq8v"
+            },
+            {
+              "display_url": "pic.x.com/UI1XIVoq8v",
+              "end": 66,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076279451542069359/photo/1",
+              "media_key": "3_2076279438808125440",
+              "start": 43,
+              "url": "https://t.co/UI1XIVoq8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076667308253249836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076279451542069359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasasakanakawai: 警服buff叠加嘛拍照好清秀 #地雷系女子 https://t.co/UI1XIVoq8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076279425730260992",
+            "3_2076279438808125440"
+          ]
+        },
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076279451542069359",
+        "created_at": "2026-07-12T12:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076279451542069359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UI1XIVoq8v",
+              "end": 45,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076279451542069359/photo/1",
+              "media_key": "3_2076279425730260992",
+              "start": 22,
+              "url": "https://t.co/UI1XIVoq8v"
+            },
+            {
+              "display_url": "pic.x.com/UI1XIVoq8v",
+              "end": 45,
+              "expanded_url": "https://x.com/sasasakanakawai/status/2076279451542069359/photo/1",
+              "media_key": "3_2076279438808125440",
+              "start": 22,
+              "url": "https://t.co/UI1XIVoq8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076279451542069359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 19400,
+          "like_count": 199,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "警服buff叠加嘛拍照好清秀 #地雷系女子 https://t.co/UI1XIVoq8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 972,
+          "like_count": 42676,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 17,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

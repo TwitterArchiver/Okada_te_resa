@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079808571580309504"
+      ],
+      "media_source_tweet_id": [
+        "2079808613678551139"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2079873237409058912",
+    "created_at": "2026-07-22T10:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079873237409058912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "745884138",
+          "start": 3,
+          "username": "BestOfMeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H8OjGPmJ9y",
+          "end": 66,
+          "expanded_url": "https://x.com/BestOfMeow/status/2079808613678551139/video/1",
+          "media_key": "13_2079808571580309504",
+          "start": 43,
+          "url": "https://t.co/H8OjGPmJ9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079873237409058912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 919
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079808613678551139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BestOfMeow: One nap in the wrong place https://t.co/H8OjGPmJ9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10041,
+        "height": 1280,
+        "media_key": "13_2079808571580309504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079808571580309504/img/Oojh1NYaWQ1BSxTo.jpg",
+        "public_metrics": {
+          "view_count": 122936
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079808571580309504/vid/avc1/320x568/9aFr22NTpUVdhn7n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079808571580309504/vid/avc1/480x852/zKZJotdCG_wJy3J6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079808571580309504/vid/avc1/720x1280/CFOB4Z03kGhfqzj5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079808571580309504/pl/hmcbhdRTeZLuA3BQ.m3u8?v=a60"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079808571580309504"
+          ]
+        },
+        "author_id": "745884138",
+        "conversation_id": "2079808613678551139",
+        "created_at": "2026-07-22T05:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079808613678551139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8OjGPmJ9y",
+              "end": 50,
+              "expanded_url": "https://x.com/BestOfMeow/status/2079808613678551139/video/1",
+              "media_key": "13_2079808571580309504",
+              "start": 27,
+              "url": "https://t.co/H8OjGPmJ9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079808613678551139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 708,
+          "impression_count": 312934,
+          "like_count": 7253,
+          "quote_count": 71,
+          "reply_count": 57,
+          "retweet_count": 919
+        },
+        "reply_settings": "everyone",
+        "text": "One nap in the wrong place https://t.co/H8OjGPmJ9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079808571580309504"
+          ],
+          "media_source_tweet_id": [
+            "2079808613678551139"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2079873237409058912",
+        "created_at": "2026-07-22T10:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079873237409058912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "745884138",
+              "start": 3,
+              "username": "BestOfMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8OjGPmJ9y",
+              "end": 66,
+              "expanded_url": "https://x.com/BestOfMeow/status/2079808613678551139/video/1",
+              "media_key": "13_2079808571580309504",
+              "start": 43,
+              "url": "https://t.co/H8OjGPmJ9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079873237409058912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 919
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079808613678551139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BestOfMeow: One nap in the wrong place https://t.co/H8OjGPmJ9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 989,
+          "like_count": 43419,
+          "listed_count": 5,
+          "media_count": 726,
+          "tweet_count": 3364
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-08T20:29:02.000Z",
+        "description": "it's about cats 😼",
+        "id": "745884138",
+        "name": "meow",
+        "pinned_tweet_id": "2079808613678551139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001680757648166917/dmowqKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545132,
+          "following_count": 0,
+          "like_count": 657,
+          "listed_count": 1219,
+          "media_count": 18918,
+          "tweet_count": 19622
+        },
+        "url": "",
+        "username": "BestOfMeow",
+        "verified": true
+      }
+    ]
+  }
+}

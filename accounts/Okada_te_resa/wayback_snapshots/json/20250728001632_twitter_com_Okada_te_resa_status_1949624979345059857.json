@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1949624979345059857",
+    "created_at": "2025-07-28T00:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T01:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949624979345059857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LCA176232/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/LCA176232/status/1949432552701477292",
+          "start": 13,
+          "url": "https://t.co/uKq6uwMic1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949624979345059857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949432552701477292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想一刀捅死这个女的溅畜 https://t.co/uKq6uwMic1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_1949432503342870528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3GiINaMAA99qs.jpg",
+        "width": 690
+      },
+      {
+        "height": 1187,
+        "media_key": "3_1949432513769984000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3GivDbUAAPmwj.jpg",
+        "width": 688
+      },
+      {
+        "height": 2266,
+        "media_key": "3_1949432522498347008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3GjPkbkAANSuy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1529,
+        "media_key": "3_1949432539258712065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3GkOAacAEZt-v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1949624979345059857",
+        "created_at": "2025-07-28T00:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T01:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949624979345059857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LCA176232/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LCA176232/status/1949432552701477292",
+              "start": 13,
+              "url": "https://t.co/uKq6uwMic1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949624979345059857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949432552701477292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想一刀捅死这个女的溅畜 https://t.co/uKq6uwMic1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949432503342870528",
+            "3_1949432513769984000",
+            "3_1949432522498347008",
+            "3_1949432539258712065"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "1949432552701477292",
+        "created_at": "2025-07-27T11:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949432552701477292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNn91Si98f",
+              "end": 68,
+              "expanded_url": "https://x.com/LCA176232/status/1949432552701477292/photo/1",
+              "media_key": "3_1949432503342870528",
+              "start": 45,
+              "url": "https://t.co/WNn91Si98f"
+            },
+            {
+              "display_url": "pic.x.com/WNn91Si98f",
+              "end": 68,
+              "expanded_url": "https://x.com/LCA176232/status/1949432552701477292/photo/1",
+              "media_key": "3_1949432513769984000",
+              "start": 45,
+              "url": "https://t.co/WNn91Si98f"
+            },
+            {
+              "display_url": "pic.x.com/WNn91Si98f",
+              "end": 68,
+              "expanded_url": "https://x.com/LCA176232/status/1949432552701477292/photo/1",
+              "media_key": "3_1949432522498347008",
+              "start": 45,
+              "url": "https://t.co/WNn91Si98f"
+            },
+            {
+              "display_url": "pic.x.com/WNn91Si98f",
+              "end": 68,
+              "expanded_url": "https://x.com/LCA176232/status/1949432552701477292/photo/1",
+              "media_key": "3_1949432539258712065",
+              "start": 45,
+              "url": "https://t.co/WNn91Si98f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949432552701477292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "武大图书馆诬告性骚扰这件事大家都很气愤，女方这种人实在是太坏了。\n\n那她做到什么程度呢？\n\n她先是偷拍男方差不多一个小时做为“证据”，接着拿视频去找男方进行对峙，然后诱使男方写下所谓的道歉信，男方以为这件事就到此为止了，没想到女方不肯善罢甘休，请求学校介入，要求学校取消男方的评优资格和保研资格。\n\n学校在经过调查后一开始不认为是性骚扰，也就没有如她所愿处理男方，于是她选择到网上写小作文，媎妹们见此如获至宝纷纷涌入，媒体们也下场报道，使得事态进一步升级，武汉大学迫于舆论压力，给了男方处分，但没有详细说明处分理由。\n\n其实事情到了这里女方已经是大获全胜，男方人生遭到重创，学业中断，啥错没有背个处分，被网暴，重度抑郁，家人因此事打击而不幸去世，但女方仍然不满意，女方在成功毕业的24年6月起诉男方“性骚扰”，只不过最终败诉。\n\n在起诉败诉之后，她自称可以继续美美进行学业，但她一定是会受到影响的，毕竟目前就读的香港某大学，可不会像内地一样袒护媎妹，她因此开始有了一些顾虑，所以才会在判决结果下来之后马上开始发疯，还在网上嚣张发言挑衅，威胁，试图迫使男方息事宁人，否则就要继续举报让他彻底完蛋，还偷偷关注了蔡雅奇律师，这就可以看出她有点怕，甚至是慌张。\n\n虽然就目前来看，女方几乎不会有什么代价和惩罚，而广大网友们除了道德谴责，还可以走更严肃的渠道，让武汉大学和香港某大学必须为此做出相关说明。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 26225,
+          "like_count": 366,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "武大图书馆诬告性骚扰这件事大家都很气愤，女方这种人实在是太坏了。\n\n那她做到什么程度呢？ https://t.co/WNn91Si98f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 447,
+          "like_count": 18179,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 907
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1940969914732589541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39830,
+          "following_count": 961,
+          "like_count": 92537,
+          "listed_count": 106,
+          "media_count": 10753,
+          "tweet_count": 14303
+        },
+        "username": "LCA176232",
+        "verified": true
+      }
+    ]
+  }
+}

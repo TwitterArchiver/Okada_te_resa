@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1953863329723871314",
+    "created_at": "2025-08-08T17:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T18:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953875520208204164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1005032686925242368",
+          "start": 0,
+          "username": "Ch0coIates_W00O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953875520208204164",
+    "in_reply_to_user_id": "1005032686925242368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953863329723871314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ch0coIates_W00O 233"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1953863326280429572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2EV96bsAQvdKv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1953863329723871314",
+        "created_at": "2025-08-08T17:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953875520208204164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1005032686925242368",
+              "start": 0,
+              "username": "Ch0coIates_W00O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953875520208204164",
+        "in_reply_to_user_id": "1005032686925242368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953863329723871314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch0coIates_W00O 233"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953863326280429572"
+          ]
+        },
+        "author_id": "1005032686925242368",
+        "conversation_id": "1953863329723871314",
+        "created_at": "2025-08-08T16:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T17:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953863329723871314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bk61d7aA1",
+              "end": 87,
+              "expanded_url": "https://x.com/Ch0coIates_W00O/status/1953863329723871314/photo/1",
+              "media_key": "3_1953863326280429572",
+              "start": 64,
+              "url": "https://t.co/5bk61d7aA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953863329723871314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200无套 400可以内射  \n\n事后给！！事后给！！  \n\n咸鱼上面可以约到我  \n\n点赞扣: 1 1 1  我主动私你。。 https://t.co/5bk61d7aA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 451,
+          "like_count": 18728,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 946
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T10:23:59.000Z",
+        "description": "Age:20↑ /162CM /48KG /#门槛 68解锁联系方式（口令or赞赏）/Maimai DX/ニーゴ💜💻箱推し/希望你在消逝前能够漂亮一点。置顶推广自辨。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "门槛"
+              }
+            ]
+          }
+        },
+        "id": "1005032686925242368",
+        "location": "在你心里❤️",
+        "name": "樹状チョコレート",
+        "pinned_tweet_id": "1919635796296139113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745727620879441920/5pExMzWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6386,
+          "following_count": 167,
+          "like_count": 293,
+          "listed_count": 18,
+          "media_count": 337,
+          "tweet_count": 1326
+        },
+        "username": "Ch0coIates_W00O",
+        "verified": false
+      }
+    ]
+  }
+}

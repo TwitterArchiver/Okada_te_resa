@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062206071964573696"
+      ],
+      "media_source_tweet_id": [
+        "2062206300843553277"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2062498493453963712",
+    "created_at": "2026-06-04T11:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062498493453963712"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "2B"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "sm"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "口交"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915989112848584705",
+          "start": 3,
+          "username": "qxsddsama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V6uLVuClZs",
+          "end": 90,
+          "expanded_url": "https://x.com/qxsddsama/status/2062206300843553277/video/1",
+          "media_key": "7_2062206071964573696",
+          "start": 67,
+          "url": "https://t.co/V6uLVuClZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062498493453963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062206300843553277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qxsddsama: 尼尔机械纪元2B系列：\n哟，听说丈夫能忍胯下之辱\n那，就到主人的胯下来玩玩吧\n\n#2B #sm #口交 https://t.co/V6uLVuClZs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062498493453963712].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062498493453963712",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062498493453963712"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58700,
+        "height": 720,
+        "media_key": "7_2062206071964573696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062206071964573696/pu/img/77gNoDVNQ2Tt6rQb.jpg",
+        "public_metrics": {
+          "view_count": 1668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062206071964573696/pu/vid/avc1/480x270/9IyN_R3fcjHwB4qY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062206071964573696/pu/vid/avc1/640x360/jPOHAz6Lmr4_gy1h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062206071964573696/pu/vid/avc1/1280x720/3Il0eZZIOJ0MzezF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062206071964573696/pu/pl/xLnEkI2pN_U3PsBk.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062206071964573696"
+          ]
+        },
+        "author_id": "1915989112848584705",
+        "conversation_id": "2062206300843553277",
+        "created_at": "2026-06-03T16:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062206300843553277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "2B"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "sm"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "口交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6uLVuClZs",
+              "end": 75,
+              "expanded_url": "https://x.com/qxsddsama/status/2062206300843553277/video/1",
+              "media_key": "7_2062206071964573696",
+              "start": 52,
+              "url": "https://t.co/V6uLVuClZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062206300843553277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 4486,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "尼尔机械纪元2B系列：\n哟，听说丈夫能忍胯下之辱\n那，就到主人的胯下来玩玩吧\n\n#2B #sm #口交 https://t.co/V6uLVuClZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 887,
+          "like_count": 39773,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 2980
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T04:39:42.000Z",
+        "description": "此号是雌小鬼人格哟！大号：@qxsddofficial正太奶弟人格：@qiuxingsdd男高模子人格：@SDNMQX 175cm/62kg/17cm童颜巨牛，在读高三。常驻江浙沪，不接推广，88🚪不太想接任何项目了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "qxsddofficial"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "qiuxingsdd"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "SDNMQX"
+              }
+            ]
+          }
+        },
+        "id": "1915989112848584705",
+        "name": "球闪姬",
+        "pinned_tweet_id": "2062206300843553277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917633901704699904/HCEdT410_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 77,
+          "like_count": 81,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 67
+        },
+        "username": "qxsddsama",
+        "verified": false
+      }
+    ]
+  }
+}

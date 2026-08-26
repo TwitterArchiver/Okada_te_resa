@@ -1,0 +1,784 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004129105244192768",
+        "3_2004129105252700162",
+        "3_2004129105210679296",
+        "3_2004129105227534340"
+      ],
+      "media_source_tweet_id": [
+        "2004129113733533798",
+        "2004129113733533798",
+        "2004129113733533798",
+        "2004129113733533798"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2004471435096731784",
+    "created_at": "2025-12-26T08:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T09:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004471435096731784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771867187512594432",
+          "start": 3,
+          "username": "mnhr_hkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VH90Xi7Gmz",
+          "end": 132,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+          "media_key": "3_2004129105244192768",
+          "start": 109,
+          "url": "https://t.co/VH90Xi7Gmz"
+        },
+        {
+          "display_url": "pic.x.com/VH90Xi7Gmz",
+          "end": 132,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+          "media_key": "3_2004129105252700162",
+          "start": 109,
+          "url": "https://t.co/VH90Xi7Gmz"
+        },
+        {
+          "display_url": "pic.x.com/VH90Xi7Gmz",
+          "end": 132,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+          "media_key": "3_2004129105210679296",
+          "start": 109,
+          "url": "https://t.co/VH90Xi7Gmz"
+        },
+        {
+          "display_url": "pic.x.com/VH90Xi7Gmz",
+          "end": 132,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+          "media_key": "3_2004129105227534340",
+          "start": 109,
+          "url": "https://t.co/VH90Xi7Gmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004471435096731784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004129113733533798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnhr_hkmn: ⚠️‼️警告‼️デマ注意‼️⚠️\n\n『女性へのクリスマスプレゼントはジュエリーやコスメがおすすめ』などというデマが流れていますが、絶対に信用しないでください‼️\n\n女性が本当に欲しい物は https://t.co/VH90Xi7Gmz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_2004129105244192768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AYzYoaAAArHmI.jpg",
+        "width": 1000
+      },
+      {
+        "height": 554,
+        "media_key": "3_2004129105252700162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AYzYqb0AIewlb.jpg",
+        "width": 554
+      },
+      {
+        "height": 554,
+        "media_key": "3_2004129105210679296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AYzYgaoAAACNF.jpg",
+        "width": 554
+      },
+      {
+        "height": 447,
+        "media_key": "3_2004129105227534340",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AYzYkb0AQryvo.jpg",
+        "width": 685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004129105244192768",
+            "3_2004129105252700162",
+            "3_2004129105210679296",
+            "3_2004129105227534340"
+          ],
+          "media_source_tweet_id": [
+            "2004129113733533798",
+            "2004129113733533798",
+            "2004129113733533798",
+            "2004129113733533798"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004471435096731784",
+        "created_at": "2025-12-26T08:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004471435096731784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771867187512594432",
+              "start": 3,
+              "username": "mnhr_hkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 132,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105244192768",
+              "start": 109,
+              "url": "https://t.co/VH90Xi7Gmz"
+            },
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 132,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105252700162",
+              "start": 109,
+              "url": "https://t.co/VH90Xi7Gmz"
+            },
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 132,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105210679296",
+              "start": 109,
+              "url": "https://t.co/VH90Xi7Gmz"
+            },
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 132,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105227534340",
+              "start": 109,
+              "url": "https://t.co/VH90Xi7Gmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004471435096731784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004129113733533798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnhr_hkmn: ⚠️‼️警告‼️デマ注意‼️⚠️\n\n『女性へのクリスマスプレゼントはジュエリーやコスメがおすすめ』などというデマが流れていますが、絶対に信用しないでください‼️\n\n女性が本当に欲しい物は https://t.co/VH90Xi7Gmz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004129105244192768",
+            "3_2004129105252700162",
+            "3_2004129105210679296",
+            "3_2004129105227534340"
+          ]
+        },
+        "author_id": "1771867187512594432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004129113733533798",
+        "created_at": "2025-12-25T09:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004129113733533798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 117,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105244192768",
+              "start": 94,
+              "url": "https://t.co/VH90Xi7Gmz"
+            },
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 117,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105252700162",
+              "start": 94,
+              "url": "https://t.co/VH90Xi7Gmz"
+            },
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 117,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105210679296",
+              "start": 94,
+              "url": "https://t.co/VH90Xi7Gmz"
+            },
+            {
+              "display_url": "pic.x.com/VH90Xi7Gmz",
+              "end": 117,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2004129113733533798/photo/1",
+              "media_key": "3_2004129105227534340",
+              "start": 94,
+              "url": "https://t.co/VH90Xi7Gmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004129113733533798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 49325,
+          "like_count": 1721,
+          "quote_count": 93,
+          "reply_count": 6,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️‼️警告‼️デマ注意‼️⚠️\n\n『女性へのクリスマスプレゼントはジュエリーやコスメがおすすめ』などというデマが流れていますが、絶対に信用しないでください‼️\n\n女性が本当に欲しい物は https://t.co/VH90Xi7Gmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 667,
+          "like_count": 28083,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1666
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:51:07.000Z",
+        "description": "※オ一バ一ド一ズを推奨する目的はありません Discord鯖:https://t.co/3O01i9Pa4Gサブ垢@ODdaisukinTV 自我垢@the_last09s コラ画像のリクエスト、提供受け付けてます🦪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "ODdaisukinTV"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "the_last09s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Tyfp7DryE2",
+                "end": 54,
+                "expanded_url": "https://discord.gg/Tyfp7DryE2",
+                "start": 31,
+                "url": "https://t.co/3O01i9Pa4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/132701830…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/132701830?ref=nicoiphone_other",
+                "start": 0,
+                "url": "https://t.co/ebgFGJNDCO"
+              }
+            ]
+          }
+        },
+        "id": "1771867187512594432",
+        "location": "投稿してる画像はほぼコラ画像、改変動画です。",
+        "name": "オ一バ一ド一ズキン",
+        "pinned_tweet_id": "1885310578090230113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998670028359766016/b2oikpSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4123,
+          "following_count": 2498,
+          "like_count": 430,
+          "listed_count": 8,
+          "media_count": 641,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/ebgFGJNDCO",
+        "username": "mnhr_hkmn",
+        "verified": false
+      }
+    ]
+  }
+}

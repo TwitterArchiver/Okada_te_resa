@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2027959305744580960",
+    "created_at": "2026-03-01T08:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028030090790220010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1385239266985271299",
+          "start": 0,
+          "username": "ARASHIqianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028030090790220010",
+    "in_reply_to_user_id": "1385239266985271299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027959305744580960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARASHIqianye 我靠好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027959303366475776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTCPegbgAAT1m9.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2027959305744580960",
+        "created_at": "2026-03-01T08:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028030090790220010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385239266985271299",
+              "start": 0,
+              "username": "ARASHIqianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028030090790220010",
+        "in_reply_to_user_id": "1385239266985271299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027959305744580960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARASHIqianye 我靠好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027959303366475776"
+          ]
+        },
+        "author_id": "1385239266985271299",
+        "conversation_id": "2027959305744580960",
+        "created_at": "2026-03-01T04:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027959305744580960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "渡辺曜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/veycqBGVRj",
+              "end": 28,
+              "expanded_url": "https://x.com/ARASHIqianye/status/2027959305744580960/photo/1",
+              "media_key": "3_2027959303366475776",
+              "start": 5,
+              "url": "https://t.co/veycqBGVRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027959305744580960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 619,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#渡辺曜 https://t.co/veycqBGVRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 704,
+          "like_count": 33576,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2027
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "现役QR/副业学园偶像/ISTJ\n\n年年有今日，岁岁有今朝",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1911970264969331000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8054,
+          "following_count": 1261,
+          "like_count": 31033,
+          "listed_count": 26,
+          "media_count": 461,
+          "tweet_count": 6827
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

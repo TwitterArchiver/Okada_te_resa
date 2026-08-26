@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1988164620817928371",
+    "created_at": "2025-11-11T09:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T10:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988174215762374885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988174215762374885",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988164620817928371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 宝宝我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988164603814277120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dhLGVa8AAiL6t.jpg",
+        "width": 1532
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988164603822698499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dhLGXbcAMuula.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1988164620817928371",
+        "created_at": "2025-11-11T09:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988174215762374885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988174215762374885",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988164620817928371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 宝宝我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988164603814277120",
+            "3_1988164603822698499"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "conversation_id": "1988164620817928371",
+        "created_at": "2025-11-11T08:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988164620817928371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nr2khMwW4v",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1988164620817928371/photo/1",
+              "media_key": "3_1988164603814277120",
+              "start": 9,
+              "url": "https://t.co/Nr2khMwW4v"
+            },
+            {
+              "display_url": "pic.x.com/Nr2khMwW4v",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1988164620817928371/photo/1",
+              "media_key": "3_1988164603822698499",
+              "start": 9,
+              "url": "https://t.co/Nr2khMwW4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988164620817928371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtxx我喜欢你 https://t.co/Nr2khMwW4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986939510966665216/FiteFXKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 622,
+          "like_count": 24371,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1314
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "pinned_tweet_id": "1983417542363492449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980138187793043456/awTN5IqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 340,
+          "like_count": 266,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 416
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

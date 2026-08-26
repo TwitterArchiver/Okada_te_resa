@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015733959104077824"
+      ],
+      "media_source_tweet_id": [
+        "2015734147453694265"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308524989151285248",
+          "name": "Wotagei"
+        }
+      }
+    ],
+    "conversation_id": "2015848607333941390",
+    "created_at": "2026-01-26T18:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015848607333941390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "オタ芸"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "推し活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963984874668494848",
+          "start": 3,
+          "username": "seseri_md"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6N1qK7SDEv",
+          "end": 64,
+          "expanded_url": "https://x.com/seseri_md/status/2015734147453694265/video/1",
+          "media_key": "13_2015733959104077824",
+          "start": 41,
+          "url": "https://t.co/6N1qK7SDEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015848607333941390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1618
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015734147453694265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seseri_md: メイドでも全力、これが女オタク\n#オタ芸 #推し活 https://t.co/6N1qK7SDEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26193,
+        "height": 1280,
+        "media_key": "13_2015733959104077824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015733959104077824/img/wv6Nze876QCYUYOQ.jpg",
+        "public_metrics": {
+          "view_count": 264403
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015733959104077824/vid/avc1/320x568/9mNRC6kkWyAwt2Xl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015733959104077824/vid/avc1/480x852/jm8uUW-kTSoiutO4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015733959104077824/vid/avc1/720x1280/JYKYW-osJcKDFuLg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015733959104077824/pl/cLJc4DcPT8-YdxXx.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015733959104077824"
+          ],
+          "media_source_tweet_id": [
+            "2015734147453694265"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308524989151285248",
+              "name": "Wotagei"
+            }
+          }
+        ],
+        "conversation_id": "2015848607333941390",
+        "created_at": "2026-01-26T18:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015848607333941390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "オタ芸"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "推し活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963984874668494848",
+              "start": 3,
+              "username": "seseri_md"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N1qK7SDEv",
+              "end": 64,
+              "expanded_url": "https://x.com/seseri_md/status/2015734147453694265/video/1",
+              "media_key": "13_2015733959104077824",
+              "start": 41,
+              "url": "https://t.co/6N1qK7SDEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015848607333941390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1618
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015734147453694265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seseri_md: メイドでも全力、これが女オタク\n#オタ芸 #推し活 https://t.co/6N1qK7SDEv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015733959104077824"
+          ]
+        },
+        "author_id": "1963984874668494848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308524989151285248",
+              "name": "Wotagei"
+            }
+          }
+        ],
+        "conversation_id": "2015734147453694265",
+        "created_at": "2026-01-26T10:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015734147453694265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "オタ芸"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "推し活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N1qK7SDEv",
+              "end": 49,
+              "expanded_url": "https://x.com/seseri_md/status/2015734147453694265/video/1",
+              "media_key": "13_2015733959104077824",
+              "start": 26,
+              "url": "https://t.co/6N1qK7SDEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015734147453694265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2206,
+          "impression_count": 526096,
+          "like_count": 15030,
+          "quote_count": 246,
+          "reply_count": 103,
+          "retweet_count": 1618
+        },
+        "reply_settings": "everyone",
+        "text": "メイドでも全力、これが女オタク\n#オタ芸 #推し活 https://t.co/6N1qK7SDEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 661,
+          "like_count": 30430,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 1829
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T15:18:03.000Z",
+        "description": "昼はメイドカフェ🎀夜はメイド酒場🍻 🎀めいどりーみん( @maidreamin_app ) 🍻20:00からはめいどりーみんハイパー( @maidreaminHYPER ) 札幌狸小路店 @spr_maidreaminでお給仕中♡ マネジメントマスター🥂PARTYMAKER所属🌟 #せせりにみんな首ったけ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 153,
+                "start": 141,
+                "tag": "せせりにみんな首ったけ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "maidreamin_app"
+              },
+              {
+                "end": 84,
+                "start": 68,
+                "username": "maidreaminHYPER"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "spr_maidreamin"
+              }
+            ]
+          }
+        },
+        "id": "1963984874668494848",
+        "location": "📍おにくわーるど",
+        "name": "せせり🐣💜めいどりーみん",
+        "pinned_tweet_id": "1964198994827153917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013791085747974144/avmqMA8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 40,
+          "like_count": 2742,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 775
+        },
+        "username": "seseri_md",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1941682698931630172",
+    "created_at": "2025-07-06T04:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941714625067712546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830599217594941440",
+          "start": 0,
+          "username": "3ADLLkqV7f86051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941714625067712546",
+    "in_reply_to_user_id": "1830599217594941440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941703262492934257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ADLLkqV7f86051 我是清水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1941682698931630172",
+        "created_at": "2025-07-06T04:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941714625067712546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830599217594941440",
+              "start": 0,
+              "username": "3ADLLkqV7f86051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941714625067712546",
+        "in_reply_to_user_id": "1830599217594941440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941703262492934257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ADLLkqV7f86051 我是清水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830599217594941440",
+        "conversation_id": "1941682698931630172",
+        "created_at": "2025-07-06T03:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941703262492934257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941703262492934257",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941682698931630172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 牛牛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 386,
+          "like_count": 16678,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 781
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T13:30:58.000Z",
+        "description": "戒男娘（day0）",
+        "id": "1830599217594941440",
+        "location": "3202",
+        "name": "焦糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830599300533108736/6HeFcfnU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 169,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "3ADLLkqV7f86051",
+        "verified": false
+      }
+    ]
+  }
+}

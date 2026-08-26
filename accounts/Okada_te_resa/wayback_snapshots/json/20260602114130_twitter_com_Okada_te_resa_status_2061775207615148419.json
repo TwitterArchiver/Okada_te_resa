@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061470049550868481"
+      ],
+      "media_source_tweet_id": [
+        "2061470340463620494"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2061775207615148419",
+    "created_at": "2026-06-02T11:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061775207615148419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902803563228876800",
+          "start": 3,
+          "username": "reizeirrection"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66N1qwZxbR",
+          "end": 43,
+          "expanded_url": "https://x.com/reizeirrection/status/2061470340463620494/photo/1",
+          "media_key": "3_2061470049550868481",
+          "start": 20,
+          "url": "https://t.co/66N1qwZxbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061775207615148419",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1423
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061470340463620494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reizeirrection: https://t.co/66N1qwZxbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2061470049550868481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvQFoKWIAEfWKN.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061470049550868481"
+          ],
+          "media_source_tweet_id": [
+            "2061470340463620494"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2061775207615148419",
+        "created_at": "2026-06-02T11:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061775207615148419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902803563228876800",
+              "start": 3,
+              "username": "reizeirrection"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66N1qwZxbR",
+              "end": 43,
+              "expanded_url": "https://x.com/reizeirrection/status/2061470340463620494/photo/1",
+              "media_key": "3_2061470049550868481",
+              "start": 20,
+              "url": "https://t.co/66N1qwZxbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061775207615148419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1423
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061470340463620494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reizeirrection: https://t.co/66N1qwZxbR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061470049550868481"
+          ]
+        },
+        "author_id": "1902803563228876800",
+        "conversation_id": "2061470340463620494",
+        "created_at": "2026-06-01T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061470340463620494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66N1qwZxbR",
+              "end": 23,
+              "expanded_url": "https://x.com/reizeirrection/status/2061470340463620494/photo/1",
+              "media_key": "3_2061470049550868481",
+              "start": 0,
+              "url": "https://t.co/66N1qwZxbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061470340463620494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1602,
+          "impression_count": 194943,
+          "like_count": 19998,
+          "quote_count": 23,
+          "reply_count": 7,
+          "retweet_count": 1423
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/66N1qwZxbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 886,
+          "like_count": 39636,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T19:25:05.000Z",
+        "description": "your favorite account's ghost writer, probably\nalt: @JReizeism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "JReizeism"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reizeist.straw.page",
+                "end": 23,
+                "expanded_url": "https://reizeist.straw.page",
+                "start": 0,
+                "url": "https://t.co/oRw3mx9w9Q"
+              }
+            ]
+          }
+        },
+        "id": "1902803563228876800",
+        "name": "jet",
+        "pinned_tweet_id": "2053255707512709498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055608170010066944/UbVRHPtP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 135,
+          "like_count": 3312,
+          "listed_count": 10,
+          "media_count": 827,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/oRw3mx9w9Q",
+        "username": "reizeirrection",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078458108167454720"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2078458114362441804",
+    "created_at": "2026-07-18T12:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078458114362441804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XfLR6VGLa5",
+          "end": 151,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2078458114362441804/photo/1",
+          "media_key": "3_2078458108167454720",
+          "start": 128,
+          "url": "https://t.co/XfLR6VGLa5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078458114362441804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "判断自己是不是奶龙，首先你得看自己是不是黄色的，如果你是黄色的，那你就有很大概率是奶龙，当然，奶龙是会变色的，其他颜色也有可能是奶龙，但黄色的可能性更大一些。第二个判断条件是身高，奶龙的身高是180厘米，如果你的身高是180厘米，就可以进一步证明你是奶龙 https://t.co/XfLR6VGLa5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2078458108167454720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgqoyHaAAAcEZ1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078458108167454720"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2078458114362441804",
+        "created_at": "2026-07-18T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078458114362441804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfLR6VGLa5",
+              "end": 151,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2078458114362441804/photo/1",
+              "media_key": "3_2078458108167454720",
+              "start": 128,
+              "url": "https://t.co/XfLR6VGLa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078458114362441804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "判断自己是不是奶龙，首先你得看自己是不是黄色的，如果你是黄色的，那你就有很大概率是奶龙，当然，奶龙是会变色的，其他颜色也有可能是奶龙，但黄色的可能性更大一些。第二个判断条件是身高，奶龙的身高是180厘米，如果你的身高是180厘米，就可以进一步证明你是奶龙 https://t.co/XfLR6VGLa5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 985,
+          "like_count": 43082,
+          "listed_count": 5,
+          "media_count": 721,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

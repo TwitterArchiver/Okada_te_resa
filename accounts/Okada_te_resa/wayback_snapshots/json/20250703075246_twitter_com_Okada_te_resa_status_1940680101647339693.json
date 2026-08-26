@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1940360963842306182",
+    "created_at": "2025-07-03T07:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T08:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940680101647339693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918920268296359936",
+          "start": 0,
+          "username": "FIREFLY040132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940680101647339693",
+    "in_reply_to_user_id": "1918920268296359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940360963842306182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FIREFLY040132 我说你们未成年真的够了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940360960364978178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2MA1KXIAIu_tp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1940360963842306182",
+        "created_at": "2025-07-03T07:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T08:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940680101647339693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918920268296359936",
+              "start": 0,
+              "username": "FIREFLY040132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940680101647339693",
+        "in_reply_to_user_id": "1918920268296359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940360963842306182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FIREFLY040132 我说你们未成年真的够了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940360960364978178"
+          ]
+        },
+        "author_id": "1918920268296359936",
+        "conversation_id": "1940360963842306182",
+        "created_at": "2025-07-02T10:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T11:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940360963842306182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5SmZHhluw",
+              "end": 46,
+              "expanded_url": "https://x.com/FIREFLY040132/status/1940360963842306182/photo/1",
+              "media_key": "3_1940360960364978178",
+              "start": 23,
+              "url": "https://t.co/g5SmZHhluw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940360963842306182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9741,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "筷子战神，15双，30根筷子，痛的咱人快炸了 https://t.co/g5SmZHhluw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 383,
+          "like_count": 16507,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 765
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁没出息小废物，断粮断药，没钱没玩具没衣服，三无产品，求收留",
+        "id": "1918920268296359936",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921224896283025408/Ug-tyeGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 124,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 83
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

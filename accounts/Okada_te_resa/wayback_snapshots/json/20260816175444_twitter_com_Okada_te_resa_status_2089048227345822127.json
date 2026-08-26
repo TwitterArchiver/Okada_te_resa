@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2089048227345822127",
+    "created_at": "2026-08-16T17:54:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089048227345822127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048683684191154176",
+          "start": 3,
+          "username": "lsdprettyboy"
+        },
+        {
+          "end": 46,
+          "id": "2024584670365831169",
+          "start": 32,
+          "username": "luftwaffelive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089048227345822127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088934895028666697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lsdprettyboy: 我是xwx我号又没了\n前世 @luftwaffelive \n我精神有问题不要骂我对不起，如果我让你难受\n宝宝们能帮我转发一下吗助力我找回互关，赞转抽三杯奶茶\n啥都不卖我啥都没有也懒得搞我自己都不够吃\n爱我可以给我打点钱我也好爱你 https:…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [luftwaffelive].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "luftwaffelive",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "luftwaffelive"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088934880726188032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1jNNSbgAAzwvq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2089048227345822127",
+        "created_at": "2026-08-16T17:54:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089048227345822127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048683684191154176",
+              "start": 3,
+              "username": "lsdprettyboy"
+            },
+            {
+              "end": 46,
+              "id": "2024584670365831169",
+              "start": 32,
+              "username": "luftwaffelive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089048227345822127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088934895028666697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lsdprettyboy: 我是xwx我号又没了\n前世 @luftwaffelive \n我精神有问题不要骂我对不起，如果我让你难受\n宝宝们能帮我转发一下吗助力我找回互关，赞转抽三杯奶茶\n啥都不卖我啥都没有也懒得搞我自己都不够吃\n爱我可以给我打点钱我也好爱你 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088934880726188032"
+          ]
+        },
+        "author_id": "2048683684191154176",
+        "conversation_id": "2088934895028666697",
+        "created_at": "2026-08-16T10:24:24.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088934895028666697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2024584670365831169",
+              "start": 14,
+              "username": "luftwaffelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mbqWqhd3r",
+              "end": 138,
+              "expanded_url": "https://x.com/lsdprettyboy/status/2088934895028666697/photo/1",
+              "media_key": "3_2088934880726188032",
+              "start": 115,
+              "url": "https://t.co/6mbqWqhd3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088934895028666697",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088934880726188032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是xwx我号又没了\n前世 @luftwaffelive \n我精神有问题不要骂我对不起，如果我让你难受\n宝宝们能帮我转发一下吗助力我找回互关，赞转抽三杯奶茶\n啥都不卖我啥都没有也懒得搞我自己都不够吃\n爱我可以给我打点钱我也好爱你 https://t.co/6mbqWqhd3r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2089048227345822127",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 1022,
+          "like_count": 45692,
+          "listed_count": 5,
+          "media_count": 756,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T08:41:44.000Z",
+        "description": "xwx｜我脑子有问题\n🚪 58｜88 没区别，你比较慷慨可以给我更多",
+        "id": "2048683684191154176",
+        "is_identity_verified": false,
+        "location": "NOT FOUND",
+        "most_recent_tweet_id": "2089034125550469257",
+        "name": "硬伤疤",
+        "pinned_tweet_id": "2088934895028666697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048683684191154176/1786864787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088889126976417792/e9A6Db_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "lsdprettyboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

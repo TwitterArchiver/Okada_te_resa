@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978442042725511168"
+      ],
+      "media_source_tweet_id": [
+        "1978442132974194800"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1978609820191408285",
+    "created_at": "2025-10-15T23:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T00:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978609820191408285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "584252719",
+          "start": 3,
+          "username": "__htny__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FYNuwkBEuV",
+          "end": 42,
+          "expanded_url": "https://x.com/__htny__/status/1978442132974194800/photo/1",
+          "media_key": "3_1978442042725511168",
+          "start": 19,
+          "url": "https://t.co/FYNuwkBEuV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978609820191408285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978442132974194800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__htny__: 長い3分 https://t.co/FYNuwkBEuV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3574,
+        "media_key": "3_1978442042725511168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3TWjj1aMAA2F86.jpg",
+        "width": 2386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978442042725511168"
+          ],
+          "media_source_tweet_id": [
+            "1978442132974194800"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1978609820191408285",
+        "created_at": "2025-10-15T23:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T00:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978609820191408285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "584252719",
+              "start": 3,
+              "username": "__htny__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYNuwkBEuV",
+              "end": 42,
+              "expanded_url": "https://x.com/__htny__/status/1978442132974194800/photo/1",
+              "media_key": "3_1978442042725511168",
+              "start": 19,
+              "url": "https://t.co/FYNuwkBEuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978609820191408285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978442132974194800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__htny__: 長い3分 https://t.co/FYNuwkBEuV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978442042725511168"
+          ]
+        },
+        "author_id": "584252719",
+        "conversation_id": "1978442132974194800",
+        "created_at": "2025-10-15T12:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978442132974194800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYNuwkBEuV",
+              "end": 28,
+              "expanded_url": "https://x.com/__htny__/status/1978442132974194800/photo/1",
+              "media_key": "3_1978442042725511168",
+              "start": 5,
+              "url": "https://t.co/FYNuwkBEuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978442132974194800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 24684,
+          "like_count": 2228,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "長い3分 https://t.co/FYNuwkBEuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 558,
+          "like_count": 22522,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1201
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-18T23:25:54.000Z",
+        "description": "cosplay / model / drums /怪談 / 萩原研二と岸辺露伴 【お仕事のご依頼✉️】htny.works@gmail.com / 日常@__htnysub__ /過去の公式出演等はハイライトと「さらに表示」へ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "__htnysub__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuuhatano.booth.pm",
+                "end": 23,
+                "expanded_url": "https://yuuhatano.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/lYQln78NPR"
+              }
+            ]
+          }
+        },
+        "id": "584252719",
+        "name": "はたのゆう(亜種)🎠",
+        "pinned_tweet_id": "1849759237578293378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948028009480630272/Je9WRxmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98051,
+          "following_count": 1162,
+          "like_count": 32491,
+          "listed_count": 684,
+          "media_count": 2406,
+          "tweet_count": 20356
+        },
+        "url": "https://t.co/lYQln78NPR",
+        "username": "__htny__",
+        "verified": true
+      }
+    ]
+  }
+}

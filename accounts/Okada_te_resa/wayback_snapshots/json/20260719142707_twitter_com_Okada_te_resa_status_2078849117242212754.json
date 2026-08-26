@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2078775073302073344"
+      ],
+      "media_source_tweet_id": [
+        "2078775097159241944"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2078849117242212754",
+    "created_at": "2026-07-19T14:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078849117242212754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868471300005797888",
+          "start": 3,
+          "username": "JONY1078425"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7rRwrSsAgw",
+          "end": 46,
+          "expanded_url": "https://x.com/JONY1078425/status/2078775097159241944/video/1",
+          "media_key": "7_2078775073302073344",
+          "start": 23,
+          "url": "https://t.co/7rRwrSsAgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078849117242212754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078775097159241944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JONY1078425: 唐比大头照 https://t.co/7rRwrSsAgw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3433,
+        "height": 1280,
+        "media_key": "7_2078775073302073344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078775073302073344/pu/img/G4_2X2w9cD2QmJ16.jpg",
+        "public_metrics": {
+          "view_count": 374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078775073302073344/pu/vid/avc1/320x568/vXdKZHWk0xpw92rM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078775073302073344/pu/vid/avc1/480x852/Bosbxkj57UL9nVAj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078775073302073344/pu/vid/avc1/720x1280/ck_Snv1Y9fupq20Y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078775073302073344/pu/pl/KdoN1hX2vRSJsZ1K.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078775073302073344"
+          ]
+        },
+        "author_id": "1868471300005797888",
+        "conversation_id": "2078775097159241944",
+        "created_at": "2026-07-19T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078775097159241944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rRwrSsAgw",
+              "end": 29,
+              "expanded_url": "https://x.com/JONY1078425/status/2078775097159241944/video/1",
+              "media_key": "7_2078775073302073344",
+              "start": 6,
+              "url": "https://t.co/7rRwrSsAgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775097159241944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1852,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐比大头照 https://t.co/7rRwrSsAgw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078775073302073344"
+          ],
+          "media_source_tweet_id": [
+            "2078775097159241944"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2078849117242212754",
+        "created_at": "2026-07-19T14:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078849117242212754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868471300005797888",
+              "start": 3,
+              "username": "JONY1078425"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rRwrSsAgw",
+              "end": 46,
+              "expanded_url": "https://x.com/JONY1078425/status/2078775097159241944/video/1",
+              "media_key": "7_2078775073302073344",
+              "start": 23,
+              "url": "https://t.co/7rRwrSsAgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078849117242212754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078775097159241944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JONY1078425: 唐比大头照 https://t.co/7rRwrSsAgw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 987,
+          "like_count": 43145,
+          "listed_count": 5,
+          "media_count": 721,
+          "tweet_count": 3346
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T01:40:57.000Z",
+        "description": "QQ群没了\n不是门槛妹，要是实在喜欢我的话可以给我赞赏一点 o(╥﹏╥)o",
+        "id": "1868471300005797888",
+        "location": "你的心里",
+        "name": "小圆ovo",
+        "pinned_tweet_id": "2038992150483153357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038990216107859968/w1jwZJQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 250,
+          "like_count": 2004,
+          "listed_count": 14,
+          "media_count": 192,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "JONY1078425",
+        "verified": false
+      }
+    ]
+  }
+}

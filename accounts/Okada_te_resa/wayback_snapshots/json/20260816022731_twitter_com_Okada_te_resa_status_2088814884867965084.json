@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088708218197557248"
+      ],
+      "media_source_tweet_id": [
+        "2088708226355515614"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2088814884867965084",
+    "created_at": "2026-08-16T02:27:31.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088814884867965084"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "花宮初奈"
+        },
+        {
+          "end": 61,
+          "start": 53,
+          "tag": "217find"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "家団"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "116198362",
+          "start": 3,
+          "username": "meiji121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/omDN2atUUt",
+          "end": 95,
+          "expanded_url": "https://x.com/meiji121/status/2088708226355515614/photo/1",
+          "media_key": "3_2088708218197557248",
+          "start": 72,
+          "url": "https://t.co/omDN2atUUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088814884867965084",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088708218197557248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088708226355515614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiji121: ういちゃんの蓬咲ちゃんみある隠キャピースもといふにゃピ好き✌️\n\n#花宮初奈　#217find\n#バンドリ　#家団 https://t.co/omDN2atUUt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088708218197557248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyVDtkawAAZknA.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088708218197557248"
+          ],
+          "media_source_tweet_id": [
+            "2088708226355515614"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088814884867965084",
+        "created_at": "2026-08-16T02:27:31.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088814884867965084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "花宮初奈"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "217find"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "家団"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "116198362",
+              "start": 3,
+              "username": "meiji121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omDN2atUUt",
+              "end": 95,
+              "expanded_url": "https://x.com/meiji121/status/2088708226355515614/photo/1",
+              "media_key": "3_2088708218197557248",
+              "start": 72,
+              "url": "https://t.co/omDN2atUUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088814884867965084",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088708218197557248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088708226355515614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiji121: ういちゃんの蓬咲ちゃんみある隠キャピースもといふにゃピ好き✌️\n\n#花宮初奈　#217find\n#バンドリ　#家団 https://t.co/omDN2atUUt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088708218197557248"
+          ]
+        },
+        "author_id": "116198362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088708226355515614",
+        "created_at": "2026-08-15T19:23:42.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088708226355515614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "花宮初奈"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "217find"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "家団"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omDN2atUUt",
+              "end": 81,
+              "expanded_url": "https://x.com/meiji121/status/2088708226355515614/photo/1",
+              "media_key": "3_2088708218197557248",
+              "start": 58,
+              "url": "https://t.co/omDN2atUUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088708226355515614",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088708218197557248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 28173,
+          "like_count": 2278,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "ういちゃんの蓬咲ちゃんみある隠キャピースもといふにゃピ好き✌️\n\n#花宮初奈　#217find\n#バンドリ　#家団 https://t.co/omDN2atUUt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2088814884867965084",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 1021,
+          "like_count": 45471,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 3481
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-21T14:55:44.000Z",
+        "description": "お絵描き/ご依頼等はDMへ/二次創作ラ！(※百合含)南條さん実家。蓮ノ空、ばっどがーる花宮初奈さん推し🦐35pt※無断転載・無断使用・AI学習禁止・自作発言お断りﾏｼｭﾏﾛ(感想等)→https://t.co/2BgBeH4itB Skeb→https://t.co/YFlARAsdZJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/meiji121",
+                "end": 115,
+                "expanded_url": "https://marshmallow-qa.com/meiji121",
+                "start": 92,
+                "url": "https://t.co/2BgBeH4itB"
+              },
+              {
+                "display_url": "skeb.jp/@meiji121",
+                "end": 144,
+                "expanded_url": "https://skeb.jp/@meiji121",
+                "start": 121,
+                "url": "https://t.co/YFlARAsdZJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touch.pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://touch.pixiv.net/member.php?id=140378",
+                "start": 0,
+                "url": "https://t.co/kU53XNKtcB"
+              }
+            ]
+          }
+        },
+        "id": "116198362",
+        "is_identity_verified": false,
+        "location": "217findえびぷと民🦐 イラストの御依頼はDMまで",
+        "most_recent_tweet_id": "2088810522842161203",
+        "name": "めいじ🦐",
+        "pinned_tweet_id": "1932587640349725075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116198362/1717345189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041884754379993088/5N_Ja_u-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8157,
+          "following_count": 858,
+          "like_count": 66887,
+          "listed_count": 109,
+          "media_count": 3176,
+          "tweet_count": 103618
+        },
+        "url": "https://t.co/kU53XNKtcB",
+        "username": "meiji121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

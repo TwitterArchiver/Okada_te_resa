@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962467744064176128"
+      ],
+      "media_source_tweet_id": [
+        "1962467883092676964"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1962493033733362141",
+    "created_at": "2025-09-01T12:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T13:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962493033733362141"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 40,
+          "tag": "nogenki"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "地雷系"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "量産型"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815968553931268099",
+          "start": 3,
+          "username": "Nogenki_offic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sMWiPb3Ylt",
+          "end": 83,
+          "expanded_url": "https://x.com/Nogenki_offic/status/1962467883092676964/video/1",
+          "media_key": "13_1962467744064176128",
+          "start": 60,
+          "url": "https://t.co/sMWiPb3Ylt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962493033733362141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962467883092676964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nogenki_offic: もし商品化したら\n9.7（日）夜8時に\n\n#nogenki  #地雷系 #量産型 https://t.co/sMWiPb3Ylt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12066,
+        "height": 1920,
+        "media_key": "13_1962467744064176128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962467744064176128/img/sCSSjI0QvMI79CMa.jpg",
+        "public_metrics": {
+          "view_count": 585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962467744064176128/vid/avc1/1080x1920/waV5BAfwbaHUCBT9.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962467744064176128/vid/avc1/320x568/9KoRdath_bY22xn0.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962467744064176128/pl/7zwad_bkAnPZmUB0.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962467744064176128/vid/avc1/480x852/fN2RHPZZzM1z0xY9.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962467744064176128/vid/avc1/720x1280/fVe43FrtJoaiTVAv.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962467744064176128"
+          ],
+          "media_source_tweet_id": [
+            "1962467883092676964"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1962493033733362141",
+        "created_at": "2025-09-01T12:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962493033733362141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "nogenki"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "地雷系"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "量産型"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815968553931268099",
+              "start": 3,
+              "username": "Nogenki_offic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMWiPb3Ylt",
+              "end": 83,
+              "expanded_url": "https://x.com/Nogenki_offic/status/1962467883092676964/video/1",
+              "media_key": "13_1962467744064176128",
+              "start": 60,
+              "url": "https://t.co/sMWiPb3Ylt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962493033733362141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962467883092676964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nogenki_offic: もし商品化したら\n9.7（日）夜8時に\n\n#nogenki  #地雷系 #量産型 https://t.co/sMWiPb3Ylt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962467744064176128"
+          ]
+        },
+        "author_id": "1815968553931268099",
+        "conversation_id": "1962467883092676964",
+        "created_at": "2025-09-01T10:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962467883092676964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "nogenki"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "地雷系"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "量産型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMWiPb3Ylt",
+              "end": 64,
+              "expanded_url": "https://x.com/Nogenki_offic/status/1962467883092676964/video/1",
+              "media_key": "13_1962467744064176128",
+              "start": 41,
+              "url": "https://t.co/sMWiPb3Ylt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962467883092676964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2121,
+          "like_count": 92,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "もし商品化したら\n9.7（日）夜8時に\n\n#nogenki  #地雷系 #量産型 https://t.co/sMWiPb3Ylt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 488,
+          "like_count": 20322,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1083
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T04:33:50.000Z",
+        "description": "🖤地雷系・量産型ブランド🖤 大人かわいいブランド:@bunnylis_offic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "bunnylis_offic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nogenki.com",
+                "end": 23,
+                "expanded_url": "http://nogenki.com",
+                "start": 0,
+                "url": "https://t.co/TFEDW0yN89"
+              }
+            ]
+          }
+        },
+        "id": "1815968553931268099",
+        "name": "NoGenki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815968689856077826/YBI3ba_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 51,
+          "like_count": 44,
+          "listed_count": 36,
+          "media_count": 207,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/TFEDW0yN89",
+        "username": "Nogenki_offic",
+        "verified": true
+      }
+    ]
+  }
+}

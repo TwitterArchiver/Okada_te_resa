@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2078864704622178418",
+    "created_at": "2026-07-20T06:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079097559507955816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752569012012363776",
+          "start": 0,
+          "username": "queue_prompt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079097559507955816",
+    "in_reply_to_user_id": "1752569012012363776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079084092705149099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queue_prompt 好搞在哪好用在哪好受在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2078864704622178418",
+        "created_at": "2026-07-20T06:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079097559507955816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752569012012363776",
+              "start": 0,
+              "username": "queue_prompt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079097559507955816",
+        "in_reply_to_user_id": "1752569012012363776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079084092705149099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queue_prompt 好搞在哪好用在哪好受在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752569012012363776",
+        "conversation_id": "2078864704622178418",
+        "created_at": "2026-07-20T06:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079084092705149099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079084092705149099",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078864704622178418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 因為最好搞好用好受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 986,
+          "like_count": 43232,
+          "listed_count": 5,
+          "media_count": 724,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T05:46:59.000Z",
+        "description": "09高二 | 169cm/52kg | mtf/hrt since 25.7.24/天賦也許及格 | xp疑似危險 | minecraft/counter-strike | 某人@Platelet_X | looking forward to one day when I could love summer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Platelet_X"
+              }
+            ]
+          }
+        },
+        "id": "1752569012012363776",
+        "location": "NaN",
+        "name": "mimosa|Yoshino233醬世界第一可愛！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058110569786355712/0omHmmDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 163,
+          "like_count": 22640,
+          "listed_count": 5,
+          "media_count": 396,
+          "tweet_count": 4381
+        },
+        "url": "",
+        "username": "queue_prompt",
+        "verified": false
+      }
+    ]
+  }
+}

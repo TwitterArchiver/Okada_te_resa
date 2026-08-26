@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2037860735024525669",
+    "created_at": "2026-03-28T13:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037891425581588682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037891425581588682",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037860735024525669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA0 真的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2037860735024525669",
+        "created_at": "2026-03-28T13:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037891425581588682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037891425581588682",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037860735024525669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA0 真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "2037860735024525669",
+        "created_at": "2026-03-28T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037860735024525669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okada_te_resa/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/okada_te_resa/status/1996969043513766084",
+              "start": 13,
+              "url": "https://t.co/mAK0ieVzeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037860735024525669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996969043513766084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "担担面太好看了你们知道吗 https://t.co/mAK0ieVzeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 735,
+          "like_count": 35561,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 2304
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "我是mtf/坐标冀接线下//皮下176cm/互fo 和我做朋友吧",
+        "id": "1354545024046821376",
+        "location": "任何你可以支付路费的地方～",
+        "name": "三原怜",
+        "pinned_tweet_id": "2033772658744300023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006116554845671424/Ni1Sr3p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 678,
+          "like_count": 7241,
+          "listed_count": 3,
+          "media_count": 1042,
+          "tweet_count": 8166
+        },
+        "username": "KURANAGA0",
+        "verified": false
+      }
+    ]
+  }
+}

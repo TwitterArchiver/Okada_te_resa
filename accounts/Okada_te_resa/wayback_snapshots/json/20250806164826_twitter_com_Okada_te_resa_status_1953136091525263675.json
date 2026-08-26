@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1953049979607761156",
+    "created_at": "2025-08-06T16:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953136091525263675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1152599208106455040",
+          "start": 0,
+          "username": "FinSongemperor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953136091525263675",
+    "in_reply_to_user_id": "1152599208106455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953049979607761156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FinSongemperor 问问衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11945,
+        "height": 1280,
+        "media_key": "13_1953049891019866113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953049891019866113/img/tOr5IVN3xZPNO6Da.jpg",
+        "public_metrics": {
+          "view_count": 2482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953049891019866113/vid/avc1/320x568/Gp-XV9YK2S7abomh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953049891019866113/vid/avc1/480x852/owauRdXKm5RGVokF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953049891019866113/vid/avc1/720x1280/LDyWzvxYAXrsu7lp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953049891019866113/pl/lKiTiTJjf-95LE5X.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 24566,
+        "height": 1280,
+        "media_key": "13_1953049891011440640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953049891011440640/img/y35ajn-lEXumUfuz.jpg",
+        "public_metrics": {
+          "view_count": 490
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953049891011440640/vid/avc1/320x568/LJIidbVbPNJGYdF0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953049891011440640/vid/avc1/480x852/EthQb9SOTy3Z3eD4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953049891011440640/vid/avc1/720x1280/v7GSqO8Mq5lXRTTd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953049891011440640/pl/tJK1H6n5ofhOITez.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1953049979607761156",
+        "created_at": "2025-08-06T16:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953136091525263675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1152599208106455040",
+              "start": 0,
+              "username": "FinSongemperor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953136091525263675",
+        "in_reply_to_user_id": "1152599208106455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953049979607761156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FinSongemperor 问问衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953049891019866113",
+            "13_1953049891011440640"
+          ]
+        },
+        "author_id": "1152599208106455040",
+        "conversation_id": "1953049979607761156",
+        "created_at": "2025-08-06T11:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953049979607761156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "ts"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "cd"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "巨乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duj3jMedql",
+              "end": 68,
+              "expanded_url": "https://x.com/FinSongemperor/status/1953049979607761156/video/1",
+              "media_key": "13_1953049891019866113",
+              "start": 45,
+              "url": "https://t.co/duj3jMedql"
+            },
+            {
+              "display_url": "pic.x.com/duj3jMedql",
+              "end": 68,
+              "expanded_url": "https://x.com/FinSongemperor/status/1953049979607761156/video/1",
+              "media_key": "13_1953049891011440640",
+              "start": 45,
+              "url": "https://t.co/duj3jMedql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953049979607761156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13211,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎各位哥哥来找我玩哦，所见即所得，别忘记过🚪问价喔😜\n#男娘 #ts #cd #巨乳！ https://t.co/duj3jMedql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 450,
+          "like_count": 18537,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 931
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-20T15:20:40.000Z",
+        "description": "🚪50加联系方式 仅回复支付宝口令 接线下 常驻江浙沪皖",
+        "id": "1152599208106455040",
+        "location": "南京市",
+        "name": "coda",
+        "pinned_tweet_id": "1953049979607761156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865571792951394304/DLwnGhVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42532,
+          "following_count": 179,
+          "like_count": 188,
+          "listed_count": 189,
+          "media_count": 39,
+          "tweet_count": 519
+        },
+        "username": "FinSongemperor",
+        "verified": false
+      }
+    ]
+  }
+}

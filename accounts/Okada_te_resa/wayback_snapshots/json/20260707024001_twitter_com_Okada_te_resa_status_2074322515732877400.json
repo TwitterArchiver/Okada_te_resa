@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2074320733954854990",
+    "created_at": "2026-07-07T02:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074322515732877400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074322515732877400",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074320733954854990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Ayn_kitkia aya的3老师终于更新了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074320730377146369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl3tsxb0AEV_ip.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2074320733954854990",
+        "created_at": "2026-07-07T02:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074322515732877400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074322515732877400",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074320733954854990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Ayn_kitkia aya的3老师终于更新了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074320730377146369"
+          ]
+        },
+        "author_id": "2049186369361289216",
+        "conversation_id": "2074320733954854990",
+        "created_at": "2026-07-07T02:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074320733954854990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXQ2rTGe32",
+              "end": 27,
+              "expanded_url": "https://x.com/Ayn_kitkia/status/2074320733954854990/photo/1",
+              "media_key": "3_2074320730377146369",
+              "start": 4,
+              "url": "https://t.co/lXQ2rTGe32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074320733954854990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 78,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "本栖湖 https://t.co/lXQ2rTGe32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 961,
+          "like_count": 42031,
+          "listed_count": 5,
+          "media_count": 701,
+          "tweet_count": 3258
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "オス♂//aya避難所✦喜欢您来🍟",
+        "id": "2049186369361289216",
+        "location": "Minato-ku, Tokyo",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2058434921715368102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051147515882622976/G53Dk8sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 224,
+          "like_count": 5561,
+          "listed_count": 11,
+          "media_count": 78,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

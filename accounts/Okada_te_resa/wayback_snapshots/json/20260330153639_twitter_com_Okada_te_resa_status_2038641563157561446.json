@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2038619564960100556",
+    "created_at": "2026-03-30T15:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038641563157561446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038641563157561446",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038619564960100556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 富区死妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1717,
+        "media_key": "3_2038619470093221889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqhm2MaAAEVrgx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2038619564960100556",
+        "created_at": "2026-03-30T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038641563157561446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038641563157561446",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038619564960100556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 富区死妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038619470093221889"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2038619564960100556",
+        "created_at": "2026-03-30T14:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038619564960100556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJJBd5Us9a",
+              "end": 43,
+              "expanded_url": "https://x.com/realNyarime/status/2038619564960100556/photo/1",
+              "media_key": "3_2038619470093221889",
+              "start": 20,
+              "url": "https://t.co/CJJBd5Us9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038619564960100556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 10783,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家感觉这说的对吗，你看看你占了几条🤗 https://t.co/CJJBd5Us9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 737,
+          "like_count": 35735,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 2328
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24690,
+          "following_count": 499,
+          "like_count": 11548,
+          "listed_count": 109,
+          "media_count": 1309,
+          "tweet_count": 9028
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997553538814099456"
+      ],
+      "media_source_tweet_id": [
+        "1997553559202938922"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      }
+    ],
+    "conversation_id": "2011648549981995130",
+    "created_at": "2026-01-15T03:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T04:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011648549981995130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646433542661115904",
+          "start": 3,
+          "username": "Lanyinwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TE2H1Ez2bH",
+          "end": 45,
+          "expanded_url": "https://x.com/Lanyinwu/status/1997553559202938922/photo/1",
+          "media_key": "3_1997553538814099456",
+          "start": 22,
+          "url": "https://t.co/TE2H1Ez2bH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011648549981995130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997553559202938922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lanyinwu: 小主人和大型犬 https://t.co/TE2H1Ez2bH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997553538814099456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7i8XCzWwAAU2kR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997553538814099456"
+          ],
+          "media_source_tweet_id": [
+            "1997553559202938922"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2011648549981995130",
+        "created_at": "2026-01-15T03:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011648549981995130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646433542661115904",
+              "start": 3,
+              "username": "Lanyinwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TE2H1Ez2bH",
+              "end": 45,
+              "expanded_url": "https://x.com/Lanyinwu/status/1997553559202938922/photo/1",
+              "media_key": "3_1997553538814099456",
+              "start": 22,
+              "url": "https://t.co/TE2H1Ez2bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011648549981995130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997553559202938922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lanyinwu: 小主人和大型犬 https://t.co/TE2H1Ez2bH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997553538814099456"
+          ]
+        },
+        "author_id": "1646433542661115904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "1997553559202938922",
+        "created_at": "2025-12-07T06:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T07:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997553559202938922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TE2H1Ez2bH",
+              "end": 31,
+              "expanded_url": "https://x.com/Lanyinwu/status/1997553559202938922/photo/1",
+              "media_key": "3_1997553538814099456",
+              "start": 8,
+              "url": "https://t.co/TE2H1Ez2bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997553559202938922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 135878,
+          "like_count": 1563,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "小主人和大型犬 https://t.co/TE2H1Ez2bH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 684,
+          "like_count": 29474,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1744
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "个人日常，私信不开，不提供任何服务。",
+        "id": "1646433542661115904",
+        "location": "小予天天开心",
+        "name": "盛予",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22597,
+          "following_count": 8,
+          "like_count": 3231,
+          "listed_count": 43,
+          "media_count": 172,
+          "tweet_count": 2111
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

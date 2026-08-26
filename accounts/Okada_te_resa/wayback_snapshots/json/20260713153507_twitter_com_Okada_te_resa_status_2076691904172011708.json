@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076562964820435306",
+    "created_at": "2026-07-13T15:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076691904172011708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076691904172011708",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076562964820435306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 电子嘉豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076562964820435306",
+        "created_at": "2026-07-13T15:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076691904172011708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691904172011708",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076562964820435306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 电子嘉豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054099511279296512",
+        "conversation_id": "2076562964820435306",
+        "created_at": "2026-07-13T07:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076562964820435306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076562964820435306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说我是跨➗，我感到可笑，我考你一个问题，回答不出来就闭上你的臭嘴，绝对禁止用AI！\n某7¹/₂位数字万用表\n故障：\n所有功能  都有误差\n数据：\nDCV:+12ppm \n电阻：+11ppm \n电流: +13ppm \n温度系数: 正常\n维修：输入保护正常  分压正常  恒流源正常  ADC正常\n唯一异常: \n5V基准: \n标准： 5.000000V \n实测：5.000065V \n问题：\n1️⃣最可能故障？\n2️⃣为什么所有功能同时偏高？\n3️⃣如果基准源上升65uv  理论误差是多少ppm? \n4️⃣更换基准源后是否一定需要重新校准?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 775,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说我是跨➗，我感到可笑，我考你一个问题，回答不出来就闭上你的臭嘴，绝对禁止用AI！\n某7¹/₂位数字万用表\n故障：\n所有功能  都有误差\n数据：\nDCV:+12ppm \n电阻：+11ppm \n电流: +13ppm \n温度系数: 正常\n维修：输入保护正常  分压正常  恒流源正常  ADC正常\n唯一异常: \n5V基准: \n标准： 5.000000V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 972,
+          "like_count": 42687,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 283,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

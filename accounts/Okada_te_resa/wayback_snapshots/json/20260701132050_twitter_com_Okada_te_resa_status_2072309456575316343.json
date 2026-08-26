@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072292581086744576",
+        "3_2072292581095161856",
+        "3_2072292581107716096"
+      ],
+      "media_source_tweet_id": [
+        "2072292593317408889",
+        "2072292593317408889",
+        "2072292593317408889"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2072309456575316343",
+    "created_at": "2026-07-01T13:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072309456575316343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1178342689206493185",
+          "start": 3,
+          "username": "NANIMONO_purin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uQ7293RWQE",
+          "end": 56,
+          "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+          "media_key": "3_2072292581086744576",
+          "start": 33,
+          "url": "https://t.co/uQ7293RWQE"
+        },
+        {
+          "display_url": "pic.x.com/uQ7293RWQE",
+          "end": 56,
+          "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+          "media_key": "3_2072292581095161856",
+          "start": 33,
+          "url": "https://t.co/uQ7293RWQE"
+        },
+        {
+          "display_url": "pic.x.com/uQ7293RWQE",
+          "end": 56,
+          "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+          "media_key": "3_2072292581107716096",
+          "start": 33,
+          "url": "https://t.co/uQ7293RWQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072309456575316343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072292593317408889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NANIMONO_purin: 147cm 沖縄海デート https://t.co/uQ7293RWQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072292581086744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJDH35aUAAHXhU.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2072292581095161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJDH37awAAPDIr.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2072292581107716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJDH3-aUAAjVmb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072292581086744576",
+            "3_2072292581095161856",
+            "3_2072292581107716096"
+          ],
+          "media_source_tweet_id": [
+            "2072292593317408889",
+            "2072292593317408889",
+            "2072292593317408889"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2072309456575316343",
+        "created_at": "2026-07-01T13:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072309456575316343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1178342689206493185",
+              "start": 3,
+              "username": "NANIMONO_purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQ7293RWQE",
+              "end": 56,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+              "media_key": "3_2072292581086744576",
+              "start": 33,
+              "url": "https://t.co/uQ7293RWQE"
+            },
+            {
+              "display_url": "pic.x.com/uQ7293RWQE",
+              "end": 56,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+              "media_key": "3_2072292581095161856",
+              "start": 33,
+              "url": "https://t.co/uQ7293RWQE"
+            },
+            {
+              "display_url": "pic.x.com/uQ7293RWQE",
+              "end": 56,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+              "media_key": "3_2072292581107716096",
+              "start": 33,
+              "url": "https://t.co/uQ7293RWQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072309456575316343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072292593317408889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NANIMONO_purin: 147cm 沖縄海デート https://t.co/uQ7293RWQE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072292581086744576",
+            "3_2072292581095161856",
+            "3_2072292581107716096"
+          ]
+        },
+        "author_id": "1178342689206493185",
+        "conversation_id": "2072292593317408889",
+        "created_at": "2026-07-01T12:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072292593317408889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQ7293RWQE",
+              "end": 36,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+              "media_key": "3_2072292581086744576",
+              "start": 13,
+              "url": "https://t.co/uQ7293RWQE"
+            },
+            {
+              "display_url": "pic.x.com/uQ7293RWQE",
+              "end": 36,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+              "media_key": "3_2072292581095161856",
+              "start": 13,
+              "url": "https://t.co/uQ7293RWQE"
+            },
+            {
+              "display_url": "pic.x.com/uQ7293RWQE",
+              "end": 36,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2072292593317408889/photo/1",
+              "media_key": "3_2072292581107716096",
+              "start": 13,
+              "url": "https://t.co/uQ7293RWQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072292593317408889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 39772,
+          "like_count": 1810,
+          "quote_count": 23,
+          "reply_count": 38,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "147cm 沖縄海デート https://t.co/uQ7293RWQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 936,
+          "like_count": 41544,
+          "listed_count": 4,
+          "media_count": 690,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T16:16:12.000Z",
+        "description": "NANIMONO(@NANIMONO_idol) 黄色 ねぎしぷりんだよ🍮食いしん坊ビール大好きインキャ🍺群馬県出身147cm！きょうもビールがうまい！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "NANIMONO_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/purin__oi4?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/purin__oi4?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/sjgBxGegEm"
+              }
+            ]
+          }
+        },
+        "id": "1178342689206493185",
+        "location": " #せーのでぷっちん  #きょうもぷりんがうまい ",
+        "name": "眠岸ぷりん",
+        "pinned_tweet_id": "1995418029463933353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061751449021972480/7OwrC2VF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107891,
+          "following_count": 249,
+          "like_count": 122016,
+          "listed_count": 651,
+          "media_count": 1408,
+          "tweet_count": 17509
+        },
+        "url": "https://t.co/sjgBxGegEm",
+        "username": "NANIMONO_purin",
+        "verified": true
+      }
+    ]
+  }
+}

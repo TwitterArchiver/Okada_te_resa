@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2038291577655693336",
+    "created_at": "2026-03-29T16:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038291577655693336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038291577655693336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038241768190443553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 2026年3月29日，国产摩托车品牌“张雪机车”在世界超级摩托车锦标赛（WSBK）葡萄牙站中量级组别（WorldSSP）中成功登顶夺冠\n\n毫秒级赛场，3秒+ 优势！张雪 820RR 征服世界顶级赛事，夺冠后张雪喜极而泣。在此之前，WSBK的中量级组别（…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18800,
+        "height": 1080,
+        "media_key": "13_2038241003266838528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038241003266838528/img/_A2xkT2KfHdjQuVm.jpg",
+        "public_metrics": {
+          "view_count": 45071
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038241003266838528/pl/8f_MvlHs9tjwGgAs.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038241003266838528/vid/avc1/480x270/P2NQxmTJXZOnItCB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038241003266838528/vid/avc1/640x360/nc3RXPES2mWEp03w.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038241003266838528/vid/avc1/1920x1080/yPzGlgm42IotSda8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038241003266838528/vid/avc1/1280x720/IGIh03J36-9KOyzn.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2038291577655693336",
+        "created_at": "2026-03-29T16:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038291577655693336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038291577655693336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038241768190443553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 2026年3月29日，国产摩托车品牌“张雪机车”在世界超级摩托车锦标赛（WSBK）葡萄牙站中量级组别（WorldSSP）中成功登顶夺冠\n\n毫秒级赛场，3秒+ 优势！张雪 820RR 征服世界顶级赛事，夺冠后张雪喜极而泣。在此之前，WSBK的中量级组别（…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038241003266838528"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2038241768190443553",
+        "created_at": "2026-03-29T13:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038241768190443553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ELZ02mVoE",
+              "end": 182,
+              "expanded_url": "https://x.com/igeekbb/status/2038241768190443553/video/1",
+              "media_key": "13_2038241003266838528",
+              "start": 159,
+              "url": "https://t.co/6ELZ02mVoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038241768190443553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2026年3月29日，国产摩托车品牌“张雪机车”在世界超级摩托车锦标赛（WSBK）葡萄牙站中量级组别（WorldSSP）中成功登顶夺冠\n\n毫秒级赛场，3秒+ 优势！张雪 820RR 征服世界顶级赛事，夺冠后张雪喜极而泣。在此之前，WSBK的中量级组别（SSP）长期被杜卡迪、雅马哈、川崎等欧美日国际老牌豪强所垄断 。\n\n张雪，湖南怀化农村出身，14 岁辍学当修车学徒，自学机车技术。19 岁因拦记者求上电视被关注，后成为半职业赛车手。2009 年创立国产机车品牌“珠峰凯越”，6 年内将公司市值从 600 万做到 9 亿，带领中国车队首次登上达喀尔拉力赛。2024 年因理念分歧离开凯越，同年创立“张雪机车”，推出首款车型 500RR，主打“极致·热爱”理念。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 93258,
+          "like_count": 707,
+          "quote_count": 13,
+          "reply_count": 72,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "2026年3月29日，国产摩托车品牌“张雪机车”在世界超级摩托车锦标赛（WSBK）葡萄牙站中量级组别（WorldSSP）中成功登顶夺冠\n\n毫秒级赛场，3秒+ 优势！张雪 820RR 征服世界顶级赛事，夺冠后张雪喜极而泣。在此之前，WSBK的中量级组别（SSP）长期被杜卡迪、雅马哈、川崎等欧美日国际老牌豪强所垄断 。 https://t.co/6ELZ02mVoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 735,
+          "like_count": 35664,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 2320
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69684,
+          "following_count": 1,
+          "like_count": 12989,
+          "listed_count": 293,
+          "media_count": 6879,
+          "tweet_count": 10867
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

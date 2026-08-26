@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088827064866775040"
+      ],
+      "media_source_tweet_id": [
+        "2088827073125335414"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2089019621185901054",
+    "created_at": "2026-08-16T16:01:04.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089019621185901054"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "斉藤朱夏誕生日2026"
+        },
+        {
+          "end": 41,
+          "start": 29,
+          "tag": "斉藤朱夏生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2362504070",
+          "start": 3,
+          "username": "nana7sao"
+        },
+        {
+          "end": 84,
+          "id": "725451285919453184",
+          "start": 73,
+          "username": "MkitaPhoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JF7u2bY3tU",
+          "end": 108,
+          "expanded_url": "https://x.com/nana7sao/status/2088827073125335414/photo/1",
+          "media_key": "3_2088827064866775040",
+          "start": 85,
+          "url": "https://t.co/JF7u2bY3tU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089019621185901054",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088827064866775040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088827073125335414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nana7sao: #斉藤朱夏誕生日2026 \n #斉藤朱夏生誕祭2026\n \n一生大好き🥰🥰🥰\n一生尊敬🥰🥰🥰\n一生推す❤️🩵❤️\n\n📸@MkitaPhoto https://t.co/JF7u2bY3tU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088827064866775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0BJf6bIAAuGrM.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088827064866775040"
+          ],
+          "media_source_tweet_id": [
+            "2088827073125335414"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2089019621185901054",
+        "created_at": "2026-08-16T16:01:04.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089019621185901054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "斉藤朱夏誕生日2026"
+            },
+            {
+              "end": 41,
+              "start": 29,
+              "tag": "斉藤朱夏生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2362504070",
+              "start": 3,
+              "username": "nana7sao"
+            },
+            {
+              "end": 84,
+              "id": "725451285919453184",
+              "start": 73,
+              "username": "MkitaPhoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JF7u2bY3tU",
+              "end": 108,
+              "expanded_url": "https://x.com/nana7sao/status/2088827073125335414/photo/1",
+              "media_key": "3_2088827064866775040",
+              "start": 85,
+              "url": "https://t.co/JF7u2bY3tU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089019621185901054",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088827064866775040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088827073125335414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nana7sao: #斉藤朱夏誕生日2026 \n #斉藤朱夏生誕祭2026\n \n一生大好き🥰🥰🥰\n一生尊敬🥰🥰🥰\n一生推す❤️🩵❤️\n\n📸@MkitaPhoto https://t.co/JF7u2bY3tU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088827064866775040"
+          ]
+        },
+        "author_id": "2362504070",
+        "conversation_id": "2088827073125335414",
+        "created_at": "2026-08-16T03:15:57.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088827073125335414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "斉藤朱夏誕生日2026"
+            },
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "斉藤朱夏生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 70,
+              "id": "725451285919453184",
+              "start": 59,
+              "username": "MkitaPhoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JF7u2bY3tU",
+              "end": 94,
+              "expanded_url": "https://x.com/nana7sao/status/2088827073125335414/photo/1",
+              "media_key": "3_2088827064866775040",
+              "start": 71,
+              "url": "https://t.co/JF7u2bY3tU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088827073125335414",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088827064866775040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1850,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#斉藤朱夏誕生日2026 \n #斉藤朱夏生誕祭2026\n \n一生大好き🥰🥰🥰\n一生尊敬🥰🥰🥰\n一生推す❤️🩵❤️\n\n📸@MkitaPhoto https://t.co/JF7u2bY3tU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2089019621185901054",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1021,
+          "like_count": 45673,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 3496
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-26T10:53:10.000Z",
+        "description": "🔝4ｷﾖ。/朱夏人/鯉友/ｼｬｹ🐻/ラ！/ｾﾞﾙ伝⚔️/ﾎﾟｹﾓﾝ/ﾎﾞｸﾝﾁ(RADWIMPS)/四季の会/コピユニで歌ったり踊ったり▶︎結ヶ峰女子高等学校🍨/Aqua track⛵️/meiris🐻/永遠のLove ReLive🇷🇺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/playlist?list=PLw3qVfy_uzxsIWHBiTp_HsPcNrnvjwg7H",
+                "start": 0,
+                "url": "https://t.co/88K5VkzLxp"
+              }
+            ]
+          }
+        },
+        "id": "2362504070",
+        "is_identity_verified": false,
+        "location": "推しのところ",
+        "most_recent_tweet_id": "2088911314165092586",
+        "name": "ななさお@8/2あくとらハピトラ🚃",
+        "pinned_tweet_id": "2088827073125335414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362504070/1767007874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069284774250987520/wMosjG0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 829,
+          "like_count": 16846,
+          "listed_count": 35,
+          "media_count": 1117,
+          "tweet_count": 11425
+        },
+        "url": "https://t.co/88K5VkzLxp",
+        "username": "nana7sao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-27T22:27:19.000Z",
+        "description": "コスプレ・ステージ・ライブを中心に撮影しています📷\n撮影のお誘いはお気軽にDMまで。\nラブライブ！シリーズ/バンドリ/D4DJ/ウマ娘/スタァライト/アサルトリリィ/ひぐらし/プロセカ/FGO/艦これ/ポトレ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/MkitaPhoto",
+                "end": 23,
+                "expanded_url": "https://lit.link/MkitaPhoto",
+                "start": 0,
+                "url": "https://t.co/s3H4LBSg1v"
+              }
+            ]
+          }
+        },
+        "id": "725451285919453184",
+        "is_identity_verified": false,
+        "location": "公式カメラ・写真集等の撮影実績→",
+        "most_recent_tweet_id": "2088944377553199528",
+        "name": "マキタ",
+        "pinned_tweet_id": "2088219650232619361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725451285919453184/1567846748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725705587854479365/Ask8V123_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 1691,
+          "like_count": 24651,
+          "listed_count": 8,
+          "media_count": 613,
+          "tweet_count": 5158
+        },
+        "url": "https://t.co/s3H4LBSg1v",
+        "username": "MkitaPhoto",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

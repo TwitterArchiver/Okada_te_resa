@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2053238382474445125",
+    "created_at": "2026-05-10T09:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053412805542564166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053412805542564166",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053238382474445125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll ？！强！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053238373897142275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6RbCtXAAMqwFw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2053238382474445125",
+        "created_at": "2026-05-10T09:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053412805542564166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053412805542564166",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053238382474445125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll ？！强！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053238373897142275"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053238382474445125",
+        "created_at": "2026-05-09T22:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053238382474445125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4bJ7qmDJt",
+              "end": 30,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2053238382474445125/photo/1",
+              "media_key": "3_2053238373897142275",
+              "start": 7,
+              "url": "https://t.co/k4bJ7qmDJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053238382474445125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是神秘w2 https://t.co/k4bJ7qmDJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 815,
+          "like_count": 38182,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 2705
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/BPD/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥姐妹@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「昇天」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043325022249381888/KmL2tecR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 491,
+          "like_count": 9481,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 3621
+        },
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

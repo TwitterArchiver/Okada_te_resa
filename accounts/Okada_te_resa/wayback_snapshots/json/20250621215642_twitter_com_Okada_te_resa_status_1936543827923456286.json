@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936543827923456286",
+    "created_at": "2025-06-21T21:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T22:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936543827923456286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691791250670895105",
+          "start": 3,
+          "username": "Kilig_i777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936543827923456286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935914370263138429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kilig_i777: 正缘你说实话你到底是死了还是没出生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936543827923456286",
+        "created_at": "2025-06-21T21:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T22:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936543827923456286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691791250670895105",
+              "start": 3,
+              "username": "Kilig_i777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936543827923456286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935914370263138429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kilig_i777: 正缘你说实话你到底是死了还是没出生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1935914370263138429",
+        "created_at": "2025-06-20T04:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935914370263138429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935914370263138429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 53618,
+          "like_count": 688,
+          "quote_count": 15,
+          "reply_count": 41,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "正缘你说实话你到底是死了还是没出生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 336,
+          "like_count": 15221,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 672
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "不想叫我宝宝可以叫我香香｜谢谢你的取关 ｜匿名📪 https://t.co/xEONfKiwpu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 48,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 25,
+                "url": "https://t.co/xEONfKiwpu"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝",
+        "pinned_tweet_id": "1930580592913007036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927900924237762560/_p_RRqEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 212,
+          "like_count": 8552,
+          "listed_count": 10,
+          "media_count": 117,
+          "tweet_count": 3692
+        },
+        "username": "Kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

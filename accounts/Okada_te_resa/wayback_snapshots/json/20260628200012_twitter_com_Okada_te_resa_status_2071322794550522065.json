@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2071322794550522065",
+    "created_at": "2026-06-28T20:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071322794550522065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939672438490705920",
+          "start": 3,
+          "username": "Mamenchi0617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071322794550522065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976961359649948009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mamenchi0617: ANNYXの初ULTIMA FES登場！\n優秀なグルプ達と同じステージに立って、一年前のﾏﾒﾝﾁｻｳﾙｽ🦕には想像できなかった。\nこの三日間も精一杯歌いました。\nみんなと一緒に過ごすの時間は、もっと長いならいいなって思う。\n休みの日はもうすぐ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976961351252869120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-T3-QagAAG4ps.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976961351219396609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-T3-IbwAEiTIg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976961351244562434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-T3-ObwAIH8Xc.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1367,
+        "media_key": "3_1976961351236173830",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-T3-MbwAY5Oen.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2071322794550522065",
+        "created_at": "2026-06-28T20:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071322794550522065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939672438490705920",
+              "start": 3,
+              "username": "Mamenchi0617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071322794550522065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976961359649948009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mamenchi0617: ANNYXの初ULTIMA FES登場！\n優秀なグルプ達と同じステージに立って、一年前のﾏﾒﾝﾁｻｳﾙｽ🦕には想像できなかった。\nこの三日間も精一杯歌いました。\nみんなと一緒に過ごすの時間は、もっと長いならいいなって思う。\n休みの日はもうすぐ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976961351252869120",
+            "3_1976961351219396609",
+            "3_1976961351244562434",
+            "3_1976961351236173830"
+          ]
+        },
+        "author_id": "1939672438490705920",
+        "conversation_id": "1976961359649948009",
+        "created_at": "2025-10-11T10:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976961359649948009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tS1KJWrrKi",
+              "end": 171,
+              "expanded_url": "https://x.com/Mamenchi0617/status/1976961359649948009/photo/1",
+              "media_key": "3_1976961351252869120",
+              "start": 148,
+              "url": "https://t.co/tS1KJWrrKi"
+            },
+            {
+              "display_url": "pic.x.com/tS1KJWrrKi",
+              "end": 171,
+              "expanded_url": "https://x.com/Mamenchi0617/status/1976961359649948009/photo/1",
+              "media_key": "3_1976961351219396609",
+              "start": 148,
+              "url": "https://t.co/tS1KJWrrKi"
+            },
+            {
+              "display_url": "pic.x.com/tS1KJWrrKi",
+              "end": 171,
+              "expanded_url": "https://x.com/Mamenchi0617/status/1976961359649948009/photo/1",
+              "media_key": "3_1976961351244562434",
+              "start": 148,
+              "url": "https://t.co/tS1KJWrrKi"
+            },
+            {
+              "display_url": "pic.x.com/tS1KJWrrKi",
+              "end": 171,
+              "expanded_url": "https://x.com/Mamenchi0617/status/1976961359649948009/photo/1",
+              "media_key": "3_1976961351236173830",
+              "start": 148,
+              "url": "https://t.co/tS1KJWrrKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976961359649948009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 976,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ANNYXの初ULTIMA FES登場！\n優秀なグルプ達と同じステージに立って、一年前のﾏﾒﾝﾁｻｳﾙｽ🦕には想像できなかった。\nこの三日間も精一杯歌いました。\nみんなと一緒に過ごすの時間は、もっと長いならいいなって思う。\n休みの日はもうすぐ終わります。\n学校生活も頑張る_:(´ཀ`」 ∠): https://t.co/tS1KJWrrKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 932,
+          "like_count": 41369,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 3161
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T13:08:56.000Z",
+        "description": "上海アイドルユニット『ANNYX🦕💜 』｜普段は大学生｜最後まで歌います。",
+        "id": "1939672438490705920",
+        "location": "上海",
+        "name": "馬門渓Mamenchi-ANNYX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015755025243607040/ZVDezrJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 92,
+          "like_count": 27,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "Mamenchi0617",
+        "verified": false
+      }
+    ]
+  }
+}

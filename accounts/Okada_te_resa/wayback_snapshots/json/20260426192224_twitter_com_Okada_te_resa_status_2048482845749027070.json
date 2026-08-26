@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048416886871003136"
+      ],
+      "media_source_tweet_id": [
+        "2048416910094786788"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2048482845749027070",
+    "created_at": "2026-04-26T19:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048482845749027070"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 74,
+          "tag": "Aqours"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "渡辺曜"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881286384570531840",
+          "start": 3,
+          "username": "lintaimoi"
+        },
+        {
+          "end": 71,
+          "id": "857691247011520512",
+          "start": 57,
+          "username": "Shuwa_Nousagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2mUt4OfncR",
+          "end": 116,
+          "expanded_url": "https://x.com/lintaimoi/status/2048416910094786788/photo/1",
+          "media_key": "3_2048416886871003136",
+          "start": 93,
+          "url": "https://t.co/2mUt4OfncR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048482845749027070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048416910094786788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lintaimoi: 💙恋になりたいAQUARIUM 💙\r   🐠10th anniversary🐟\n\n📷@Shuwa_Nousagi \n\n#Aqours #渡辺曜 #コスプレ https://t.co/2mUt4OfncR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048416886871003136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1wTj3bkAAcMdE.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048416886871003136"
+          ],
+          "media_source_tweet_id": [
+            "2048416910094786788"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2048482845749027070",
+        "created_at": "2026-04-26T19:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048482845749027070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "Aqours"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "渡辺曜"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881286384570531840",
+              "start": 3,
+              "username": "lintaimoi"
+            },
+            {
+              "end": 71,
+              "id": "857691247011520512",
+              "start": 57,
+              "username": "Shuwa_Nousagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mUt4OfncR",
+              "end": 116,
+              "expanded_url": "https://x.com/lintaimoi/status/2048416910094786788/photo/1",
+              "media_key": "3_2048416886871003136",
+              "start": 93,
+              "url": "https://t.co/2mUt4OfncR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048482845749027070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048416910094786788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lintaimoi: 💙恋になりたいAQUARIUM 💙\r   🐠10th anniversary🐟\n\n📷@Shuwa_Nousagi \n\n#Aqours #渡辺曜 #コスプレ https://t.co/2mUt4OfncR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048416886871003136"
+          ]
+        },
+        "author_id": "1881286384570531840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          }
+        ],
+        "conversation_id": "2048416910094786788",
+        "created_at": "2026-04-26T15:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048416910094786788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "Aqours"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "渡辺曜"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 56,
+              "id": "857691247011520512",
+              "start": 42,
+              "username": "Shuwa_Nousagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mUt4OfncR",
+              "end": 101,
+              "expanded_url": "https://x.com/lintaimoi/status/2048416910094786788/photo/1",
+              "media_key": "3_2048416886871003136",
+              "start": 78,
+              "url": "https://t.co/2mUt4OfncR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048416910094786788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1589,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "💙恋になりたいAQUARIUM 💙\r   🐠10th anniversary🐟\n\n📷@Shuwa_Nousagi \n\n#Aqours #渡辺曜 #コスプレ https://t.co/2mUt4OfncR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 792,
+          "like_count": 37308,
+          "listed_count": 3,
+          "media_count": 496,
+          "tweet_count": 2581
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T10:23:40.000Z",
+        "description": "全平台同名",
+        "id": "1881286384570531840",
+        "name": "临太moi_",
+        "pinned_tweet_id": "1932488898774737365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953399938668531712/QY2sbKZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 107,
+          "like_count": 1074,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 117
+        },
+        "username": "lintaimoi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-27T20:21:43.000Z",
+        "description": "中国山東省出身🇨🇳#野うさぎ同盟🐰🥕 #わためいと🐏 #朱夏人🟥 #鯉友🐟 F1大ファン🏎️ bilibiliチャンネル：【peko酱的野兔子】 https://t.co/LKwSVcWkVF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "野うさぎ同盟"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "tag": "わためいと"
+              },
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "朱夏人"
+              },
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "鯉友"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/Occ90jp",
+                "end": 96,
+                "expanded_url": "https://b23.tv/Occ90jp",
+                "start": 73,
+                "url": "https://t.co/LKwSVcWkVF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Occ90jp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/Occ90jp",
+                "start": 0,
+                "url": "https://t.co/LKwSVcWkVF"
+              }
+            ]
+          }
+        },
+        "id": "857691247011520512",
+        "location": "和歌山県　岩出市",
+        "name": "ノウサギ_シュワ🐰🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627130232728870912/xlh-t3r4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 700,
+          "like_count": 12345,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/LKwSVcWkVF",
+        "username": "Shuwa_Nousagi",
+        "verified": false
+      }
+    ]
+  }
+}

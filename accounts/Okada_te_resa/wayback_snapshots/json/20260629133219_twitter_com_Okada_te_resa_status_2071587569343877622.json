@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2071587569343877622",
+    "created_at": "2026-06-29T13:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071587569343877622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2598018877",
+          "start": 3,
+          "username": "europemaxxed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071587569343877622",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3496
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071354700826624450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @europemaxxed: Would you please not vape your fruity flavor around my kids? my wife and i are raising them organically on Marlboro reds"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2071587569343877622",
+        "created_at": "2026-06-29T13:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071587569343877622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2598018877",
+              "start": 3,
+              "username": "europemaxxed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071587569343877622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071354700826624450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @europemaxxed: Would you please not vape your fruity flavor around my kids? my wife and i are raising them organically on Marlboro reds"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2598018877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2071354700826624450",
+        "created_at": "2026-06-28T22:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071354700826624450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071354700826624450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 657,
+          "impression_count": 590745,
+          "like_count": 39069,
+          "quote_count": 51,
+          "reply_count": 57,
+          "retweet_count": 3496
+        },
+        "reply_settings": "everyone",
+        "text": "Would you please not vape your fruity flavor around my kids? my wife and i are raising them organically on Marlboro reds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 933,
+          "like_count": 41406,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "If I'm an advocate for anything, it's to move",
+        "id": "2598018877",
+        "location": "Denmark | Europe",
+        "name": "Mads",
+        "pinned_tweet_id": "2008925990060183782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053397653631721478/fhQgTcio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181612,
+          "following_count": 269,
+          "like_count": 68004,
+          "listed_count": 305,
+          "media_count": 5448,
+          "tweet_count": 7316
+        },
+        "url": "",
+        "username": "europemaxxed",
+        "verified": true
+      }
+    ]
+  }
+}

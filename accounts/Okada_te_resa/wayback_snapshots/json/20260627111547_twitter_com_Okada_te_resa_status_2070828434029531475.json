@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070822829319499776"
+      ],
+      "media_source_tweet_id": [
+        "2070822836462403896"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2070828434029531475",
+    "created_at": "2026-06-27T11:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070828434029531475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1514551880520978436",
+          "start": 3,
+          "username": "jam_madmed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SN77ssB0KK",
+          "end": 39,
+          "expanded_url": "https://x.com/jam_madmed/status/2070822836462403896/photo/1",
+          "media_key": "3_2070822829319499776",
+          "start": 16,
+          "url": "https://t.co/SN77ssB0KK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070828434029531475",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070822836462403896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jam_madmed: https://t.co/SN77ssB0KK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070822829319499776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0KZD5bsAAB0Jl.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070822829319499776"
+          ],
+          "media_source_tweet_id": [
+            "2070822836462403896"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2070828434029531475",
+        "created_at": "2026-06-27T11:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070828434029531475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1514551880520978436",
+              "start": 3,
+              "username": "jam_madmed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN77ssB0KK",
+              "end": 39,
+              "expanded_url": "https://x.com/jam_madmed/status/2070822836462403896/photo/1",
+              "media_key": "3_2070822829319499776",
+              "start": 16,
+              "url": "https://t.co/SN77ssB0KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070828434029531475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070822836462403896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jam_madmed: https://t.co/SN77ssB0KK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070822829319499776"
+          ]
+        },
+        "author_id": "1514551880520978436",
+        "conversation_id": "2070822836462403896",
+        "created_at": "2026-06-27T10:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070822836462403896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN77ssB0KK",
+              "end": 23,
+              "expanded_url": "https://x.com/jam_madmed/status/2070822836462403896/photo/1",
+              "media_key": "3_2070822829319499776",
+              "start": 0,
+              "url": "https://t.co/SN77ssB0KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070822836462403896",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2434,
+          "like_count": 257,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SN77ssB0KK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 924,
+          "like_count": 41220,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 3143
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:31:38.000Z",
+        "description": "💊『MADMED』@madmed_official🦇『RaRaJaM』@rarajam_info でした。タグ ▶︎ #じゃむちゅー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "じゃむちゅー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "madmed_official"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "rarajam_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@jamjamchi",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@jamjamchi",
+                "start": 0,
+                "url": "https://t.co/1tfYWfp6Az"
+              }
+            ]
+          }
+        },
+        "id": "1514551880520978436",
+        "location": "処方箋はなつきじゃむまで💊",
+        "name": "那月邪夢❤️‍🩹",
+        "pinned_tweet_id": "2044793244249407537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033389128419876864/rtSB9O4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36718,
+          "following_count": 146,
+          "like_count": 91712,
+          "listed_count": 214,
+          "media_count": 1103,
+          "tweet_count": 7396
+        },
+        "url": "https://t.co/1tfYWfp6Az",
+        "username": "jam_madmed",
+        "verified": false
+      }
+    ]
+  }
+}

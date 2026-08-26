@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2048305065019179059",
+    "created_at": "2026-04-26T19:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048485559593734382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2048472825821007872",
+          "start": 0,
+          "username": "Poadhj"
+        },
+        {
+          "end": 20,
+          "id": "1836965320424390657",
+          "start": 8,
+          "username": "Ruby3412won"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048485559593734382",
+    "in_reply_to_user_id": "2048472825821007872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048474105905865084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poadhj @Ruby3412won 王座♂一股味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1609,
+        "media_key": "3_2048474099517992960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2kVxlbsAAt90N.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2048305065019179059",
+        "created_at": "2026-04-26T19:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048485559593734382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2048472825821007872",
+              "start": 0,
+              "username": "Poadhj"
+            },
+            {
+              "end": 20,
+              "id": "1836965320424390657",
+              "start": 8,
+              "username": "Ruby3412won"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048485559593734382",
+        "in_reply_to_user_id": "2048472825821007872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048474105905865084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poadhj @Ruby3412won 王座♂一股味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048474099517992960"
+          ]
+        },
+        "author_id": "2048472825821007872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048305065019179059",
+        "created_at": "2026-04-26T18:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048474105905865084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836965320424390657",
+              "start": 0,
+              "username": "Ruby3412won"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtuaVWhXzE",
+              "end": 115,
+              "expanded_url": "https://x.com/Poadhj/status/2048474105905865084/photo/1",
+              "media_key": "3_2048474099517992960",
+              "start": 92,
+              "url": "https://t.co/AtuaVWhXzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048474105905865084",
+        "in_reply_to_user_id": "1836965320424390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048305065019179059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruby3412won 你们这些历史同人能不能带脑子说话 一个网左不会辩经那还是网左吗 更何况你就是一磕“cp“的 你要自娱自乐就去娱乐圈 别键政了行吗 动不动就拉黑骂人 有意思吗 https://t.co/AtuaVWhXzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 793,
+          "like_count": 37321,
+          "listed_count": 3,
+          "media_count": 496,
+          "tweet_count": 2583
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T18:43:28.000Z",
+        "description": "",
+        "id": "2048472825821007872",
+        "name": "Poadhj",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Poadhj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T03:07:33.000Z",
+        "description": "王洪文毒唯但磕王崔王廖🥰除了崔廖没有爱屋及乌其他人的义务😘｜狗与厌王者不得入内🚫洪卫兵or王崔王廖党来找我玩求你们了😭玩烂梗磕血糖传黑料的4全家🌹牲畜们别来犯贱被我骂了又不开心",
+        "id": "1836965320424390657",
+        "location": "上海市杨浦区定海路176号",
+        "name": "一二",
+        "pinned_tweet_id": "2008332836802113944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044067452653580291/NMW0eIWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 124,
+          "like_count": 10549,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 4010
+        },
+        "username": "Ruby3412won",
+        "verified": false
+      }
+    ]
+  }
+}

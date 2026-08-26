@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2026850077915144675",
+    "created_at": "2026-02-26T14:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027027765556596829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3016619443",
+          "start": 0,
+          "username": "EvanWritesX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027027765556596829",
+    "in_reply_to_user_id": "3016619443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026850077915144675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanWritesX 哥们用个gemini能用出优越感你真神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2026850077915144675",
+        "created_at": "2026-02-26T14:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027027765556596829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3016619443",
+              "start": 0,
+              "username": "EvanWritesX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027027765556596829",
+        "in_reply_to_user_id": "3016619443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026850077915144675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanWritesX 哥们用个gemini能用出优越感你真神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3016619443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2026850077915144675",
+        "created_at": "2026-02-26T02:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026850077915144675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026850077915144675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回到牛马该待的工位了。\n\n这几天在老家县城，亲戚同学非常热情地教我用“豆包”，讲得极其认真。我也配合着装作听得极认真。\n\n我试探问：还有比这更厉害的吗？\n答：用过元宝，但感觉豆包已经是天花板了。\n\n在一个连 Google 都打不开的地方，我默默把到了嘴边的 ChatGPT、Claude 和 Gemini 咽了回去。\n\n至于我的工作，在他们眼里大概还停留在早年去黑煤窑拿封口费的“黑记”时代。所以我也极少开口。\n\n毕竟，有些世界的折叠不用强行展开；有些认知的差距，不解释就是最大的温柔。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 85316,
+          "like_count": 308,
+          "quote_count": 8,
+          "reply_count": 277,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "回到牛马该待的工位了。\n\n这几天在老家县城，亲戚同学非常热情地教我用“豆包”，讲得极其认真。我也配合着装作听得极认真。\n\n我试探问：还有比这更厉害的吗？\n答：用过元宝，但感觉豆包已经是天花板了。\n\n在一个连 Google 都打不开的地方，我默默把到了嘴边的 ChatGPT、Claude 和 Gemini 咽了回去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 703,
+          "like_count": 33443,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2018
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRVLqf \n读书频道：https://t.co/0fTLS0vAOS \n魔法推荐：https://t.co/YCKVPDMK0o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRVLqf"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 87,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 64,
+                "url": "https://t.co/0fTLS0vAOS"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=1696",
+                "start": 94,
+                "url": "https://t.co/YCKVPDMK0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRVLqf"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "WeChat ID：EvanCreates",
+        "name": "Jason",
+        "pinned_tweet_id": "2007676380423872646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993562015932334082/50xwYK4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12922,
+          "following_count": 735,
+          "like_count": 5002,
+          "listed_count": 62,
+          "media_count": 954,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/2wytvRVLqf",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

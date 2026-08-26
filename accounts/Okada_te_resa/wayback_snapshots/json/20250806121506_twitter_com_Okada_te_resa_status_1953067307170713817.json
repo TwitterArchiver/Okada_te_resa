@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952998169178198016"
+      ],
+      "media_source_tweet_id": [
+        "1952998422807757150"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953067307170713817",
+    "created_at": "2025-08-06T12:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T13:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953067307170713817"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "KANSAI COLLECTION 2025 AUTUMN",
+          "probability": 0.629,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 75,
+          "tag": "関西コレクション"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "関コレ"
+        },
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "iLiFE"
+        },
+        {
+          "end": 106,
+          "start": 99,
+          "tag": "あいすを愛す"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1633372163863646208",
+          "start": 3,
+          "username": "ice_deliverer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qmvO3NXElS",
+          "end": 130,
+          "expanded_url": "https://x.com/ice_deliverer/status/1952998422807757150/video/1",
+          "media_key": "13_1952998169178198016",
+          "start": 107,
+          "url": "https://t.co/qmvO3NXElS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953067307170713817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 421
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952998422807757150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_deliverer: KANSAI COLLECTION 2025 AUTUMN &amp; WINTER\nあいす（iLiFE!）\n\n#関西コレクション \n#関コレ \n#iLiFE\n#あいすを愛す https://t.co/qmvO3NXElS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17784,
+        "height": 1080,
+        "media_key": "13_1952998169178198016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952998169178198016/img/cic5i6hdIZ-3UdXU.jpg",
+        "public_metrics": {
+          "view_count": 62686
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/640x360/IRBJwHszRrM9Kkc-.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/480x270/7ob8HAgqwnSbKijm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/pl/C9Gig4kYy1u_AO48.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/1280x720/TfgDxmW1KRUu460m.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/1920x1080/VVE3D5e1_oRbEw7O.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 17784,
+        "height": 1080,
+        "media_key": "13_1952998169178198016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952998169178198016/img/cic5i6hdIZ-3UdXU.jpg",
+        "public_metrics": {
+          "view_count": 62940
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/640x360/IRBJwHszRrM9Kkc-.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/480x270/7ob8HAgqwnSbKijm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/pl/C9Gig4kYy1u_AO48.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/1280x720/TfgDxmW1KRUu460m.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952998169178198016/vid/avc1/1920x1080/VVE3D5e1_oRbEw7O.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952998169178198016"
+          ],
+          "media_source_tweet_id": [
+            "1952998422807757150"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953067307170713817",
+        "created_at": "2025-08-06T12:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953067307170713817"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "KANSAI COLLECTION 2025 AUTUMN",
+              "probability": 0.629,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 75,
+              "tag": "関西コレクション"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "関コレ"
+            },
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "iLiFE"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1633372163863646208",
+              "start": 3,
+              "username": "ice_deliverer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmvO3NXElS",
+              "end": 130,
+              "expanded_url": "https://x.com/ice_deliverer/status/1952998422807757150/video/1",
+              "media_key": "13_1952998169178198016",
+              "start": 107,
+              "url": "https://t.co/qmvO3NXElS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953067307170713817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 421
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952998422807757150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_deliverer: KANSAI COLLECTION 2025 AUTUMN &amp; WINTER\nあいす（iLiFE!）\n\n#関西コレクション \n#関コレ \n#iLiFE\n#あいすを愛す https://t.co/qmvO3NXElS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952998169178198016"
+          ]
+        },
+        "author_id": "1633372163863646208",
+        "conversation_id": "1952998422807757150",
+        "created_at": "2025-08-06T07:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952998422807757150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "KANSAI COLLECTION 2025 AUTUMN",
+              "probability": 0.5508,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "関西コレクション"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "関コレ"
+            },
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "iLiFE"
+            },
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmvO3NXElS",
+              "end": 111,
+              "expanded_url": "https://x.com/ice_deliverer/status/1952998422807757150/video/1",
+              "media_key": "13_1952998169178198016",
+              "start": 88,
+              "url": "https://t.co/qmvO3NXElS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952998422807757150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 237307,
+          "like_count": 5312,
+          "quote_count": 210,
+          "reply_count": 2,
+          "retweet_count": 421
+        },
+        "reply_settings": "everyone",
+        "text": "KANSAI COLLECTION 2025 AUTUMN &amp; WINTER\nあいす（iLiFE!）\n\n#関西コレクション \n#関コレ \n#iLiFE\n#あいすを愛す https://t.co/qmvO3NXElS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 449,
+          "like_count": 18513,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 927
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T07:40:53.000Z",
+        "description": "🍨@ice_icol 推しをお届けします🍨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "ice_icol"
+              }
+            ]
+          }
+        },
+        "id": "1633372163863646208",
+        "name": "あいす画像bot",
+        "pinned_tweet_id": "1952998422807757150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829192259494973440/U0P2HcQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5264,
+          "following_count": 56,
+          "like_count": 3582,
+          "listed_count": 14,
+          "media_count": 14973,
+          "tweet_count": 19735
+        },
+        "username": "ice_deliverer",
+        "verified": true
+      }
+    ]
+  }
+}

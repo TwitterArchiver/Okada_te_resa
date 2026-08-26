@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1994756300543332390",
+    "created_at": "2025-11-29T13:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T14:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994756300543332390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Numiouo/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Numiouo/status/1994743593186238969",
+          "start": 8,
+          "url": "https://t.co/Pn3kXL6Ujs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994756300543332390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994743593186238969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样双标😌 https://t.co/Pn3kXL6Ujs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1994756300543332390",
+        "created_at": "2025-11-29T13:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994756300543332390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouo/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Numiouo/status/1994743593186238969",
+              "start": 8,
+              "url": "https://t.co/Pn3kXL6Ujs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994756300543332390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994743593186238969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样双标😌 https://t.co/Pn3kXL6Ujs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1994743593186238969",
+        "created_at": "2025-11-29T12:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994743593186238969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994743593186238969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我亲友可以一边在她主页发“吸毒的人不值得同情并且凡是不反对吸毒的人全是脑残”，然后另一边我心平气和地给他动态点赞\n我们俩依旧在互动里恩爱贴贴，我拿着她的红包喝着奶茶顺便载我动态里自言自语“今天吃什么迷幻剂”，她也会给我点赞\n\n不双标不包容的人get不到这个萌点的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 651,
+          "like_count": 26000,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1504
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛绝赞病b小心染病❤️同类fo必回-漏fo请大力戳俺！-爱互关宝宝❤️点赞评论bot-讨厌闲聊请勿打扰♡喜欢sex与drug♡除推文外不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1159,
+          "like_count": 3793,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3317
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

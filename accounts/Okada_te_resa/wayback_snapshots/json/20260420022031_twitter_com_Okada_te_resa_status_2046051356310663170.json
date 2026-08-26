@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2046051356310663170",
+    "created_at": "2026-04-20T02:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046051356310663170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046051356310663170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045615044793446433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: 既然有模拟联合国，那有没有模拟中共中央政治局呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2046051356310663170",
+        "created_at": "2026-04-20T02:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046051356310663170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824324977379905537",
+              "start": 3,
+              "username": "siyu060910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046051356310663170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045615044793446433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siyu060910: 既然有模拟联合国，那有没有模拟中共中央政治局呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "conversation_id": "2045615044793446433",
+        "created_at": "2026-04-18T21:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T22:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045615044793446433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045615044793446433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 82727,
+          "like_count": 610,
+          "quote_count": 11,
+          "reply_count": 58,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "既然有模拟联合国，那有没有模拟中共中央政治局呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 775,
+          "like_count": 36899,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 2515
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "Freedom is not free🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 52,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 29,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 89,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 66,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2044369875255329251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6350,
+          "following_count": 88,
+          "like_count": 475,
+          "listed_count": 7,
+          "media_count": 275,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

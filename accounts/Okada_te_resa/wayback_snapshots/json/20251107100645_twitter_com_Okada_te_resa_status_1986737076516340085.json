@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese seiyu and actor",
+          "id": "1070725803527139328",
+          "name": "Rikako Aida"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese seiyu and actor",
+          "id": "1070725803527139328",
+          "name": "Rikako Aida"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese seiyu and actor",
+          "id": "1070725803527139328",
+          "name": "Rikako Aida"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1986695749799985575",
+    "created_at": "2025-11-07T10:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T11:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986737076516340085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3692123006",
+          "start": 0,
+          "username": "Rikako_Aida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986737076516340085",
+    "in_reply_to_user_id": "3692123006",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986695749799985575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikako_Aida ✌🐯😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_1986695732485869568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IpPiOa0AAfFvc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1776,
+        "media_key": "3_1986695732464918531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IpPiJbIAMFAgO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1986695732460724226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IpPiIbIAIN8Ux.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese seiyu and actor",
+              "id": "1070725803527139328",
+              "name": "Rikako Aida"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese seiyu and actor",
+              "id": "1070725803527139328",
+              "name": "Rikako Aida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese seiyu and actor",
+              "id": "1070725803527139328",
+              "name": "Rikako Aida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1986695749799985575",
+        "created_at": "2025-11-07T10:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986737076516340085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3692123006",
+              "start": 0,
+              "username": "Rikako_Aida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986737076516340085",
+        "in_reply_to_user_id": "3692123006",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986695749799985575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikako_Aida ✌🐯😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986695732485869568",
+            "3_1986695732464918531",
+            "3_1986695732460724226"
+          ]
+        },
+        "author_id": "3692123006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese seiyu and actor",
+              "id": "1070725803527139328",
+              "name": "Rikako Aida"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese seiyu and actor",
+              "id": "1070725803527139328",
+              "name": "Rikako Aida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese seiyu and actor",
+              "id": "1070725803527139328",
+              "name": "Rikako Aida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1986695749799985575",
+        "created_at": "2025-11-07T07:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986695749799985575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UCxvZxtnXT",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikako_Aida/status/1986695749799985575/photo/1",
+              "media_key": "3_1986695732485869568",
+              "start": 3,
+              "url": "https://t.co/UCxvZxtnXT"
+            },
+            {
+              "display_url": "pic.x.com/UCxvZxtnXT",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikako_Aida/status/1986695749799985575/photo/1",
+              "media_key": "3_1986695732464918531",
+              "start": 3,
+              "url": "https://t.co/UCxvZxtnXT"
+            },
+            {
+              "display_url": "pic.x.com/UCxvZxtnXT",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikako_Aida/status/1986695749799985575/photo/1",
+              "media_key": "3_1986695732460724226",
+              "start": 3,
+              "url": "https://t.co/UCxvZxtnXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986695749799985575",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 83117,
+          "like_count": 5413,
+          "quote_count": 110,
+          "reply_count": 126,
+          "retweet_count": 945
+        },
+        "reply_settings": "everyone",
+        "text": "🐯😡 https://t.co/UCxvZxtnXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 619,
+          "like_count": 24115,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1294
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-26T11:36:44.000Z",
+        "description": "声優「ラブライブ！サンシャイン‼︎」桜内梨子役 Aqours／ホラー映画大好き／https://t.co/OAB5WluXIb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aida_rikako_",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/aida_rikako_",
+                "start": 40,
+                "url": "https://t.co/OAB5WluXIb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rikakoaida.com",
+                "end": 23,
+                "expanded_url": "https://rikakoaida.com/",
+                "start": 0,
+                "url": "https://t.co/dAdkEfPJ30"
+              }
+            ]
+          }
+        },
+        "id": "3692123006",
+        "name": "逢田梨香子",
+        "pinned_tweet_id": "1953817499218456995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882770731379077120/MPIFtlHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397019,
+          "following_count": 915,
+          "like_count": 32016,
+          "listed_count": 8656,
+          "media_count": 1931,
+          "tweet_count": 12232
+        },
+        "url": "https://t.co/dAdkEfPJ30",
+        "username": "Rikako_Aida",
+        "verified": true
+      }
+    ]
+  }
+}

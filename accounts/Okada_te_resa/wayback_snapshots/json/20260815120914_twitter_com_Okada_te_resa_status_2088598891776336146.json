@@ -1,0 +1,699 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088579989222596608"
+      ],
+      "media_source_tweet_id": [
+        "2088580001847505145"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2088598891776336146",
+    "created_at": "2026-08-15T12:09:14.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088598891776336146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3801397033",
+          "start": 3,
+          "username": "Saito_Shuka"
+        }
+      ],
+      "urls": [
+        {
+          "description": "@shuka_saito 11.1k フォロワー、44 フォロー、80.9k いいね - 斉藤朱夏の投稿動画を楽しみましょう",
+          "display_url": "tiktok.com/@shuka_saito?_…",
+          "end": 80,
+          "expanded_url": "https://www.tiktok.com/@shuka_saito?_r=1&_t=ZS-98txSurdk3B",
+          "start": 57,
+          "status": 200,
+          "title": "TikTokで斉藤朱夏さんをチェック！",
+          "unwound_url": "https://www.tiktok.com/@shuka_saito?_r=1&_t=ZS-98txSurdk3B",
+          "url": "https://t.co/e3ikugSyNm"
+        },
+        {
+          "display_url": "pic.x.com/cdfOu4LGDK",
+          "end": 104,
+          "expanded_url": "https://x.com/Saito_Shuka/status/2088580001847505145/photo/1",
+          "media_key": "3_2088579989222596608",
+          "start": 81,
+          "url": "https://t.co/cdfOu4LGDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088598891776336146",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088579989222596608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088580001847505145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saito_Shuka: 久しぶりにTikTok LIVEしまーす！\n29歳ラストーっ^ᴗ ̫ ᴗ^♩\n\nhttps://t.co/e3ikugSyNm https://t.co/cdfOu4LGDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088579989222596608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwgbzaaIAAhtFf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088579989222596608"
+          ],
+          "media_source_tweet_id": [
+            "2088580001847505145"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088598891776336146",
+        "created_at": "2026-08-15T12:09:14.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088598891776336146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3801397033",
+              "start": 3,
+              "username": "Saito_Shuka"
+            }
+          ],
+          "urls": [
+            {
+              "description": "@shuka_saito 11.1k フォロワー、44 フォロー、80.9k いいね - 斉藤朱夏の投稿動画を楽しみましょう",
+              "display_url": "tiktok.com/@shuka_saito?_…",
+              "end": 80,
+              "expanded_url": "https://www.tiktok.com/@shuka_saito?_r=1&_t=ZS-98txSurdk3B",
+              "start": 57,
+              "status": 200,
+              "title": "TikTokで斉藤朱夏さんをチェック！",
+              "unwound_url": "https://www.tiktok.com/@shuka_saito?_r=1&_t=ZS-98txSurdk3B",
+              "url": "https://t.co/e3ikugSyNm"
+            },
+            {
+              "display_url": "pic.x.com/cdfOu4LGDK",
+              "end": 104,
+              "expanded_url": "https://x.com/Saito_Shuka/status/2088580001847505145/photo/1",
+              "media_key": "3_2088579989222596608",
+              "start": 81,
+              "url": "https://t.co/cdfOu4LGDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088598891776336146",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088579989222596608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088580001847505145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saito_Shuka: 久しぶりにTikTok LIVEしまーす！\n29歳ラストーっ^ᴗ ̫ ᴗ^♩\n\nhttps://t.co/e3ikugSyNm https://t.co/cdfOu4LGDK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088579989222596608"
+          ]
+        },
+        "author_id": "3801397033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2088580001847505145",
+        "created_at": "2026-08-15T10:54:11.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088580001847505145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@shuka_saito 11.1k フォロワー、44 フォロー、80.9k いいね - 斉藤朱夏の投稿動画を楽しみましょう",
+              "display_url": "tiktok.com/@shuka_saito?_…",
+              "end": 63,
+              "expanded_url": "https://www.tiktok.com/@shuka_saito?_r=1&_t=ZS-98txSurdk3B",
+              "start": 40,
+              "status": 200,
+              "title": "TikTokで斉藤朱夏さんをチェック！",
+              "unwound_url": "https://www.tiktok.com/@shuka_saito?_r=1&_t=ZS-98txSurdk3B",
+              "url": "https://t.co/e3ikugSyNm"
+            },
+            {
+              "display_url": "pic.x.com/cdfOu4LGDK",
+              "end": 87,
+              "expanded_url": "https://x.com/Saito_Shuka/status/2088580001847505145/photo/1",
+              "media_key": "3_2088579989222596608",
+              "start": 64,
+              "url": "https://t.co/cdfOu4LGDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088580001847505145",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088579989222596608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 20929,
+          "like_count": 1353,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりにTikTok LIVEしまーす！\n29歳ラストーっ^ᴗ ̫ ᴗ^♩\n\nhttps://t.co/e3ikugSyNm https://t.co/cdfOu4LGDK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2088598891776336146",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 1022,
+          "like_count": 45406,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-06T08:36:22.000Z",
+        "description": "斉藤朱夏 公式！声優/アーティスト◎！。#lovelive #Aqours 渡辺曜/ #俺好き サザンカ/ #ワンエグ 川井リカ/ #明日ちゃんのセーラー服 福元幹 /#草食ドラゴン 水の聖女 /#おしゃべりモンスター🦖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "lovelive"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aqours"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "俺好き"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "ワンエグ"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "明日ちゃんのセーラー服"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "草食ドラゴン"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "tag": "おしゃべりモンスター"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atashi-shuka.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://atashi-shuka.bitfan.id",
+                "start": 0,
+                "url": "https://t.co/g9g3XbxyLR"
+              }
+            ]
+          }
+        },
+        "id": "3801397033",
+        "is_identity_verified": false,
+        "location": "あたしの推しはファンの子達。",
+        "most_recent_tweet_id": "2088580001847505145",
+        "name": "斉藤 朱夏",
+        "pinned_tweet_id": "2088568967657066894",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3801397033/1767670760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028418221431484417/kUXtra_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366723,
+          "following_count": 481,
+          "like_count": 10137,
+          "listed_count": 8346,
+          "media_count": 2313,
+          "tweet_count": 10502
+        },
+        "url": "https://t.co/g9g3XbxyLR",
+        "username": "Saito_Shuka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

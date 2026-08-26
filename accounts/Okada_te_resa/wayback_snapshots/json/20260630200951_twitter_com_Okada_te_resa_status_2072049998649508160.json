@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071887548490588160"
+      ],
+      "media_source_tweet_id": [
+        "2071887556585648263"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072049998649508160",
+    "created_at": "2026-06-30T20:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072049998649508160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1566752094769426432",
+          "start": 3,
+          "username": "nyqnn53"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAxIeXQs01",
+          "end": 54,
+          "expanded_url": "https://x.com/nyqnn53/status/2071887556585648263/photo/1",
+          "media_key": "3_2071887548490588160",
+          "start": 31,
+          "url": "https://t.co/wAxIeXQs01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072049998649508160",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071887556585648263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyqnn53: GR SUPRA for JDM. https://t.co/wAxIeXQs01"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071887548490588160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDSv35WIAAByE9.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071887548490588160"
+          ],
+          "media_source_tweet_id": [
+            "2071887556585648263"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072049998649508160",
+        "created_at": "2026-06-30T20:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072049998649508160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1566752094769426432",
+              "start": 3,
+              "username": "nyqnn53"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAxIeXQs01",
+              "end": 54,
+              "expanded_url": "https://x.com/nyqnn53/status/2071887556585648263/photo/1",
+              "media_key": "3_2071887548490588160",
+              "start": 31,
+              "url": "https://t.co/wAxIeXQs01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072049998649508160",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071887556585648263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyqnn53: GR SUPRA for JDM. https://t.co/wAxIeXQs01"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071887548490588160"
+          ]
+        },
+        "author_id": "1566752094769426432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071887556585648263",
+        "created_at": "2026-06-30T09:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071887556585648263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAxIeXQs01",
+              "end": 41,
+              "expanded_url": "https://x.com/nyqnn53/status/2071887556585648263/photo/1",
+              "media_key": "3_2071887548490588160",
+              "start": 18,
+              "url": "https://t.co/wAxIeXQs01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071887556585648263",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1616,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "GR SUPRA for JDM. https://t.co/wAxIeXQs01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 935,
+          "like_count": 41512,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 3183
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T11:36:35.000Z",
+        "description": "☦︎︎ キャンギャル☦︎︎ ☦︎︎ TikTok配信 ☦︎︎ ☦︎︎ 車横モデル ☦︎︎ ☦︎︎ 被写体 ☦︎︎ ︎︎ ☦︎︎ ラッピング施工︎︎ ☦︎︎ ︎︎ ☦︎︎ etc... お仕事依頼はDMにて❕💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuyunyq53",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuyunyq53",
+                "start": 0,
+                "url": "https://t.co/SjayI5G8vb"
+              }
+            ]
+          }
+        },
+        "id": "1566752094769426432",
+        "location": "💜𝐍𝐚𝐠𝐨𝐲𝐚💜",
+        "name": "ゆゆ🖤💜",
+        "pinned_tweet_id": "2010202951525253476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852711833402331136/HzBX7rYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 60,
+          "like_count": 12180,
+          "listed_count": 20,
+          "media_count": 167,
+          "tweet_count": 4466
+        },
+        "url": "https://t.co/SjayI5G8vb",
+        "username": "nyqnn53",
+        "verified": true
+      }
+    ]
+  }
+}

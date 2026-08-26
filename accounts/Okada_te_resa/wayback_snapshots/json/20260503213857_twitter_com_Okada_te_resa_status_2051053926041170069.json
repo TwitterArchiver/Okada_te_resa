@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051053914041282560"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2050937122631373144",
+    "created_at": "2026-05-03T21:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051053926041170069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FgRu2ePb9a",
+          "end": 49,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2051053926041170069/photo/1",
+          "media_key": "3_2051053914041282560",
+          "start": 26,
+          "url": "https://t.co/FgRu2ePb9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051053926041170069",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050937122631373144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 完美错过推u。。。。 https://t.co/FgRu2ePb9a"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050937122631373144].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050937122631373144",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050937122631373144"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2051053914041282560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbOqvma8AArud7.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051053914041282560"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2050937122631373144",
+        "created_at": "2026-05-03T21:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051053926041170069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgRu2ePb9a",
+              "end": 49,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2051053926041170069/photo/1",
+              "media_key": "3_2051053914041282560",
+              "start": 26,
+              "url": "https://t.co/FgRu2ePb9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051053926041170069",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050937122631373144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 完美错过推u。。。。 https://t.co/FgRu2ePb9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 801,
+          "like_count": 37745,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 2652
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈女丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨不会聊天别找我闲聊丨 狗@GHYYAYA 丨 提问箱https://t.co/AmAjPaB8NL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 82,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 59,
+                "url": "https://t.co/AmAjPaB8NL"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037225871023759361/QNJF_WFy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 2277,
+          "like_count": 86108,
+          "listed_count": 11,
+          "media_count": 763,
+          "tweet_count": 12083
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

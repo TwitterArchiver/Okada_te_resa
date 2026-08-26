@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2039130759127253040",
+    "created_at": "2026-04-01T00:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039144293986914725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039144293986914725",
+    "in_reply_to_user_id": "1498893713178644482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039141273068835128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParanQidAndrQid 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2039130759127253040",
+        "created_at": "2026-04-01T00:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039144293986914725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039144293986914725",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039141273068835128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParanQidAndrQid 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498893713178644482",
+        "conversation_id": "2039130759127253040",
+        "created_at": "2026-04-01T00:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039141273068835128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039141273068835128",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039130759127253040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 🥲我还想穿巫女服来着 但在南京肯定也穿不出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 738,
+          "like_count": 35855,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 2336
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 ｜ 抒澄/Cassie ｜ She/They ｜ Aro-Ace",
+        "id": "1498893713178644482",
+        "location": "在你背后！",
+        "name": "赵魁然",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039144157168779264/R1rnThZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 531,
+          "like_count": 27279,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 5353
+        },
+        "username": "ParanQidAndrQid",
+        "verified": false
+      }
+    ]
+  }
+}

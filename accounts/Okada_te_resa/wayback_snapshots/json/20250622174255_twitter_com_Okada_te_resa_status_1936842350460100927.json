@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936750820801814528"
+      ],
+      "media_source_tweet_id": [
+        "1936750823062507869"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936842350460100927",
+    "created_at": "2025-06-22T17:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T18:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936842350460100927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4496662247",
+          "start": 3,
+          "username": "DaveRivera02102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CpbGELdYHz",
+          "end": 46,
+          "expanded_url": "https://x.com/DaveRivera02102/status/1936750823062507869/photo/1",
+          "media_key": "3_1936750820801814528",
+          "start": 23,
+          "url": "https://t.co/CpbGELdYHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936842350460100927",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936750823062507869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaveRivera02102: 🧡 https://t.co/CpbGELdYHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1936750820801814528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuC4nDRWoAAC29p.jpg",
+        "width": 1724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936750820801814528"
+          ],
+          "media_source_tweet_id": [
+            "1936750823062507869"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936842350460100927",
+        "created_at": "2025-06-22T17:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T18:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936842350460100927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4496662247",
+              "start": 3,
+              "username": "DaveRivera02102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpbGELdYHz",
+              "end": 46,
+              "expanded_url": "https://x.com/DaveRivera02102/status/1936750823062507869/photo/1",
+              "media_key": "3_1936750820801814528",
+              "start": 23,
+              "url": "https://t.co/CpbGELdYHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936842350460100927",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936750823062507869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaveRivera02102: 🧡 https://t.co/CpbGELdYHz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936750820801814528"
+          ]
+        },
+        "author_id": "4496662247",
+        "conversation_id": "1936750823062507869",
+        "created_at": "2025-06-22T11:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936750823062507869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpbGELdYHz",
+              "end": 25,
+              "expanded_url": "https://x.com/DaveRivera02102/status/1936750823062507869/photo/1",
+              "media_key": "3_1936750820801814528",
+              "start": 2,
+              "url": "https://t.co/CpbGELdYHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936750823062507869",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 13271,
+          "like_count": 724,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "🧡 https://t.co/CpbGELdYHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 337,
+          "like_count": 15328,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 689
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-15T22:52:03.000Z",
+        "description": "Esta cuenta siempre apoyó a Nikola Tesla en la octava ronda del Ragnarok...",
+        "id": "4496662247",
+        "name": "DaveRivera",
+        "pinned_tweet_id": "1906539100535976180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936362578587844608/058gwvV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 293,
+          "like_count": 99286,
+          "listed_count": 1,
+          "media_count": 4653,
+          "tweet_count": 23101
+        },
+        "username": "DaveRivera02102",
+        "verified": false
+      }
+    ]
+  }
+}

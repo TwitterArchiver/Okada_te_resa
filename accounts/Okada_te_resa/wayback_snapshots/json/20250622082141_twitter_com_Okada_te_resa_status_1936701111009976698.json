@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936666280523927552",
+        "3_1936666280917950464"
+      ],
+      "media_source_tweet_id": [
+        "1936666342243082604",
+        "1936666342243082604"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936701111009976698",
+    "created_at": "2025-06-22T08:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T09:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936701111009976698"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "曜ちゃん",
+          "probability": 0.3373,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 15,
+          "tag": "Aqours_finale_Day1"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1042389656002715649",
+          "start": 3,
+          "username": "yuuuko030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OltKuMDONN",
+          "end": 97,
+          "expanded_url": "https://x.com/yuuuko030/status/1936666342243082604/photo/1",
+          "media_key": "3_1936666280523927552",
+          "start": 74,
+          "url": "https://t.co/OltKuMDONN"
+        },
+        {
+          "display_url": "pic.x.com/OltKuMDONN",
+          "end": 97,
+          "expanded_url": "https://x.com/yuuuko030/status/1936666342243082604/photo/1",
+          "media_key": "3_1936666280917950464",
+          "start": 74,
+          "url": "https://t.co/OltKuMDONN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936701111009976698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936666342243082604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuuko030: #Aqours_finale_Day1\n君こころ曜ちゃん衣装を着てよかったと思ったが今日軽くTシャツで参加します🩵🩵 https://t.co/OltKuMDONN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936666280523927552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBruKMbEAACVX2.jpg",
+        "width": 1666
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936666280917950464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBruLqXYAAxzKo.jpg",
+        "width": 1752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936666280523927552",
+            "3_1936666280917950464"
+          ],
+          "media_source_tweet_id": [
+            "1936666342243082604",
+            "1936666342243082604"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936701111009976698",
+        "created_at": "2025-06-22T08:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936701111009976698"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "曜ちゃん",
+              "probability": 0.3373,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 15,
+              "tag": "Aqours_finale_Day1"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1042389656002715649",
+              "start": 3,
+              "username": "yuuuko030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OltKuMDONN",
+              "end": 97,
+              "expanded_url": "https://x.com/yuuuko030/status/1936666342243082604/photo/1",
+              "media_key": "3_1936666280523927552",
+              "start": 74,
+              "url": "https://t.co/OltKuMDONN"
+            },
+            {
+              "display_url": "pic.x.com/OltKuMDONN",
+              "end": 97,
+              "expanded_url": "https://x.com/yuuuko030/status/1936666342243082604/photo/1",
+              "media_key": "3_1936666280917950464",
+              "start": 74,
+              "url": "https://t.co/OltKuMDONN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936701111009976698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936666342243082604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuuko030: #Aqours_finale_Day1\n君こころ曜ちゃん衣装を着てよかったと思ったが今日軽くTシャツで参加します🩵🩵 https://t.co/OltKuMDONN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936666280523927552",
+            "3_1936666280917950464"
+          ]
+        },
+        "author_id": "1042389656002715649",
+        "conversation_id": "1936666342243082604",
+        "created_at": "2025-06-22T06:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936666342243082604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "曜ちゃん",
+              "probability": 0.2573,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "Aqours_finale_Day1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OltKuMDONN",
+              "end": 82,
+              "expanded_url": "https://x.com/yuuuko030/status/1936666342243082604/photo/1",
+              "media_key": "3_1936666280523927552",
+              "start": 59,
+              "url": "https://t.co/OltKuMDONN"
+            },
+            {
+              "display_url": "pic.x.com/OltKuMDONN",
+              "end": 82,
+              "expanded_url": "https://x.com/yuuuko030/status/1936666342243082604/photo/1",
+              "media_key": "3_1936666280917950464",
+              "start": 59,
+              "url": "https://t.co/OltKuMDONN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936666342243082604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6677,
+          "like_count": 310,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "#Aqours_finale_Day1\n君こころ曜ちゃん衣装を着てよかったと思ったが今日軽くTシャツで参加します🩵🩵 https://t.co/OltKuMDONN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 336,
+          "like_count": 15239,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 679
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-19T12:27:15.000Z",
+        "description": "ゆうこです✨クレープリン伊達さゆり担当🎧@Crepudding🧡🌷DM返信激遅い",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Crepudding"
+              }
+            ]
+          }
+        },
+        "id": "1042389656002715649",
+        "name": "yuuko🌷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851185046247677952/5lBWM6og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 563,
+          "like_count": 7343,
+          "listed_count": 14,
+          "media_count": 515,
+          "tweet_count": 2375
+        },
+        "username": "yuuuko030",
+        "verified": false
+      }
+    ]
+  }
+}

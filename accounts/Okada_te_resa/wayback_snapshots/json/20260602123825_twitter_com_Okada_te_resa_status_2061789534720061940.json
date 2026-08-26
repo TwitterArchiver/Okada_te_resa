@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061373036738252800",
+        "3_2061373036725702657",
+        "3_2061373036734115840"
+      ],
+      "media_source_tweet_id": [
+        "2061373132578164826",
+        "2061373132578164826",
+        "2061373132578164826"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2061789534720061940",
+    "created_at": "2026-06-02T12:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061789534720061940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQAq6IlAV0",
+          "end": 47,
+          "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+          "media_key": "3_2061373036738252800",
+          "start": 24,
+          "url": "https://t.co/FQAq6IlAV0"
+        },
+        {
+          "display_url": "pic.x.com/FQAq6IlAV0",
+          "end": 47,
+          "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+          "media_key": "3_2061373036725702657",
+          "start": 24,
+          "url": "https://t.co/FQAq6IlAV0"
+        },
+        {
+          "display_url": "pic.x.com/FQAq6IlAV0",
+          "end": 47,
+          "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+          "media_key": "3_2061373036734115840",
+          "start": 24,
+          "url": "https://t.co/FQAq6IlAV0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061789534720061940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061373132578164826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 突然有种见证历史的震撼… https://t.co/FQAq6IlAV0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2061373036738252800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt32vRaEAAOS4f.jpg",
+        "width": 936
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2061373036725702657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt32vOakAE8V1d.jpg",
+        "width": 936
+      },
+      {
+        "height": 1404,
+        "media_key": "3_2061373036734115840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt32vQa8AAdKZv.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061373036738252800",
+            "3_2061373036725702657",
+            "3_2061373036734115840"
+          ],
+          "media_source_tweet_id": [
+            "2061373132578164826",
+            "2061373132578164826",
+            "2061373132578164826"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2061789534720061940",
+        "created_at": "2026-06-02T12:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061789534720061940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQAq6IlAV0",
+              "end": 47,
+              "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+              "media_key": "3_2061373036738252800",
+              "start": 24,
+              "url": "https://t.co/FQAq6IlAV0"
+            },
+            {
+              "display_url": "pic.x.com/FQAq6IlAV0",
+              "end": 47,
+              "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+              "media_key": "3_2061373036725702657",
+              "start": 24,
+              "url": "https://t.co/FQAq6IlAV0"
+            },
+            {
+              "display_url": "pic.x.com/FQAq6IlAV0",
+              "end": 47,
+              "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+              "media_key": "3_2061373036734115840",
+              "start": 24,
+              "url": "https://t.co/FQAq6IlAV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789534720061940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061373132578164826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 突然有种见证历史的震撼… https://t.co/FQAq6IlAV0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061373036738252800",
+            "3_2061373036725702657",
+            "3_2061373036734115840"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2061373132578164826",
+        "created_at": "2026-06-01T09:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061373132578164826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQAq6IlAV0",
+              "end": 36,
+              "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+              "media_key": "3_2061373036738252800",
+              "start": 13,
+              "url": "https://t.co/FQAq6IlAV0"
+            },
+            {
+              "display_url": "pic.x.com/FQAq6IlAV0",
+              "end": 36,
+              "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+              "media_key": "3_2061373036725702657",
+              "start": 13,
+              "url": "https://t.co/FQAq6IlAV0"
+            },
+            {
+              "display_url": "pic.x.com/FQAq6IlAV0",
+              "end": 36,
+              "expanded_url": "https://x.com/0b7cm/status/2061373132578164826/photo/1",
+              "media_key": "3_2061373036734115840",
+              "start": 13,
+              "url": "https://t.co/FQAq6IlAV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061373132578164826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 223729,
+          "like_count": 2242,
+          "quote_count": 7,
+          "reply_count": 142,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "突然有种见证历史的震撼… https://t.co/FQAq6IlAV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 888,
+          "like_count": 39661,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2060197582174040436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11277,
+          "following_count": 1284,
+          "like_count": 12203,
+          "listed_count": 23,
+          "media_count": 2584,
+          "tweet_count": 16799
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

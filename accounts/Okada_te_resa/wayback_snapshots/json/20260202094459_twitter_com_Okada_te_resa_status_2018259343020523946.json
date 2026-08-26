@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018192457201238016"
+      ],
+      "media_source_tweet_id": [
+        "2018192463735963848"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2018259343020523946",
+    "created_at": "2026-02-02T09:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T10:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018259343020523946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578716767978803200",
+          "start": 3,
+          "username": "v_v459"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTtViaf3HE",
+          "end": 48,
+          "expanded_url": "https://x.com/v_v459/status/2018192463735963848/photo/1",
+          "media_key": "3_2018192457201238016",
+          "start": 25,
+          "url": "https://t.co/vTtViaf3HE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018259343020523946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018192463735963848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @v_v459: どこから治療しますか💉💙 https://t.co/vTtViaf3HE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018259343020523946].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018259343020523946",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018259343020523946"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018192457201238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIPWNPaQAANhMo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018192457201238016"
+          ]
+        },
+        "author_id": "1578716767978803200",
+        "conversation_id": "2018192463735963848",
+        "created_at": "2026-02-02T05:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018192463735963848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTtViaf3HE",
+              "end": 36,
+              "expanded_url": "https://x.com/v_v459/status/2018192463735963848/photo/1",
+              "media_key": "3_2018192457201238016",
+              "start": 13,
+              "url": "https://t.co/vTtViaf3HE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018192463735963848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2923,
+          "like_count": 394,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "どこから治療しますか💉💙 https://t.co/vTtViaf3HE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 672,
+          "like_count": 31023,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 1864
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T11:59:58.000Z",
+        "description": "︎#劣等生しご3 ↩︎これでツイート🐈‍⬛ 【お仕事、案件はDMください】 サブ垢@sigo_4545✄-------------------‐✄FANBOX▶︎【https://t.co/bjPNbstwV1】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 1,
+                "tag": "劣等生しご3"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "sigo_4545"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sigo45.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://sigo45.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/bjPNbstwV1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/v_v459",
+                "end": 23,
+                "expanded_url": "https://lit.link/v_v459",
+                "start": 0,
+                "url": "https://t.co/Gz3dm48bqv"
+              }
+            ]
+          }
+        },
+        "id": "1578716767978803200",
+        "location": "オールスターニート、酒すき",
+        "name": "劣等生しご",
+        "pinned_tweet_id": "1980139388328964195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015249362394419201/tMSwlHI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34057,
+          "following_count": 8,
+          "like_count": 7636,
+          "listed_count": 111,
+          "media_count": 304,
+          "tweet_count": 6267
+        },
+        "url": "https://t.co/Gz3dm48bqv",
+        "username": "v_v459",
+        "verified": true
+      }
+    ]
+  }
+}

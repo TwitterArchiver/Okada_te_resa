@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060333543553978368"
+      ],
+      "media_source_tweet_id": [
+        "2060334294695039479"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Make-up and Cosmetics",
+          "id": "855442035314089988",
+          "name": "Makeup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Lip Gloss",
+          "id": "855449896840708097",
+          "name": "Lip Gloss"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Lip Gloss",
+          "id": "855449896840708097",
+          "name": "Lip Gloss"
+        }
+      }
+    ],
+    "conversation_id": "2060457366077022569",
+    "created_at": "2026-05-29T20:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060457366077022569"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 54,
+          "tag": "あいすを愛す"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2602771610",
+          "start": 3,
+          "username": "ice_tabetai0920"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9foZIoVoM7",
+          "end": 85,
+          "expanded_url": "https://x.com/ice_tabetai0920/status/2060334294695039479/video/1",
+          "media_key": "13_2060333543553978368",
+          "start": 62,
+          "url": "https://t.co/9foZIoVoM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060457366077022569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060334294695039479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_tabetai0920: あいす🍨のリップグロス💄塗ったあとの可愛いが可愛すぎたところ🙌\n #あいすを愛す https://t.co/9foZIoVoM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6473,
+        "height": 820,
+        "media_key": "13_2060333543553978368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060333543553978368/img/CA2MLqxQfXwID4tW.jpg",
+        "public_metrics": {
+          "view_count": 6216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060333543553978368/pl/inDRS6HVJy0Dnumv.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060333543553978368/vid/avc1/796x820/YiNupXMfXOJilg6S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060333543553978368/vid/avc1/720x740/iH38668DgRuAfIy8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060333543553978368/vid/avc1/480x494/f7_2FrHmYThKpptk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060333543553978368/vid/avc1/320x328/P2vMZ7ZEK-29Gm_e.mp4"
+          }
+        ],
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060333543553978368"
+          ],
+          "media_source_tweet_id": [
+            "2060334294695039479"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Lip Gloss",
+              "id": "855449896840708097",
+              "name": "Lip Gloss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Lip Gloss",
+              "id": "855449896840708097",
+              "name": "Lip Gloss"
+            }
+          }
+        ],
+        "conversation_id": "2060457366077022569",
+        "created_at": "2026-05-29T20:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060457366077022569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2602771610",
+              "start": 3,
+              "username": "ice_tabetai0920"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9foZIoVoM7",
+              "end": 85,
+              "expanded_url": "https://x.com/ice_tabetai0920/status/2060334294695039479/video/1",
+              "media_key": "13_2060333543553978368",
+              "start": 62,
+              "url": "https://t.co/9foZIoVoM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060457366077022569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060334294695039479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_tabetai0920: あいす🍨のリップグロス💄塗ったあとの可愛いが可愛すぎたところ🙌\n #あいすを愛す https://t.co/9foZIoVoM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060333543553978368"
+          ]
+        },
+        "author_id": "2602771610",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Make-up and Cosmetics",
+              "id": "855442035314089988",
+              "name": "Makeup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Lip Gloss",
+              "id": "855449896840708097",
+              "name": "Lip Gloss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Lip Gloss",
+              "id": "855449896840708097",
+              "name": "Lip Gloss"
+            }
+          }
+        ],
+        "conversation_id": "2060334294695039479",
+        "created_at": "2026-05-29T12:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:13:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060333597656232108",
+          "2060334294695039479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9foZIoVoM7",
+              "end": 64,
+              "expanded_url": "https://x.com/ice_tabetai0920/status/2060334294695039479/video/1",
+              "media_key": "13_2060333543553978368",
+              "start": 41,
+              "url": "https://t.co/9foZIoVoM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060334294695039479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 16347,
+          "like_count": 998,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "あいす🍨のリップグロス💄塗ったあとの可愛いが可愛すぎたところ🙌\n #あいすを愛す https://t.co/9foZIoVoM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 886,
+          "like_count": 39382,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-04T04:25:17.000Z",
+        "description": "山形🚹あいす🍨あいこる・iLiFE!メイン垢🙌あいす最推し🍨(@ice_icol )毎日あいす🍨を見るのが幸せで生き甲斐🥹 #あいすを愛す #あいすが食べたい アイドルオタクとわかる方はフォロバ100パー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "あいすを愛す"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "tag": "あいすが食べたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "ice_icol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@junizone?_t=8…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@junizone?_t=8oB4Z2yulzG&_r=1",
+                "start": 0,
+                "url": "https://t.co/Kpep41fUwo"
+              }
+            ]
+          }
+        },
+        "id": "2602771610",
+        "name": "ジュニ🍨‎‎",
+        "pinned_tweet_id": "1960704694583452067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057073362346848256/hTWi_54u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 1850,
+          "like_count": 18933,
+          "listed_count": 3,
+          "media_count": 2552,
+          "tweet_count": 15110
+        },
+        "url": "https://t.co/Kpep41fUwo",
+        "username": "ice_tabetai0920",
+        "verified": true
+      }
+    ]
+  }
+}

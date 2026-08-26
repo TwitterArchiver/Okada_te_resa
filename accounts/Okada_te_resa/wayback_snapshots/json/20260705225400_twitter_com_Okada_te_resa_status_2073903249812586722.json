@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073775240925388800",
+        "3_2073775240942166016",
+        "3_2073775240929513472"
+      ],
+      "media_source_tweet_id": [
+        "2073775256519716939",
+        "2073775256519716939",
+        "2073775256519716939"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2073903249812586722",
+    "created_at": "2026-07-05T22:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073903249812586722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045467405976236032",
+          "start": 3,
+          "username": "Nekocar0w0"
+        },
+        {
+          "end": 51,
+          "id": "1896604741821726720",
+          "start": 38,
+          "username": "_yonayonaka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q9adj1Iy5G",
+          "end": 75,
+          "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+          "media_key": "3_2073775240925388800",
+          "start": 52,
+          "url": "https://t.co/Q9adj1Iy5G"
+        },
+        {
+          "display_url": "pic.x.com/Q9adj1Iy5G",
+          "end": 75,
+          "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+          "media_key": "3_2073775240942166016",
+          "start": 52,
+          "url": "https://t.co/Q9adj1Iy5G"
+        },
+        {
+          "display_url": "pic.x.com/Q9adj1Iy5G",
+          "end": 75,
+          "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+          "media_key": "3_2073775240929513472",
+          "start": 52,
+          "url": "https://t.co/Q9adj1Iy5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073903249812586722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073775256519716939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nekocar0w0: 闺蜜我们就这么一直营业直到有人过我们门槛为止@_yonayonaka_ https://t.co/Q9adj1Iy5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1872,
+        "media_key": "3_2073775240925388800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeHmCNboAAesmZ.jpg",
+        "width": 1358
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073775240942166016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeHmCRboAAIXBY.jpg",
+        "width": 1532
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2073775240929513472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeHmCOakAAWGvq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073775240925388800",
+            "3_2073775240942166016",
+            "3_2073775240929513472"
+          ],
+          "media_source_tweet_id": [
+            "2073775256519716939",
+            "2073775256519716939",
+            "2073775256519716939"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2073903249812586722",
+        "created_at": "2026-07-05T22:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073903249812586722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045467405976236032",
+              "start": 3,
+              "username": "Nekocar0w0"
+            },
+            {
+              "end": 51,
+              "id": "1896604741821726720",
+              "start": 38,
+              "username": "_yonayonaka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9adj1Iy5G",
+              "end": 75,
+              "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+              "media_key": "3_2073775240925388800",
+              "start": 52,
+              "url": "https://t.co/Q9adj1Iy5G"
+            },
+            {
+              "display_url": "pic.x.com/Q9adj1Iy5G",
+              "end": 75,
+              "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+              "media_key": "3_2073775240942166016",
+              "start": 52,
+              "url": "https://t.co/Q9adj1Iy5G"
+            },
+            {
+              "display_url": "pic.x.com/Q9adj1Iy5G",
+              "end": 75,
+              "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+              "media_key": "3_2073775240929513472",
+              "start": 52,
+              "url": "https://t.co/Q9adj1Iy5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073903249812586722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073775256519716939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nekocar0w0: 闺蜜我们就这么一直营业直到有人过我们门槛为止@_yonayonaka_ https://t.co/Q9adj1Iy5G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073775240925388800",
+            "3_2073775240942166016",
+            "3_2073775240929513472"
+          ]
+        },
+        "author_id": "2045467405976236032",
+        "conversation_id": "2073775256519716939",
+        "created_at": "2026-07-05T14:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073775256519716939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1896604741821726720",
+              "start": 22,
+              "username": "_yonayonaka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9adj1Iy5G",
+              "end": 59,
+              "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+              "media_key": "3_2073775240925388800",
+              "start": 36,
+              "url": "https://t.co/Q9adj1Iy5G"
+            },
+            {
+              "display_url": "pic.x.com/Q9adj1Iy5G",
+              "end": 59,
+              "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+              "media_key": "3_2073775240942166016",
+              "start": 36,
+              "url": "https://t.co/Q9adj1Iy5G"
+            },
+            {
+              "display_url": "pic.x.com/Q9adj1Iy5G",
+              "end": 59,
+              "expanded_url": "https://x.com/Nekocar0w0/status/2073775256519716939/photo/1",
+              "media_key": "3_2073775240929513472",
+              "start": 36,
+              "url": "https://t.co/Q9adj1Iy5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775256519716939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1685,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜我们就这么一直营业直到有人过我们门槛为止@_yonayonaka_ https://t.co/Q9adj1Iy5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 957,
+          "like_count": 41914,
+          "listed_count": 5,
+          "media_count": 699,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T11:40:56.000Z",
+        "description": "某貓車的无职转生，私信只回口令其他不回，没有口令的私信一律拉黑处理。\n🤍里人格@kawash1ronitori\n🧵下相关在⬇️88仅验证+咨询｜上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "kawash1ronitori"
+              }
+            ]
+          }
+        },
+        "id": "2045467405976236032",
+        "location": "按E掷出🚪288/520即可带走我的悲伤，支持视频验证",
+        "name": "☆車貓ww",
+        "pinned_tweet_id": "2048733888273691091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046856476216713216/7oNreVMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 24,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "Nekocar0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。\n里人格：@shi6w6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "shi6w6"
+              }
+            ]
+          }
+        },
+        "id": "1896604741821726720",
+        "location": "🚪88/288/520 ",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "2069371793832616314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 306,
+          "like_count": 1352,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "_yonayonaka_",
+        "verified": true
+      }
+    ]
+  }
+}

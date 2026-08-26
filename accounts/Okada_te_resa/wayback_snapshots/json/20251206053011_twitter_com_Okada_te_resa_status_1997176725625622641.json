@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1997152554850177076",
+    "created_at": "2025-12-06T05:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997176725625622641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        },
+        {
+          "end": 24,
+          "id": "1965786477302075393",
+          "start": 10,
+          "username": "yuehongdieqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997176725625622641",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997152554850177076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 @yuehongdieqwq 像婵姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8400,
+        "height": 1280,
+        "media_key": "13_1997152494145941504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997152494145941504/img/MS_MIL5WUeTpM6E8.jpg",
+        "public_metrics": {
+          "view_count": 325
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997152494145941504/vid/avc1/320x568/8wUr6K1yjooVm63y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997152494145941504/vid/avc1/480x852/cC-5UyzuwaiJ6Rwn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997152494145941504/vid/avc1/720x1280/oC14nuvyA23KbpMZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997152494145941504/pl/C5jHxYsHoYw1pN16.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1997152554850177076",
+        "created_at": "2025-12-06T05:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997176725625622641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            },
+            {
+              "end": 24,
+              "id": "1965786477302075393",
+              "start": 10,
+              "username": "yuehongdieqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997176725625622641",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997152554850177076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 @yuehongdieqwq 像婵姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997152494145941504"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1997152554850177076",
+        "created_at": "2025-12-06T03:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997152554850177076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1965786477302075393",
+              "start": 11,
+              "username": "yuehongdieqwq"
+            },
+            {
+              "end": 49,
+              "id": "1767107094313160704",
+              "start": 35,
+              "username": "Okada_te_resa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoHp5kxTPV",
+              "end": 89,
+              "expanded_url": "https://x.com/akui1121/status/1997152554850177076/video/1",
+              "media_key": "13_1997152494145941504",
+              "start": 66,
+              "url": "https://t.co/BoHp5kxTPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997152554850177076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 558,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥们这鞭腿太帅了，感谢@yuehongdieqwq 给我od护航，感谢@Okada_te_resa 做我沙包，是我最开心的一天😭😭 https://t.co/BoHp5kxTPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 648,
+          "like_count": 26469,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1539
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！男娘！👻你喜欢僵尸嘛？❤️你知道乌托邦吗，是存在的🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121 👍 🐢咪@1965chich 🥰干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "1965chich"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1965050768156987788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944206812791865345/VxoTQON3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28635,
+          "following_count": 1219,
+          "like_count": 19233,
+          "listed_count": 74,
+          "media_count": 1024,
+          "tweet_count": 13086
+        },
+        "username": "akui1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T14:36:51.000Z",
+        "description": "清水推｜顺女｜ed?｜ADHD｜双相?精分?｜非常严重的间歇社交交流障碍｜友跨｜查成分回fo｜我存在于此的意义是?｜🚪｜♡",
+        "id": "1965786477302075393",
+        "location": "Nagasaki-shi, Nagasaki",
+        "name": "月虹蝶（2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984823715763535878/KIMA_obl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 118,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 286
+        },
+        "username": "yuehongdieqwq",
+        "verified": false
+      }
+    ]
+  }
+}

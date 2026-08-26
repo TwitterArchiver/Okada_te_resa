@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066464936394731520",
+        "3_2066464936394620928"
+      ],
+      "media_source_tweet_id": [
+        "2066464967541535221",
+        "2066464967541535221"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2066668775160906136",
+    "created_at": "2026-06-15T23:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066668775160906136"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "ヤニすう"
+        },
+        {
+          "end": 38,
+          "start": 23,
+          "tag": "スーパーの裏でヤニ吸うふたり"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957914394586882048",
+          "start": 3,
+          "username": "komoshuai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VuEpaHHC2Z",
+          "end": 67,
+          "expanded_url": "https://x.com/komoshuai/status/2066464967541535221/photo/1",
+          "media_key": "3_2066464936394731520",
+          "start": 44,
+          "url": "https://t.co/VuEpaHHC2Z"
+        },
+        {
+          "display_url": "pic.x.com/VuEpaHHC2Z",
+          "end": 67,
+          "expanded_url": "https://x.com/komoshuai/status/2066464967541535221/photo/1",
+          "media_key": "3_2066464936394620928",
+          "start": 44,
+          "url": "https://t.co/VuEpaHHC2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066668775160906136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066464967541535221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komoshuai: #ヤニすう \n\n#スーパーの裏でヤニ吸うふたり \n\n🚬😺 https://t.co/VuEpaHHC2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2066464936394731520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2O6TqbsAAIIlk.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2066464936394620928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2O6TqaAAAvvLd.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066464936394731520",
+            "3_2066464936394620928"
+          ],
+          "media_source_tweet_id": [
+            "2066464967541535221",
+            "2066464967541535221"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2066668775160906136",
+        "created_at": "2026-06-15T23:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066668775160906136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ヤニすう"
+            },
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "スーパーの裏でヤニ吸うふたり"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957914394586882048",
+              "start": 3,
+              "username": "komoshuai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuEpaHHC2Z",
+              "end": 67,
+              "expanded_url": "https://x.com/komoshuai/status/2066464967541535221/photo/1",
+              "media_key": "3_2066464936394731520",
+              "start": 44,
+              "url": "https://t.co/VuEpaHHC2Z"
+            },
+            {
+              "display_url": "pic.x.com/VuEpaHHC2Z",
+              "end": 67,
+              "expanded_url": "https://x.com/komoshuai/status/2066464967541535221/photo/1",
+              "media_key": "3_2066464936394620928",
+              "start": 44,
+              "url": "https://t.co/VuEpaHHC2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066668775160906136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066464967541535221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komoshuai: #ヤニすう \n\n#スーパーの裏でヤニ吸うふたり \n\n🚬😺 https://t.co/VuEpaHHC2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066464936394731520",
+            "3_2066464936394620928"
+          ]
+        },
+        "author_id": "957914394586882048",
+        "conversation_id": "2066464967541535221",
+        "created_at": "2026-06-15T10:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066464967541535221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヤニすう"
+            },
+            {
+              "end": 23,
+              "start": 8,
+              "tag": "スーパーの裏でヤニ吸うふたり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuEpaHHC2Z",
+              "end": 52,
+              "expanded_url": "https://x.com/komoshuai/status/2066464967541535221/photo/1",
+              "media_key": "3_2066464936394731520",
+              "start": 29,
+              "url": "https://t.co/VuEpaHHC2Z"
+            },
+            {
+              "display_url": "pic.x.com/VuEpaHHC2Z",
+              "end": 52,
+              "expanded_url": "https://x.com/komoshuai/status/2066464967541535221/photo/1",
+              "media_key": "3_2066464936394620928",
+              "start": 29,
+              "url": "https://t.co/VuEpaHHC2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066464967541535221",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 62456,
+          "like_count": 4247,
+          "quote_count": 12,
+          "reply_count": 47,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "#ヤニすう \n\n#スーパーの裏でヤニ吸うふたり \n\n🚬😺 https://t.co/VuEpaHHC2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 909,
+          "like_count": 40574,
+          "listed_count": 4,
+          "media_count": 648,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-29T09:52:43.000Z",
+        "description": "😸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/komoshuai",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/komoshuai",
+                "start": 0,
+                "url": "https://t.co/OWECq5h7MM"
+              }
+            ]
+          }
+        },
+        "id": "957914394586882048",
+        "name": "帅嘤嘤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045707217092075521/RWU3Zzvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503754,
+          "following_count": 230,
+          "like_count": 4413,
+          "listed_count": 2350,
+          "media_count": 693,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/OWECq5h7MM",
+        "username": "komoshuai",
+        "verified": true
+      }
+    ]
+  }
+}

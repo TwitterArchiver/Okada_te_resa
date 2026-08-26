@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1942375243278164081",
+    "created_at": "2025-07-08T19:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942666769283645718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1450441274771718147",
+          "start": 0,
+          "username": "4e_yw"
+        },
+        {
+          "end": 17,
+          "id": "1003980429781696512",
+          "start": 7,
+          "username": "yumiosusu"
+        },
+        {
+          "end": 34,
+          "id": "1249525383797456898",
+          "start": 18,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942666769283645718",
+    "in_reply_to_user_id": "1450441274771718147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942589000885338150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4e_yw @yumiosusu @jakobsonradical 哪里的网吧包夜十块？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1942375243278164081",
+        "created_at": "2025-07-08T19:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942666769283645718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1450441274771718147",
+              "start": 0,
+              "username": "4e_yw"
+            },
+            {
+              "end": 17,
+              "id": "1003980429781696512",
+              "start": 7,
+              "username": "yumiosusu"
+            },
+            {
+              "end": 34,
+              "id": "1249525383797456898",
+              "start": 18,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942666769283645718",
+        "in_reply_to_user_id": "1450441274771718147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942589000885338150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4e_yw @yumiosusu @jakobsonradical 哪里的网吧包夜十块？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450441274771718147",
+        "conversation_id": "1942375243278164081",
+        "created_at": "2025-07-08T14:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942589000885338150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1003980429781696512",
+              "start": 0,
+              "username": "yumiosusu"
+            },
+            {
+              "end": 27,
+              "id": "1249525383797456898",
+              "start": 11,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942589000885338150",
+        "in_reply_to_user_id": "1003980429781696512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2884,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942570642555167048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumiosusu @jakobsonradical 八个月没工资怎么有钱吃饭有钱养流浪猫？再说了网吧包夜10块，比起死亡好像代价也太小了吧，好，既然你说他没钱，那么去他所管的宿舍里打个地铺都不至于热死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 388,
+          "like_count": 16839,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 797
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T12:38:53.000Z",
+        "description": "",
+        "id": "1450441274771718147",
+        "name": "爱吃蛋炒饭的小朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450441400999243781/KNuwAH1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 48,
+          "like_count": 97,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 674
+        },
+        "username": "4e_yw",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-05T12:42:42.000Z",
+        "description": "その國に生れてその國を愛し、 その土地に生れてその土地を愛するは、 人情である。 我が臺灣は美しい島であるから特に懐しい。台湾は我等台湾人の台湾である",
+        "id": "1003980429781696512",
+        "name": "Stand up like a Taiwanese",
+        "pinned_tweet_id": "1596890523293581312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801622358526201857/xt3WRyQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 715,
+          "like_count": 130401,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 20688
+        },
+        "username": "yumiosusu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242511,
+          "following_count": 1474,
+          "like_count": 41386,
+          "listed_count": 979,
+          "media_count": 18725,
+          "tweet_count": 25916
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072625085765292032"
+      ],
+      "media_source_tweet_id": [
+        "2073572570377638038"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      }
+    ],
+    "conversation_id": "2073649718325104894",
+    "created_at": "2026-07-05T06:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073649718325104894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "紡木吏佐"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "D4DJ"
+        },
+        {
+          "end": 112,
+          "start": 104,
+          "tag": "PMaiden"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108189554089947137",
+          "start": 3,
+          "username": "D4DJ_pj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2pWkF7ymqX",
+          "end": 137,
+          "expanded_url": "https://x.com/D4DJ_pj/status/2073572570377638038/photo/1",
+          "media_key": "3_2072625085765292032",
+          "start": 114,
+          "url": "https://t.co/2pWkF7ymqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073649718325104894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073572570377638038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @D4DJ_pj: 🎂#紡木吏佐 さん Happy Birthday🎁💖\n\n本日7月5日は、出雲咲姫役・紡木吏佐さんのお誕生日です🎊\nおめでとうございます❢\n素敵な一年になりますように✨\n\n#D4DJ #PMaiden✨ https://t.co/2pWkF7ymqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_2072625085765292032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNxiMWakAAMih4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072625085765292032"
+          ],
+          "media_source_tweet_id": [
+            "2073572570377638038"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "2073649718325104894",
+        "created_at": "2026-07-05T06:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073649718325104894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "紡木吏佐"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "D4DJ"
+            },
+            {
+              "end": 112,
+              "start": 104,
+              "tag": "PMaiden"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108189554089947137",
+              "start": 3,
+              "username": "D4DJ_pj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pWkF7ymqX",
+              "end": 137,
+              "expanded_url": "https://x.com/D4DJ_pj/status/2073572570377638038/photo/1",
+              "media_key": "3_2072625085765292032",
+              "start": 114,
+              "url": "https://t.co/2pWkF7ymqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073649718325104894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073572570377638038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @D4DJ_pj: 🎂#紡木吏佐 さん Happy Birthday🎁💖\n\n本日7月5日は、出雲咲姫役・紡木吏佐さんのお誕生日です🎊\nおめでとうございます❢\n素敵な一年になりますように✨\n\n#D4DJ #PMaiden✨ https://t.co/2pWkF7ymqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072625085765292032"
+          ]
+        },
+        "author_id": "1108189554089947137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "2073572570377638038",
+        "created_at": "2026-07-05T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073572570377638038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "紡木吏佐"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "D4DJ"
+            },
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "PMaiden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pWkF7ymqX",
+              "end": 124,
+              "expanded_url": "https://x.com/D4DJ_pj/status/2073572570377638038/photo/1",
+              "media_key": "3_2072625085765292032",
+              "start": 101,
+              "url": "https://t.co/2pWkF7ymqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073572570377638038",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19754,
+          "like_count": 1135,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "🎂#紡木吏佐 さん Happy Birthday🎁💖\n\n本日7月5日は、出雲咲姫役・紡木吏佐さんのお誕生日です🎊\nおめでとうございます❢\n素敵な一年になりますように✨\n\n#D4DJ #PMaiden✨ https://t.co/2pWkF7ymqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 957,
+          "like_count": 41885,
+          "listed_count": 5,
+          "media_count": 699,
+          "tweet_count": 3243
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-20T02:12:33.000Z",
+        "description": "DJ×アニメ×ゲームのメディアミックスプロジェクトD4DJ公式X　ゲーム公式アカウント⇒ @D4DJ_gm スマートフォン向けゲーム「D4DJ Groovy Mix」好評配信中！ ※個別のお問い合わせへの返答は行っておりません。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "D4DJ_gm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "d4dj-pj.com",
+                "end": 23,
+                "expanded_url": "https://d4dj-pj.com",
+                "start": 0,
+                "url": "https://t.co/CWCav6pOe9"
+              }
+            ]
+          }
+        },
+        "id": "1108189554089947137",
+        "name": "D4DJ(ディーフォーディージェー)公式",
+        "pinned_tweet_id": "2070703681587044458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642769266050224129/J-L_28Z0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146460,
+          "following_count": 99,
+          "like_count": 70,
+          "listed_count": 1056,
+          "media_count": 9587,
+          "tweet_count": 18734
+        },
+        "url": "https://t.co/CWCav6pOe9",
+        "username": "D4DJ_pj",
+        "verified": true
+      }
+    ]
+  }
+}

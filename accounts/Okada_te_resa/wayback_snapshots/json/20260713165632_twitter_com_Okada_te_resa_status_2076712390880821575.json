@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076674406429114368"
+      ],
+      "media_source_tweet_id": [
+        "2076674413538509138"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      }
+    ],
+    "conversation_id": "2076712390880821575",
+    "created_at": "2026-07-13T16:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076712390880821575"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "りなりで"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1374459238815125514",
+          "start": 3,
+          "username": "nari_milktea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mp0ICYGCAJ",
+          "end": 118,
+          "expanded_url": "https://x.com/nari_milktea/status/2076674413538509138/photo/1",
+          "media_key": "3_2076674406429114368",
+          "start": 95,
+          "url": "https://t.co/Mp0ICYGCAJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076712390880821575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076674413538509138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nari_milktea: ⟡\n\n生放送ご視聴有難う御座いました 𓈒𓏸︎︎\n知らないジャンルのお話沢山きけました！\nまりちゃんはむはむちゃんありがとう֊  ̫ ֊\n#りなりで\n\n⟡ https://t.co/Mp0ICYGCAJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2932,
+        "media_key": "3_2076674406429114368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHUXrVaQAADuDe.jpg",
+        "width": 3906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076674406429114368"
+          ],
+          "media_source_tweet_id": [
+            "2076674413538509138"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "2076712390880821575",
+        "created_at": "2026-07-13T16:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076712390880821575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "りなりで"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1374459238815125514",
+              "start": 3,
+              "username": "nari_milktea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mp0ICYGCAJ",
+              "end": 118,
+              "expanded_url": "https://x.com/nari_milktea/status/2076674413538509138/photo/1",
+              "media_key": "3_2076674406429114368",
+              "start": 95,
+              "url": "https://t.co/Mp0ICYGCAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076712390880821575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076674413538509138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nari_milktea: ⟡\n\n生放送ご視聴有難う御座いました 𓈒𓏸︎︎\n知らないジャンルのお話沢山きけました！\nまりちゃんはむはむちゃんありがとう֊  ̫ ֊\n#りなりで\n\n⟡ https://t.co/Mp0ICYGCAJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076674406429114368"
+          ]
+        },
+        "author_id": "1374459238815125514",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "2076674413538509138",
+        "created_at": "2026-07-13T14:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076674413538509138"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "りなりで"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mp0ICYGCAJ",
+              "end": 100,
+              "expanded_url": "https://x.com/nari_milktea/status/2076674413538509138/photo/1",
+              "media_key": "3_2076674406429114368",
+              "start": 77,
+              "url": "https://t.co/Mp0ICYGCAJ"
+            },
+            {
+              "display_url": "x.com/narinotonaride…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/narinotonaride/status/2076648233544343616",
+              "start": 101,
+              "url": "https://t.co/dhZ0xe4lGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076674413538509138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 28304,
+          "like_count": 1163,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076648233544343616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⟡\n\n生放送ご視聴有難う御座いました 𓈒𓏸︎︎\n知らないジャンルのお話沢山きけました！\nまりちゃんはむはむちゃんありがとう֊  ̫ ֊\n#りなりで\n\n⟡ https://t.co/Mp0ICYGCAJ https://t.co/dhZ0xe4lGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 972,
+          "like_count": 42701,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T20:34:08.000Z",
+        "description": "青二プロ所属 声優┊紅茶とホラーとボカロが好きです\n写真や動画の無断利用・転載お控え下さい\nいつも温かい応援、誠に有難う御座います",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nari_milktea?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nari_milktea?igsh=MWVzeWVkeG1hYXN5bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5FU0JCgSKo"
+              }
+            ]
+          }
+        },
+        "id": "1374459238815125514",
+        "location": "i & h┊水澄ぐみ様 ( @misumigumi )",
+        "name": "川口 莉奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039402845758435328/F4lLRGQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66152,
+          "following_count": 338,
+          "like_count": 37524,
+          "listed_count": 1809,
+          "media_count": 336,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/5FU0JCgSKo",
+        "username": "nari_milktea",
+        "verified": false
+      }
+    ]
+  }
+}

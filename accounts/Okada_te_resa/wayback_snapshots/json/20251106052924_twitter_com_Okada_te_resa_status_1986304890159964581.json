@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985904136701796352"
+      ],
+      "media_source_tweet_id": [
+        "1985904195963089215"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1986304890159964581",
+    "created_at": "2025-11-06T05:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986304890159964581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1004899586782236672",
+          "start": 3,
+          "username": "JDMCars86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRACJj5USn",
+          "end": 38,
+          "expanded_url": "https://x.com/JDMCars86/status/1985904195963089215/video/1",
+          "media_key": "13_1985904136701796352",
+          "start": 15,
+          "url": "https://t.co/aRACJj5USn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986304890159964581",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985904195963089215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDMCars86: https://t.co/aRACJj5USn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10855,
+        "height": 1280,
+        "media_key": "13_1985904136701796352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985904136701796352/img/xGhOO2X1FiXe-0lH.jpg",
+        "public_metrics": {
+          "view_count": 2344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985904136701796352/vid/avc1/320x568/UQe0YCPO19_la313.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985904136701796352/vid/avc1/480x852/o7H_mP65eSPmw5cC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985904136701796352/vid/avc1/720x1280/XUwiml7foBJJCMCY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985904136701796352/pl/wR5nUaaRccJGQbfY.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985904136701796352"
+          ],
+          "media_source_tweet_id": [
+            "1985904195963089215"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1986304890159964581",
+        "created_at": "2025-11-06T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986304890159964581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1004899586782236672",
+              "start": 3,
+              "username": "JDMCars86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRACJj5USn",
+              "end": 38,
+              "expanded_url": "https://x.com/JDMCars86/status/1985904195963089215/video/1",
+              "media_key": "13_1985904136701796352",
+              "start": 15,
+              "url": "https://t.co/aRACJj5USn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986304890159964581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985904195963089215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDMCars86: https://t.co/aRACJj5USn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985904136701796352"
+          ]
+        },
+        "author_id": "1004899586782236672",
+        "conversation_id": "1985904195963089215",
+        "created_at": "2025-11-05T02:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985904195963089215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRACJj5USn",
+              "end": 23,
+              "expanded_url": "https://x.com/JDMCars86/status/1985904195963089215/video/1",
+              "media_key": "13_1985904136701796352",
+              "start": 0,
+              "url": "https://t.co/aRACJj5USn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985904195963089215",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 5016,
+          "like_count": 722,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aRACJj5USn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 618,
+          "like_count": 24073,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1292
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T01:35:06.000Z",
+        "description": "All about Japanese cars 🎌 | Contact and promo ➡️ DM 📩",
+        "id": "1004899586782236672",
+        "location": "🇨🇵/🇬🇧",
+        "name": "JDM Cars 🇯🇵🔰",
+        "pinned_tweet_id": "1741871895199297606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1237046934151593984/mmVqBtb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62964,
+          "following_count": 343,
+          "like_count": 1751,
+          "listed_count": 70,
+          "media_count": 447,
+          "tweet_count": 738
+        },
+        "username": "JDMCars86",
+        "verified": false
+      }
+    ]
+  }
+}

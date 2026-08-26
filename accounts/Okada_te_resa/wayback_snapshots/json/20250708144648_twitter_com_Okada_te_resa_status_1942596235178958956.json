@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1942557442057068717",
+    "created_at": "2025-07-08T14:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942596235178958956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548275955319287818",
+          "start": 0,
+          "username": "daiwei0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942596235178958956",
+    "in_reply_to_user_id": "1548275955319287818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942557442057068717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daiwei0721 东百比在空调这块还是喜欢狗叫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_1942557432728760320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVZsWWXsAAy1Ne.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1942557442057068717",
+        "created_at": "2025-07-08T14:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942596235178958956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548275955319287818",
+              "start": 0,
+              "username": "daiwei0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942596235178958956",
+        "in_reply_to_user_id": "1548275955319287818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942557442057068717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daiwei0721 东百比在空调这块还是喜欢狗叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942557432728760320"
+          ]
+        },
+        "author_id": "1548275955319287818",
+        "conversation_id": "1942557442057068717",
+        "created_at": "2025-07-08T12:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T13:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942557442057068717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/McEwHkqPYr",
+              "end": 54,
+              "expanded_url": "https://x.com/daiwei0721/status/1942557442057068717/photo/1",
+              "media_key": "3_1942557432728760320",
+              "start": 31,
+              "url": "https://t.co/McEwHkqPYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942557442057068717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 45865,
+          "like_count": 392,
+          "quote_count": 4,
+          "reply_count": 69,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "关于青岛大学宿管大爷中暑去世相关视频的评论区，一个出生的评论 https://t.co/McEwHkqPYr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 388,
+          "like_count": 16809,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 794
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T11:58:57.000Z",
+        "description": "欢迎你关注我😼😼不经常谈论政治，喜欢转发插画😽😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/paYMa4",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/paYMa4",
+                "start": 0,
+                "url": "https://t.co/2V08yhQira"
+              }
+            ]
+          }
+        },
+        "id": "1548275955319287818",
+        "location": "幻想乡",
+        "name": "平泽唯😼😼😼",
+        "pinned_tweet_id": "1716105466692919495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911327618458132480/NDmxI0jT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4094,
+          "following_count": 2216,
+          "like_count": 34184,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 10225
+        },
+        "url": "https://t.co/2V08yhQira",
+        "username": "daiwei0721",
+        "verified": false
+      }
+    ]
+  }
+}

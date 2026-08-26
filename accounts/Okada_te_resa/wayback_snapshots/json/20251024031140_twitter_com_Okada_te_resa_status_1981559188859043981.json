@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981313631733100544",
+        "3_1981313631754010624",
+        "3_1981313631754051584",
+        "3_1981313631829610496"
+      ],
+      "media_source_tweet_id": [
+        "1981313657750626443",
+        "1981313657750626443",
+        "1981313657750626443",
+        "1981313657750626443"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981559188859043981",
+    "created_at": "2025-10-24T03:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T04:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981559188859043981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1345004788329582592",
+          "start": 3,
+          "username": "naazxxy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bvcFAWui5",
+          "end": 61,
+          "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+          "media_key": "3_1981313631733100544",
+          "start": 38,
+          "url": "https://t.co/9bvcFAWui5"
+        },
+        {
+          "display_url": "pic.x.com/9bvcFAWui5",
+          "end": 61,
+          "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+          "media_key": "3_1981313631754010624",
+          "start": 38,
+          "url": "https://t.co/9bvcFAWui5"
+        },
+        {
+          "display_url": "pic.x.com/9bvcFAWui5",
+          "end": 61,
+          "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+          "media_key": "3_1981313631754051584",
+          "start": 38,
+          "url": "https://t.co/9bvcFAWui5"
+        },
+        {
+          "display_url": "pic.x.com/9bvcFAWui5",
+          "end": 61,
+          "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+          "media_key": "3_1981313631829610496",
+          "start": 38,
+          "url": "https://t.co/9bvcFAWui5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981559188859043981",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981313657750626443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naazxxy: 𝒘𝒊(𝒍)𝒅-𝒔𝒄𝒓𝒆𝒆𝒏 𝗯𝗮𝗿𝗼𝗾𝘂𝗲\n\n✦ https://t.co/9bvcFAWui5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2734,
+        "media_key": "3_1981313631733100544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38KQCgXMAAQfCX.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_1981313631754010624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38KQClWQAAkyKV.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_1981313631754051584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38KQClW4AAEWPs.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1981313631829610496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38KQC3X0AAQIit.jpg",
+        "width": 2734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981313631733100544",
+            "3_1981313631754010624",
+            "3_1981313631754051584",
+            "3_1981313631829610496"
+          ],
+          "media_source_tweet_id": [
+            "1981313657750626443",
+            "1981313657750626443",
+            "1981313657750626443",
+            "1981313657750626443"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981559188859043981",
+        "created_at": "2025-10-24T03:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T04:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981559188859043981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1345004788329582592",
+              "start": 3,
+              "username": "naazxxy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 61,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631733100544",
+              "start": 38,
+              "url": "https://t.co/9bvcFAWui5"
+            },
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 61,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631754010624",
+              "start": 38,
+              "url": "https://t.co/9bvcFAWui5"
+            },
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 61,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631754051584",
+              "start": 38,
+              "url": "https://t.co/9bvcFAWui5"
+            },
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 61,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631829610496",
+              "start": 38,
+              "url": "https://t.co/9bvcFAWui5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981559188859043981",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981313657750626443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naazxxy: 𝒘𝒊(𝒍)𝒅-𝒔𝒄𝒓𝒆𝒆𝒏 𝗯𝗮𝗿𝗼𝗾𝘂𝗲\n\n✦ https://t.co/9bvcFAWui5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981313631733100544",
+            "3_1981313631754010624",
+            "3_1981313631754051584",
+            "3_1981313631829610496"
+          ]
+        },
+        "author_id": "1345004788329582592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981313657750626443",
+        "created_at": "2025-10-23T10:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981313657750626443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 48,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631733100544",
+              "start": 25,
+              "url": "https://t.co/9bvcFAWui5"
+            },
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 48,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631754010624",
+              "start": 25,
+              "url": "https://t.co/9bvcFAWui5"
+            },
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 48,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631754051584",
+              "start": 25,
+              "url": "https://t.co/9bvcFAWui5"
+            },
+            {
+              "display_url": "pic.x.com/9bvcFAWui5",
+              "end": 48,
+              "expanded_url": "https://x.com/naazxxy/status/1981313657750626443/photo/1",
+              "media_key": "3_1981313631829610496",
+              "start": 25,
+              "url": "https://t.co/9bvcFAWui5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981313657750626443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 22450,
+          "like_count": 1394,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "𝒘𝒊(𝒍)𝒅-𝒔𝒄𝒓𝒆𝒆𝒏 𝗯𝗮𝗿𝗼𝗾𝘂𝗲\n\n✦ https://t.co/9bvcFAWui5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 581,
+          "like_count": 23106,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1237
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T13:51:57.000Z",
+        "description": "nazy | 🇰🇷photographer📸 #나지사진 | Onepiece HxH dcst 銀魂 NRT | 🚫Do not use or repost my work | 🥇🌎 | 사진집 통판➡️ https://t.co/pL3Gu6mLLx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "나지사진"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "naver.me/53lvwrJN",
+                "end": 127,
+                "expanded_url": "http://naver.me/53lvwrJN",
+                "start": 104,
+                "url": "https://t.co/pL3Gu6mLLx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nazyphoto.postype.com",
+                "end": 23,
+                "expanded_url": "https://nazyphoto.postype.com/",
+                "start": 0,
+                "url": "https://t.co/FYqnKYnf7g"
+              }
+            ]
+          }
+        },
+        "id": "1345004788329582592",
+        "location": "고잉메리호",
+        "name": "나지 ナジ | 사진집 통판중",
+        "pinned_tweet_id": "1981313657750626443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897577803950051328/PlU-Eu5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 220,
+          "like_count": 25136,
+          "listed_count": 21,
+          "media_count": 406,
+          "tweet_count": 11004
+        },
+        "url": "https://t.co/FYqnKYnf7g",
+        "username": "naazxxy",
+        "verified": false
+      }
+    ]
+  }
+}

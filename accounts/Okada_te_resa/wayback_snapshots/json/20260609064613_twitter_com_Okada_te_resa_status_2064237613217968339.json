@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064177295192141824"
+      ],
+      "media_source_tweet_id": [
+        "2064177314716582382"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2064237613217968339",
+    "created_at": "2026-06-09T06:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064237613217968339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669543422586421248",
+          "start": 3,
+          "username": "Letana358121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WA6RTq2zu1",
+          "end": 79,
+          "expanded_url": "https://x.com/Letana358121/status/2064177314716582382/photo/1",
+          "media_key": "3_2064177295192141824",
+          "start": 56,
+          "url": "https://t.co/WA6RTq2zu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064237613217968339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064177314716582382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Letana358121: 妈呀大姐你要不看看你自己在做什么呢。。。真得把你关精神病院里然后炼成ai了 https://t.co/WA6RTq2zu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2066,
+        "media_key": "3_2064177295192141824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVuUEFasAAjJLx.jpg",
+        "width": 1217
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064177295192141824"
+          ],
+          "media_source_tweet_id": [
+            "2064177314716582382"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2064237613217968339",
+        "created_at": "2026-06-09T06:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064237613217968339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669543422586421248",
+              "start": 3,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA6RTq2zu1",
+              "end": 79,
+              "expanded_url": "https://x.com/Letana358121/status/2064177314716582382/photo/1",
+              "media_key": "3_2064177295192141824",
+              "start": 56,
+              "url": "https://t.co/WA6RTq2zu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064237613217968339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064177314716582382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Letana358121: 妈呀大姐你要不看看你自己在做什么呢。。。真得把你关精神病院里然后炼成ai了 https://t.co/WA6RTq2zu1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064177295192141824"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2064177314716582382",
+        "created_at": "2026-06-09T02:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064177314716582382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA6RTq2zu1",
+              "end": 61,
+              "expanded_url": "https://x.com/Letana358121/status/2064177314716582382/photo/1",
+              "media_key": "3_2064177295192141824",
+              "start": 38,
+              "url": "https://t.co/WA6RTq2zu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064177314716582382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2000,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀大姐你要不看看你自己在做什么呢。。。真得把你关精神病院里然后炼成ai了 https://t.co/WA6RTq2zu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 902,
+          "like_count": 40183,
+          "listed_count": 4,
+          "media_count": 637,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "遠く微かな安息に\nこの手が届きますように\n残りすべて　慌てて灯した/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058503889062940672/Ukhypx4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 1506,
+          "like_count": 57493,
+          "listed_count": 6,
+          "media_count": 2314,
+          "tweet_count": 20868
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

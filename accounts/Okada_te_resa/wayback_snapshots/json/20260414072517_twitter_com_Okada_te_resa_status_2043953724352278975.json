@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2043953724352278975",
+    "created_at": "2026-04-14T07:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043953724352278975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AyanoAsahina/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/AyanoAsahina/status/2026282290922582472",
+          "start": 11,
+          "url": "https://t.co/S6dsoyj4TP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043953724352278975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026282290922582472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很幸福……好羡慕…… https://t.co/S6dsoyj4TP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026282286229180418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7NAO1bUAIN6vG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2026282286224949248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7NAO0awAALs5G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2043953724352278975",
+        "created_at": "2026-04-14T07:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043953724352278975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AyanoAsahina/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/AyanoAsahina/status/2026282290922582472",
+              "start": 11,
+              "url": "https://t.co/S6dsoyj4TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043953724352278975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026282290922582472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很幸福……好羡慕…… https://t.co/S6dsoyj4TP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026282286229180418",
+            "3_2026282286224949248"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2026282290922582472",
+        "created_at": "2026-02-24T13:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026282290922582472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYYfZFKyox",
+              "end": 73,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2026282290922582472/photo/1",
+              "media_key": "3_2026282286229180418",
+              "start": 50,
+              "url": "https://t.co/ZYYfZFKyox"
+            },
+            {
+              "display_url": "pic.x.com/ZYYfZFKyox",
+              "end": 73,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2026282290922582472/photo/1",
+              "media_key": "3_2026282286224949248",
+              "start": 50,
+              "url": "https://t.co/ZYYfZFKyox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026282290922582472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 21801,
+          "like_count": 334,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "经过惠惠本人同意放两张冬天的照片\n紫老师和hachi说我俩特别像\n土堡说我俩不像\n到底像不像？？？ https://t.co/ZYYfZFKyox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 758,
+          "like_count": 36599,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 2451
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男//发点女装日常//都内一般会社員//120% sub//169cm 55+Kg//不扩列//提问箱📦在下面//不首先不礼貌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Minato-ku, Tokyo",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2034579525712109919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043838487275962368/b8ieql-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10912,
+          "following_count": 551,
+          "like_count": 7801,
+          "listed_count": 44,
+          "media_count": 235,
+          "tweet_count": 6173
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

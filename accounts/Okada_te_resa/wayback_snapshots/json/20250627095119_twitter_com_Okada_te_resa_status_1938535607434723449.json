@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938525564111101952",
+        "3_1938525564136214528"
+      ],
+      "media_source_tweet_id": [
+        "1938525570884927707",
+        "1938525570884927707"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1938535607434723449",
+    "created_at": "2025-06-27T09:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938535607434723449"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "斉藤 曜",
+          "probability": 0.9578,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3801397033",
+          "start": 3,
+          "username": "Saito_Shuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PUOjUO7wi7",
+          "end": 47,
+          "expanded_url": "https://x.com/Saito_Shuka/status/1938525570884927707/photo/1",
+          "media_key": "3_1938525564111101952",
+          "start": 24,
+          "url": "https://t.co/PUOjUO7wi7"
+        },
+        {
+          "display_url": "pic.x.com/PUOjUO7wi7",
+          "end": 47,
+          "expanded_url": "https://x.com/Saito_Shuka/status/1938525570884927707/photo/1",
+          "media_key": "3_1938525564136214528",
+          "start": 24,
+          "url": "https://t.co/PUOjUO7wi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938535607434723449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1430
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938525570884927707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saito_Shuka: 斉藤 曜⛵️ https://t.co/PUOjUO7wi7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938525564111101952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucGutTbIAAVbT5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938525564136214528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucGutZaUAAYq8x.jpg",
+        "width": 1770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938525564111101952",
+            "3_1938525564136214528"
+          ],
+          "media_source_tweet_id": [
+            "1938525570884927707",
+            "1938525570884927707"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1938535607434723449",
+        "created_at": "2025-06-27T09:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938535607434723449"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "斉藤 曜",
+              "probability": 0.9578,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3801397033",
+              "start": 3,
+              "username": "Saito_Shuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUOjUO7wi7",
+              "end": 47,
+              "expanded_url": "https://x.com/Saito_Shuka/status/1938525570884927707/photo/1",
+              "media_key": "3_1938525564111101952",
+              "start": 24,
+              "url": "https://t.co/PUOjUO7wi7"
+            },
+            {
+              "display_url": "pic.x.com/PUOjUO7wi7",
+              "end": 47,
+              "expanded_url": "https://x.com/Saito_Shuka/status/1938525570884927707/photo/1",
+              "media_key": "3_1938525564136214528",
+              "start": 24,
+              "url": "https://t.co/PUOjUO7wi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938535607434723449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1430
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938525570884927707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saito_Shuka: 斉藤 曜⛵️ https://t.co/PUOjUO7wi7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938525564111101952",
+            "3_1938525564136214528"
+          ]
+        },
+        "author_id": "3801397033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1938525570884927707",
+        "created_at": "2025-06-27T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938525570884927707"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "斉藤 曜",
+              "probability": 0.9686,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUOjUO7wi7",
+              "end": 30,
+              "expanded_url": "https://x.com/Saito_Shuka/status/1938525570884927707/photo/1",
+              "media_key": "3_1938525564111101952",
+              "start": 7,
+              "url": "https://t.co/PUOjUO7wi7"
+            },
+            {
+              "display_url": "pic.x.com/PUOjUO7wi7",
+              "end": 30,
+              "expanded_url": "https://x.com/Saito_Shuka/status/1938525570884927707/photo/1",
+              "media_key": "3_1938525564136214528",
+              "start": 7,
+              "url": "https://t.co/PUOjUO7wi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938525570884927707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 53190,
+          "like_count": 5823,
+          "quote_count": 34,
+          "reply_count": 103,
+          "retweet_count": 1430
+        },
+        "reply_settings": "everyone",
+        "text": "斉藤 曜⛵️ https://t.co/PUOjUO7wi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 360,
+          "like_count": 15929,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 726
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T08:36:22.000Z",
+        "description": "斉藤朱夏 公式！声優/アーティスト◎！。#lovelive #Aqours 渡辺曜/ #俺好き サザンカ/ #ワンエグ 川井リカ/ #明日ちゃんのセーラー服 福元幹 /#草食ドラゴン 水の聖女 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "lovelive"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aqours"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "俺好き"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "ワンエグ"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "明日ちゃんのセーラー服"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "草食ドラゴン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saitoshuka.jp",
+                "end": 23,
+                "expanded_url": "https://www.saitoshuka.jp",
+                "start": 0,
+                "url": "https://t.co/70hovENuOg"
+              }
+            ]
+          }
+        },
+        "id": "3801397033",
+        "name": "斉藤 朱夏",
+        "pinned_tweet_id": "1935528352041025999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929856907822747652/wovVB_im_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383434,
+          "following_count": 456,
+          "like_count": 6343,
+          "listed_count": 8596,
+          "media_count": 2077,
+          "tweet_count": 10541
+        },
+        "url": "https://t.co/70hovENuOg",
+        "username": "Saito_Shuka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057529258122117120"
+      ],
+      "media_source_tweet_id": [
+        "2057529261045456919"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057697948247769353",
+    "created_at": "2026-05-22T05:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057697948247769353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009886415673536512",
+          "start": 3,
+          "username": "parfaedream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m9SOHV2gtD",
+          "end": 92,
+          "expanded_url": "https://x.com/parfaedream/status/2057529261045456919/photo/1",
+          "media_key": "3_2057529258122117120",
+          "start": 69,
+          "url": "https://t.co/m9SOHV2gtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057697948247769353",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057529261045456919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parfaedream: Jirai Teto but her shoes are like 10% of her height https://t.co/m9SOHV2gtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057529258122117120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3P9YFXgAAFSy2.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057529258122117120"
+          ],
+          "media_source_tweet_id": [
+            "2057529261045456919"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057697948247769353",
+        "created_at": "2026-05-22T05:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057697948247769353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009886415673536512",
+              "start": 3,
+              "username": "parfaedream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9SOHV2gtD",
+              "end": 92,
+              "expanded_url": "https://x.com/parfaedream/status/2057529261045456919/photo/1",
+              "media_key": "3_2057529258122117120",
+              "start": 69,
+              "url": "https://t.co/m9SOHV2gtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057697948247769353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057529261045456919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parfaedream: Jirai Teto but her shoes are like 10% of her height https://t.co/m9SOHV2gtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057529258122117120"
+          ]
+        },
+        "author_id": "2009886415673536512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057529261045456919",
+        "created_at": "2026-05-21T18:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057529261045456919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9SOHV2gtD",
+              "end": 75,
+              "expanded_url": "https://x.com/parfaedream/status/2057529261045456919/photo/1",
+              "media_key": "3_2057529258122117120",
+              "start": 52,
+              "url": "https://t.co/m9SOHV2gtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057529261045456919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 3715,
+          "like_count": 443,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Jirai Teto but her shoes are like 10% of her height https://t.co/m9SOHV2gtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 859,
+          "like_count": 38964,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 2825
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T07:14:22.000Z",
+        "description": "𝙀𝙪𝙧𝙤𝙥𝙚𝙖𝙣 𝙘𝙤𝙨𝙥𝙡𝙖𝙮𝙚𝙧 𝙩𝙧𝙮𝙞𝙣𝙜 𝙩𝙤 𝙙𝙤 𝙩𝙝𝙚 𝙘𝙪𝙩𝙚 𝙩𝙝𝙞𝙣𝙜\n\n𝙎𝙁𝙒 𝙤𝙣𝙡𝙮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/parfaedream",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/parfaedream",
+                "start": 0,
+                "url": "https://t.co/3YEILNPHa9"
+              }
+            ]
+          }
+        },
+        "id": "2009886415673536512",
+        "location": "Switzerland",
+        "name": "𝓟𝓪𝓻𝓯𝓪𝓮𝓭𝓻𝓮𝓪𝓶 ♡",
+        "pinned_tweet_id": "2055688474095686142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055670985089589248/ejeTSaaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 125,
+          "like_count": 805,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/3YEILNPHa9",
+        "username": "parfaedream",
+        "verified": true
+      }
+    ]
+  }
+}

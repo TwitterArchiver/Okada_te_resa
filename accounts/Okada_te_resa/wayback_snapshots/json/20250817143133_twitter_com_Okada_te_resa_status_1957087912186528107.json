@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1957087912186528107",
+    "created_at": "2025-08-17T14:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T15:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957087912186528107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792575947469975552",
+          "start": 3,
+          "username": "Chigine1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957087912186528107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956983290943975733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chigine1: 今天是江泽民生日，虽然不能为长者续命了，但是可以给轮子减命，让我们纪念长者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1957087912186528107",
+        "created_at": "2025-08-17T14:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957087912186528107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792575947469975552",
+              "start": 3,
+              "username": "Chigine1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957087912186528107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956983290943975733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chigine1: 今天是江泽民生日，虽然不能为长者续命了，但是可以给轮子减命，让我们纪念长者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792575947469975552",
+        "conversation_id": "1956983290943975733",
+        "created_at": "2025-08-17T07:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956983290943975733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956983290943975733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7243,
+          "like_count": 237,
+          "quote_count": 6,
+          "reply_count": 30,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "今天是江泽民生日，虽然不能为长者续命了，但是可以给轮子减命，让我们纪念长者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 465,
+          "like_count": 19294,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1015
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "发疯文字和键政内容（正在减少键政） 一个漂浮在中国大陆的幽灵 想到什么说什么 缺乏立场性 以前是做题蛆现在也是 在补充阅读量 长年唯心主义实践者 中原官话/普通话/英语 CPMandarin/Mandarin/English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chigine1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chigine1",
+                "start": 0,
+                "url": "https://t.co/Ii6gF9bQKi"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "中国上海市宝山区上大路99号",
+        "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊금기산",
+        "pinned_tweet_id": "1951995151645024621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 1081,
+          "like_count": 64646,
+          "listed_count": 7,
+          "media_count": 1221,
+          "tweet_count": 13184
+        },
+        "url": "https://t.co/Ii6gF9bQKi",
+        "username": "Chigine1",
+        "verified": true
+      }
+    ]
+  }
+}

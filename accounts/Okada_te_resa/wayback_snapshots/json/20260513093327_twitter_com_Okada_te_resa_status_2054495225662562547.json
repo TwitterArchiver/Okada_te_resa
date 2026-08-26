@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054495206133907457",
+        "3_2054495206205173760"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2054495225662562547",
+    "created_at": "2026-05-13T09:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054495225662562547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1610865989398462465",
+          "start": 12,
+          "username": "BeforeNoise0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20iUcfjh4Z",
+          "end": 53,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2054495225662562547/photo/1",
+          "media_key": "3_2054495206133907457",
+          "start": 30,
+          "url": "https://t.co/20iUcfjh4Z"
+        },
+        {
+          "display_url": "pic.x.com/20iUcfjh4Z",
+          "end": 53,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2054495225662562547/photo/1",
+          "media_key": "3_2054495206205173760",
+          "start": 30,
+          "url": "https://t.co/20iUcfjh4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054495225662562547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "耶耶耶1.4k fo噜\n@BeforeNoise0 p的图 https://t.co/20iUcfjh4Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054495206133907457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMIgTpawAESIuq.jpg",
+        "width": 943
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2054495206205173760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMIgT6aMAAN5Ij.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054495206133907457",
+            "3_2054495206205173760"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2054495225662562547",
+        "created_at": "2026-05-13T09:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054495225662562547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1610865989398462465",
+              "start": 12,
+              "username": "BeforeNoise0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20iUcfjh4Z",
+              "end": 53,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2054495225662562547/photo/1",
+              "media_key": "3_2054495206133907457",
+              "start": 30,
+              "url": "https://t.co/20iUcfjh4Z"
+            },
+            {
+              "display_url": "pic.x.com/20iUcfjh4Z",
+              "end": 53,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2054495225662562547/photo/1",
+              "media_key": "3_2054495206205173760",
+              "start": 30,
+              "url": "https://t.co/20iUcfjh4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054495225662562547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶耶耶1.4k fo噜\n@BeforeNoise0 p的图 https://t.co/20iUcfjh4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2054391181682049319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 822,
+          "like_count": 38317,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 2731
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "entp/双子/一般人 \n目前喜好是互攻高壮男（会害羞惯着我的玩具",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051037732663611392/Qx_RzDGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 737,
+          "like_count": 9381,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 4276
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      }
+    ]
+  }
+}

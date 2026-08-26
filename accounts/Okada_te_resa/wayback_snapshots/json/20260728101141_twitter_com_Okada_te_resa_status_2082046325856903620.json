@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081776123214704640"
+      ],
+      "media_source_tweet_id": [
+        "2081776132983296048"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2082046325856903620",
+    "created_at": "2026-07-28T10:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082046325856903620"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 41,
+          "tag": "needy_pic"
+        },
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "hanasakimakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lhIKBT1pF4",
+          "end": 84,
+          "expanded_url": "https://x.com/hanasakimakura/status/2081776132983296048/photo/1",
+          "media_key": "3_2081776123214704640",
+          "start": 61,
+          "url": "https://t.co/lhIKBT1pF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082046325856903620",
+    "lang": "sv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 351
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081776132983296048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanasakimakura: INTERNET SA·I·KOU❕❕\n\n#needy_pic #cosplay https://t.co/lhIKBT1pF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081776123214704640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP0WrYaMAACouO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081776123214704640"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081776132983296048",
+        "created_at": "2026-07-27T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081776132983296048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "needy_pic"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhIKBT1pF4",
+              "end": 64,
+              "expanded_url": "https://x.com/hanasakimakura/status/2081776132983296048/photo/1",
+              "media_key": "3_2081776123214704640",
+              "start": 41,
+              "url": "https://t.co/lhIKBT1pF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081776132983296048",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 38295,
+          "like_count": 4596,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 351
+        },
+        "reply_settings": "everyone",
+        "text": "INTERNET SA·I·KOU❕❕\n\n#needy_pic #cosplay https://t.co/lhIKBT1pF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081776123214704640"
+          ],
+          "media_source_tweet_id": [
+            "2081776132983296048"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082046325856903620",
+        "created_at": "2026-07-28T10:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082046325856903620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "needy_pic"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "hanasakimakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhIKBT1pF4",
+              "end": 84,
+              "expanded_url": "https://x.com/hanasakimakura/status/2081776132983296048/photo/1",
+              "media_key": "3_2081776123214704640",
+              "start": 61,
+              "url": "https://t.co/lhIKBT1pF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082046325856903620",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 351
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081776132983296048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanasakimakura: INTERNET SA·I·KOU❕❕\n\n#needy_pic #cosplay https://t.co/lhIKBT1pF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 994,
+          "like_count": 43782,
+          "listed_count": 5,
+          "media_count": 734,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "Chinese cosplayer🎀#まくらーめん 異世界同位体💀#花咲ゾンビ／TikTok▶︎hnsk_makura／@mizuchimakomori 🩵🩺@uypnmn 💙💤／加工厨。時々変な日本語喋る／一生火女🖋️／Fanmark▶︎🌸🪽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mizuchimakomori"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "uypnmn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hanasaki___?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hanasaki___?igsh=MTc3aXppb2I5eWZhZA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5qywsnArL1"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "AI🚫reprint🚫写真、仕事はDMへお願いします",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2081262955946226109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193833,
+          "following_count": 997,
+          "like_count": 104747,
+          "listed_count": 735,
+          "media_count": 1316,
+          "tweet_count": 23173
+        },
+        "url": "https://t.co/5qywsnArL1",
+        "username": "hanasakimakura",
+        "verified": true
+      }
+    ]
+  }
+}

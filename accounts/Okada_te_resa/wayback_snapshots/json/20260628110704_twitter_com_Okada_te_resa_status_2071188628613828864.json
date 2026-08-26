@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2070923639416143885",
+    "created_at": "2026-06-28T11:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071188628613828864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758421358789459968",
+          "start": 0,
+          "username": "xuebijiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071188628613828864",
+    "in_reply_to_user_id": "1758421358789459968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071107546480623721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuebijiang 还是太贵了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2070923639416143885",
+        "created_at": "2026-06-28T11:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071188628613828864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758421358789459968",
+              "start": 0,
+              "username": "xuebijiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071188628613828864",
+        "in_reply_to_user_id": "1758421358789459968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071107546480623721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuebijiang 还是太贵了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758421358789459968",
+        "conversation_id": "2070923639416143885",
+        "created_at": "2026-06-28T05:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071107546480623721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071107546480623721",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070923639416143885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 月初刚从闲鱼收了一个，还挺不错的。(=^▽^=)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 926,
+          "like_count": 41319,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 3152
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:21:46.000Z",
+        "description": "抽象乐子人伪娘一枚，抖M，四爱。月厨，jo厨，EVA厨，摇滚乐迷，吉他苦手，业余coser兼摄影，帖子偏日常。\n约cos委托，摄影，绳艺合作（合作绳室badcat绳缚工作室，辽宁约绳可私信）",
+        "id": "1758421358789459968",
+        "location": "辽宁省",
+        "name": "闻起来像十罐雪碧",
+        "pinned_tweet_id": "1961955466592092503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071106353708617728/Swo8cRT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 318,
+          "like_count": 2108,
+          "listed_count": 7,
+          "media_count": 354,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "xuebijiang",
+        "verified": false
+      }
+    ]
+  }
+}

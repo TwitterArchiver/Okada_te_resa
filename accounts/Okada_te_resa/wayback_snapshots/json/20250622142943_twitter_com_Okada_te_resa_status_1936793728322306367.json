@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936774553214259357",
+    "created_at": "2025-06-22T14:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936793728322306367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        },
+        {
+          "end": 31,
+          "id": "1642717433323745281",
+          "start": 22,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936793728322306367",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936774553214259357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 💝约过的很骚的妹妹就是她@MozaikRR，第一次约就约到了😛我都没想到X上居然还能约到身材这么极品的妹妹🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1729,
+        "media_key": "3_1936774542539522048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDOL1oWgAAD4_k.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936774542715723777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDOL2SXIAEXiHH.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936774542602506240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDOL13XkAAqcVU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936774542677966848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDOL2JXAAAtJiQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936774553214259357",
+        "created_at": "2025-06-22T14:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936793728322306367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            },
+            {
+              "end": 31,
+              "id": "1642717433323745281",
+              "start": 22,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936793728322306367",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936774553214259357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 💝约过的很骚的妹妹就是她@MozaikRR，第一次约就约到了😛我都没想到X上居然还能约到身材这么极品的妹妹🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936774542539522048",
+            "3_1936774542715723777",
+            "3_1936774542602506240",
+            "3_1936774542677966848"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936774553214259357",
+        "created_at": "2025-06-22T13:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936774553214259357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMVXXlIea6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1936774553214259357/photo/1",
+              "media_key": "3_1936774542539522048",
+              "start": 17,
+              "url": "https://t.co/OMVXXlIea6"
+            },
+            {
+              "display_url": "pic.x.com/OMVXXlIea6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1936774553214259357/photo/1",
+              "media_key": "3_1936774542715723777",
+              "start": 17,
+              "url": "https://t.co/OMVXXlIea6"
+            },
+            {
+              "display_url": "pic.x.com/OMVXXlIea6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1936774553214259357/photo/1",
+              "media_key": "3_1936774542602506240",
+              "start": 17,
+              "url": "https://t.co/OMVXXlIea6"
+            },
+            {
+              "display_url": "pic.x.com/OMVXXlIea6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1936774553214259357/photo/1",
+              "media_key": "3_1936774542677966848",
+              "start": 17,
+              "url": "https://t.co/OMVXXlIea6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936774553214259357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂快乐合成器打了你妈五次一粉😅 https://t.co/OMVXXlIea6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 337,
+          "like_count": 15285,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 684
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "重庆 男的 术力口 音游",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832438280874553348/f-xGfUYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 239,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 52
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

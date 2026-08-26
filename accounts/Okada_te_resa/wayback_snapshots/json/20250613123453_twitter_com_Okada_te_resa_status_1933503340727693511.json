@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1933494059919892480"
+      ],
+      "media_source_tweet_id": [
+        "1933494656622604790"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933503340727693511",
+    "created_at": "2025-06-13T12:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933503340727693511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1366430884698546176",
+          "start": 3,
+          "username": "Machi_0910"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i9APBIRhIb",
+          "end": 49,
+          "expanded_url": "https://x.com/Machi_0910/status/1933494656622604790/video/1",
+          "media_key": "13_1933494059919892480",
+          "start": 26,
+          "url": "https://t.co/i9APBIRhIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933503340727693511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933494656622604790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Machi_0910: 永遠愛你的媽咪❤️ https://t.co/i9APBIRhIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37700,
+        "height": 3840,
+        "media_key": "13_1933494059919892480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933494059919892480/img/IiA1v31UTOHM9wjX.jpg",
+        "public_metrics": {
+          "view_count": 3250
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933494059919892480/vid/avc1/2160x3840/k8jf1w3arYWdYO4f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933494059919892480/vid/avc1/720x1280/KeujharXXl2pNozt.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933494059919892480/vid/avc1/320x568/AcDnGAwEWXz5RDId.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933494059919892480/vid/avc1/480x852/Hj9XbofhgbnNBji9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933494059919892480/vid/avc1/1080x1920/DUgqOueg8wfY1C0l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933494059919892480/pl/mu0VWjVAv_4nvQeg.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933494059919892480"
+          ],
+          "media_source_tweet_id": [
+            "1933494656622604790"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933503340727693511",
+        "created_at": "2025-06-13T12:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933503340727693511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1366430884698546176",
+              "start": 3,
+              "username": "Machi_0910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9APBIRhIb",
+              "end": 49,
+              "expanded_url": "https://x.com/Machi_0910/status/1933494656622604790/video/1",
+              "media_key": "13_1933494059919892480",
+              "start": 26,
+              "url": "https://t.co/i9APBIRhIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933503340727693511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933494656622604790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Machi_0910: 永遠愛你的媽咪❤️ https://t.co/i9APBIRhIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933494059919892480"
+          ]
+        },
+        "author_id": "1366430884698546176",
+        "conversation_id": "1933494656622604790",
+        "created_at": "2025-06-13T12:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933494656622604790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9APBIRhIb",
+              "end": 33,
+              "expanded_url": "https://x.com/Machi_0910/status/1933494656622604790/video/1",
+              "media_key": "13_1933494059919892480",
+              "start": 10,
+              "url": "https://t.co/i9APBIRhIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933494656622604790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 6106,
+          "like_count": 1263,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "永遠愛你的媽咪❤️ https://t.co/i9APBIRhIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 311,
+          "like_count": 14634,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 630
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T16:51:33.000Z",
+        "description": "本垢@_Machi0910 🔞@0910Machi ◆Patreon : https://t.co/jtfLvPgVoj ◆Fanbox : https://t.co/bEQEA2ETHX ◆Discord: https://t.co/rQRb5zOgac",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "_Machi0910"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "0910Machi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/machi0910",
+                "end": 60,
+                "expanded_url": "http://patreon.com/machi0910",
+                "start": 37,
+                "url": "https://t.co/jtfLvPgVoj"
+              },
+              {
+                "display_url": "machi0910.fanbox.cc",
+                "end": 94,
+                "expanded_url": "http://machi0910.fanbox.cc",
+                "start": 71,
+                "url": "https://t.co/bEQEA2ETHX"
+              },
+              {
+                "display_url": "discord.gg/jp4JtK2ckP",
+                "end": 128,
+                "expanded_url": "https://discord.gg/jp4JtK2ckP",
+                "start": 105,
+                "url": "https://t.co/rQRb5zOgac"
+              }
+            ]
+          }
+        },
+        "id": "1366430884698546176",
+        "name": "Machi馬吉 🎀",
+        "pinned_tweet_id": "1885623189495251017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853798591070195712/cQRu8y3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133207,
+          "following_count": 333,
+          "like_count": 1765,
+          "listed_count": 427,
+          "media_count": 120,
+          "tweet_count": 882
+        },
+        "username": "Machi_0910",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2057011276782735597",
+    "created_at": "2026-05-20T12:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057073231866286531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057073231866286531",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057011276782735597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 四眼铁包金好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057011262354243585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv42DeaQAE2mUO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057011262333325312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv42DZbEAAHx1J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2057011276782735597",
+        "created_at": "2026-05-20T12:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057073231866286531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057073231866286531",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057011276782735597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 四眼铁包金好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057011262354243585",
+            "3_2057011262333325312"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "2057011276782735597",
+        "created_at": "2026-05-20T08:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057011276782735597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfPaKp6bjJ",
+              "end": 44,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2057011276782735597/photo/1",
+              "media_key": "3_2057011262354243585",
+              "start": 21,
+              "url": "https://t.co/yfPaKp6bjJ"
+            },
+            {
+              "display_url": "pic.x.com/yfPaKp6bjJ",
+              "end": 44,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2057011276782735597/photo/1",
+              "media_key": "3_2057011262333325312",
+              "start": 21,
+              "url": "https://t.co/yfPaKp6bjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057011276782735597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10923,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "(˶‾᷄ ⁻̫ ‾᷅˵)满屋子的小狗味♡ https://t.co/yfPaKp6bjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 850,
+          "like_count": 38824,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 2796
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "谢谢你们喜欢我 本人只有这一个账号！！\n 请叫我民子♡人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/净身高172 （穿鞋子180左右\n交朋友门槛：998/1314/5200zfb口令红包带姓 只接绿色线下陪玩 一日女友本人只玩X/ins 其他均为骗子 \n快来找我玩吧(//∇//)ಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8ThzX"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "2008874213504094212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048021961914400768/pUEth1s7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303834,
+          "following_count": 43,
+          "like_count": 589,
+          "listed_count": 751,
+          "media_count": 643,
+          "tweet_count": 4250
+        },
+        "url": "https://t.co/bvlwJ8ThzX",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2075949699056681400",
+    "created_at": "2026-07-11T17:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075994519347363980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991927210899574785",
+          "start": 0,
+          "username": "Mumula379528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075994519347363980",
+    "in_reply_to_user_id": "1991927210899574785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075949699056681400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mumula379528 我不说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2075949699056681400",
+        "created_at": "2026-07-11T17:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075994519347363980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991927210899574785",
+              "start": 0,
+              "username": "Mumula379528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075994519347363980",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075949699056681400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumula379528 我不说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2075949699056681400",
+        "created_at": "2026-07-11T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075949699056681400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "暮暮Mumula’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1kKzD…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1kKzDDLVpweJv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2075949700327563264/IdNPty88?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075949700327563264/IdNPty88?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 应是良辰好景虚设。",
+              "unwound_url": "https://twitter.com/i/spaces/1kKzDDLVpweJv/peek",
+              "url": "https://t.co/l5sx50vTHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075949699056681400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l5sx50vTHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 969,
+          "like_count": 42472,
+          "listed_count": 5,
+          "media_count": 708,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 640,
+          "like_count": 3408,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      }
+    ]
+  }
+}

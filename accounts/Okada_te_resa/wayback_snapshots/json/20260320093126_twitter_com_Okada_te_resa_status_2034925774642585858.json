@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034925767683928064"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2034925774642585858",
+    "created_at": "2026-03-20T09:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T10:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034925774642585858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3AZpt8Lem5",
+          "end": 54,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2034925774642585858/photo/1",
+          "media_key": "3_2034925767683928064",
+          "start": 31,
+          "url": "https://t.co/3AZpt8Lem5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034925774642585858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在努力留这种羊毛卷！（其实寒假时候已经好长了但是被老妈制裁 https://t.co/3AZpt8Lem5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034925767683928064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2CNEcW8AA4G6P.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034925767683928064"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2034925774642585858",
+        "created_at": "2026-03-20T09:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034925774642585858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3AZpt8Lem5",
+              "end": 54,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2034925774642585858/photo/1",
+              "media_key": "3_2034925767683928064",
+              "start": 31,
+              "url": "https://t.co/3AZpt8Lem5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034925774642585858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在努力留这种羊毛卷！（其实寒假时候已经好长了但是被老妈制裁 https://t.co/3AZpt8Lem5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 729,
+          "like_count": 35196,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 2216
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948748741026181120"
+      ],
+      "media_source_tweet_id": [
+        "1948748996190896566"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1948749161878508007",
+    "created_at": "2025-07-25T14:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T15:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948749161878508007"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "男娘"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "伪娘"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "femboy"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "mtf"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "mtx"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "4i"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "男の娘"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "女装大佬"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "女装子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1782786360732188672",
+          "start": 3,
+          "username": "Iris_Leclercq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iikogyWxfe",
+          "end": 110,
+          "expanded_url": "https://x.com/Iris_Leclercq/status/1948748996190896566/photo/1",
+          "media_key": "3_1948748741026181120",
+          "start": 87,
+          "url": "https://t.co/iikogyWxfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948749161878508007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948748996190896566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iris_Leclercq: 想和小男娘贴贴了🥺\n#男娘 #伪娘 #femboy #mtf #mtx #4i #男の娘 #女装大佬 #女装子 \n（求转贴，想扩列了） https://t.co/iikogyWxfe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1876,
+        "media_key": "3_1948748741026181120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtYp7Fa8AAdyUq.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948748741026181120"
+          ],
+          "media_source_tweet_id": [
+            "1948748996190896566"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1948749161878508007",
+        "created_at": "2025-07-25T14:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948749161878508007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "伪娘"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "femboy"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "mtf"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "mtx"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "4i"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "男の娘"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "女装大佬"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "女装子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1782786360732188672",
+              "start": 3,
+              "username": "Iris_Leclercq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iikogyWxfe",
+              "end": 110,
+              "expanded_url": "https://x.com/Iris_Leclercq/status/1948748996190896566/photo/1",
+              "media_key": "3_1948748741026181120",
+              "start": 87,
+              "url": "https://t.co/iikogyWxfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948749161878508007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948748996190896566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iris_Leclercq: 想和小男娘贴贴了🥺\n#男娘 #伪娘 #femboy #mtf #mtx #4i #男の娘 #女装大佬 #女装子 \n（求转贴，想扩列了） https://t.co/iikogyWxfe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948748741026181120"
+          ]
+        },
+        "author_id": "1782786360732188672",
+        "conversation_id": "1948748996190896566",
+        "created_at": "2025-07-25T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948748996190896566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "伪娘"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "femboy"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtf"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "mtx"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "4i"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "男の娘"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "女装大佬"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "女装子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iikogyWxfe",
+              "end": 91,
+              "expanded_url": "https://x.com/Iris_Leclercq/status/1948748996190896566/photo/1",
+              "media_key": "3_1948748741026181120",
+              "start": 68,
+              "url": "https://t.co/iikogyWxfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948748996190896566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想和小男娘贴贴了🥺\n#男娘 #伪娘 #femboy #mtf #mtx #4i #男の娘 #女装大佬 #女装子 \n（求转贴，想扩列了） https://t.co/iikogyWxfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 444,
+          "like_count": 18065,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 897
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T14:59:43.000Z",
+        "description": "男娘 没吃糖｜0.5 双性恋 mtx｜坐标南京｜不线下（不过男娘可以来和我贴贴）｜扩列加🐧3857342167",
+        "id": "1782786360732188672",
+        "location": "320106",
+        "name": "荻沐虹Iris（好想扩列版）",
+        "pinned_tweet_id": "1922679317344948692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888976593386876928/Yd8GJ3Ox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1101,
+          "like_count": 560,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 634
+        },
+        "username": "Iris_Leclercq",
+        "verified": false
+      }
+    ]
+  }
+}

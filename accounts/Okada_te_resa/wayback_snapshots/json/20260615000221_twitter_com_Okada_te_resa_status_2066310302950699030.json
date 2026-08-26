@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2066284363436949868",
+    "created_at": "2026-06-15T00:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066310302950699030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610865989398462465",
+          "start": 0,
+          "username": "BeforeNoise0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066310302950699030",
+    "in_reply_to_user_id": "1610865989398462465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066310231005728841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeforeNoise0 呵呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2066284363436949868",
+        "created_at": "2026-06-15T00:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066310302950699030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610865989398462465",
+              "start": 0,
+              "username": "BeforeNoise0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066310302950699030",
+        "in_reply_to_user_id": "1610865989398462465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066310231005728841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeforeNoise0 呵呵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610865989398462465",
+        "conversation_id": "2066284363436949868",
+        "created_at": "2026-06-15T00:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066310231005728841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066310231005728841",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066309991775240666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 被狗男缠上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 909,
+          "like_count": 40527,
+          "listed_count": 4,
+          "media_count": 647,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "04/entp/双子/普通人/汉语日本語English/\n极繁主义向极简主义改变中…..",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063664987424636928/6iKV7j2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 753,
+          "like_count": 10073,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 4546
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      }
+    ]
+  }
+}

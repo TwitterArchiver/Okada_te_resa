@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1993962296453025825",
+    "created_at": "2025-11-27T08:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993962296453025825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KRY_official_/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/KRY_official_/status/1993930076493369549",
+          "start": 6,
+          "url": "https://t.co/0DD9LXQ5q7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993962296453025825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993930076493369549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁给我买😔 https://t.co/0DD9LXQ5q7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993930038727856133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vczlFa0AUAhFA.jpg",
+        "width": 3284
+      },
+      {
+        "height": 2119,
+        "media_key": "3_1993930038702690305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vczk_a0AEm6oU.jpg",
+        "width": 2002
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1993930038732054528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vczlGa4AAKYhx.jpg",
+        "width": 3128
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1993930038711083008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vczlBa4AAw105.jpg",
+        "width": 3808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1993962296453025825",
+        "created_at": "2025-11-27T08:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993962296453025825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KRY_official_/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/KRY_official_/status/1993930076493369549",
+              "start": 6,
+              "url": "https://t.co/0DD9LXQ5q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993962296453025825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993930076493369549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁给我买😔 https://t.co/0DD9LXQ5q7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993930038727856133",
+            "3_1993930038702690305",
+            "3_1993930038732054528",
+            "3_1993930038711083008"
+          ]
+        },
+        "author_id": "2353567248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1993930076493369549",
+        "created_at": "2025-11-27T06:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993930076493369549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ONJE",
+              "probability": 0.4242,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CE6hzIr1dF",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1993930076493369549/photo/1",
+              "media_key": "3_1993930038727856133",
+              "start": 148,
+              "url": "https://t.co/CE6hzIr1dF"
+            },
+            {
+              "display_url": "pic.x.com/CE6hzIr1dF",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1993930076493369549/photo/1",
+              "media_key": "3_1993930038702690305",
+              "start": 148,
+              "url": "https://t.co/CE6hzIr1dF"
+            },
+            {
+              "display_url": "pic.x.com/CE6hzIr1dF",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1993930076493369549/photo/1",
+              "media_key": "3_1993930038732054528",
+              "start": 148,
+              "url": "https://t.co/CE6hzIr1dF"
+            },
+            {
+              "display_url": "pic.x.com/CE6hzIr1dF",
+              "end": 171,
+              "expanded_url": "https://x.com/KRY_official_/status/1993930076493369549/photo/1",
+              "media_key": "3_1993930038711083008",
+              "start": 148,
+              "url": "https://t.co/CE6hzIr1dF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993930076493369549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1703,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "【news】\n本日21:00-\n\n「ONJE」\nオンライン販売開始\n\nオフショルレースアップ袖\nファーフードパーカー\n\n裏起毛で暖かくシルエットにこだわったミドル丈✔︎\nどんなコーデにも合わせやすいアイテムです◎\n\nブラック×ホワイト\nワンサイズ\n\n価格\n¥8000+tax\n\nmodel\n미래 https://t.co/CE6hzIr1dF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993298692238196746/e9Q6RQJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 651,
+          "like_count": 25821,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1472
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIV9DQx ††††††††††††《原宿竹下通り店》 https://t.co/ghhIvV2tpS††††††††††††《TikTok》https://t.co/eWpnFHrnbZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIV9DQx"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 80,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 57,
+                "url": "https://t.co/ghhIvV2tpS"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing",
+                "end": 123,
+                "expanded_url": "https://www.tiktok.com/@kryclothing",
+                "start": 100,
+                "url": "https://t.co/eWpnFHrnbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXfMq6"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "location": "TOKYO",
+        "name": "KRYclothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70858,
+          "following_count": 20322,
+          "like_count": 105301,
+          "listed_count": 540,
+          "media_count": 34394,
+          "tweet_count": 104828
+        },
+        "url": "https://t.co/tizARXfMq6",
+        "username": "KRY_official_",
+        "verified": true
+      }
+    ]
+  }
+}

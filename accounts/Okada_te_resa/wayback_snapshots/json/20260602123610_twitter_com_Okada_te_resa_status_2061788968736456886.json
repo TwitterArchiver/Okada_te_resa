@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061782107740082177"
+      ],
+      "media_source_tweet_id": [
+        "2061782113125585246"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2061788968736456886",
+    "created_at": "2026-06-02T12:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061788968736456886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320617947417604096",
+          "start": 3,
+          "username": "ice_icol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vr0i9fBOe5",
+          "end": 49,
+          "expanded_url": "https://x.com/ice_icol/status/2061782113125585246/photo/1",
+          "media_key": "3_2061782107740082177",
+          "start": 26,
+          "url": "https://t.co/Vr0i9fBOe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061788968736456886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 606
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061782113125585246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_icol: 射抜かれちゃった？🏹🤍 https://t.co/Vr0i9fBOe5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_2061782107740082177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzr5zgakAE67VZ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061782107740082177"
+          ],
+          "media_source_tweet_id": [
+            "2061782113125585246"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2061788968736456886",
+        "created_at": "2026-06-02T12:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061788968736456886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320617947417604096",
+              "start": 3,
+              "username": "ice_icol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vr0i9fBOe5",
+              "end": 49,
+              "expanded_url": "https://x.com/ice_icol/status/2061782113125585246/photo/1",
+              "media_key": "3_2061782107740082177",
+              "start": 26,
+              "url": "https://t.co/Vr0i9fBOe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061788968736456886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 606
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061782113125585246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_icol: 射抜かれちゃった？🏹🤍 https://t.co/Vr0i9fBOe5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061782107740082177"
+          ]
+        },
+        "author_id": "1320617947417604096",
+        "conversation_id": "2061782113125585246",
+        "created_at": "2026-06-02T12:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061782113125585246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vr0i9fBOe5",
+              "end": 35,
+              "expanded_url": "https://x.com/ice_icol/status/2061782113125585246/photo/1",
+              "media_key": "3_2061782107740082177",
+              "start": 12,
+              "url": "https://t.co/Vr0i9fBOe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061782113125585246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 45593,
+          "like_count": 6863,
+          "quote_count": 96,
+          "reply_count": 256,
+          "retweet_count": 606
+        },
+        "reply_settings": "everyone",
+        "text": "射抜かれちゃった？🏹🤍 https://t.co/Vr0i9fBOe5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 888,
+          "like_count": 39656,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 2961
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-26T06:47:23.000Z",
+        "description": "🍨@icol_official 青 ／@iLiFE_official 白 2026.8.26 Kアリーナ横浜 ／ なんでもタグ #あいすを愛す ／ チェキタグ #あいすが食べたい 🍨 YouTube▷「みんなのあいす屋さん」🔍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "あいすを愛す"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "tag": "あいすが食べたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "icol_official"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "iLiFE_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCgIGA…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCgIGAs4ajxKXhmjg7i_TaHw",
+                "start": 0,
+                "url": "https://t.co/BGC58v2eaP"
+              }
+            ]
+          }
+        },
+        "id": "1320617947417604096",
+        "location": "6月 4,5大阪ﾂ 9福岡ﾂ 14北海道ﾂ 20沖縄",
+        "name": "あいす【あいこる/ iLiFE!】",
+        "pinned_tweet_id": "2061782113125585246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112375249874944/0CZ1z9-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263656,
+          "following_count": 109,
+          "like_count": 138264,
+          "listed_count": 1424,
+          "media_count": 633,
+          "tweet_count": 13500
+        },
+        "url": "https://t.co/BGC58v2eaP",
+        "username": "ice_icol",
+        "verified": true
+      }
+    ]
+  }
+}

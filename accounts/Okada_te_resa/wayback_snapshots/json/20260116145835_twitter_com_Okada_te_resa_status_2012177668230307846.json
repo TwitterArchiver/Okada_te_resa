@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2012099513465602287",
+    "created_at": "2026-01-16T14:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T15:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012177668230307846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "745607352355721217",
+          "start": 0,
+          "username": "WilliamPAIvanov"
+        },
+        {
+          "end": 30,
+          "id": "1684788748582883328",
+          "start": 17,
+          "username": "Martim036145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012177668230307846",
+    "in_reply_to_user_id": "745607352355721217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012109463923433629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamPAIvanov @Martim036145 哪个晶哥被抢了枪还能和眉善目的？🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2012099513465602287",
+        "created_at": "2026-01-16T14:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012177668230307846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            },
+            {
+              "end": 30,
+              "id": "1684788748582883328",
+              "start": 17,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012177668230307846",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012109463923433629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAIvanov @Martim036145 哪个晶哥被抢了枪还能和眉善目的？🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745607352355721217",
+        "conversation_id": "2012099513465602287",
+        "created_at": "2026-01-16T10:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012109463923433629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012109463923433629",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012099513465602287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 别被这些警察的表面骗了，其实内心都阴狠一批，你要不信你哪天当他面把他枪拔走，他立刻就暴露本来面目了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 691,
+          "like_count": 29574,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 1754
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudDZ42"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanov🟦⬜️⬛️",
+        "pinned_tweet_id": "1922327262331846716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 1443,
+          "like_count": 243180,
+          "listed_count": 16,
+          "media_count": 341,
+          "tweet_count": 33383
+        },
+        "url": "https://t.co/aCvhudDZ42",
+        "username": "WilliamPAIvanov",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆底层穷蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/我唐得要命，真的/随机发疯",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965360806159437824/TZDoSYs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1167,
+          "like_count": 12950,
+          "listed_count": 1,
+          "media_count": 1189,
+          "tweet_count": 6806
+        },
+        "username": "Martim036145",
+        "verified": false
+      }
+    ]
+  }
+}

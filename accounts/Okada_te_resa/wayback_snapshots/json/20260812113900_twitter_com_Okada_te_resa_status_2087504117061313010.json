@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2087504117061313010",
+    "created_at": "2026-08-12T11:39:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087504117061313010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563281136",
+          "start": 3,
+          "username": "PutiMotor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087504117061313010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087429542168404437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PutiMotor: '96〜'09 カワサキ「ZEPHYRχ」\n\nZEPHYRとの最も大きな違いは、2バルブだった燃焼室の4バルブ化。\n\nクランクシャフトからほぼ全てを刷新した結果、パワーも自主規制値の上限53ps/11,000rpmとなり、キャブレターにもスロットル…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2087429535096766464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgKGj0aAAAG3f9.jpg",
+        "width": 1496
+      },
+      {
+        "height": 900,
+        "media_key": "3_2087429535088398336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgKGjyaUAA9J2G.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2087429535138783233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgKGj-bIAEi84h.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2087429535096799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgKGj0agAA7zN4.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2087504117061313010",
+        "created_at": "2026-08-12T11:39:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087504117061313010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563281136",
+              "start": 3,
+              "username": "PutiMotor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087504117061313010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087429542168404437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PutiMotor: '96〜'09 カワサキ「ZEPHYRχ」\n\nZEPHYRとの最も大きな違いは、2バルブだった燃焼室の4バルブ化。\n\nクランクシャフトからほぼ全てを刷新した結果、パワーも自主規制値の上限53ps/11,000rpmとなり、キャブレターにもスロットル…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087429535096766464",
+            "3_2087429535088398336",
+            "3_2087429535138783233",
+            "3_2087429535096799232"
+          ]
+        },
+        "author_id": "1563281136",
+        "conversation_id": "2087429542168404437",
+        "created_at": "2026-08-12T06:42:40.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087429542168404437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50PblvP9I5",
+              "end": 179,
+              "expanded_url": "https://x.com/PutiMotor/status/2087429542168404437/photo/1",
+              "media_key": "3_2087429535096766464",
+              "start": 156,
+              "url": "https://t.co/50PblvP9I5"
+            },
+            {
+              "display_url": "pic.x.com/50PblvP9I5",
+              "end": 179,
+              "expanded_url": "https://x.com/PutiMotor/status/2087429542168404437/photo/1",
+              "media_key": "3_2087429535088398336",
+              "start": 156,
+              "url": "https://t.co/50PblvP9I5"
+            },
+            {
+              "display_url": "pic.x.com/50PblvP9I5",
+              "end": 179,
+              "expanded_url": "https://x.com/PutiMotor/status/2087429542168404437/photo/1",
+              "media_key": "3_2087429535138783233",
+              "start": 156,
+              "url": "https://t.co/50PblvP9I5"
+            },
+            {
+              "display_url": "pic.x.com/50PblvP9I5",
+              "end": 179,
+              "expanded_url": "https://x.com/PutiMotor/status/2087429542168404437/photo/1",
+              "media_key": "3_2087429535096799232",
+              "start": 156,
+              "url": "https://t.co/50PblvP9I5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087429542168404437",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087429535096766464"
+          },
+          {
+            "media_key": "3_2087429535088398336"
+          },
+          {
+            "media_key": "3_2087429535138783233"
+          },
+          {
+            "media_key": "3_2087429535096799232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ride-hi.com/machine/kawasa…",
+                "end": 287,
+                "expanded_url": "https://ride-hi.com/machine/kawasaki_zephyrx_1996-09model_260812.html",
+                "start": 264,
+                "url": "https://t.co/0kDKe350un"
+              }
+            ]
+          },
+          "text": "'96〜'09 カワサキ「ZEPHYRχ」\n\nZEPHYRとの最も大きな違いは、2バルブだった燃焼室の4バルブ化。\n\nクランクシャフトからほぼ全てを刷新した結果、パワーも自主規制値の上限53ps/11,000rpmとなり、キャブレターにもスロットル開度センサーを設け、走りの機敏さと低回転域のレスポンスも向上。\n\nしかし外観的には変化をアピールすることはなく、1989年のデビュー以来メーターを砲弾型にしたくらいで、ゼファーらしさを踏襲。\n\nそして、インジェクション化されることなくキャブレター仕様のまま、その幕を下ろした。\n\nhttps://t.co/0kDKe350un"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8397,
+          "like_count": 222,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "'96〜'09 カワサキ「ZEPHYRχ」\n\nZEPHYRとの最も大きな違いは、2バルブだった燃焼室の4バルブ化。\n\nクランクシャフトからほぼ全てを刷新した結果、パワーも自主規制値の上限53ps/11,000rpmとなり、キャブレターにもスロットル開度センサーを設け、走りの機敏さと低回転域のレスポンスも向上。 https://t.co/50PblvP9I5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2087504117061313010",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 1011,
+          "like_count": 44928,
+          "listed_count": 5,
+          "media_count": 752,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-02T14:21:54.000Z",
+        "description": "バイク🏍Web記事をポストして応援‼️ よく間違えるけど、フォロワーさん達が指摘&補足してくれるから、リプや引用リポスト、リンク先も見てね〜🙌",
+        "id": "1563281136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087499896287039659",
+        "name": "Accela@バイク記事紹介",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563281136/1617227793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609070405159096322/FbwZnK1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121216,
+          "following_count": 58437,
+          "like_count": 339841,
+          "listed_count": 684,
+          "media_count": 49969,
+          "tweet_count": 59893
+        },
+        "url": "",
+        "username": "PutiMotor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

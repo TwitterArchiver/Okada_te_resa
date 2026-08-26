@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2091785029877641216"
+      ],
+      "media_source_tweet_id": [
+        "2091785042271904201"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2091917003233853907",
+    "created_at": "2026-08-24T15:54:14.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091917003233853907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033674613675462657",
+          "start": 3,
+          "username": "zigdtalk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbgMWG1Vep",
+          "end": 37,
+          "expanded_url": "https://x.com/zigdtalk/status/2091785042271904201/photo/1",
+          "media_key": "16_2091785029877641216",
+          "start": 14,
+          "url": "https://t.co/xbgMWG1Vep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091917003233853907",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2091785029877641216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 553
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091785042271904201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zigdtalk: https://t.co/xbgMWG1Vep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "16_2091785029877641216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQeDZuRWMAAk8T4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQeDZuRWMAAk8T4.mp4"
+          }
+        ],
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091785029877641216"
+          ],
+          "media_source_tweet_id": [
+            "2091785042271904201"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2091917003233853907",
+        "created_at": "2026-08-24T15:54:14.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091917003233853907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033674613675462657",
+              "start": 3,
+              "username": "zigdtalk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbgMWG1Vep",
+              "end": 37,
+              "expanded_url": "https://x.com/zigdtalk/status/2091785042271904201/photo/1",
+              "media_key": "16_2091785029877641216",
+              "start": 14,
+              "url": "https://t.co/xbgMWG1Vep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091917003233853907",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2091785029877641216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 553
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091785042271904201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zigdtalk: https://t.co/xbgMWG1Vep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091785029877641216"
+          ]
+        },
+        "author_id": "2033674613675462657",
+        "conversation_id": "2091785042271904201",
+        "created_at": "2026-08-24T07:09:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091785042271904201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbgMWG1Vep",
+              "end": 23,
+              "expanded_url": "https://x.com/zigdtalk/status/2091785042271904201/photo/1",
+              "media_key": "16_2091785029877641216",
+              "start": 0,
+              "url": "https://t.co/xbgMWG1Vep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091785042271904201",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2091785029877641216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 23071,
+          "like_count": 2452,
+          "quote_count": 15,
+          "reply_count": 5,
+          "retweet_count": 553
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xbgMWG1Vep"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2091917003233853907",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 1027,
+          "like_count": 46863,
+          "listed_count": 5,
+          "media_count": 768,
+          "tweet_count": 3547
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T22:40:08.000Z",
+        "description": "https://t.co/2jtJK6TkJB\nrecovery selfharm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "guns.lol/zigdtalk",
+                "end": 23,
+                "expanded_url": "https://guns.lol/zigdtalk",
+                "start": 0,
+                "url": "https://t.co/2jtJK6TkJB"
+              }
+            ]
+          }
+        },
+        "id": "2033674613675462657",
+        "is_identity_verified": false,
+        "location": "obslove",
+        "most_recent_tweet_id": "2091846061031649501",
+        "name": "barbara",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033674613675462657/1787244576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091763630752608256/sghYmR0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 105,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "zigdtalk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029071155878129664"
+      ],
+      "media_source_tweet_id": [
+        "2029149864546672969"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2029678268933374209",
+    "created_at": "2026-03-05T21:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T22:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029678268933374209"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wk86ej9A5l",
+          "end": 47,
+          "expanded_url": "https://x.com/girlsbandcry/status/2029149864546672969/photo/1",
+          "media_key": "3_2029071155878129664",
+          "start": 24,
+          "url": "https://t.co/Wk86ej9A5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029678268933374209",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 522
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029149864546672969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: #ガルクラ https://t.co/Wk86ej9A5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2029071155878129664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCi1dz4bcAAxLyk.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029071155878129664"
+          ],
+          "media_source_tweet_id": [
+            "2029149864546672969"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2029678268933374209",
+        "created_at": "2026-03-05T21:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029678268933374209"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk86ej9A5l",
+              "end": 47,
+              "expanded_url": "https://x.com/girlsbandcry/status/2029149864546672969/photo/1",
+              "media_key": "3_2029071155878129664",
+              "start": 24,
+              "url": "https://t.co/Wk86ej9A5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029678268933374209",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029149864546672969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: #ガルクラ https://t.co/Wk86ej9A5l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029071155878129664"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "conversation_id": "2029149864546672969",
+        "created_at": "2026-03-04T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029149864546672969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk86ej9A5l",
+              "end": 29,
+              "expanded_url": "https://x.com/girlsbandcry/status/2029149864546672969/photo/1",
+              "media_key": "3_2029071155878129664",
+              "start": 6,
+              "url": "https://t.co/Wk86ej9A5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029149864546672969",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 229811,
+          "like_count": 4646,
+          "quote_count": 87,
+          "reply_count": 482,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ https://t.co/Wk86ej9A5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 713,
+          "like_count": 33840,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2038
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1970458122259972378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248319,
+          "following_count": 32,
+          "like_count": 3261,
+          "listed_count": 913,
+          "media_count": 2444,
+          "tweet_count": 5939
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

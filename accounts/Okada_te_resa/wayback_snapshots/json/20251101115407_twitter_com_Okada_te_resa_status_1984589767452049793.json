@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984496262826377218"
+      ],
+      "media_source_tweet_id": [
+        "1984496475167212002"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1984589767452049793",
+    "created_at": "2025-11-01T11:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984589767452049793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3853228393",
+          "start": 3,
+          "username": "tanda_hazuki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "反田葉月オフィシャルサイト／反田葉月「moony club」オフィシャルファンクラブ",
+          "display_url": "moony.club",
+          "end": 58,
+          "expanded_url": "https://moony.club/",
+          "start": 35,
+          "status": 200,
+          "title": "反田葉月「moony club」オフィシャルファンクラブ",
+          "unwound_url": "https://moony.club/",
+          "url": "https://t.co/IEzzTxRjEN"
+        },
+        {
+          "display_url": "pic.x.com/EdcqSAl62h",
+          "end": 82,
+          "expanded_url": "https://x.com/tanda_hazuki/status/1984496475167212002/video/1",
+          "media_key": "13_1984496262826377218",
+          "start": 59,
+          "url": "https://t.co/EdcqSAl62h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984589767452049793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984496475167212002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanda_hazuki: むにずさん11月待ち受け見てね🌙\nhttps://t.co/IEzzTxRjEN https://t.co/EdcqSAl62h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17650,
+        "height": 3840,
+        "media_key": "13_1984496262826377218",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984496262826377218/img/v540JM9QQb1OewBp.jpg",
+        "public_metrics": {
+          "view_count": 10202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984496262826377218/vid/avc1/2160x3840/M0tbDXmeYre6rUdK.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984496262826377218/vid/avc1/320x568/FUvgYs-jnlxesWf-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984496262826377218/pl/7h9HSnpHN4TaUaqo.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984496262826377218/vid/avc1/480x852/IhdJX6mzaGwbTjo0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984496262826377218/vid/avc1/720x1280/kjQ89P-NGyqi0dHm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984496262826377218/vid/avc1/1080x1920/KMha6I7w5bmzPaHb.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984496262826377218"
+          ],
+          "media_source_tweet_id": [
+            "1984496475167212002"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1984589767452049793",
+        "created_at": "2025-11-01T11:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984589767452049793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3853228393",
+              "start": 3,
+              "username": "tanda_hazuki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "反田葉月オフィシャルサイト／反田葉月「moony club」オフィシャルファンクラブ",
+              "display_url": "moony.club",
+              "end": 58,
+              "expanded_url": "https://moony.club/",
+              "start": 35,
+              "status": 200,
+              "title": "反田葉月「moony club」オフィシャルファンクラブ",
+              "unwound_url": "https://moony.club/",
+              "url": "https://t.co/IEzzTxRjEN"
+            },
+            {
+              "display_url": "pic.x.com/EdcqSAl62h",
+              "end": 82,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1984496475167212002/video/1",
+              "media_key": "13_1984496262826377218",
+              "start": 59,
+              "url": "https://t.co/EdcqSAl62h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984589767452049793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984496475167212002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanda_hazuki: むにずさん11月待ち受け見てね🌙\nhttps://t.co/IEzzTxRjEN https://t.co/EdcqSAl62h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984496262826377218"
+          ]
+        },
+        "author_id": "3853228393",
+        "conversation_id": "1984496475167212002",
+        "created_at": "2025-11-01T05:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984496475167212002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "反田葉月オフィシャルサイト／反田葉月「moony club」オフィシャルファンクラブ",
+              "display_url": "moony.club",
+              "end": 40,
+              "expanded_url": "https://moony.club/",
+              "start": 17,
+              "status": 200,
+              "title": "反田葉月「moony club」オフィシャルファンクラブ",
+              "unwound_url": "https://moony.club/",
+              "url": "https://t.co/IEzzTxRjEN"
+            },
+            {
+              "display_url": "pic.x.com/EdcqSAl62h",
+              "end": 64,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1984496475167212002/video/1",
+              "media_key": "13_1984496262826377218",
+              "start": 41,
+              "url": "https://t.co/EdcqSAl62h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984496475167212002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 31792,
+          "like_count": 2273,
+          "quote_count": 20,
+          "reply_count": 30,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "むにずさん11月待ち受け見てね🌙\nhttps://t.co/IEzzTxRjEN https://t.co/EdcqSAl62h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 613,
+          "like_count": 23783,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1275
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./(@Root__mimi ラベンダーパープル担当)/D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg  #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 118,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Root__mimi"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7lviZz"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "location": "ストロボ",
+        "name": "反田葉月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625435304984576/zxjPBMtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153627,
+          "following_count": 601,
+          "like_count": 69240,
+          "listed_count": 1152,
+          "media_count": 2713,
+          "tweet_count": 10794
+        },
+        "url": "https://t.co/9SVW7lviZz",
+        "username": "tanda_hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

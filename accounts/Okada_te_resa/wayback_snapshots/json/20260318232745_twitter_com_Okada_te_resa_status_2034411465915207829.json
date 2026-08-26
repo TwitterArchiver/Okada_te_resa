@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2034316807826440511",
+    "created_at": "2026-03-18T23:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T00:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034411465915207829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549985313694822400",
+          "start": 0,
+          "username": "Warden47119942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034411465915207829",
+    "in_reply_to_user_id": "1549985313694822400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034320387320992042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warden47119942 其实皮下很普"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2034316807826440511",
+        "created_at": "2026-03-18T23:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T00:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034411465915207829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549985313694822400",
+              "start": 0,
+              "username": "Warden47119942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034411465915207829",
+        "in_reply_to_user_id": "1549985313694822400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034320387320992042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warden47119942 其实皮下很普"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549985313694822400",
+        "conversation_id": "2034316807826440511",
+        "created_at": "2026-03-18T17:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034320387320992042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034320387320992042",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034316807826440511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 😭😭😭已经够好看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 728,
+          "like_count": 35095,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2202
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T05:11:19.000Z",
+        "description": "All welcome ！欢迎找咱玩ovo：战雷，塔科夫，kards……（接代打日本語を勉强します。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎来找咱贴贴😝all gender友好泛性恋（日常+涩涩偶尔）乌拉～乌拉～咿哈  是乌萨奇😼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EV_WdZ2nx59kM…",
+                "end": 80,
+                "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
+                "start": 57,
+                "url": "https://t.co/NG1ghpP5ab"
+              }
+            ]
+          }
+        },
+        "id": "1549985313694822400",
+        "name": "Warden狱长",
+        "pinned_tweet_id": "1716481628942610447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 3855,
+          "like_count": 120750,
+          "listed_count": 2,
+          "media_count": 1154,
+          "tweet_count": 7099
+        },
+        "username": "Warden47119942",
+        "verified": false
+      }
+    ]
+  }
+}

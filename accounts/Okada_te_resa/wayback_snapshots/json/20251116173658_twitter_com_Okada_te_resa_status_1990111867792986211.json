@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990111864118972416"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1990111867792986211",
+    "created_at": "2025-11-16T17:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T18:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990111867792986211"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "男娘"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "伪娘"
+        },
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "Lappland"
+        },
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "Cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O2bnGjUwWb",
+          "end": 63,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1990111867792986211/photo/1",
+          "media_key": "3_1990111864118972416",
+          "start": 40,
+          "url": "https://t.co/O2bnGjUwWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990111867792986211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鲁珀发情期会有信息素吗？ #男娘 #伪娘 #Lappland #Cosplay https://t.co/O2bnGjUwWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990111864118972416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55MMkQaEAASIjA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990111864118972416"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1990111867792986211",
+        "created_at": "2025-11-16T17:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990111867792986211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "Lappland"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2bnGjUwWb",
+              "end": 63,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1990111867792986211/photo/1",
+              "media_key": "3_1990111864118972416",
+              "start": 40,
+              "url": "https://t.co/O2bnGjUwWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990111867792986211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲁珀发情期会有信息素吗？ #男娘 #伪娘 #Lappland #Cosplay https://t.co/O2bnGjUwWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986939510966665216/FiteFXKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 628,
+          "like_count": 24788,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 1344
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

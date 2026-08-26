@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2051831333840957583",
+    "created_at": "2026-05-06T01:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051836987888590983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051836987888590983",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051831333840957583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayn_kitkia 妈妈求你了想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2051831333840957583",
+        "created_at": "2026-05-06T01:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051836987888590983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051836987888590983",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051831333840957583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayn_kitkia 妈妈求你了想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049186369361289216",
+        "conversation_id": "2051831333840957583",
+        "created_at": "2026-05-06T01:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051831333840957583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051831333840957583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实昨天晚上趁家里没人拍了很多xp相关的东西_(:_」∠)_只不过发了还在掉粉，还是算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 805,
+          "like_count": 37842,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 2669
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "30歳・男//aya避難所✦本垢@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "location": "東京",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2049359492446658688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051147515882622976/G53Dk8sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 78,
+          "like_count": 265,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

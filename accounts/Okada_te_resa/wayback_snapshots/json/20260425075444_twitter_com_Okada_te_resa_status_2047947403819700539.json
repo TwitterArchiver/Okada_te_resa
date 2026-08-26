@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2047947403819700539",
+    "created_at": "2026-04-25T07:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047947403819700539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942422285044047873",
+          "start": 3,
+          "username": "Hakonootoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/CBFCqQZb",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/CBFCqQZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047947403819700539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047919955711255035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hakonootoko: 经典蒙太奇叙事。\n图二这句“用饮料浇灭烟头”的居心之不良，跟图一妇女报的“误饮饮料”有什么区别吗？\n说白了不就是拿饮料泼人嘛？美化你妈呢？\n按这逻辑，以后世界上就没有强奸罪了，改称先用后付不就好了？… https://t.co/CBFCqQZb…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 769,
+        "media_key": "3_2047919949675634688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGusWAjaIAAFfy4.jpg",
+        "width": 1290
+      },
+      {
+        "height": 703,
+        "media_key": "3_2047919949596020737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGusWAQbUAEB_ZG.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2047947403819700539",
+        "created_at": "2026-04-25T07:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047947403819700539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942422285044047873",
+              "start": 3,
+              "username": "Hakonootoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/CBFCqQZb",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/CBFCqQZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047947403819700539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047919955711255035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hakonootoko: 经典蒙太奇叙事。\n图二这句“用饮料浇灭烟头”的居心之不良，跟图一妇女报的“误饮饮料”有什么区别吗？\n说白了不就是拿饮料泼人嘛？美化你妈呢？\n按这逻辑，以后世界上就没有强奸罪了，改称先用后付不就好了？… https://t.co/CBFCqQZb…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047919949675634688",
+            "3_2047919949596020737"
+          ]
+        },
+        "author_id": "1942422285044047873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047919955711255035",
+        "created_at": "2026-04-25T06:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047919955711255035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBFCqQZbwj",
+              "end": 123,
+              "expanded_url": "https://x.com/Hakonootoko/status/2047919955711255035/photo/1",
+              "media_key": "3_2047919949675634688",
+              "start": 100,
+              "url": "https://t.co/CBFCqQZbwj"
+            },
+            {
+              "display_url": "pic.x.com/CBFCqQZbwj",
+              "end": 123,
+              "expanded_url": "https://x.com/Hakonootoko/status/2047919955711255035/photo/1",
+              "media_key": "3_2047919949596020737",
+              "start": 100,
+              "url": "https://t.co/CBFCqQZbwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047919955711255035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经典蒙太奇叙事。\n图二这句“用饮料浇灭烟头”的居心之不良，跟图一妇女报的“误饮饮料”有什么区别吗？\n说白了不就是拿饮料泼人嘛？美化你妈呢？\n按这逻辑，以后世界上就没有强奸罪了，改称先用后付不就好了？\n首先我是不吸烟的，我觉得让别人吸二手烟的人都该司马。然而，像这个女的一样，没有执法权却擅自执法的人连马都没有。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2325,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "经典蒙太奇叙事。\n图二这句“用饮料浇灭烟头”的居心之不良，跟图一妇女报的“误饮饮料”有什么区别吗？\n说白了不就是拿饮料泼人嘛？美化你妈呢？\n按这逻辑，以后世界上就没有强奸罪了，改称先用后付不就好了？ https://t.co/CBFCqQZbwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 787,
+          "like_count": 37224,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 2562
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Sunan00nna",
+                "end": 23,
+                "expanded_url": "https://x.com/Sunan00nna",
+                "start": 0,
+                "url": "https://t.co/mhV5wAjg3x"
+              }
+            ]
+          }
+        },
+        "id": "1942422285044047873",
+        "location": "女权市出生・防失联小号👉",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1999714467232514332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 953,
+          "like_count": 42550,
+          "listed_count": 50,
+          "media_count": 426,
+          "tweet_count": 27540
+        },
+        "url": "https://t.co/mhV5wAjg3x",
+        "username": "Hakonootoko",
+        "verified": true
+      }
+    ]
+  }
+}

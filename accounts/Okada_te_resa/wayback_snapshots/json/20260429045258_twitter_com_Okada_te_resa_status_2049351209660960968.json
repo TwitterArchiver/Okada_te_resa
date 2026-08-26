@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2049178163092070807",
+    "created_at": "2026-04-29T04:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049351209660960968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758841132950396928",
+          "start": 0,
+          "username": "wumiao01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049351209660960968",
+    "in_reply_to_user_id": "1758841132950396928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049178163092070807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wumiao01 你是不是弱智"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049178136752087040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAkqIqa4AAfmuH.jpg",
+        "width": 762
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049178143081353216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAkqgPb0AATZ5f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049178151499239424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAkq_makAAP5tx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049178160055586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAkrfeaEAAGXom.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2049178163092070807",
+        "created_at": "2026-04-29T04:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049351209660960968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758841132950396928",
+              "start": 0,
+              "username": "wumiao01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049351209660960968",
+        "in_reply_to_user_id": "1758841132950396928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049178163092070807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumiao01 你是不是弱智"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049178136752087040",
+            "3_2049178143081353216",
+            "3_2049178151499239424",
+            "3_2049178160055586816"
+          ]
+        },
+        "author_id": "1758841132950396928",
+        "conversation_id": "2049178163092070807",
+        "created_at": "2026-04-28T17:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049178163092070807"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "意淫"
+            },
+            {
+              "end": 105,
+              "start": 99,
+              "tag": "coser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRxUlz2FpU",
+              "end": 129,
+              "expanded_url": "https://x.com/wumiao01/status/2049178163092070807/photo/1",
+              "media_key": "3_2049178136752087040",
+              "start": 106,
+              "url": "https://t.co/WRxUlz2FpU"
+            },
+            {
+              "display_url": "pic.x.com/WRxUlz2FpU",
+              "end": 129,
+              "expanded_url": "https://x.com/wumiao01/status/2049178163092070807/photo/1",
+              "media_key": "3_2049178143081353216",
+              "start": 106,
+              "url": "https://t.co/WRxUlz2FpU"
+            },
+            {
+              "display_url": "pic.x.com/WRxUlz2FpU",
+              "end": 129,
+              "expanded_url": "https://x.com/wumiao01/status/2049178163092070807/photo/1",
+              "media_key": "3_2049178151499239424",
+              "start": 106,
+              "url": "https://t.co/WRxUlz2FpU"
+            },
+            {
+              "display_url": "pic.x.com/WRxUlz2FpU",
+              "end": 129,
+              "expanded_url": "https://x.com/wumiao01/status/2049178163092070807/photo/1",
+              "media_key": "3_2049178160055586816",
+              "start": 106,
+              "url": "https://t.co/WRxUlz2FpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049178163092070807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 18620,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "希望别被正主看到🥺…但是女高的cos骚脸真的很好撸…一开始刷到就立马爱上了…对着射了好几次…在推上发出来不就是想让人意淫的吗…骚逼coser私底下不知道挨过多少操了，一副接精脸就该被颜射… #意淫 #coser https://t.co/WRxUlz2FpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 794,
+          "like_count": 37499,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 2610
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T13:09:52.000Z",
+        "description": "勉强算是伪娘？\n是社恐，私信会看，但不一定会回",
+        "id": "1758841132950396928",
+        "name": "小秋不是绿奴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778457907845275648/qcGQ_Im5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 228,
+          "like_count": 312,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 69
+        },
+        "username": "wumiao01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1943391842696880579",
+    "created_at": "2025-07-10T19:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T20:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943391842696880579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "男娘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "伪娘"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "四爱"
+        },
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "地雷系さんと繋がりたい"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943391842696880579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "群友都说我的大爆射很涩，但是我只想当清水推🥺#男娘 #伪娘 #四爱 #地雷系さんと繋がりたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1943391842696880579",
+        "created_at": "2025-07-10T19:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T20:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943391842696880579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "伪娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "四爱"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943391842696880579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群友都说我的大爆射很涩，但是我只想当清水推🥺#男娘 #伪娘 #四爱 #地雷系さんと繋がりたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 400,
+          "like_count": 17044,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 810
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

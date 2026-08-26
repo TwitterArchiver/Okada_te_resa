@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004228676012093440"
+      ],
+      "media_source_tweet_id": [
+        "2004228682983035018"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2004330347451003141",
+    "created_at": "2025-12-25T23:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T00:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004330347451003141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782620151898157056",
+          "start": 3,
+          "username": "gong_ge_news"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Env2HyLlhM",
+          "end": 85,
+          "expanded_url": "https://x.com/gong_ge_news/status/2004228682983035018/photo/1",
+          "media_key": "3_2004228676012093440",
+          "start": 62,
+          "url": "https://t.co/Env2HyLlhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004330347451003141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004228682983035018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gong_ge_news: 今天，是全世界被压迫人民、全世界被压迫民族的伟大领袖和导师毛泽东同志诞辰132周年。… https://t.co/Env2HyLlhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2004228676012093440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BzXKpaMAAT3hg.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004228676012093440"
+          ],
+          "media_source_tweet_id": [
+            "2004228682983035018"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2004330347451003141",
+        "created_at": "2025-12-25T23:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T00:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004330347451003141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782620151898157056",
+              "start": 3,
+              "username": "gong_ge_news"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Env2HyLlhM",
+              "end": 85,
+              "expanded_url": "https://x.com/gong_ge_news/status/2004228682983035018/photo/1",
+              "media_key": "3_2004228676012093440",
+              "start": 62,
+              "url": "https://t.co/Env2HyLlhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004330347451003141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004228682983035018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gong_ge_news: 今天，是全世界被压迫人民、全世界被压迫民族的伟大领袖和导师毛泽东同志诞辰132周年。… https://t.co/Env2HyLlhM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004228676012093440"
+          ]
+        },
+        "author_id": "1782620151898157056",
+        "conversation_id": "2004228682983035018",
+        "created_at": "2025-12-25T16:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004228682983035018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Env2HyLlhM",
+              "end": 66,
+              "expanded_url": "https://x.com/gong_ge_news/status/2004228682983035018/photo/1",
+              "media_key": "3_2004228676012093440",
+              "start": 43,
+              "url": "https://t.co/Env2HyLlhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004228682983035018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天，是全世界被压迫人民、全世界被压迫民族的伟大领袖和导师毛泽东同志诞辰132周年。\n\n毛泽东同志说过：“我死了可以开个庆祝会。你就上台去讲话。你就讲，今天我们这个大会是个胜利的大会，毛泽东死了，我们大家来庆祝辩证法的胜利，他死得好。人如果不死，从孔夫子到现在，地球就装不下了。新陈代谢嘛，‘沉舟侧畔千帆过，病树前头万木春’。这是事物发展的规律。”\n\n编辑部原想本着“庆死不庆生”的原则，不发文庆祝，但抵不住群情盎然。\n\n自我国资本主义复辟以来，伟大领袖毛主席的政治遗产被越来越多的青年人所广传，时至今日，毛泽东思想传播之广大、影响之深远是过去任何时候都无法比拟的。\n\n愿接下来的一年，以及未来相当长的一段时期，全体同志们都能满怀激情和毅力，投身于学习与革命当中。\n\n为早日实现恢复无产阶级专政和社会主义公有制而奋斗🫡🫡🫡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4298,
+          "like_count": 151,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "今天，是全世界被压迫人民、全世界被压迫民族的伟大领袖和导师毛泽东同志诞辰132周年。 https://t.co/Env2HyLlhM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 665,
+          "like_count": 28063,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1663
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T03:59:22.000Z",
+        "description": "这里是工革报发布处，是《工人革命报》和《反修》在 X 的中文账号，也是工革报编辑部在X的总账号。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gong_ge_news",
+                "end": 23,
+                "expanded_url": "https://t.me/gong_ge_news",
+                "start": 0,
+                "url": "https://t.co/05Ns5UjDuA"
+              }
+            ]
+          }
+        },
+        "id": "1782620151898157056",
+        "location": "无处不在",
+        "name": "工革报发布处【马列毛主义】（CN）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906654089674637312/vujfW42O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 123,
+          "like_count": 549,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/05Ns5UjDuA",
+        "username": "gong_ge_news",
+        "verified": true
+      }
+    ]
+  }
+}

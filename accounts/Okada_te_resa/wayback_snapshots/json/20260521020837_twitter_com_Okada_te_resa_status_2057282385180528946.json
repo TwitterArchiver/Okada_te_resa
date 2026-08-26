@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057103908632469504"
+      ],
+      "media_source_tweet_id": [
+        "2057103970817212687"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2057282385180528946",
+    "created_at": "2026-05-21T02:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057282385180528946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719618660627853312",
+          "start": 3,
+          "username": "miku2789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5kPhREypa",
+          "end": 42,
+          "expanded_url": "https://x.com/miku2789/status/2057103970817212687/video/1",
+          "media_key": "13_2057103908632469504",
+          "start": 19,
+          "url": "https://t.co/E5kPhREypa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057282385180528946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057103970817212687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miku2789: 煙やばい https://t.co/E5kPhREypa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11465,
+        "height": 720,
+        "media_key": "13_2057103908632469504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057103908632469504/img/PMpVmCJGbE_JwcEb.jpg",
+        "public_metrics": {
+          "view_count": 3986
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057103908632469504/vid/avc1/434x270/0IGAyAHjMdCGIx5s.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057103908632469504/vid/avc1/580x360/4_ijCBu5E20ludUB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057103908632469504/vid/avc1/1162x720/f_o05wjNGpoOm--7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057103908632469504/pl/cJeN1kLXvcGEevvi.m3u8?v=cfc"
+          }
+        ],
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057103908632469504"
+          ],
+          "media_source_tweet_id": [
+            "2057103970817212687"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2057282385180528946",
+        "created_at": "2026-05-21T02:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057282385180528946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719618660627853312",
+              "start": 3,
+              "username": "miku2789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5kPhREypa",
+              "end": 42,
+              "expanded_url": "https://x.com/miku2789/status/2057103970817212687/video/1",
+              "media_key": "13_2057103908632469504",
+              "start": 19,
+              "url": "https://t.co/E5kPhREypa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057282385180528946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057103970817212687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miku2789: 煙やばい https://t.co/E5kPhREypa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057103908632469504"
+          ]
+        },
+        "author_id": "1719618660627853312",
+        "conversation_id": "2057103970817212687",
+        "created_at": "2026-05-20T14:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057103970817212687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5kPhREypa",
+              "end": 28,
+              "expanded_url": "https://x.com/miku2789/status/2057103970817212687/video/1",
+              "media_key": "13_2057103908632469504",
+              "start": 5,
+              "url": "https://t.co/E5kPhREypa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057103970817212687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 10494,
+          "like_count": 872,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "煙やばい https://t.co/E5kPhREypa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 856,
+          "like_count": 38869,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 2804
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T07:33:52.000Z",
+        "description": "ゴミ箱に入る @xxlyill44",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "xxlyill44"
+              }
+            ]
+          }
+        },
+        "id": "1719618660627853312",
+        "name": "せかい",
+        "pinned_tweet_id": "1793243562295107593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851913338797903872/jZvkfySu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6876,
+          "following_count": 15,
+          "like_count": 5688,
+          "listed_count": 12,
+          "media_count": 302,
+          "tweet_count": 5402
+        },
+        "username": "miku2789",
+        "verified": false
+      }
+    ]
+  }
+}

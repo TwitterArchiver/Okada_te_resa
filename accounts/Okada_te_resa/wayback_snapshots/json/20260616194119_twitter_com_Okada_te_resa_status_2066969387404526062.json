@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066721300098506752"
+      ],
+      "media_source_tweet_id": [
+        "2066721355358429414"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066969387404526062",
+    "created_at": "2026-06-16T19:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066969387404526062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864548278832123910",
+          "start": 3,
+          "username": "scarf_sensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExRBmhJ0ks",
+          "end": 76,
+          "expanded_url": "https://x.com/scarf_sensei/status/2066721355358429414/video/1",
+          "media_key": "13_2066721300098506752",
+          "start": 53,
+          "url": "https://t.co/ExRBmhJ0ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066969387404526062",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 794
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066721355358429414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scarf_sensei: So that’s how vampires make love 👀 https://t.co/ExRBmhJ0ks"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16500,
+        "height": 480,
+        "media_key": "13_2066721300098506752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066721300098506752/img/G_TjB4EKwS8J4Iou.jpg",
+        "public_metrics": {
+          "view_count": 1255077
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066721300098506752/vid/avc1/360x270/aTrjtrZh2i5eVfH0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066721300098506752/vid/avc1/480x360/Ctp5IumVhLggXady.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066721300098506752/vid/avc1/642x480/3KXFnU_4_HXZy1E8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066721300098506752/pl/0pmYwNuuyajUnUk2.m3u8"
+          }
+        ],
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066721300098506752"
+          ],
+          "media_source_tweet_id": [
+            "2066721355358429414"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066969387404526062",
+        "created_at": "2026-06-16T19:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066969387404526062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864548278832123910",
+              "start": 3,
+              "username": "scarf_sensei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExRBmhJ0ks",
+              "end": 76,
+              "expanded_url": "https://x.com/scarf_sensei/status/2066721355358429414/video/1",
+              "media_key": "13_2066721300098506752",
+              "start": 53,
+              "url": "https://t.co/ExRBmhJ0ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066969387404526062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066721355358429414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scarf_sensei: So that’s how vampires make love 👀 https://t.co/ExRBmhJ0ks"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066721300098506752"
+          ]
+        },
+        "author_id": "1864548278832123910",
+        "conversation_id": "2066721355358429414",
+        "created_at": "2026-06-16T03:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066721355358429414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExRBmhJ0ks",
+              "end": 58,
+              "expanded_url": "https://x.com/scarf_sensei/status/2066721355358429414/video/1",
+              "media_key": "13_2066721300098506752",
+              "start": 35,
+              "url": "https://t.co/ExRBmhJ0ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066721355358429414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7497,
+          "impression_count": 2292665,
+          "like_count": 19581,
+          "quote_count": 201,
+          "reply_count": 68,
+          "retweet_count": 794
+        },
+        "reply_settings": "everyone",
+        "text": "So that’s how vampires make love 👀 https://t.co/ExRBmhJ0ks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 912,
+          "like_count": 40555,
+          "listed_count": 4,
+          "media_count": 650,
+          "tweet_count": 3060
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T05:52:17.000Z",
+        "description": "Erasing your worries faster than I erase quirks and turning that frown upside down with my posts.",
+        "id": "1864548278832123910",
+        "name": "Eraser Aizawa 🥽",
+        "pinned_tweet_id": "2066888892834529444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029400508969172992/1wsrFRu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31314,
+          "following_count": 775,
+          "like_count": 58823,
+          "listed_count": 90,
+          "media_count": 2082,
+          "tweet_count": 33655
+        },
+        "username": "scarf_sensei",
+        "verified": true
+      }
+    ]
+  }
+}

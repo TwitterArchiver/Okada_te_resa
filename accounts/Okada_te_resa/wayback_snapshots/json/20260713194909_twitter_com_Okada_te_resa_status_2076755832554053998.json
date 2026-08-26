@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076262987590197674",
+    "created_at": "2026-07-13T19:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076755832554053998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076755832554053998",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076262987590197674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 你永远是男人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076262982598938624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBeLqIaUAA8vmz.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076262983911845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBeLvBbsAAwrM1.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076262984259923968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBeLwUa8AAk3bC.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076262984939343873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBeLy2aEAEcNCW.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076262987590197674",
+        "created_at": "2026-07-13T19:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076755832554053998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076755832554053998",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076262987590197674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 你永远是男人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076262982598938624",
+            "3_2076262983911845888",
+            "3_2076262984259923968",
+            "3_2076262984939343873"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2076262987590197674",
+        "created_at": "2026-07-12T11:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076262987590197674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkaHlYWyU3",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2076262987590197674/photo/1",
+              "media_key": "3_2076262982598938624",
+              "start": 82,
+              "url": "https://t.co/nkaHlYWyU3"
+            },
+            {
+              "display_url": "pic.x.com/nkaHlYWyU3",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2076262987590197674/photo/1",
+              "media_key": "3_2076262983911845888",
+              "start": 82,
+              "url": "https://t.co/nkaHlYWyU3"
+            },
+            {
+              "display_url": "pic.x.com/nkaHlYWyU3",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2076262987590197674/photo/1",
+              "media_key": "3_2076262984259923968",
+              "start": 82,
+              "url": "https://t.co/nkaHlYWyU3"
+            },
+            {
+              "display_url": "pic.x.com/nkaHlYWyU3",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2076262987590197674/photo/1",
+              "media_key": "3_2076262984939343873",
+              "start": 82,
+              "url": "https://t.co/nkaHlYWyU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076262987590197674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9437,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手废了  长这么大  后悔没有在12岁  13岁左右的时候开始吃糖  我服了开智的时间有点长啊 小指也不够看  还是太大了 骨头也不能磨  脂肪也不能抽  我服了 https://t.co/nkaHlYWyU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 972,
+          "like_count": 42742,
+          "listed_count": 5,
+          "media_count": 711,
+          "tweet_count": 3309
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 294,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

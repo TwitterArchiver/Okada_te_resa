@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2053352662050181368",
+    "created_at": "2026-05-10T06:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053359947631702023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053359947631702023",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053352662050181368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayn_kitkia 这TM是死了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2053352657251876864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH75XNYaQAAUlbi.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2053352662050181368",
+        "created_at": "2026-05-10T06:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053359947631702023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053359947631702023",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053352662050181368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayn_kitkia 这TM是死了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053352657251876864"
+          ]
+        },
+        "author_id": "2049186369361289216",
+        "conversation_id": "2053352662050181368",
+        "created_at": "2026-05-10T05:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053352662050181368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK7sJz1TyC",
+              "end": 116,
+              "expanded_url": "https://x.com/Ayn_kitkia/status/2053352662050181368/photo/1",
+              "media_key": "3_2053352657251876864",
+              "start": 93,
+              "url": "https://t.co/DK7sJz1TyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053352662050181368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 603,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "aya开始冷掉会有的迹象：\n1. 不再主动找你说话\n2. 你心情不好不再哄你\n3. 不关心你\n4. 肌肉松弛瞳孔散大\n5. 乳酸发酵身体呈现酸性\n6. 皮肤产生斑点\n7. 眼角膜呈混浊 https://t.co/DK7sJz1TyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 815,
+          "like_count": 38167,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 2702
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "30歳・男//aya避難所✦本垢@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "location": "東京",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2049359492446658688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051147515882622976/G53Dk8sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 105,
+          "like_count": 718,
+          "listed_count": 5,
+          "media_count": 12,
+          "tweet_count": 449
+        },
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

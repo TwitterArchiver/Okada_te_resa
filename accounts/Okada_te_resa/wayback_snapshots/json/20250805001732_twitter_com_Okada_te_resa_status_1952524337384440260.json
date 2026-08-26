@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1952097731528347649"
+      ],
+      "media_source_tweet_id": [
+        "1952097761605619788"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952524337384440260",
+    "created_at": "2025-08-05T00:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952524337384440260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "840286695421595649",
+          "start": 3,
+          "username": "autoass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5dXfNjE0SC",
+          "end": 41,
+          "expanded_url": "https://x.com/autoass/status/1952097761605619788/video/1",
+          "media_key": "7_1952097731528347649",
+          "start": 18,
+          "url": "https://t.co/5dXfNjE0SC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952524337384440260",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1045
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952097761605619788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @autoass: GT-R https://t.co/5dXfNjE0SC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11669,
+        "height": 1280,
+        "media_key": "7_1952097731528347649",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952097731528347649/pu/img/xoBVSOlb2muQEFvN.jpg",
+        "public_metrics": {
+          "view_count": 156230
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952097731528347649/pu/vid/avc1/320x568/zJ-M936D_guzDr8R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952097731528347649/pu/vid/avc1/480x852/FGThzgMpU1Q85XKr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952097731528347649/pu/vid/avc1/720x1280/4TyRzx3IpN3_axsN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952097731528347649/pu/pl/VZagleILukN4iF9A.m3u8?tag=12&v=543"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952097731528347649"
+          ],
+          "media_source_tweet_id": [
+            "1952097761605619788"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952524337384440260",
+        "created_at": "2025-08-05T00:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952524337384440260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "840286695421595649",
+              "start": 3,
+              "username": "autoass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dXfNjE0SC",
+              "end": 41,
+              "expanded_url": "https://x.com/autoass/status/1952097761605619788/video/1",
+              "media_key": "7_1952097731528347649",
+              "start": 18,
+              "url": "https://t.co/5dXfNjE0SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952524337384440260",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1045
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952097761605619788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @autoass: GT-R https://t.co/5dXfNjE0SC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952097731528347649"
+          ]
+        },
+        "author_id": "840286695421595649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1952097761605619788",
+        "created_at": "2025-08-03T20:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952097761605619788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dXfNjE0SC",
+              "end": 28,
+              "expanded_url": "https://x.com/autoass/status/1952097761605619788/video/1",
+              "media_key": "7_1952097731528347649",
+              "start": 5,
+              "url": "https://t.co/5dXfNjE0SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952097761605619788",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 759,
+          "impression_count": 323822,
+          "like_count": 9335,
+          "quote_count": 39,
+          "reply_count": 11,
+          "retweet_count": 1045
+        },
+        "reply_settings": "everyone",
+        "text": "GT-R https://t.co/5dXfNjE0SC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 451,
+          "like_count": 18430,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 921
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-10T19:42:14.000Z",
+        "description": "Follower Goal: 500k 🔥\nInsta @ AutoassOfficial\nDM your car for a shoutout/ post. All types of cars welcome. DMs open.",
+        "id": "840286695421595649",
+        "location": "New York, USA",
+        "name": "Autoass Media",
+        "pinned_tweet_id": "1948480890276917553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862077554884030464/1IH4AwSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499277,
+          "following_count": 160,
+          "like_count": 21670,
+          "listed_count": 639,
+          "media_count": 10076,
+          "tweet_count": 14944
+        },
+        "username": "autoass",
+        "verified": true
+      }
+    ]
+  }
+}

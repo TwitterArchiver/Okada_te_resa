@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2044081449276764366",
+    "created_at": "2026-04-14T15:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044081449276764366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1278007136086224900",
+          "start": 3,
+          "username": "kumori_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044081449276764366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044072036889473026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumori_01: 和Kumori交往的好處\n（私と付き合うメリット）\n                  ↓\n・可以帥可以美，可以1愛可以4愛，讓你同時擁有一夫一妻。\n・上得了廳堂，下得了廚房，中餐西餐烘焙飲調丙級的證照都有。\n・ J罩杯，性慾很強。\n・可以Cosp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044072027259318277",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4ArcgasAUkSq3.jpg",
+        "width": 1366
+      },
+      {
+        "height": 900,
+        "media_key": "3_2044072027246710784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4ArcdaUAAuFrA.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2044081449276764366",
+        "created_at": "2026-04-14T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044081449276764366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1278007136086224900",
+              "start": 3,
+              "username": "kumori_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081449276764366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044072036889473026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumori_01: 和Kumori交往的好處\n（私と付き合うメリット）\n                  ↓\n・可以帥可以美，可以1愛可以4愛，讓你同時擁有一夫一妻。\n・上得了廳堂，下得了廚房，中餐西餐烘焙飲調丙級的證照都有。\n・ J罩杯，性慾很強。\n・可以Cosp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044072027259318277",
+            "3_2044072027246710784"
+          ]
+        },
+        "author_id": "1278007136086224900",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2044072036889473026",
+        "created_at": "2026-04-14T15:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044072036889473026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lig5BV4nMx",
+              "end": 161,
+              "expanded_url": "https://x.com/kumori_01/status/2044072036889473026/photo/1",
+              "media_key": "3_2044072027259318277",
+              "start": 138,
+              "url": "https://t.co/Lig5BV4nMx"
+            },
+            {
+              "display_url": "pic.x.com/Lig5BV4nMx",
+              "end": 161,
+              "expanded_url": "https://x.com/kumori_01/status/2044072036889473026/photo/1",
+              "media_key": "3_2044072027246710784",
+              "start": 138,
+              "url": "https://t.co/Lig5BV4nMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044072036889473026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "和Kumori交往的好處\n（私と付き合うメリット）\n                  ↓\n・可以帥可以美，可以1愛可以4愛，讓你同時擁有一夫一妻。\n・上得了廳堂，下得了廚房，中餐西餐烘焙飲調丙級的證照都有。\n・ J罩杯，性慾很強。\n・可以Cosplay你的紙片人老公老婆。\n・不論你是男是女，都會被當女朋友對待，會主動請客跟出機票帶你出去玩。\n・情感潔癖，不可能會出軌。\n・有養一隻很親人的緬因貓，讓你在家就像身處在貓咖。\n・可以每天用好聽的聲音哄你入睡。\n・有房一族，但不會要你一起還房貸。\n\n缺點↓"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 15186,
+          "like_count": 1383,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "和Kumori交往的好處\n（私と付き合うメリット）\n                  ↓\n・可以帥可以美，可以1愛可以4愛，讓你同時擁有一夫一妻。\n・上得了廳堂，下得了廚房，中餐西餐烘焙飲調丙級的證照都有。\n・ J罩杯，性慾很強。\n・可以Cosplay你的紙片人老公老婆。 https://t.co/Lig5BV4nMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 760,
+          "like_count": 36624,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 2457
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T16:47:19.000Z",
+        "description": "每週六21:00固定開台 🇹🇼 ｜26才、34J Cup｜105/75/110｜天秤INTJ-A | 四愛、雙性戀、女Dom｜不看私訊｜二創Tag #kumorifanart｜讓曇看的Tag #侃侃而曇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 74,
+                "tag": "kumorifanart"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "侃侃而曇"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kumori_01",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kumori_01",
+                "start": 0,
+                "url": "https://t.co/vEkJq21R7T"
+              }
+            ]
+          }
+        },
+        "id": "1278007136086224900",
+        "location": "Taiwan",
+        "name": "曇𝘒𝘶𝘮𝘰𝘳𝘪☁️【5/9、10高雄CFS參展】你的173/34JCup反差女友🩶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892912181840375808/6s5K6wtz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191843,
+          "following_count": 100,
+          "like_count": 909,
+          "listed_count": 599,
+          "media_count": 453,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/vEkJq21R7T",
+        "username": "kumori_01",
+        "verified": false
+      }
+    ]
+  }
+}

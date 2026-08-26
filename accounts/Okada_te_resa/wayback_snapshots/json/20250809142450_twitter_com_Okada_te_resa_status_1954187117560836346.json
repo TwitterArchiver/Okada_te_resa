@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1954174341480153411",
+    "created_at": "2025-08-09T14:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T15:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954187117560836346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796143322173759488",
+          "start": 0,
+          "username": "miexiaomieQaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954187117560836346",
+    "in_reply_to_user_id": "1796143322173759488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954174341480153411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miexiaomieQaQ 什么粉底"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1954174329614422016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6fMvna0AAjJbS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1954174341480153411",
+        "created_at": "2025-08-09T14:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954187117560836346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796143322173759488",
+              "start": 0,
+              "username": "miexiaomieQaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954187117560836346",
+        "in_reply_to_user_id": "1796143322173759488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954174341480153411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miexiaomieQaQ 什么粉底"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954174329614422016"
+          ]
+        },
+        "author_id": "1796143322173759488",
+        "conversation_id": "1954174341480153411",
+        "created_at": "2025-08-09T13:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954174341480153411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKYd1s8wJx",
+              "end": 42,
+              "expanded_url": "https://x.com/miexiaomieQaQ/status/1954174341480153411/photo/1",
+              "media_key": "3_1954174329614422016",
+              "start": 19,
+              "url": "https://t.co/xKYd1s8wJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954174341480153411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上出门什么样回家什么样的底妆谁懂… https://t.co/xKYd1s8wJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 452,
+          "like_count": 18771,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 950
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T11:35:21.000Z",
+        "description": "我是爱 会在最幸福的时侯死去 诡秘 @AiharaShizuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "AiharaShizuku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amore26620",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amore26620",
+                "start": 0,
+                "url": "https://t.co/RX3q2ayoom"
+              }
+            ]
+          }
+        },
+        "id": "1796143322173759488",
+        "location": "失乐园",
+        "name": "Amore",
+        "pinned_tweet_id": "1878956220704489550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879141231227494400/TYJrONzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 106,
+          "like_count": 2823,
+          "listed_count": 14,
+          "media_count": 24,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/RX3q2ayoom",
+        "username": "miexiaomieQaQ",
+        "verified": true
+      }
+    ]
+  }
+}

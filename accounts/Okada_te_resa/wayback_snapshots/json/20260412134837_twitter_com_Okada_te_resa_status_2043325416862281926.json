@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043266123593105408"
+      ],
+      "media_source_tweet_id": [
+        "2043266126562701448"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2043325416862281926",
+    "created_at": "2026-04-12T13:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043325416862281926"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 16,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414719870520815620",
+          "start": 3,
+          "username": "Touyu_1210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/snzRfDcfkH",
+          "end": 72,
+          "expanded_url": "https://x.com/Touyu_1210/status/2043266126562701448/photo/1",
+          "media_key": "3_2043266123593105408",
+          "start": 49,
+          "url": "https://t.co/snzRfDcfkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043325416862281926",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 533
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043266126562701448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Touyu_1210: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/snzRfDcfkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043266123593105408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsjtrZbQAA5huo.jpg",
+        "width": 1774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043266123593105408"
+          ],
+          "media_source_tweet_id": [
+            "2043266126562701448"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2043325416862281926",
+        "created_at": "2026-04-12T13:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043325416862281926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 16,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414719870520815620",
+              "start": 3,
+              "username": "Touyu_1210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snzRfDcfkH",
+              "end": 72,
+              "expanded_url": "https://x.com/Touyu_1210/status/2043266126562701448/photo/1",
+              "media_key": "3_2043266123593105408",
+              "start": 49,
+              "url": "https://t.co/snzRfDcfkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043325416862281926",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 533
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043266126562701448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Touyu_1210: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/snzRfDcfkH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043266123593105408"
+          ]
+        },
+        "author_id": "1414719870520815620",
+        "conversation_id": "2043266126562701448",
+        "created_at": "2026-04-12T09:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043266126562701448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snzRfDcfkH",
+              "end": 56,
+              "expanded_url": "https://x.com/Touyu_1210/status/2043266126562701448/photo/1",
+              "media_key": "3_2043266123593105408",
+              "start": 33,
+              "url": "https://t.co/snzRfDcfkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043266126562701448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 31688,
+          "like_count": 3172,
+          "quote_count": 14,
+          "reply_count": 2,
+          "retweet_count": 533
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/snzRfDcfkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 755,
+          "like_count": 36514,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 2435
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T22:54:42.000Z",
+        "description": "등유•TOUYU | 📧 tjsgo1210@naver.com | Do not use,repost my artwork 🚫 Ai learing is prohibited",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Touyu_1210",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Touyu_1210",
+                "start": 0,
+                "url": "https://t.co/UkFFlsV9Ou"
+              }
+            ]
+          }
+        },
+        "id": "1414719870520815620",
+        "location": "20⬆️ | 비팔🔕 | I.베띠님 H.치즈부리또님",
+        "name": "ㄷㅇ໒꒱5서코 CE17_18",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016132650067439616/cscYAh03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29533,
+          "following_count": 153,
+          "like_count": 4227,
+          "listed_count": 105,
+          "media_count": 111,
+          "tweet_count": 4482
+        },
+        "url": "https://t.co/UkFFlsV9Ou",
+        "username": "Touyu_1210",
+        "verified": true
+      }
+    ]
+  }
+}

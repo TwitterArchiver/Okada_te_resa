@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2048493169676112041",
+    "created_at": "2026-04-26T20:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T21:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048493169676112041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223407990713114624",
+          "start": 3,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048493169676112041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048074453125579121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmtbxsh: 我感觉内射真的好涩（在不会怀孕且安全的前提下）…尤其是我看片和po文也很喜欢看内射的，射出来的精液和小穴流的水混合在一起，就是特别淫乱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2048493169676112041",
+        "created_at": "2026-04-26T20:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T21:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048493169676112041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223407990713114624",
+              "start": 3,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048493169676112041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048074453125579121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmtbxsh: 我感觉内射真的好涩（在不会怀孕且安全的前提下）…尤其是我看片和po文也很喜欢看内射的，射出来的精液和小穴流的水混合在一起，就是特别淫乱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2048074453125579121",
+        "created_at": "2026-04-25T16:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048074453125579121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048074453125579121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2916,
+          "impression_count": 1048250,
+          "like_count": 20308,
+          "quote_count": 192,
+          "reply_count": 1068,
+          "retweet_count": 1215
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉内射真的好涩（在不会怀孕且安全的前提下）…尤其是我看片和po文也很喜欢看内射的，射出来的精液和小穴流的水混合在一起，就是特别淫乱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 793,
+          "like_count": 37343,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 2589
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2047307160347169104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49141,
+          "following_count": 237,
+          "like_count": 5382,
+          "listed_count": 107,
+          "media_count": 480,
+          "tweet_count": 1973
+        },
+        "username": "wmtbxsh",
+        "verified": false
+      }
+    ]
+  }
+}

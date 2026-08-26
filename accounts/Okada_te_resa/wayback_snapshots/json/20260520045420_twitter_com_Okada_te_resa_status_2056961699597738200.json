@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2056956349225775160",
+    "created_at": "2026-05-20T04:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056961699597738200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2808746407",
+          "start": 0,
+          "username": "CCsMoonTe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056961699597738200",
+    "in_reply_to_user_id": "2808746407",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056956349225775160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCsMoonTe 漂亮嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056956345618710528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvG5esWwAA_ZwU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2056956349225775160",
+        "created_at": "2026-05-20T04:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056961699597738200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2808746407",
+              "start": 0,
+              "username": "CCsMoonTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056961699597738200",
+        "in_reply_to_user_id": "2808746407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056956349225775160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCsMoonTe 漂亮嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056956345618710528"
+          ]
+        },
+        "author_id": "2808746407",
+        "conversation_id": "2056956349225775160",
+        "created_at": "2026-05-20T04:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056956349225775160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TwOZ5pGYq",
+              "end": 69,
+              "expanded_url": "https://x.com/CCsMoonTe/status/2056956349225775160/photo/1",
+              "media_key": "3_2056956345618710528",
+              "start": 46,
+              "url": "https://t.co/0TwOZ5pGYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056956349225775160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 798,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在墨西哥的好处就是可以大大方方穿女装出门，不用像在国内担心被看出来是男生需要小心翼翼戴口罩 https://t.co/0TwOZ5pGYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 849,
+          "like_count": 38796,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 2793
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-14T04:21:32.000Z",
+        "description": "清水伪娘/高P战士/INFP/165cm55kg/switch/懒，不爱聊天",
+        "id": "2808746407",
+        "location": "CDMX",
+        "name": "苡涩清茶",
+        "pinned_tweet_id": "2023069705523851587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741847290493702144/GZ9mHun6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129646,
+          "following_count": 930,
+          "like_count": 11423,
+          "listed_count": 498,
+          "media_count": 576,
+          "tweet_count": 7348
+        },
+        "username": "CCsMoonTe",
+        "verified": true
+      }
+    ]
+  }
+}

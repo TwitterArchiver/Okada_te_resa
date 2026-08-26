@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Geology",
+          "id": "847897009281355776",
+          "name": "Geology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      }
+    ],
+    "conversation_id": "2001751601921626470",
+    "created_at": "2025-12-18T20:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T21:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001751601921626470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDaquaforever/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/DDaquaforever/status/2001242361075261774",
+          "start": 5,
+          "url": "https://t.co/dgK8qKX9RH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001751601921626470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001242361075261774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像在窑鸡 https://t.co/dgK8qKX9RH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2001242353731035142",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XXUVOa4AYhx2_.png",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2001751601921626470",
+        "created_at": "2025-12-18T20:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T21:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001751601921626470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/2001242361075261774",
+              "start": 5,
+              "url": "https://t.co/dgK8qKX9RH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001751601921626470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001242361075261774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像在窑鸡 https://t.co/dgK8qKX9RH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001242353731035142"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2001242361075261774",
+        "created_at": "2025-12-17T10:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001242361075261774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNUipuAAbT",
+              "end": 105,
+              "expanded_url": "https://x.com/DDaquaforever/status/2001242361075261774/photo/1",
+              "media_key": "3_2001242353731035142",
+              "start": 82,
+              "url": "https://t.co/jNUipuAAbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001242361075261774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 16224,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "布斯卡火山\n一座高达1.2米(备注:并没有写错小数点)，位于意大利的火山，虽然已经熊熊燃烧了100多年，但因为只能用来做饭和烤棉花糖，而被称为世界上最没用的火山。 https://t.co/jNUipuAAbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 657,
+          "like_count": 27457,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1629
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了",
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1145,
+          "like_count": 473,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 812
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

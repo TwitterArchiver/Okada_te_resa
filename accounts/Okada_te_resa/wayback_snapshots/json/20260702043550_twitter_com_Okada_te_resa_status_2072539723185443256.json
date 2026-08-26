@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072060799636389888"
+      ],
+      "media_source_tweet_id": [
+        "2072060863457169492"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2072539723185443256",
+    "created_at": "2026-07-02T04:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072539723185443256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "289310993",
+          "start": 3,
+          "username": "youni"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpHzW4y7Zq",
+          "end": 62,
+          "expanded_url": "https://x.com/youni/status/2072060863457169492/video/1",
+          "media_key": "13_2072060799636389888",
+          "start": 39,
+          "url": "https://t.co/FpHzW4y7Zq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072539723185443256",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6923
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072060863457169492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youni: Brazil Miku  vs  Japan Miku https://t.co/FpHzW4y7Zq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4600,
+        "height": 1660,
+        "media_key": "13_2072060799636389888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072060799636389888/img/G47--NMVhFPV17yX.jpg",
+        "public_metrics": {
+          "view_count": 820469
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072060799636389888/vid/avc1/2158x1660/E48PyXJnZwq_aKh9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072060799636389888/pl/MFkQrSFir4mS1uR1.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072060799636389888/vid/avc1/468x360/eq4wZleA3Rqd-h0T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072060799636389888/vid/avc1/936x720/774NlMp8qD-IYblR.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072060799636389888/vid/avc1/350x270/5n3ql6O1tGLN5qn2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072060799636389888/vid/avc1/1404x1080/K0YiF6n02nk8IKem.mp4"
+          }
+        ],
+        "width": 2158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072060799636389888"
+          ],
+          "media_source_tweet_id": [
+            "2072060863457169492"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2072539723185443256",
+        "created_at": "2026-07-02T04:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072539723185443256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "289310993",
+              "start": 3,
+              "username": "youni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpHzW4y7Zq",
+              "end": 62,
+              "expanded_url": "https://x.com/youni/status/2072060863457169492/video/1",
+              "media_key": "13_2072060799636389888",
+              "start": 39,
+              "url": "https://t.co/FpHzW4y7Zq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072539723185443256",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6923
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072060863457169492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youni: Brazil Miku  vs  Japan Miku https://t.co/FpHzW4y7Zq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072060799636389888"
+          ]
+        },
+        "author_id": "289310993",
+        "conversation_id": "2072060863457169492",
+        "created_at": "2026-06-30T20:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072060863457169492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpHzW4y7Zq",
+              "end": 51,
+              "expanded_url": "https://x.com/youni/status/2072060863457169492/video/1",
+              "media_key": "13_2072060799636389888",
+              "start": 28,
+              "url": "https://t.co/FpHzW4y7Zq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072060863457169492",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58130,
+          "impression_count": 1707408,
+          "like_count": 162516,
+          "quote_count": 91,
+          "reply_count": 488,
+          "retweet_count": 6923
+        },
+        "reply_settings": "everyone",
+        "text": "Brazil Miku  vs  Japan Miku https://t.co/FpHzW4y7Zq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 937,
+          "like_count": 41566,
+          "listed_count": 4,
+          "media_count": 690,
+          "tweet_count": 3197
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T12:24:39.000Z",
+        "description": "hana ♡ irl anime girl ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/yyumihana",
+                "end": 23,
+                "expanded_url": "http://link.me/yyumihana",
+                "start": 0,
+                "url": "https://t.co/lXICFXf5Kt"
+              }
+            ]
+          }
+        },
+        "id": "289310993",
+        "location": "free 0F➡️",
+        "name": "ᵕ̈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012735065642422272/uJsZSJ-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417788,
+          "following_count": 50,
+          "like_count": 853,
+          "listed_count": 934,
+          "media_count": 105,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/lXICFXf5Kt",
+        "username": "youni",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021321548268011520"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2021321551325561185",
+    "created_at": "2026-02-10T20:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T21:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021321551325561185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AGRQo1KupJ",
+          "end": 41,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2021321551325561185/photo/1",
+          "media_key": "3_2021321548268011520",
+          "start": 18,
+          "url": "https://t.co/AGRQo1KupJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021321551325561185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想睡醒了看到你们对我的印象。。。 https://t.co/AGRQo1KupJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2021321548268011520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA0tPR1bgAAPuvW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021321548268011520"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2021321551325561185",
+        "created_at": "2026-02-10T20:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T21:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021321551325561185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGRQo1KupJ",
+              "end": 41,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2021321551325561185/photo/1",
+              "media_key": "3_2021321548268011520",
+              "start": 18,
+              "url": "https://t.co/AGRQo1KupJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021321551325561185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想睡醒了看到你们对我的印象。。。 https://t.co/AGRQo1KupJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 688,
+          "like_count": 32087,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 1934
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2053190342107619504",
+    "created_at": "2026-05-09T20:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T21:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053214369857798340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053214369857798340",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053190342107619504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 电子嘉豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2053190342107619504",
+        "created_at": "2026-05-09T20:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053214369857798340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053214369857798340",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053190342107619504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 电子嘉豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2053190342107619504",
+        "created_at": "2026-05-09T19:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053190342107619504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2053150369153503523",
+              "start": 142,
+              "url": "https://t.co/pMqOYpZoDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053190342107619504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们好搞笑，可以随便消费别人的感情然后用一句“社会实验”来辩解么？那些为你的死讯难过、对你说的东西动情的人，有知情同意过成为你的实验的对象么？你的实验为被试者提供任何福祉了吗？你有没有想过有人知道你的死讯太难过自伤自杀怎么办？伤害完别人的感情然后一击脱离、美美脱罪，只能证明你是个不敢为自己的行为负责的懦弱鬼，少找高大上的理论为自己辩护，我觉得恶心。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 347,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053150369153503523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好搞笑，可以随便消费别人的感情然后用一句“社会实验”来辩解么？那些为你的死讯难过、对你说的东西动情的人，有知情同意过成为你的实验的对象么？你的实验为被试者提供任何福祉了吗？你有没有想过有人知道你的死讯太难过自伤自杀怎么办？伤害完别人的感情然后一击脱离、美美脱罪，只能证明你是个不 https://t.co/pMqOYpZoDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 814,
+          "like_count": 38163,
+          "listed_count": 4,
+          "media_count": 541,
+          "tweet_count": 2700
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈｜@irisdesombres 的忠犬，祂的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 107,
+          "like_count": 5549,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 3845
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

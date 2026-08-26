@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071599460438704128"
+      ],
+      "media_source_tweet_id": [
+        "2071599788303286762"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2080641648120500280",
+    "created_at": "2026-07-24T13:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080641648120500280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2072046116808302592",
+          "start": 3,
+          "username": "yumekawakyandi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WN0Y64cLqK",
+          "end": 131,
+          "expanded_url": "https://x.com/dollie_starves/status/2071599788303286762/video/1",
+          "media_key": "13_2071599460438704128",
+          "start": 108,
+          "url": "https://t.co/WN0Y64cLqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080641648120500280",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 895
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080464062840799513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yumekawakyandi: when i get the courage i’ll do this ♡ but then again i’d chicken out like a scaredy cat https://t.co/WN0Y64cLqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37433,
+        "height": 848,
+        "media_key": "13_2071599460438704128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071599460438704128/img/gvLrB0yV3bEM_TFu.jpg",
+        "public_metrics": {
+          "view_count": 662684
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071599460438704128/vid/avc1/320x564/bdIbSuK_blBFuJl_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071599460438704128/vid/avc1/480x848/Zp3JnYjoU0oFgMTL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071599460438704128/pl/Vs7EZGm456_yIkxj.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071599460438704128"
+          ]
+        },
+        "author_id": "1847398199763320833",
+        "conversation_id": "2071599788303286762",
+        "created_at": "2026-06-29T14:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071599788303286762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "988twt"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "sh"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "cutecore"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "japanese"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "suicide"
+            },
+            {
+              "end": 59,
+              "start": 49,
+              "tag": "jumpのいんすた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqNlfZtxa2",
+              "end": 83,
+              "expanded_url": "https://x.com/dollie_starves/status/2071599788303286762/video/1",
+              "media_key": "13_2071599460438704128",
+              "start": 60,
+              "url": "https://t.co/HqNlfZtxa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071599788303286762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2091,
+          "impression_count": 372674,
+          "like_count": 4734,
+          "quote_count": 19,
+          "reply_count": 19,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "So cute #988twt #sh #cutecore #japanese #suicide #jumpのいんすた https://t.co/HqNlfZtxa2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071599460438704128"
+          ],
+          "media_source_tweet_id": [
+            "2071599788303286762"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2080641648120500280",
+        "created_at": "2026-07-24T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080641648120500280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2072046116808302592",
+              "start": 3,
+              "username": "yumekawakyandi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WN0Y64cLqK",
+              "end": 131,
+              "expanded_url": "https://x.com/dollie_starves/status/2071599788303286762/video/1",
+              "media_key": "13_2071599460438704128",
+              "start": 108,
+              "url": "https://t.co/WN0Y64cLqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080641648120500280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 895
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080464062840799513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yumekawakyandi: when i get the courage i’ll do this ♡ but then again i’d chicken out like a scaredy cat https://t.co/WN0Y64cLqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071599460438704128"
+          ],
+          "media_source_tweet_id": [
+            "2071599788303286762"
+          ]
+        },
+        "author_id": "2072046116808302592",
+        "conversation_id": "2080464062840799513",
+        "created_at": "2026-07-24T01:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080464062840799513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WN0Y64cLqK",
+              "end": 111,
+              "expanded_url": "https://x.com/dollie_starves/status/2071599788303286762/video/1",
+              "media_key": "13_2071599460438704128",
+              "start": 88,
+              "url": "https://t.co/WN0Y64cLqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080464062840799513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4478,
+          "impression_count": 494392,
+          "like_count": 11900,
+          "quote_count": 82,
+          "reply_count": 98,
+          "retweet_count": 895
+        },
+        "reply_settings": "following",
+        "text": "when i get the courage i’ll do this ♡ but then again i’d chicken out like a scaredy cat https://t.co/WN0Y64cLqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 992,
+          "like_count": 43504,
+          "listed_count": 5,
+          "media_count": 727,
+          "tweet_count": 3370
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T19:58:04.000Z",
+        "description": "✿. 𝟷𝟺 𓈒 🎀 ♡゙ ᵎ ୨ ー 4’11 ︎❤︎ 39 kց\n 🗝️ ɑ𝗇𝗀𝖾𝗅. ౨ৎ. 地雷 ꒱ ー ճოí 17.3 🪽\n ۫ ᜊ ₄ҽѵҽɾ* վօմղց 🩵\n²⁵¹ 〜 「@telepathyangell」 🌟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "telepathyangell"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "UKIYO.⠀",
+                "end": 23,
+                "expanded_url": "http://UKIYO.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/QhHL07ozwR"
+              }
+            ]
+          }
+        },
+        "id": "2072046116808302592",
+        "location": "꒰ᐡ⸝ɞ̴̶̷ ·̮ ɞ̴̶̷⸝ᐡ꒱ ❤︎ だいじょぶ",
+        "name": "💉 ໒꒰ྀི๑ᵔ ᵕ ᵔ๑꒱ྀིა ！ ѵෆlҽղ 🦄",
+        "pinned_tweet_id": "2080311975041491327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079600832211738624/AoyekHU-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 239,
+          "like_count": 935,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/QhHL07ozwR",
+        "username": "yumekawakyandi",
+        "verified": false
+      }
+    ]
+  }
+}

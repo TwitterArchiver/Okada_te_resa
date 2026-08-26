@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2069990103519580249",
+    "created_at": "2026-06-28T11:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071188264057540970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455052587145723904",
+          "start": 0,
+          "username": "MizukiWorkshop"
+        },
+        {
+          "end": 26,
+          "id": "1041906844824825857",
+          "start": 16,
+          "username": "Virlorkit"
+        },
+        {
+          "end": 43,
+          "id": "2035882965671215104",
+          "start": 27,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 60,
+          "id": "1930545190307282944",
+          "start": 44,
+          "username": "koiiro_magician"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071188264057540970",
+    "in_reply_to_user_id": "1455052587145723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070635258039423040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiWorkshop @Virlorkit @amber_medusozoa @koiiro_magician 哲逼在网上敲一万个字掉酸文袋子贡献没有别人出去跑一天下午的贡献来的大😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2069990103519580249",
+        "created_at": "2026-06-28T11:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071188264057540970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            },
+            {
+              "end": 26,
+              "id": "1041906844824825857",
+              "start": 16,
+              "username": "Virlorkit"
+            },
+            {
+              "end": 43,
+              "id": "2035882965671215104",
+              "start": 27,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 60,
+              "id": "1930545190307282944",
+              "start": 44,
+              "username": "koiiro_magician"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071188264057540970",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070635258039423040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop @Virlorkit @amber_medusozoa @koiiro_magician 哲逼在网上敲一万个字掉酸文袋子贡献没有别人出去跑一天下午的贡献来的大😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2069990103519580249",
+        "created_at": "2026-06-26T22:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070635258039423040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1041906844824825857",
+              "start": 0,
+              "username": "Virlorkit"
+            },
+            {
+              "end": 27,
+              "id": "2035882965671215104",
+              "start": 11,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 44,
+              "id": "1930545190307282944",
+              "start": 28,
+              "username": "koiiro_magician"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070635258039423040",
+        "in_reply_to_user_id": "1041906844824825857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1127,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070620159728070765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Virlorkit @amber_medusozoa @koiiro_magician 言说的效力不能一律等同于现实的伤害，其中有的太轻微，但有的确实有这个力量。言说具体产生了什么程度的效力，是各种相关条件共同作用的结果，比如语境、言说者的社会评价、第三方对该言说的利用，等等。就我的观察而言，这人的言说已经产生了足够的政治效应：它已经完整地在人群中创造了一道敌我区隔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 926,
+          "like_count": 41318,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 1187,
+          "like_count": 119373,
+          "listed_count": 7,
+          "media_count": 1805,
+          "tweet_count": 24418
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T04:28:44.000Z",
+        "description": "All bourgeois are grass,\nand all the glory thereof as the flower of the field.\nEast Wind bloweth upon it:\n\nBut the word of our Chairman Mao\nshall stand for ever",
+        "id": "1041906844824825857",
+        "location": "Nowhere",
+        "name": "Lagrange: Reflections on the Revolution",
+        "pinned_tweet_id": "1931169294202916879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951399062764425216/i-SJCf-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 436,
+          "like_count": 15807,
+          "listed_count": 10,
+          "media_count": 2387,
+          "tweet_count": 23203
+        },
+        "url": "",
+        "username": "Virlorkit",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6057,
+          "following_count": 1035,
+          "like_count": 5409,
+          "listed_count": 10,
+          "media_count": 235,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-05T08:40:31.000Z",
+        "description": "刀剑铸成锄头，拭去一切泪痕",
+        "id": "1930545190307282944",
+        "name": "恋色 マギア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050595741845037056/ZOpDTMsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 188,
+          "like_count": 1545,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "koiiro_magician",
+        "verified": false
+      }
+    ]
+  }
+}

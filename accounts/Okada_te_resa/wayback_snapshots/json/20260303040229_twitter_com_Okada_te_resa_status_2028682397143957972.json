@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2028682397143957972",
+    "created_at": "2026-03-03T04:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028682397143957972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567543722170253313",
+          "start": 3,
+          "username": "ouO1nieowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028682397143957972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028459052142035051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouO1nieowo: 我很难想象那些长得很权威很神圣的人私下自慰是啥样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2028682397143957972",
+        "created_at": "2026-03-03T04:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028682397143957972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567543722170253313",
+              "start": 3,
+              "username": "ouO1nieowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028682397143957972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028459052142035051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ouO1nieowo: 我很难想象那些长得很权威很神圣的人私下自慰是啥样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567543722170253313",
+        "conversation_id": "2028459052142035051",
+        "created_at": "2026-03-02T13:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028459052142035051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028459052142035051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 680422,
+          "like_count": 2738,
+          "quote_count": 34,
+          "reply_count": 171,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "我很难想象那些长得很权威很神圣的人私下自慰是啥样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 709,
+          "like_count": 33695,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 2030
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "管好你自己",
+        "id": "1567543722170253313",
+        "location": "绿🚪188/388/520/1314",
+        "name": "SweetyRoll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 45,
+          "like_count": 352,
+          "listed_count": 11,
+          "media_count": 34,
+          "tweet_count": 389
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

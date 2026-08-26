@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2049491684556443983",
+    "created_at": "2026-04-29T14:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049501538511700036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049501538511700036",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049491684556443983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina 哈几米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2049491678034378752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFB0o9bwAAgkCM.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2049491684556443983",
+        "created_at": "2026-04-29T14:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049501538511700036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049501538511700036",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049491684556443983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina 哈几米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049491678034378752"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049491684556443983",
+        "created_at": "2026-04-29T14:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049491684556443983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXTvuDbmjb",
+              "end": 51,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2049491684556443983/photo/1",
+              "media_key": "3_2049491678034378752",
+              "start": 28,
+              "url": "https://t.co/mXTvuDbmjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049491684556443983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好用！真的是蜂蜜水的香味，让我あしがーはやくーなる https://t.co/mXTvuDbmjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 797,
+          "like_count": 37515,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 2613
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男・Peking出身//Aya記録//一般都内会社員//fetish投稿有り注意//120% sub//169cm 55kg台//フォロバ気分//不首先不礼貌//質問📦↓//Pharmacy・Org Synth🧪//避難所 @Ayn_kitkia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayn_kitkia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Minato-ku, Tokyo",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2034930360266719637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043838487275962368/b8ieql-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12351,
+          "following_count": 545,
+          "like_count": 9886,
+          "listed_count": 53,
+          "media_count": 255,
+          "tweet_count": 7277
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

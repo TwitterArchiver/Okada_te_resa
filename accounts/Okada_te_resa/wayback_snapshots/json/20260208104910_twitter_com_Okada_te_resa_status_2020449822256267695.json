@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2020449822256267695",
+    "created_at": "2026-02-08T10:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020449822256267695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2020045962631380992",
+          "start": 3,
+          "username": "TogawaSkk0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020449822256267695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020157948744323415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaSkk0214: 丰川祥子生日企划part 1——百联痛楼\n\n音乐、坚强、与温柔造就了你，而你，让我们所有人相遇\n若故事的结局不是你想要的，那说明还未到结局\n愿此后你的人生一往无前\n愿我们继续陪你走过每一个春夏秋冬\n\n【地点】上海百联ZX创趣场\n【时间】2月…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2020157944655118336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkK8olaAAAqhxX.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020157945246609408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkK8qybcAAnmEA.jpg",
+        "width": 781
+      },
+      {
+        "height": 1337,
+        "media_key": "3_2020157945137491968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkK8qYacAAFMeB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1721,
+        "media_key": "3_2020157945766637570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkK8suacAIfK-L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2020449822256267695",
+        "created_at": "2026-02-08T10:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020449822256267695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2020045962631380992",
+              "start": 3,
+              "username": "TogawaSkk0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020449822256267695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020157948744323415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaSkk0214: 丰川祥子生日企划part 1——百联痛楼\n\n音乐、坚强、与温柔造就了你，而你，让我们所有人相遇\n若故事的结局不是你想要的，那说明还未到结局\n愿此后你的人生一往无前\n愿我们继续陪你走过每一个春夏秋冬\n\n【地点】上海百联ZX创趣场\n【时间】2月…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020157944655118336",
+            "3_2020157945246609408",
+            "3_2020157945137491968",
+            "3_2020157945766637570"
+          ]
+        },
+        "author_id": "2020045962631380992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020157948744323415",
+        "created_at": "2026-02-07T15:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020157948744323415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 140,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "丰川祥子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSHJfT5kSG",
+              "end": 186,
+              "expanded_url": "https://x.com/TogawaSkk0214/status/2020157948744323415/photo/1",
+              "media_key": "3_2020157944655118336",
+              "start": 163,
+              "url": "https://t.co/tSHJfT5kSG"
+            },
+            {
+              "display_url": "pic.x.com/tSHJfT5kSG",
+              "end": 186,
+              "expanded_url": "https://x.com/TogawaSkk0214/status/2020157948744323415/photo/1",
+              "media_key": "3_2020157945246609408",
+              "start": 163,
+              "url": "https://t.co/tSHJfT5kSG"
+            },
+            {
+              "display_url": "pic.x.com/tSHJfT5kSG",
+              "end": 186,
+              "expanded_url": "https://x.com/TogawaSkk0214/status/2020157948744323415/photo/1",
+              "media_key": "3_2020157945137491968",
+              "start": 163,
+              "url": "https://t.co/tSHJfT5kSG"
+            },
+            {
+              "display_url": "pic.x.com/tSHJfT5kSG",
+              "end": 186,
+              "expanded_url": "https://x.com/TogawaSkk0214/status/2020157948744323415/photo/1",
+              "media_key": "3_2020157945766637570",
+              "start": 163,
+              "url": "https://t.co/tSHJfT5kSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020157948744323415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5645,
+          "like_count": 161,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "丰川祥子生日企划part 1——百联痛楼\n\n音乐、坚强、与温柔造就了你，而你，让我们所有人相遇\n若故事的结局不是你想要的，那说明还未到结局\n愿此后你的人生一往无前\n愿我们继续陪你走过每一个春夏秋冬\n\n【地点】上海百联ZX创趣场\n【时间】2月14日10:00-22:00 高频轮播\n#AveMujica #豊川祥子 #丰川祥子 https://t.co/tSHJfT5kSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 681,
+          "like_count": 31812,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 1912
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T08:04:30.000Z",
+        "description": "为丰川祥子应援。",
+        "id": "2020045962631380992",
+        "name": "旋律集团",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020046678473236480/1WxQ7QHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "TogawaSkk0214",
+        "verified": false
+      }
+    ]
+  }
+}

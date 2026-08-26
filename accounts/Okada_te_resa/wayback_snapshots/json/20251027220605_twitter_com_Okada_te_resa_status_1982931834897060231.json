@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982756428361150464"
+      ],
+      "media_source_tweet_id": [
+        "1982756437630799930"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1982931834897060231",
+    "created_at": "2025-10-27T22:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T23:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982931834897060231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837015209195753473",
+          "start": 3,
+          "username": "DailyShuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TmwlEEaBoe",
+          "end": 51,
+          "expanded_url": "https://x.com/DailyShuka/status/1982756437630799930/photo/1",
+          "media_key": "3_1982756428361150464",
+          "start": 28,
+          "url": "https://t.co/TmwlEEaBoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982931834897060231",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982756437630799930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyShuka: Day 243! ❤️ https://t.co/TmwlEEaBoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1982756428361150464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Qqd2yWsAAGOz9.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982756428361150464"
+          ],
+          "media_source_tweet_id": [
+            "1982756437630799930"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1982931834897060231",
+        "created_at": "2025-10-27T22:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982931834897060231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837015209195753473",
+              "start": 3,
+              "username": "DailyShuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmwlEEaBoe",
+              "end": 51,
+              "expanded_url": "https://x.com/DailyShuka/status/1982756437630799930/photo/1",
+              "media_key": "3_1982756428361150464",
+              "start": 28,
+              "url": "https://t.co/TmwlEEaBoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982931834897060231",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982756437630799930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyShuka: Day 243! ❤️ https://t.co/TmwlEEaBoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982756428361150464"
+          ]
+        },
+        "author_id": "1837015209195753473",
+        "conversation_id": "1982756437630799930",
+        "created_at": "2025-10-27T10:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982756437630799930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmwlEEaBoe",
+              "end": 35,
+              "expanded_url": "https://x.com/DailyShuka/status/1982756437630799930/photo/1",
+              "media_key": "3_1982756428361150464",
+              "start": 12,
+              "url": "https://t.co/TmwlEEaBoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982756437630799930",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 540,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Day 243! ❤️ https://t.co/TmwlEEaBoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 600,
+          "like_count": 23394,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1249
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T06:25:37.000Z",
+        "description": "Daily Shuka!\n\nPosting Shuka daily.",
+        "id": "1837015209195753473",
+        "location": "Uhhhhh",
+        "name": "❤️Daily Shuka❤️",
+        "pinned_tweet_id": "1837017090328576088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855838083125800960/cx8tcCPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 22,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 507
+        },
+        "username": "DailyShuka",
+        "verified": false
+      }
+    ]
+  }
+}

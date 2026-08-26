@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944348430454951936",
+        "3_1944348430454939648"
+      ],
+      "media_source_tweet_id": [
+        "1944348441653702934",
+        "1944348441653702934"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1944612428039520519",
+    "created_at": "2025-07-14T04:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T05:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944612428039520519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846825683156455424",
+          "start": 3,
+          "username": "palpalnyan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKiMgD03jK",
+          "end": 121,
+          "expanded_url": "https://x.com/palpalnyan_/status/1944348441653702934/photo/1",
+          "media_key": "3_1944348430454951936",
+          "start": 98,
+          "url": "https://t.co/sKiMgD03jK"
+        },
+        {
+          "display_url": "pic.x.com/sKiMgD03jK",
+          "end": 121,
+          "expanded_url": "https://x.com/palpalnyan_/status/1944348441653702934/photo/1",
+          "media_key": "3_1944348430454939648",
+          "start": 98,
+          "url": "https://t.co/sKiMgD03jK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944612428039520519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944348441653702934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @palpalnyan_: coming soon🎀🖤⋆͛*͛\n\nお姫様みたいなコンビネゾンが登場♡\n1枚で主役級の可愛さです𝜗𝜚꙳.*\n\n7/17(thu) 20:00 release. https://t.co/sKiMgD03jK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944348430454951936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvu2mIzbEAAA1mZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944348430454939648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvu2mIza4AA9KIz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944348430454951936",
+            "3_1944348430454939648"
+          ],
+          "media_source_tweet_id": [
+            "1944348441653702934",
+            "1944348441653702934"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1944612428039520519",
+        "created_at": "2025-07-14T04:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T05:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944612428039520519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846825683156455424",
+              "start": 3,
+              "username": "palpalnyan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKiMgD03jK",
+              "end": 121,
+              "expanded_url": "https://x.com/palpalnyan_/status/1944348441653702934/photo/1",
+              "media_key": "3_1944348430454951936",
+              "start": 98,
+              "url": "https://t.co/sKiMgD03jK"
+            },
+            {
+              "display_url": "pic.x.com/sKiMgD03jK",
+              "end": 121,
+              "expanded_url": "https://x.com/palpalnyan_/status/1944348441653702934/photo/1",
+              "media_key": "3_1944348430454939648",
+              "start": 98,
+              "url": "https://t.co/sKiMgD03jK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944612428039520519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944348441653702934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @palpalnyan_: coming soon🎀🖤⋆͛*͛\n\nお姫様みたいなコンビネゾンが登場♡\n1枚で主役級の可愛さです𝜗𝜚꙳.*\n\n7/17(thu) 20:00 release. https://t.co/sKiMgD03jK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944348430454951936",
+            "3_1944348430454939648"
+          ]
+        },
+        "author_id": "1846825683156455424",
+        "conversation_id": "1944348441653702934",
+        "created_at": "2025-07-13T10:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944348441653702934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKiMgD03jK",
+              "end": 104,
+              "expanded_url": "https://x.com/palpalnyan_/status/1944348441653702934/photo/1",
+              "media_key": "3_1944348430454951936",
+              "start": 81,
+              "url": "https://t.co/sKiMgD03jK"
+            },
+            {
+              "display_url": "pic.x.com/sKiMgD03jK",
+              "end": 104,
+              "expanded_url": "https://x.com/palpalnyan_/status/1944348441653702934/photo/1",
+              "media_key": "3_1944348430454939648",
+              "start": 81,
+              "url": "https://t.co/sKiMgD03jK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944348441653702934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 65065,
+          "like_count": 1136,
+          "quote_count": 83,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "coming soon🎀🖤⋆͛*͛\n\nお姫様みたいなコンビネゾンが登場♡\n1枚で主役級の可愛さです𝜗𝜚꙳.*\n\n7/17(thu) 20:00 release. https://t.co/sKiMgD03jK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 411,
+          "like_count": 17339,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 828
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T08:08:58.000Z",
+        "description": "🖤zozotown限定地雷ブランドPalelfy🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zozo.jp/sp/shop/palelf…",
+                "end": 23,
+                "expanded_url": "https://zozo.jp/sp/shop/palelfy/detail/",
+                "start": 0,
+                "url": "https://t.co/lqcRLxs5a8"
+              }
+            ]
+          }
+        },
+        "id": "1846825683156455424",
+        "name": "ZOZOで買える地雷服♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846826586462683136/e1i7npNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 2,
+          "like_count": 37,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/lqcRLxs5a8",
+        "username": "palpalnyan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051841927503663104",
+        "3_2051841927562289152",
+        "3_2051841928573194240",
+        "3_2051841928719892480"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2051841942020071900",
+    "created_at": "2026-05-06T01:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051841942020071900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kY5HsL708B",
+          "end": 33,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+          "media_key": "3_2051841927503663104",
+          "start": 10,
+          "url": "https://t.co/kY5HsL708B"
+        },
+        {
+          "display_url": "pic.x.com/kY5HsL708B",
+          "end": 33,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+          "media_key": "3_2051841927562289152",
+          "start": 10,
+          "url": "https://t.co/kY5HsL708B"
+        },
+        {
+          "display_url": "pic.x.com/kY5HsL708B",
+          "end": 33,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+          "media_key": "3_2051841928573194240",
+          "start": 10,
+          "url": "https://t.co/kY5HsL708B"
+        },
+        {
+          "display_url": "pic.x.com/kY5HsL708B",
+          "end": 33,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+          "media_key": "3_2051841928719892480",
+          "start": 10,
+          "url": "https://t.co/kY5HsL708B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051841942020071900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想死也想去巴黎 https://t.co/kY5HsL708B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2051841927503663104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmbXKgb0AAv2K7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2051841927562289152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmbXKuaYAASFz9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051841928573194240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmbXOfbkAA3aSi.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051841928719892480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmbXPCaAAA4A8V.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051841927503663104",
+            "3_2051841927562289152",
+            "3_2051841928573194240",
+            "3_2051841928719892480"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2051841942020071900",
+        "created_at": "2026-05-06T01:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051841942020071900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kY5HsL708B",
+              "end": 33,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+              "media_key": "3_2051841927503663104",
+              "start": 10,
+              "url": "https://t.co/kY5HsL708B"
+            },
+            {
+              "display_url": "pic.x.com/kY5HsL708B",
+              "end": 33,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+              "media_key": "3_2051841927562289152",
+              "start": 10,
+              "url": "https://t.co/kY5HsL708B"
+            },
+            {
+              "display_url": "pic.x.com/kY5HsL708B",
+              "end": 33,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+              "media_key": "3_2051841928573194240",
+              "start": 10,
+              "url": "https://t.co/kY5HsL708B"
+            },
+            {
+              "display_url": "pic.x.com/kY5HsL708B",
+              "end": 33,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2051841942020071900/photo/1",
+              "media_key": "3_2051841928719892480",
+              "start": 10,
+              "url": "https://t.co/kY5HsL708B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051841942020071900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想死也想去巴黎 https://t.co/kY5HsL708B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 805,
+          "like_count": 37853,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 2670
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

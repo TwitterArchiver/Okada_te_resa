@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083071476819988480",
+        "3_2083071485154144256"
+      ],
+      "media_source_tweet_id": [
+        "2083071492644872527",
+        "2083071492644872527"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2083410004187779563",
+    "created_at": "2026-08-01T04:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083410004187779563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4714743415",
+          "start": 3,
+          "username": "jishiwei1994"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OuHW4ObbED",
+          "end": 56,
+          "expanded_url": "https://x.com/jishiwei1994/status/2083071492644872527/photo/1",
+          "media_key": "3_2083071476819988480",
+          "start": 33,
+          "url": "https://t.co/OuHW4ObbED"
+        },
+        {
+          "display_url": "pic.x.com/OuHW4ObbED",
+          "end": 56,
+          "expanded_url": "https://x.com/jishiwei1994/status/2083071492644872527/photo/1",
+          "media_key": "3_2083071485154144256",
+          "start": 33,
+          "url": "https://t.co/OuHW4ObbED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083410004187779563",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083071492644872527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jishiwei1994: Same glasses?🤔 https://t.co/OuHW4ObbED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083071476819988480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiOeLmakAAlfbB.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1799,
+        "media_key": "3_2083071485154144256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiOeqpbsAAutSY.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083071476819988480",
+            "3_2083071485154144256"
+          ]
+        },
+        "author_id": "4714743415",
+        "conversation_id": "2083071492644872527",
+        "created_at": "2026-07-31T06:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083071492644872527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuHW4ObbED",
+              "end": 38,
+              "expanded_url": "https://x.com/jishiwei1994/status/2083071492644872527/photo/1",
+              "media_key": "3_2083071476819988480",
+              "start": 15,
+              "url": "https://t.co/OuHW4ObbED"
+            },
+            {
+              "display_url": "pic.x.com/OuHW4ObbED",
+              "end": 38,
+              "expanded_url": "https://x.com/jishiwei1994/status/2083071492644872527/photo/1",
+              "media_key": "3_2083071485154144256",
+              "start": 15,
+              "url": "https://t.co/OuHW4ObbED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083071492644872527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 17241,
+          "like_count": 918,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "Same glasses?🤔 https://t.co/OuHW4ObbED"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083071476819988480",
+            "3_2083071485154144256"
+          ],
+          "media_source_tweet_id": [
+            "2083071492644872527",
+            "2083071492644872527"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2083410004187779563",
+        "created_at": "2026-08-01T04:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083410004187779563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4714743415",
+              "start": 3,
+              "username": "jishiwei1994"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuHW4ObbED",
+              "end": 56,
+              "expanded_url": "https://x.com/jishiwei1994/status/2083071492644872527/photo/1",
+              "media_key": "3_2083071476819988480",
+              "start": 33,
+              "url": "https://t.co/OuHW4ObbED"
+            },
+            {
+              "display_url": "pic.x.com/OuHW4ObbED",
+              "end": 56,
+              "expanded_url": "https://x.com/jishiwei1994/status/2083071492644872527/photo/1",
+              "media_key": "3_2083071485154144256",
+              "start": 33,
+              "url": "https://t.co/OuHW4ObbED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083410004187779563",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083071492644872527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jishiwei1994: Same glasses?🤔 https://t.co/OuHW4ObbED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 998,
+          "like_count": 44053,
+          "listed_count": 5,
+          "media_count": 741,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-05T17:56:51.000Z",
+        "description": "佐々木李子さんを一生応援しています\n虾米（シャミー）です、りこのトリコ",
+        "id": "4714743415",
+        "name": "虾米",
+        "pinned_tweet_id": "1846933437615427821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048039208095506435/5d6V06n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 826,
+          "like_count": 118356,
+          "listed_count": 10,
+          "media_count": 1103,
+          "tweet_count": 10502
+        },
+        "url": "",
+        "username": "jishiwei1994",
+        "verified": true
+      }
+    ]
+  }
+}

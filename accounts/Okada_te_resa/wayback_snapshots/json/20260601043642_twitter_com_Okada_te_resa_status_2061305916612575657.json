@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2060634458710216780",
+    "created_at": "2026-06-01T04:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061305916612575657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736764672999878656",
+          "start": 0,
+          "username": "BAKA__0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061305916612575657",
+    "in_reply_to_user_id": "1736764672999878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061301153082810686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAKA__0902 这太爽了。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061301153082810686].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061301153082810686",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061301153082810686"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2060634458710216780",
+        "created_at": "2026-06-01T04:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061305916612575657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736764672999878656",
+              "start": 0,
+              "username": "BAKA__0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061305916612575657",
+        "in_reply_to_user_id": "1736764672999878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061301153082810686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAKA__0902 这太爽了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 886,
+          "like_count": 39511,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 2945
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T15:05:45.000Z",
+        "description": "好想吃麦当劳",
+        "id": "1736764672999878656",
+        "name": "不爱我我就去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 1010,
+          "like_count": 7487,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1489
+        },
+        "username": "BAKA__0902",
+        "verified": false
+      }
+    ]
+  }
+}

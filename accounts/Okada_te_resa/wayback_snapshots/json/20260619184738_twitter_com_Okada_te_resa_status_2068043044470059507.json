@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067913383303864320"
+      ],
+      "media_source_tweet_id": [
+        "2067913402840981673"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2068043044470059507",
+    "created_at": "2026-06-19T18:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068043044470059507"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "米澤茜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1961476729324933121",
+          "start": 3,
+          "username": "jPw3v1Yl5398153"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j8Gl6fNVs6",
+          "end": 51,
+          "expanded_url": "https://x.com/jPw3v1Yl5398153/status/2067913402840981673/photo/1",
+          "media_key": "3_2067913383303864320",
+          "start": 28,
+          "url": "https://t.co/j8Gl6fNVs6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068043044470059507",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067913402840981673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jPw3v1Yl5398153: 💜 #米澤茜 https://t.co/j8Gl6fNVs6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067913383303864320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK0RA4aYAAlh1N.jpg",
+        "width": 1768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067913383303864320"
+          ],
+          "media_source_tweet_id": [
+            "2067913402840981673"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2068043044470059507",
+        "created_at": "2026-06-19T18:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068043044470059507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "米澤茜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1961476729324933121",
+              "start": 3,
+              "username": "jPw3v1Yl5398153"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8Gl6fNVs6",
+              "end": 51,
+              "expanded_url": "https://x.com/jPw3v1Yl5398153/status/2067913402840981673/photo/1",
+              "media_key": "3_2067913383303864320",
+              "start": 28,
+              "url": "https://t.co/j8Gl6fNVs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068043044470059507",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067913402840981673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jPw3v1Yl5398153: 💜 #米澤茜 https://t.co/j8Gl6fNVs6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067913383303864320"
+          ]
+        },
+        "author_id": "1961476729324933121",
+        "conversation_id": "2067913402840981673",
+        "created_at": "2026-06-19T10:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067913402840981673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "米澤茜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8Gl6fNVs6",
+              "end": 30,
+              "expanded_url": "https://x.com/jPw3v1Yl5398153/status/2067913402840981673/photo/1",
+              "media_key": "3_2067913383303864320",
+              "start": 7,
+              "url": "https://t.co/j8Gl6fNVs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067913402840981673",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6029,
+          "like_count": 559,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "💜 #米澤茜 https://t.co/j8Gl6fNVs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 916,
+          "like_count": 40747,
+          "listed_count": 4,
+          "media_count": 655,
+          "tweet_count": 3080
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T17:11:34.000Z",
+        "description": "…dichterisch wohnet der Mensch.",
+        "id": "1961476729324933121",
+        "name": "Virtuosa",
+        "pinned_tweet_id": "2061102691187822655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025173456615342080/NilKiG5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 266,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "jPw3v1Yl5398153",
+        "verified": false
+      }
+    ]
+  }
+}

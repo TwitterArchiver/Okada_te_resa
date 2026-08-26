@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043639061093765120"
+      ],
+      "media_source_tweet_id": [
+        "2043639063970976011"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2043702392668176441",
+    "created_at": "2026-04-13T14:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043702392668176441"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "新头像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "933563089106083840",
+          "start": 3,
+          "username": "AyanoAsahina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dRmJm2HKkJ",
+          "end": 46,
+          "expanded_url": "https://x.com/AyanoAsahina/status/2043639063970976011/photo/1",
+          "media_key": "3_2043639061093765120",
+          "start": 23,
+          "url": "https://t.co/dRmJm2HKkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043702392668176441",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043639063970976011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AyanoAsahina: #新头像 https://t.co/dRmJm2HKkJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2043639061093765120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx25f2bUAAs2ij.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043639061093765120"
+          ],
+          "media_source_tweet_id": [
+            "2043639063970976011"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2043702392668176441",
+        "created_at": "2026-04-13T14:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043702392668176441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "新头像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "933563089106083840",
+              "start": 3,
+              "username": "AyanoAsahina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRmJm2HKkJ",
+              "end": 46,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2043639063970976011/photo/1",
+              "media_key": "3_2043639061093765120",
+              "start": 23,
+              "url": "https://t.co/dRmJm2HKkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043702392668176441",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043639063970976011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AyanoAsahina: #新头像 https://t.co/dRmJm2HKkJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043639061093765120"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2043639063970976011",
+        "created_at": "2026-04-13T10:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043639063970976011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRmJm2HKkJ",
+              "end": 28,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2043639063970976011/photo/1",
+              "media_key": "3_2043639061093765120",
+              "start": 5,
+              "url": "https://t.co/dRmJm2HKkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043639063970976011",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2454,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/dRmJm2HKkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 755,
+          "like_count": 36546,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 2444
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男//发点女装日常//都内一般会社員//120% sub//169cm 55+Kg//不扩列//提问箱📦在下面//不首先不礼貌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Minato-ku, Tokyo",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2034579525712109919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043638991258537985/ViVPq3bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10897,
+          "following_count": 551,
+          "like_count": 7767,
+          "listed_count": 43,
+          "media_count": 235,
+          "tweet_count": 6168
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

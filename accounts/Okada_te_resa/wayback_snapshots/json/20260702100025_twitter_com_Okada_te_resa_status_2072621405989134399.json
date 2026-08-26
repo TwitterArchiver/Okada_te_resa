@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072057086775545856",
+        "3_2072057086809108480",
+        "3_2072057086813306880",
+        "3_2072057086771331073"
+      ],
+      "media_source_tweet_id": [
+        "2072283323854942228",
+        "2072283323854942228",
+        "2072283323854942228",
+        "2072283323854942228"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325472",
+          "name": "Lexus"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Luxury",
+          "id": "847528646185070592",
+          "name": "Luxury Cars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026325472",
+          "name": "Lexus"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "2072621405989134399",
+    "created_at": "2026-07-02T10:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072621405989134399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2017607158465011712",
+          "start": 3,
+          "username": "PistolCult"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnGrCiXFIv",
+          "end": 70,
+          "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+          "media_key": "3_2072057086775545856",
+          "start": 47,
+          "url": "https://t.co/AnGrCiXFIv"
+        },
+        {
+          "display_url": "pic.x.com/AnGrCiXFIv",
+          "end": 70,
+          "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+          "media_key": "3_2072057086809108480",
+          "start": 47,
+          "url": "https://t.co/AnGrCiXFIv"
+        },
+        {
+          "display_url": "pic.x.com/AnGrCiXFIv",
+          "end": 70,
+          "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+          "media_key": "3_2072057086813306880",
+          "start": 47,
+          "url": "https://t.co/AnGrCiXFIv"
+        },
+        {
+          "display_url": "pic.x.com/AnGrCiXFIv",
+          "end": 70,
+          "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+          "media_key": "3_2072057086771331073",
+          "start": 47,
+          "url": "https://t.co/AnGrCiXFIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072621405989134399",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072283323854942228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PistolCult: The legendary Lexus LFA V10 🌪️ https://t.co/AnGrCiXFIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2072057086775545856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFs8TOWUAAnodk.jpg",
+        "width": 882
+      },
+      {
+        "height": 656,
+        "media_key": "3_2072057086809108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFs8TWWcAAw19k.jpg",
+        "width": 879
+      },
+      {
+        "height": 656,
+        "media_key": "3_2072057086813306880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFs8TXWgAADljN.jpg",
+        "width": 879
+      },
+      {
+        "height": 656,
+        "media_key": "3_2072057086771331073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFs8TNWAAEgHZa.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072057086775545856",
+            "3_2072057086809108480",
+            "3_2072057086813306880",
+            "3_2072057086771331073"
+          ],
+          "media_source_tweet_id": [
+            "2072283323854942228",
+            "2072283323854942228",
+            "2072283323854942228",
+            "2072283323854942228"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325472",
+              "name": "Lexus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325472",
+              "name": "Lexus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2072621405989134399",
+        "created_at": "2026-07-02T10:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072621405989134399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2017607158465011712",
+              "start": 3,
+              "username": "PistolCult"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 70,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086775545856",
+              "start": 47,
+              "url": "https://t.co/AnGrCiXFIv"
+            },
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 70,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086809108480",
+              "start": 47,
+              "url": "https://t.co/AnGrCiXFIv"
+            },
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 70,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086813306880",
+              "start": 47,
+              "url": "https://t.co/AnGrCiXFIv"
+            },
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 70,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086771331073",
+              "start": 47,
+              "url": "https://t.co/AnGrCiXFIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072621405989134399",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072283323854942228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PistolCult: The legendary Lexus LFA V10 🌪️ https://t.co/AnGrCiXFIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072057086775545856",
+            "3_2072057086809108480",
+            "3_2072057086813306880",
+            "3_2072057086771331073"
+          ]
+        },
+        "author_id": "2017607158465011712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325472",
+              "name": "Lexus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325472",
+              "name": "Lexus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2072283323854942228",
+        "created_at": "2026-07-01T11:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072283323854942228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 54,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086775545856",
+              "start": 31,
+              "url": "https://t.co/AnGrCiXFIv"
+            },
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 54,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086809108480",
+              "start": 31,
+              "url": "https://t.co/AnGrCiXFIv"
+            },
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 54,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086813306880",
+              "start": 31,
+              "url": "https://t.co/AnGrCiXFIv"
+            },
+            {
+              "display_url": "pic.x.com/AnGrCiXFIv",
+              "end": 54,
+              "expanded_url": "https://x.com/PistolCult/status/2072283323854942228/photo/1",
+              "media_key": "3_2072057086771331073",
+              "start": 31,
+              "url": "https://t.co/AnGrCiXFIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072283323854942228",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 350,
+          "impression_count": 133866,
+          "like_count": 3657,
+          "quote_count": 14,
+          "reply_count": 8,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "The legendary Lexus LFA V10 🌪️ https://t.co/AnGrCiXFIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 939,
+          "like_count": 41601,
+          "listed_count": 4,
+          "media_count": 691,
+          "tweet_count": 3203
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T14:33:40.000Z",
+        "description": "",
+        "id": "2017607158465011712",
+        "name": "PistolCult",
+        "pinned_tweet_id": "2063475285279088955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048737123449307136/Zb3Z8pk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 3481,
+          "like_count": 13311,
+          "listed_count": 11,
+          "media_count": 1928,
+          "tweet_count": 2623
+        },
+        "url": "",
+        "username": "PistolCult",
+        "verified": true
+      }
+    ]
+  }
+}

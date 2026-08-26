@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2062048348086169696",
+    "created_at": "2026-06-03T08:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062093251902124137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062093251902124137",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062048348086169696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ayn_kitkia 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2062048343854071808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3eCyUawAAieN5.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2062048348086169696",
+        "created_at": "2026-06-03T08:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062093251902124137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062093251902124137",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062048348086169696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ayn_kitkia 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062048343854071808"
+          ]
+        },
+        "author_id": "2049186369361289216",
+        "conversation_id": "2062048348086169696",
+        "created_at": "2026-06-03T05:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062048348086169696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPyp9DK8qb",
+              "end": 34,
+              "expanded_url": "https://x.com/Ayn_kitkia/status/2062048348086169696/photo/1",
+              "media_key": "3_2062048343854071808",
+              "start": 11,
+              "url": "https://t.co/uPyp9DK8qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062048348086169696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2406,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "other",
+        "text": "最终还是选择在家躲雨 https://t.co/uPyp9DK8qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 888,
+          "like_count": 39702,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "オス♂//aya避難所✦喜欢您来🍟\n本垢@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "location": "Minato-ku, Tokyo",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2058434921715368102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051147515882622976/G53Dk8sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 186,
+          "like_count": 4179,
+          "listed_count": 12,
+          "media_count": 67,
+          "tweet_count": 2140
+        },
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

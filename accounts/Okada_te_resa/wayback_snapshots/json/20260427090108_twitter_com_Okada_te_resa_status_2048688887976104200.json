@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2048688887976104200",
+    "created_at": "2026-04-27T09:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048688887976104200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713492716921753600",
+          "start": 3,
+          "username": "auggggggg12419"
+        },
+        {
+          "end": 28,
+          "id": "1366749783147298817",
+          "start": 20,
+          "username": "ckrquct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048688887976104200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048326483530408283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @auggggggg12419: @ckrquct 都不如爱你的人早上抱着你说一句早安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2048688887976104200",
+        "created_at": "2026-04-27T09:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048688887976104200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713492716921753600",
+              "start": 3,
+              "username": "auggggggg12419"
+            },
+            {
+              "end": 28,
+              "id": "1366749783147298817",
+              "start": 20,
+              "username": "ckrquct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048688887976104200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048326483530408283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @auggggggg12419: @ckrquct 都不如爱你的人早上抱着你说一句早安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713492716921753600",
+        "conversation_id": "2048080773698502866",
+        "created_at": "2026-04-26T09:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048326483530408283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366749783147298817",
+              "start": 0,
+              "username": "ckrquct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048326483530408283",
+        "in_reply_to_user_id": "1366749783147298817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 66516,
+          "like_count": 722,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048080773698502866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckrquct 都不如爱你的人早上抱着你说一句早安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 793,
+          "like_count": 37362,
+          "listed_count": 3,
+          "media_count": 498,
+          "tweet_count": 2595
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T09:51:24.000Z",
+        "description": "",
+        "id": "1713492716921753600",
+        "name": "auggggggg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866607581143162881/6K07lAwy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 223,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "auggggggg12419",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T13:58:51.000Z",
+        "description": "破烂的日记本/有门/🈲cxk烂梗🈲烂梗/混乱沙漠/喜欢的私信会回/可能是bbw",
+        "id": "1366749783147298817",
+        "name": "止咳糖浆",
+        "pinned_tweet_id": "1834242627559977014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005667327392841728/MXl4GuWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 146,
+          "like_count": 1260,
+          "listed_count": 16,
+          "media_count": 453,
+          "tweet_count": 4269
+        },
+        "username": "ckrquct",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2040099029997211689",
+    "created_at": "2026-04-03T16:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040099029997211689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feiyu30903448/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/feiyu30903448/status/2040076417564655652",
+          "start": 13,
+          "url": "https://t.co/f2BqONAMGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040099029997211689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040076417564655652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你有这么权威的脸进入中国 https://t.co/f2BqONAMGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2040076354088271872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_OoqAbAAA2RZK.jpg",
+        "width": 884
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2040076413856792576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_OsIqWQAAZpVI.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2040099029997211689",
+        "created_at": "2026-04-03T16:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040099029997211689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feiyu30903448/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/feiyu30903448/status/2040076417564655652",
+              "start": 13,
+              "url": "https://t.co/f2BqONAMGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040099029997211689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040076417564655652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有这么权威的脸进入中国 https://t.co/f2BqONAMGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040076354088271872",
+            "3_2040076413856792576"
+          ]
+        },
+        "author_id": "1535591550834683904",
+        "conversation_id": "2040076417564655652",
+        "created_at": "2026-04-03T14:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040076417564655652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDCrT7EOWj",
+              "end": 23,
+              "expanded_url": "https://x.com/feiyu30903448/status/2040076417564655652/photo/1",
+              "media_key": "3_2040076354088271872",
+              "start": 0,
+              "url": "https://t.co/PDCrT7EOWj"
+            },
+            {
+              "display_url": "pic.x.com/PDCrT7EOWj",
+              "end": 23,
+              "expanded_url": "https://x.com/feiyu30903448/status/2040076417564655652/photo/1",
+              "media_key": "3_2040076413856792576",
+              "start": 0,
+              "url": "https://t.co/PDCrT7EOWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040076417564655652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1518,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/PDCrT7EOWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 755,
+          "like_count": 36170,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 2391
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T11:55:44.000Z",
+        "description": "🇨🇳，she/her，Yuri（包含ftnr），bangdream：mygo🎤🥁mujica🐺🌊Afterglow🎤🥁，arknights：🐺⚫🐺⚪😇💙🐕🧡，Chinese，EnglishOK，日本語勉強中，I believe in God. tip：🚫禁止ai学习，禁止无断转载",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/c9y17k08j9hb3m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/c9y17k08j9hb3m4?t=qAoNAZ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/4UZcApadME"
+              }
+            ]
+          }
+        },
+        "id": "1535591550834683904",
+        "name": "蜚雨",
+        "pinned_tweet_id": "1858702071647924679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868347500974768128/Z03XNb5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14305,
+          "following_count": 528,
+          "like_count": 14567,
+          "listed_count": 43,
+          "media_count": 638,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/4UZcApadME",
+        "username": "feiyu30903448",
+        "verified": false
+      }
+    ]
+  }
+}

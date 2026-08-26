@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2088619303671321059",
+    "created_at": "2026-08-15T14:19:11.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088631591954424317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614311887419887616",
+          "start": 0,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088631591954424317",
+    "in_reply_to_user_id": "1614311887419887616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088619303671321059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lion040317 正在刷脸熟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2088619287594643456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxELRQbsAA1hLW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2088619303671321059",
+        "created_at": "2026-08-15T14:19:11.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088631591954424317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614311887419887616",
+              "start": 0,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088631591954424317",
+        "in_reply_to_user_id": "1614311887419887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088619303671321059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lion040317 正在刷脸熟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088619287594643456"
+          ]
+        },
+        "author_id": "1614311887419887616",
+        "conversation_id": "2088619303671321059",
+        "created_at": "2026-08-15T13:30:21.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088619303671321059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdWOJLe0aB",
+              "end": 42,
+              "expanded_url": "https://x.com/lion040317/status/2088619303671321059/photo/1",
+              "media_key": "3_2088619287594643456",
+              "start": 19,
+              "url": "https://t.co/jdWOJLe0aB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088619303671321059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088619287594643456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从你肯大方的找我聊天不发匿名提问开始 https://t.co/jdWOJLe0aB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2088631591954424317",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 1022,
+          "like_count": 45420,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 3480
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发/4i。恶趣味十足 吉林/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖/不配得感/焦虑症严重。请和我闲聊~\n我的ngl:https://t.co/9S8dc1Yv1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 90,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 67,
+                "url": "https://t.co/9S8dc1Yv1i"
+              }
+            ]
+          }
+        },
+        "id": "1614311887419887616",
+        "is_identity_verified": false,
+        "location": "地下18层",
+        "most_recent_tweet_id": "2088622753880703394",
+        "name": "狮子桑Lion",
+        "pinned_tweet_id": "2087537537841782969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614311887419887616/1783088331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086681545818193920/_AWKPSgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 214,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

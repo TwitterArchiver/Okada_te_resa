@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2010744449136304524",
+    "created_at": "2026-01-12T16:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010744449136304524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/May_o_o_T/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/May_o_o_T/status/2010323856083636342",
+          "start": 9,
+          "url": "https://t.co/tGumwnQHis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010744449136304524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010323856083636342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也太萌了。。。 https://t.co/tGumwnQHis"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "舞台『光が死んだ夏』山岸朝子役の橘めいの他撮り写真。\nキャラクター扮装で、両手で自身のほっぺをつねっています。口が真一文字です。制服です。",
+        "height": 2048,
+        "media_key": "3_2010323842930278400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Ya4k1bgAATXeV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2010744449136304524",
+        "created_at": "2026-01-12T16:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010744449136304524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/May_o_o_T/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/May_o_o_T/status/2010323856083636342",
+              "start": 9,
+              "url": "https://t.co/tGumwnQHis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010744449136304524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010323856083636342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也太萌了。。。 https://t.co/tGumwnQHis"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010323842930278400"
+          ]
+        },
+        "author_id": "1906720983018594304",
+        "conversation_id": "2010323856083636342",
+        "created_at": "2026-01-11T12:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010323856083636342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "朝子ちゃん",
+              "probability": 0.8987,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ひかなつ舞台"
+            },
+            {
+              "end": 106,
+              "start": 88,
+              "tag": "behind_the_scenes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/914qVZzZB5",
+              "end": 130,
+              "expanded_url": "https://x.com/May_o_o_T/status/2010323856083636342/photo/1",
+              "media_key": "3_2010323842930278400",
+              "start": 107,
+              "url": "https://t.co/914qVZzZB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010323856083636342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 62775,
+          "like_count": 2653,
+          "quote_count": 73,
+          "reply_count": 29,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "#ひかなつ舞台\n\n4、5公演目にお越しくださった皆さま、ありがとうございました✨\n\n朝子ちゃんと日々向き合っている時間が、とても幸せです。\n\n明日もよろしくお願いいたします！\n#behind_the_scenes https://t.co/914qVZzZB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 680,
+          "like_count": 29179,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 1732
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:52:01.000Z",
+        "description": "新人声優・俳優｜17歳｜#バンドリ 須賀蕾叶 #魔法の姉妹ルルットリリィ 風&リリィ/#てつりょー 佐多みさき/#ひかなつ舞台 山岸朝子/ #バチャガ マキ/ #デートウォーズ 兎寝/#舞台ささ恋 水口未希/ﾐｭｰｼﾞｶﾙ #H12/天照フロフェ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "tag": "魔法の姉妹ルルットリリィ"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "てつりょー"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "ひかなつ舞台"
+              },
+              {
+                "end": 75,
+                "start": 70,
+                "tag": "バチャガ"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "デートウォーズ"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "舞台ささ恋"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "H12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amuse.co.jp/artist/A9019/i…",
+                "end": 23,
+                "expanded_url": "https://www.amuse.co.jp/artist/A9019/index.html",
+                "start": 0,
+                "url": "https://t.co/xYXMtCteMS"
+              }
+            ]
+          }
+        },
+        "id": "1906720983018594304",
+        "location": "アミューズ所属",
+        "name": "橘めい",
+        "pinned_tweet_id": "2010662259115315677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906721413953933313/858Cl1ZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6149,
+          "following_count": 142,
+          "like_count": 4075,
+          "listed_count": 58,
+          "media_count": 78,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/xYXMtCteMS",
+        "username": "May_o_o_T",
+        "verified": true
+      }
+    ]
+  }
+}

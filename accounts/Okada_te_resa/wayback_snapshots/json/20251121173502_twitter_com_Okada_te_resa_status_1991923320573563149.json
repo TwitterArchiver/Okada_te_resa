@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991923312784801792",
+        "3_1991923313359425536",
+        "3_1991923315485954048"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1991923320573563149",
+    "created_at": "2025-11-21T17:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991923320573563149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1642717433323745281",
+          "start": 10,
+          "username": "MozaikRR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tfeYuOpaNP",
+          "end": 43,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1991923320573563149/photo/1",
+          "media_key": "3_1991923312784801792",
+          "start": 20,
+          "url": "https://t.co/tfeYuOpaNP"
+        },
+        {
+          "display_url": "pic.x.com/tfeYuOpaNP",
+          "end": 43,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1991923320573563149/photo/1",
+          "media_key": "3_1991923313359425536",
+          "start": 20,
+          "url": "https://t.co/tfeYuOpaNP"
+        },
+        {
+          "display_url": "pic.x.com/tfeYuOpaNP",
+          "end": 43,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1991923320573563149/photo/1",
+          "media_key": "3_1991923315485954048",
+          "start": 20,
+          "url": "https://t.co/tfeYuOpaNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991923320573563149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是库洛米女士噜 @MozaikRR https://t.co/tfeYuOpaNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1991923312784801792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6S7swZbgAADx4c.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1991923313359425536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6S7syibkAAjJN8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991923315485954048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6S7s6db0AAynMD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991923312784801792",
+            "3_1991923313359425536",
+            "3_1991923315485954048"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1991923320573563149",
+        "created_at": "2025-11-21T17:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991923320573563149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1642717433323745281",
+              "start": 10,
+              "username": "MozaikRR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfeYuOpaNP",
+              "end": 43,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1991923320573563149/photo/1",
+              "media_key": "3_1991923312784801792",
+              "start": 20,
+              "url": "https://t.co/tfeYuOpaNP"
+            },
+            {
+              "display_url": "pic.x.com/tfeYuOpaNP",
+              "end": 43,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1991923320573563149/photo/1",
+              "media_key": "3_1991923313359425536",
+              "start": 20,
+              "url": "https://t.co/tfeYuOpaNP"
+            },
+            {
+              "display_url": "pic.x.com/tfeYuOpaNP",
+              "end": 43,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1991923320573563149/photo/1",
+              "media_key": "3_1991923315485954048",
+              "start": 20,
+              "url": "https://t.co/tfeYuOpaNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991923320573563149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是库洛米女士噜 @MozaikRR https://t.co/tfeYuOpaNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112055593242624/fMUPXFR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 642,
+          "like_count": 25278,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1387
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "pinned_tweet_id": "1983417542363492449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980138187793043456/awTN5IqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 343,
+          "like_count": 276,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 427
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

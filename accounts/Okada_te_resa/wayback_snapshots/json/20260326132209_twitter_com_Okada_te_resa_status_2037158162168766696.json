@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2037158162168766696",
+    "created_at": "2026-03-26T13:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037158162168766696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "817044236",
+          "start": 3,
+          "username": "Rinoarashi39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037158162168766696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036850673556529554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinoarashi39: \"We can read each others minds by tuning\nour brains to the same wavelength.\"\n― Anna Yamada\n\nHappy Birthday, Hina Youmiya!…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2481,
+        "media_key": "3_2036850390797635584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERYo4Qb0AAQm4w.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2037158162168766696",
+        "created_at": "2026-03-26T13:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037158162168766696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "817044236",
+              "start": 3,
+              "username": "Rinoarashi39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037158162168766696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036850673556529554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinoarashi39: \"We can read each others minds by tuning\nour brains to the same wavelength.\"\n― Anna Yamada\n\nHappy Birthday, Hina Youmiya!…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036850390797635584"
+          ]
+        },
+        "author_id": "817044236",
+        "conversation_id": "2036850673556529554",
+        "created_at": "2026-03-25T17:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036850673556529554"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 127,
+              "tag": "羊宮妃那生誕祭2026"
+            },
+            {
+              "end": 152,
+              "start": 140,
+              "tag": "羊宮妃那誕生祭2026"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 171,
+              "start": 159,
+              "tag": "HinaYoumiya"
+            },
+            {
+              "end": 184,
+              "start": 172,
+              "tag": "YoumiyaHina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BYGGwO9yd",
+              "end": 208,
+              "expanded_url": "https://x.com/Rinoarashi39/status/2036850673556529554/photo/1",
+              "media_key": "3_2036850390797635584",
+              "start": 185,
+              "url": "https://t.co/0BYGGwO9yd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036850673556529554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3775,
+          "like_count": 318,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "\"We can read each others minds by tuning\nour brains to the same wavelength.\"\n― Anna Yamada\n\nHappy Birthday, Hina Youmiya! 🎉🎂🐑\n\n#羊宮妃那生誕祭2026\n#羊宮妃那誕生祭2026\n#羊宮妃那\n#HinaYoumiya #YoumiyaHina https://t.co/0BYGGwO9yd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 735,
+          "like_count": 35436,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 2286
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-11T09:17:10.000Z",
+        "description": "earfun • ♂• From 🇮🇩ID • Illustrator • Music Composer • \nAnimator \nJust an NPC who lives among other NPCs\n\nhttps://t.co/eVh7ElHB6C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/RinoarashiP",
+                "end": 129,
+                "expanded_url": "http://youtube.com/c/RinoarashiP",
+                "start": 106,
+                "url": "https://t.co/eVh7ElHB6C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=9178447",
+                "start": 0,
+                "url": "https://t.co/U4DRieulKM"
+              }
+            ]
+          }
+        },
+        "id": "817044236",
+        "location": "Indonesia",
+        "name": "Rinoarashi",
+        "pinned_tweet_id": "1889277485571088881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034193747152613376/Q3gC4xaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 2338,
+          "like_count": 22066,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/U4DRieulKM",
+        "username": "Rinoarashi39",
+        "verified": false
+      }
+    ]
+  }
+}

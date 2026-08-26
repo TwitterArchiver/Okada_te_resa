@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018975764360867840"
+      ],
+      "media_source_tweet_id": [
+        "2018975877527417260"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2019006068475768841",
+    "created_at": "2026-02-04T11:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019006068475768841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1516883232088027136",
+          "start": 3,
+          "username": "NANIMONO_idol"
+        }
+      ],
+      "urls": [
+        {
+          "description": "この宇宙服アイドル、何者❔",
+          "display_url": "vt.tiktok.com/ZSanrv46s/",
+          "end": 58,
+          "expanded_url": "https://vt.tiktok.com/ZSanrv46s/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2018975882728394752/Sdq0jY9G?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2018975882728394752/Sdq0jY9G?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "TikTok · NANIMONO【インキャアイドル】",
+          "unwound_url": "https://www.tiktok.com/@nanimono_idol/video/7602934263100558610?_r=1&_t=ZS-93dWDQnhmVQ",
+          "url": "https://t.co/d92NusATQr"
+        },
+        {
+          "display_url": "pic.x.com/oy1HsWQOjG",
+          "end": 82,
+          "expanded_url": "https://x.com/NANIMONO_idol/status/2018975877527417260/video/1",
+          "media_key": "13_2018975764360867840",
+          "start": 59,
+          "url": "https://t.co/oy1HsWQOjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019006068475768841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018975877527417260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NANIMONO_idol: 宇宙服アイドルが可愛すぎる💛\n\nhttps://t.co/d92NusATQr https://t.co/oy1HsWQOjG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7545,
+        "height": 1920,
+        "media_key": "13_2018975764360867840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018975764360867840/img/dzzRA02tduOd1HDb.jpg",
+        "public_metrics": {
+          "view_count": 1034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018975764360867840/vid/avc1/320x568/9AwT04CWRRsUXGbr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018975764360867840/vid/avc1/480x852/5J6GR_E_PsgDmTlI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018975764360867840/vid/avc1/1080x1920/Oh_lhxkPctacl7UZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018975764360867840/vid/avc1/720x1280/5DF-w1eBV5gcP0-M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018975764360867840/pl/MXj3XHknmy6L4Ax0.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018975764360867840"
+          ],
+          "media_source_tweet_id": [
+            "2018975877527417260"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2019006068475768841",
+        "created_at": "2026-02-04T11:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019006068475768841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1516883232088027136",
+              "start": 3,
+              "username": "NANIMONO_idol"
+            }
+          ],
+          "urls": [
+            {
+              "description": "この宇宙服アイドル、何者❔",
+              "display_url": "vt.tiktok.com/ZSanrv46s/",
+              "end": 58,
+              "expanded_url": "https://vt.tiktok.com/ZSanrv46s/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2018975882728394752/Sdq0jY9G?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018975882728394752/Sdq0jY9G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "TikTok · NANIMONO【インキャアイドル】",
+              "unwound_url": "https://www.tiktok.com/@nanimono_idol/video/7602934263100558610?_r=1&_t=ZS-93dWDQnhmVQ",
+              "url": "https://t.co/d92NusATQr"
+            },
+            {
+              "display_url": "pic.x.com/oy1HsWQOjG",
+              "end": 82,
+              "expanded_url": "https://x.com/NANIMONO_idol/status/2018975877527417260/video/1",
+              "media_key": "13_2018975764360867840",
+              "start": 59,
+              "url": "https://t.co/oy1HsWQOjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019006068475768841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018975877527417260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NANIMONO_idol: 宇宙服アイドルが可愛すぎる💛\n\nhttps://t.co/d92NusATQr https://t.co/oy1HsWQOjG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018975764360867840"
+          ]
+        },
+        "author_id": "1516883232088027136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2018975877527417260",
+        "created_at": "2026-02-04T09:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018975877527417260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "この宇宙服アイドル、何者❔",
+              "display_url": "vt.tiktok.com/ZSanrv46s/",
+              "end": 39,
+              "expanded_url": "https://vt.tiktok.com/ZSanrv46s/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2018975882728394752/Sdq0jY9G?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018975882728394752/Sdq0jY9G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "TikTok · NANIMONO【インキャアイドル】",
+              "unwound_url": "https://www.tiktok.com/@nanimono_idol/video/7602934263100558610?_r=1&_t=ZS-93dWDQnhmVQ",
+              "url": "https://t.co/d92NusATQr"
+            },
+            {
+              "display_url": "pic.x.com/oy1HsWQOjG",
+              "end": 63,
+              "expanded_url": "https://x.com/NANIMONO_idol/status/2018975877527417260/video/1",
+              "media_key": "13_2018975764360867840",
+              "start": 40,
+              "url": "https://t.co/oy1HsWQOjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018975877527417260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4561,
+          "like_count": 377,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "宇宙服アイドルが可愛すぎる💛\n\nhttps://t.co/d92NusATQr https://t.co/oy1HsWQOjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 676,
+          "like_count": 31287,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 1877
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T20:55:36.000Z",
+        "description": "🍎未だ何者でもない女の子たちが何者かになる物語 - 。2026.01.03 LINE CUBE SHIBUYA【 https://t.co/kdwktwg3U2 】 🗓スケジュール(@NANIMONO__info) #NANIMONO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 108,
+                "tag": "NANIMONO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "NANIMONO__info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/NANIMONO",
+                "end": 80,
+                "expanded_url": "http://lit.link/NANIMONO",
+                "start": 57,
+                "url": "https://t.co/kdwktwg3U2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nanimono-official.com",
+                "end": 23,
+                "expanded_url": "http://nanimono-official.com",
+                "start": 0,
+                "url": "https://t.co/t3gbJK9tce"
+              }
+            ]
+          }
+        },
+        "id": "1516883232088027136",
+        "location": "OTONA CHILD. 所属",
+        "name": "NANIMONO【インキャアイドル】",
+        "pinned_tweet_id": "2007414137500946834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644287323474108418/jP0I2C2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39620,
+          "following_count": 10,
+          "like_count": 118,
+          "listed_count": 280,
+          "media_count": 3044,
+          "tweet_count": 4516
+        },
+        "url": "https://t.co/t3gbJK9tce",
+        "username": "NANIMONO_idol",
+        "verified": true
+      }
+    ]
+  }
+}

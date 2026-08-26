@@ -1,0 +1,654 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074086939024896000"
+      ],
+      "media_source_tweet_id": [
+        "2074086943739245051"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Opera",
+          "id": "869649977676505088",
+          "name": "Opera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Opera",
+          "id": "869649977676505088",
+          "name": "Opera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Theater",
+          "id": "1047537435855319040",
+          "name": "Theater"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2074094072999108652",
+    "created_at": "2026-07-06T11:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074094072999108652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2430067160",
+          "start": 3,
+          "username": "koyamamomoyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wliy0fZ3M0",
+          "end": 74,
+          "expanded_url": "https://x.com/koyamamomoyo/status/2074086943739245051/photo/1",
+          "media_key": "3_2074086939024896000",
+          "start": 51,
+          "url": "https://t.co/wliy0fZ3M0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074094072999108652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074086943739245051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koyamamomoyo: 【お知らせ📢】\n\n８／２２\n💖香港ファンミーティング 開催決定💖 https://t.co/wliy0fZ3M0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074086939024896000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMijFQHbMAAcMTR.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074086939024896000"
+          ],
+          "media_source_tweet_id": [
+            "2074086943739245051"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theater",
+              "id": "1047537435855319040",
+              "name": "Theater"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2074094072999108652",
+        "created_at": "2026-07-06T11:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074094072999108652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2430067160",
+              "start": 3,
+              "username": "koyamamomoyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wliy0fZ3M0",
+              "end": 74,
+              "expanded_url": "https://x.com/koyamamomoyo/status/2074086943739245051/photo/1",
+              "media_key": "3_2074086939024896000",
+              "start": 51,
+              "url": "https://t.co/wliy0fZ3M0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074094072999108652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074086943739245051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koyamamomoyo: 【お知らせ📢】\n\n８／２２\n💖香港ファンミーティング 開催決定💖 https://t.co/wliy0fZ3M0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074086939024896000"
+          ]
+        },
+        "author_id": "2430067160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theater",
+              "id": "1047537435855319040",
+              "name": "Theater"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2074086943739245051",
+        "created_at": "2026-07-06T11:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074086943739245051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wliy0fZ3M0",
+              "end": 56,
+              "expanded_url": "https://x.com/koyamamomoyo/status/2074086943739245051/photo/1",
+              "media_key": "3_2074086939024896000",
+              "start": 33,
+              "url": "https://t.co/wliy0fZ3M0"
+            },
+            {
+              "display_url": "x.com/flashinglightc…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/flashinglightcm/status/2074070864723636545",
+              "start": 57,
+              "url": "https://t.co/61ba8I67Eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074086943739245051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6410,
+          "like_count": 161,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074070864723636545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【お知らせ📢】\n\n８／２２\n💖香港ファンミーティング 開催決定💖 https://t.co/wliy0fZ3M0 https://t.co/61ba8I67Eq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 957,
+          "like_count": 41953,
+          "listed_count": 5,
+          "media_count": 699,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-06T07:29:07.000Z",
+        "description": "声優・役者/フリーランス。 お仕事のご依頼はｺﾁﾗにお願いいたします➡︎ 【✉️koyamamomoyo.official@gmail.com】NEXT▶️ 『#女王ステ アルマ役』",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "女王ステ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "koyamamomoyo.com",
+                "end": 23,
+                "expanded_url": "https://koyamamomoyo.com",
+                "start": 0,
+                "url": "https://t.co/nJBbnfwxch"
+              }
+            ]
+          }
+        },
+        "id": "2430067160",
+        "location": "オフィシャルサイト➡︎",
+        "name": "小山百代",
+        "pinned_tweet_id": "2043291506841432069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954518937250762752/1op32AMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84410,
+          "following_count": 857,
+          "like_count": 17190,
+          "listed_count": 1806,
+          "media_count": 6075,
+          "tweet_count": 23863
+        },
+        "url": "https://t.co/nJBbnfwxch",
+        "username": "koyamamomoyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058591229127131136"
+      ],
+      "media_source_tweet_id": [
+        "2058591233443086568"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2058978665510424647",
+    "created_at": "2026-05-25T18:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058978665510424647"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "あいすを愛す"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034304706294738944",
+          "start": 3,
+          "username": "ice_shop_p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdwOU6nROB",
+          "end": 61,
+          "expanded_url": "https://x.com/ice_shop_p/status/2058591233443086568/photo/1",
+          "media_key": "3_2058591229127131136",
+          "start": 38,
+          "url": "https://t.co/mdwOU6nROB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058978665510424647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058591233443086568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice_shop_p: ここ2人サイズ感可愛すぎる\n#あいすを愛す https://t.co/mdwOU6nROB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2058591229127131136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGV0OXbgAAYK4B.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058591229127131136"
+          ],
+          "media_source_tweet_id": [
+            "2058591233443086568"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2058978665510424647",
+        "created_at": "2026-05-25T18:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058978665510424647"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034304706294738944",
+              "start": 3,
+              "username": "ice_shop_p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdwOU6nROB",
+              "end": 61,
+              "expanded_url": "https://x.com/ice_shop_p/status/2058591233443086568/photo/1",
+              "media_key": "3_2058591229127131136",
+              "start": 38,
+              "url": "https://t.co/mdwOU6nROB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058978665510424647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058591233443086568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice_shop_p: ここ2人サイズ感可愛すぎる\n#あいすを愛す https://t.co/mdwOU6nROB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058591229127131136"
+          ]
+        },
+        "author_id": "2034304706294738944",
+        "conversation_id": "2058591233443086568",
+        "created_at": "2026-05-24T16:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058591233443086568"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdwOU6nROB",
+              "end": 45,
+              "expanded_url": "https://x.com/ice_shop_p/status/2058591233443086568/photo/1",
+              "media_key": "3_2058591229127131136",
+              "start": 22,
+              "url": "https://t.co/mdwOU6nROB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058591233443086568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 214286,
+          "like_count": 21990,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "ここ2人サイズ感可愛すぎる\n#あいすを愛す https://t.co/mdwOU6nROB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 879,
+          "like_count": 39208,
+          "listed_count": 4,
+          "media_count": 595,
+          "tweet_count": 2888
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T16:23:32.000Z",
+        "description": "@ice_icol\nあいすのみだし愛すのみ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ice_icol"
+              }
+            ]
+          }
+        },
+        "id": "2034304706294738944",
+        "location": "後に引けなくなっちゃってんの",
+        "name": "ごち",
+        "pinned_tweet_id": "2057488440741237017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054083459841454080/0AK272G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 152,
+          "like_count": 1291,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 119
+        },
+        "username": "ice_shop_p",
+        "verified": false
+      }
+    ]
+  }
+}

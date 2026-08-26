@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1295709217467191297",
+          "name": "Godzilla"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248370550247849988",
+          "name": "Tokusatsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1295709217467191297",
+          "name": "Godzilla"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296035544485392384",
+          "name": "Kaiju"
+        }
+      }
+    ],
+    "conversation_id": "1983502623761109301",
+    "created_at": "2025-10-29T11:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983502623761109301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vega_teu/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/vega_teu/status/1983489049685062030",
+          "start": 12,
+          "url": "https://t.co/20y1MTdQzS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983502623761109301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983489049685062030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我其实本来想长这样来着 https://t.co/20y1MTdQzS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1922,
+        "media_key": "3_1983489034413580288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bExJAaoAAP8_1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1295709217467191297",
+              "name": "Godzilla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295709217467191297",
+              "name": "Godzilla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "1983502623761109301",
+        "created_at": "2025-10-29T11:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983502623761109301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vega_teu/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/vega_teu/status/1983489049685062030",
+              "start": 12,
+              "url": "https://t.co/20y1MTdQzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983502623761109301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983489049685062030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实本来想长这样来着 https://t.co/20y1MTdQzS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983489034413580288"
+          ]
+        },
+        "author_id": "1431170928713494535",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1295709217467191297",
+              "name": "Godzilla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1295709217467191297",
+              "name": "Godzilla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "1983489049685062030",
+        "created_at": "2025-10-29T11:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983489049685062030"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "冥界GODZILLA",
+              "probability": 0.2932,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4bPge0yYb",
+              "end": 34,
+              "expanded_url": "https://x.com/vega_teu/status/1983489049685062030/photo/1",
+              "media_key": "3_1983489034413580288",
+              "start": 11,
+              "url": "https://t.co/b4bPge0yYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983489049685062030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2541,
+          "like_count": 429,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "冥界GODZILLA https://t.co/b4bPge0yYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 604,
+          "like_count": 23562,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1262
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T08:25:25.000Z",
+        "description": "Hello World. (@vega_teu_Lv2) | (@neonhype_zzz)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "vega_teu_Lv2"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "neonhype_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@vega_teu",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@vega_teu",
+                "start": 0,
+                "url": "https://t.co/2iKRiZJuIN"
+              }
+            ]
+          }
+        },
+        "id": "1431170928713494535",
+        "location": "インターネット・エクスプローラー",
+        "name": "vega.",
+        "pinned_tweet_id": "1673987114495795202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650018237046992896/Ys6tiSBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62670,
+          "following_count": 22,
+          "like_count": 8294,
+          "listed_count": 192,
+          "media_count": 1699,
+          "tweet_count": 12649
+        },
+        "url": "https://t.co/2iKRiZJuIN",
+        "username": "vega_teu",
+        "verified": true
+      }
+    ]
+  }
+}

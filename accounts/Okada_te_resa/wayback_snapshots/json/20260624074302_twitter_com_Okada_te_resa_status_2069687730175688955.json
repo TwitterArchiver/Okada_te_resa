@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2068654645434560891",
+    "created_at": "2026-06-24T07:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069687730175688955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1640150075950374914",
+          "start": 0,
+          "username": "AraBh_channels"
+        },
+        {
+          "end": 32,
+          "id": "1843201902550634496",
+          "start": 16,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 42,
+          "id": "1459453832",
+          "start": 33,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069687730175688955",
+    "in_reply_to_user_id": "1640150075950374914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068960355305300298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraBh_channels @LwrDHYyuxR22499 @sauricat 圣母来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2068654645434560891",
+        "created_at": "2026-06-24T07:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069687730175688955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1640150075950374914",
+              "start": 0,
+              "username": "AraBh_channels"
+            },
+            {
+              "end": 32,
+              "id": "1843201902550634496",
+              "start": 16,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 42,
+              "id": "1459453832",
+              "start": 33,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069687730175688955",
+        "in_reply_to_user_id": "1640150075950374914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068960355305300298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraBh_channels @LwrDHYyuxR22499 @sauricat 圣母来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640150075950374914",
+        "conversation_id": "2068654645434560891",
+        "created_at": "2026-06-22T07:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068960355305300298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 26,
+              "id": "1459453832",
+              "start": 17,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068960355305300298",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12235,
+          "like_count": 11,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068889407122555003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @sauricat 您也並不瞭解當事人是否是是故意作偽證抑或迫於家庭壓力等因素等，當然我也不瞭解，但這並不重要，但我知道您需要對自己的仇恨言論負責，截圖中的言行正在煽動助長仇恨女性LGBT，這只會損害本為善業的救助工作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 920,
+          "like_count": 41059,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 3122
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:33:58.000Z",
+        "description": "“佛子既如是，堅持菩提心， 恆勤勿懈怠，莫違諸學處”。——寂天菩薩《入行論》。",
+        "id": "1640150075950374914",
+        "location": "普愿沉溺诸众生 速往无量光佛刹",
+        "name": "☸️BuKi道心",
+        "pinned_tweet_id": "1918315541317705753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046621560455512064/1PNf5YPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 631,
+          "like_count": 40145,
+          "listed_count": 4,
+          "media_count": 2160,
+          "tweet_count": 4941
+        },
+        "url": "",
+        "username": "AraBh_channels",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5980,
+          "following_count": 3242,
+          "like_count": 3477,
+          "listed_count": 19,
+          "media_count": 468,
+          "tweet_count": 3137
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Shu the Internet Squirrel",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11195,
+          "following_count": 1036,
+          "like_count": 34485,
+          "listed_count": 35,
+          "media_count": 621,
+          "tweet_count": 12304
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1993521592995815770",
+    "created_at": "2025-11-26T06:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T07:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993572149479850397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993572149479850397",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993571884995412314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 已被严肃约谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1993521592995815770",
+        "created_at": "2025-11-26T06:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993572149479850397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993572149479850397",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993571884995412314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 已被严肃约谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164467672819499008",
+        "conversation_id": "1993521592995815770",
+        "created_at": "2025-11-26T06:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993571884995412314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993571884995412314",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993561453203427416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 在牆內平台衝塔你也是個人物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993298692238196746/e9Q6RQJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 650,
+          "like_count": 25673,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1441
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "來自台灣的中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/中華民國派/泛藍/左翼/人道主義/科學主義的支持者 | Glory to China | \n\n賽博搬史王|偶爾發抽象tv｜\n\n沒有義務的權利必將導致濫用，沒有權利的義務必將導致壓迫|\n\n鍵政勉強中。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 1042,
+          "like_count": 9199,
+          "listed_count": 6,
+          "media_count": 828,
+          "tweet_count": 8982
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

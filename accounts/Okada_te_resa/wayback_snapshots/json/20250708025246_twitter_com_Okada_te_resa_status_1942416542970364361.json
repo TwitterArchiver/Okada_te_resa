@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1942285236404118014",
+    "created_at": "2025-07-08T02:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942416542970364361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        },
+        {
+          "end": 25,
+          "id": "1263026940446773248",
+          "start": 10,
+          "username": "Mitsukii_hoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942416542970364361",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942285236404118014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 @Mitsukii_hoshi 河南人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1942285236404118014",
+        "created_at": "2025-07-08T02:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942416542970364361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            },
+            {
+              "end": 25,
+              "id": "1263026940446773248",
+              "start": 10,
+              "username": "Mitsukii_hoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942416542970364361",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942285236404118014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 @Mitsukii_hoshi 河南人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "conversation_id": "1942285236404118014",
+        "created_at": "2025-07-07T18:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942285236404118014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1263026940446773248",
+              "start": 8,
+              "username": "Mitsukii_hoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942285236404118014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3736,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚的手冲素材是@Mitsukii_hoshi ，妈的视频真的太爽了，冲的好爽，还注意观看体验和表情管理，手冲体验👍👍👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 388,
+          "like_count": 16786,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 791
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121 母🐶@1965chich",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "1965chich"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930435608746569730/RgFfuLcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20172,
+          "following_count": 1100,
+          "like_count": 17785,
+          "listed_count": 55,
+          "media_count": 767,
+          "tweet_count": 10240
+        },
+        "username": "akui1121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T08:41:35.000Z",
+        "description": "🔞/English_日本語_中文/妆娘毛娘/无糖男娘🍡/拍些想拍的💛/漫展刷新✨ /只此平台/不卖视频————————————————————",
+        "id": "1263026940446773248",
+        "location": "神圣圆桌领域卡美洛",
+        "name": "星野みつき✨",
+        "pinned_tweet_id": "1933477309853675657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866441319813636096/gUMMQltH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72952,
+          "following_count": 845,
+          "like_count": 5402,
+          "listed_count": 338,
+          "media_count": 45,
+          "tweet_count": 835
+        },
+        "username": "Mitsukii_hoshi",
+        "verified": true
+      }
+    ]
+  }
+}

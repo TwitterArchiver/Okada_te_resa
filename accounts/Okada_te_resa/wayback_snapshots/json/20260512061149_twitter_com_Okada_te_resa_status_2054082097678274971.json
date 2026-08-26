@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2053856557625204987",
+    "created_at": "2026-05-12T06:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054082097678274971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013264447880785920",
+          "start": 0,
+          "username": "nineseven0113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054082097678274971",
+    "in_reply_to_user_id": "2013264447880785920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053856557625204987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nineseven0113 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_2053856190048968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDDUrObIAAkfj7.jpg",
+        "width": 2358
+      },
+      {
+        "height": 1599,
+        "media_key": "3_2053856190048972800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDDUrObMAAsa3R.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2053856557625204987",
+        "created_at": "2026-05-12T06:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054082097678274971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013264447880785920",
+              "start": 0,
+              "username": "nineseven0113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054082097678274971",
+        "in_reply_to_user_id": "2013264447880785920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053856557625204987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nineseven0113 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053856190048968704",
+            "3_2053856190048972800"
+          ]
+        },
+        "author_id": "2013264447880785920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2053856557625204987",
+        "created_at": "2026-05-11T15:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053856557625204987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Liella"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "lovelive"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "唐可可"
+            },
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvnFFkpKVS",
+              "end": 99,
+              "expanded_url": "https://x.com/nineseven0113/status/2053856557625204987/photo/1",
+              "media_key": "3_2053856190048968704",
+              "start": 76,
+              "url": "https://t.co/AvnFFkpKVS"
+            },
+            {
+              "display_url": "pic.x.com/AvnFFkpKVS",
+              "end": 99,
+              "expanded_url": "https://x.com/nineseven0113/status/2053856557625204987/photo/1",
+              "media_key": "3_2053856190048972800",
+              "start": 76,
+              "url": "https://t.co/AvnFFkpKVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053856557625204987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2195,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#Liella #lovelive #唐可可 #cosplayㅤㅤㅤㅤㅤㅤㅤ \n突然想到这两张还没发过  更新一下证明自己活的很好  我喜欢这套衣服！ https://t.co/AvnFFkpKVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 818,
+          "like_count": 38266,
+          "listed_count": 4,
+          "media_count": 548,
+          "tweet_count": 2721
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:57:13.000Z",
+        "description": "cn：97｜17さい｜170cm｜enfp\n97永远幸福💞全平台同名\n感谢你的关注呀💓我会很开心",
+        "id": "2013264447880785920",
+        "location": "Minoo-shi, Osaka",
+        "name": "nine seven_97",
+        "pinned_tweet_id": "2018722181207974084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036415115965374465/XsXqYpvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 105,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 258
+        },
+        "username": "nineseven0113",
+        "verified": false
+      }
+    ]
+  }
+}

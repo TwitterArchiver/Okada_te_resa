@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1959587545978970277",
+    "created_at": "2025-08-24T12:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T13:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959593985917542621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813560885459202048",
+          "start": 0,
+          "username": "XWXbl00dbunn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959593985917542621",
+    "in_reply_to_user_id": "1813560885459202048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959587545978970277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XWXbl00dbunn1 想和主播贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1959587545978970277",
+        "created_at": "2025-08-24T12:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959593985917542621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813560885459202048",
+              "start": 0,
+              "username": "XWXbl00dbunn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959593985917542621",
+        "in_reply_to_user_id": "1813560885459202048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959587545978970277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XWXbl00dbunn1 想和主播贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813560885459202048",
+        "conversation_id": "1959587545978970277",
+        "created_at": "2025-08-24T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959587545978970277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959587545978970277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我该不该接半绿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 474,
+          "like_count": 19690,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1037
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:06:32.000Z",
+        "description": "一个智障精神病 🚪 58/88 可怜可怜我的话那我可以给我赞赏码扫点谢谢谢谢",
+        "id": "1813560885459202048",
+        "location": "上海",
+        "name": "xwx恨你。",
+        "pinned_tweet_id": "1958112402043707708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936753742759485440/GZoZyotf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 667,
+          "like_count": 8868,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1304
+        },
+        "username": "XWXbl00dbunn1",
+        "verified": false
+      }
+    ]
+  }
+}

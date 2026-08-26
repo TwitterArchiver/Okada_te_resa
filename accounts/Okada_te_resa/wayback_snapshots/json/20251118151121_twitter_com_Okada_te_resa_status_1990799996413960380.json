@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990799993054400512",
+        "3_1990799987794718726"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1990799996413960380",
+    "created_at": "2025-11-18T15:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T16:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990799996413960380"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "男娘"
+        },
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "男娘coser"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "伪娘"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 78,
+          "start": 70,
+          "tag": "Cosplay"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "NSFW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/40PdvXN3rE",
+          "end": 108,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1990799996413960380/photo/1",
+          "media_key": "3_1990799993054400512",
+          "start": 85,
+          "url": "https://t.co/40PdvXN3rE"
+        },
+        {
+          "display_url": "pic.x.com/40PdvXN3rE",
+          "end": 108,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1990799996413960380/photo/1",
+          "media_key": "3_1990799987794718726",
+          "start": 85,
+          "url": "https://t.co/40PdvXN3rE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990799996413960380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拼命的露出器官释放信息素只是为了勾引德克萨斯吗哈吉拉你这家伙\n奖励德克萨斯甜吻一枚和爆操一顿\n#男娘 #男娘coser #伪娘 #明日方舟 #Cosplay #NSFW https://t.co/40PdvXN3rE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990799993054400512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C-C8TbkAAu4At.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990799987794718726",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C-CotbMAYc4q6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990799993054400512",
+            "3_1990799987794718726"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1990799996413960380",
+        "created_at": "2025-11-18T15:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990799996413960380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "男娘"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "男娘coser"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "伪娘"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 78,
+              "start": 70,
+              "tag": "Cosplay"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "NSFW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/40PdvXN3rE",
+              "end": 108,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1990799996413960380/photo/1",
+              "media_key": "3_1990799993054400512",
+              "start": 85,
+              "url": "https://t.co/40PdvXN3rE"
+            },
+            {
+              "display_url": "pic.x.com/40PdvXN3rE",
+              "end": 108,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1990799996413960380/photo/1",
+              "media_key": "3_1990799987794718726",
+              "start": 85,
+              "url": "https://t.co/40PdvXN3rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990799996413960380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼命的露出器官释放信息素只是为了勾引德克萨斯吗哈吉拉你这家伙\n奖励德克萨斯甜吻一枚和爆操一顿\n#男娘 #男娘coser #伪娘 #明日方舟 #Cosplay #NSFW https://t.co/40PdvXN3rE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112055593242624/fMUPXFR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 638,
+          "like_count": 25003,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1372
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

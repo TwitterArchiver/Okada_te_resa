@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055974546529021952"
+      ],
+      "media_source_tweet_id": [
+        "2055974554166854101"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2056118234013905175",
+    "created_at": "2026-05-17T21:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T22:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056118234013905175"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 72,
+          "tag": "あいすを愛す"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025918214589595648",
+          "start": 3,
+          "username": "kaoilifer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nAPEH5PlwA",
+          "end": 103,
+          "expanded_url": "https://x.com/kaoilifer/status/2055974554166854101/photo/1",
+          "media_key": "3_2055974546529021952",
+          "start": 80,
+          "url": "https://t.co/nAPEH5PlwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056118234013905175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055974554166854101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaoilifer: あいすちゃんへの愛を詰め込んだ！！\n字汚いけど頑張って買いたから許して🙏\n一応ALTに書いた内容書いときます！！\n#あいすを愛す https://t.co/nAPEH5PlwA"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "あいす様\nお誕生日🎂 1月23日\n生まれてきてくれてありがとう天使\n世界の祝日にしませんか？\nあいすちゃんのご先祖様に感謝！！\niLiFE! 君も今日からアイライファー「私と貴方で作るアイドルライフ」\ni-COLあいすちゃんの相棒のころねちゃんとのアイドルユニット「君のかっこいいも可愛いも全部頂戴？」\nあいすちゃんの名前の由来はオーディション時にハマってた板チョコアイスから取ったんだって🍫\n愛キョウ！最キョウ！　\n愛嬌の塊！！\nずっとニコニコで愛おしい♡とにかく天才で完璧なtheアイドル\nボスベイビー\nバブいのに大人っぽい\n人として賢くて尊敬\n礼儀正しい\n通りすがったスタッフさんにもあいさつ！！\n15歳のときにi-COLとしてデビュー\nアイドル5年目\n🎤歌に感情のせるのが上手！ついつい聞きこんじゃう！！\nはじめてあいすちゃんと会ったとき心臓が止まりそうだったよーこれが恋…？\n表情が天才！！ライブ中、歌詞にあわせて表情がコロコロ変わります。この表情を見て沼らない人はいるのか…？\nあいすちゃんといえばまぶしすぎる笑顔\nまぶしすぎて直視できません！！私の太陽☀️\n努力と奇跡のヒロイン(ヒロインっていう文字のフォントだけ思いつかなくてチャッピーに作ってもらったよ)\nあいすちゃんが一ばん！！かわいいよ絶対←異論は認めません\nSNS YouTube みんなのあいす屋さん\nMVやライブの裏側も見れる！メンバーさん同士の絡みも多いので他メン推しも必見！！\nX TikTok Instagram ice_icol\nたまにツイキャスもやってくれるよ！\nMBTI  INTJ 建築家\nあいすちゃんがオススメする曲　\niLiFE! BRAVE GROOVE\ni-COL MELTDOWN GIRL\n身長 151センチ　小柄で華奢でとてもかわいい！\n圧倒的な存在感\n小柄なのにダンスのフリが大きくキレキレなので目をひきます👁️\n何色でも似合う\nというか何色でもあいすちゃんの色に染めちゃいます！\nめちゃくちゃ努力家\n毎分毎秒成長していて尊敬\nあいすちゃんが頑張っているのを見ると私も頑張ろうって思える\nこれを見たら絶対沼る\nカッコいい　#ラブコード (ライブ映像幕張メッセ)冒頭の煽りに注目\nかわいい　ころころガール(mv) 本当に表情ころころ変わってかわいい\nナイナイ恋煩い　冒頭見逃さないで",
+        "height": 1746,
+        "media_key": "3_2055974546529021952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhJ9QEbcAAEHNv.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055974546529021952"
+          ],
+          "media_source_tweet_id": [
+            "2055974554166854101"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2056118234013905175",
+        "created_at": "2026-05-17T21:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056118234013905175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025918214589595648",
+              "start": 3,
+              "username": "kaoilifer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAPEH5PlwA",
+              "end": 103,
+              "expanded_url": "https://x.com/kaoilifer/status/2055974554166854101/photo/1",
+              "media_key": "3_2055974546529021952",
+              "start": 80,
+              "url": "https://t.co/nAPEH5PlwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056118234013905175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974554166854101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaoilifer: あいすちゃんへの愛を詰め込んだ！！\n字汚いけど頑張って買いたから許して🙏\n一応ALTに書いた内容書いときます！！\n#あいすを愛す https://t.co/nAPEH5PlwA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055974546529021952"
+          ]
+        },
+        "author_id": "2025918214589595648",
+        "conversation_id": "2055974554166854101",
+        "created_at": "2026-05-17T11:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055974554166854101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAPEH5PlwA",
+              "end": 88,
+              "expanded_url": "https://x.com/kaoilifer/status/2055974554166854101/photo/1",
+              "media_key": "3_2055974546529021952",
+              "start": 65,
+              "url": "https://t.co/nAPEH5PlwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055974554166854101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4252,
+          "like_count": 162,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "あいすちゃんへの愛を詰め込んだ！！\n字汚いけど頑張って買いたから許して🙏\n一応ALTに書いた内容書いときます！！\n#あいすを愛す https://t.co/nAPEH5PlwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2054391181682049319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 839,
+          "like_count": 38665,
+          "listed_count": 4,
+          "media_count": 570,
+          "tweet_count": 2778
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:59:13.000Z",
+        "description": "🍨🤍@ice_icol 新規のあいすちゃん推しのアイライファーです！ あまりSNSに慣れていないのでよろしくお願いします。#あいすを愛す #あいらいふぁーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "あいすを愛す"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "tag": "あいらいふぁーさんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "ice_icol"
+              }
+            ]
+          }
+        },
+        "id": "2025918214589595648",
+        "name": "かお🤍🍨",
+        "pinned_tweet_id": "2055974554166854101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040404831995834368/5BMpxTSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1029,
+          "like_count": 18408,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 2997
+        },
+        "username": "kaoilifer",
+        "verified": false
+      }
+    ]
+  }
+}

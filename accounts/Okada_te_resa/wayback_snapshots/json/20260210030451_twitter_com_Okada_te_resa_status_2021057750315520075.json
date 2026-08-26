@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2020754542233571413",
+    "created_at": "2026-02-10T03:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T04:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021057750315520075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021057750315520075",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020754542233571413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 跨出和百京一沾边，李老÷就和狗闻到屎一样来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2020492677490626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAo7YpkbUAAQs6i.jpg",
+        "width": 461
+      },
+      {
+        "height": 927,
+        "media_key": "3_2020492676823764992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAo7YnFb0AAUXOh.jpg",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2020754542233571413",
+        "created_at": "2026-02-10T03:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021057750315520075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021057750315520075",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020754542233571413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 跨出和百京一沾边，李老÷就和狗闻到屎一样来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020492677490626560",
+            "3_2020492676823764992"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2020754542233571413",
+        "created_at": "2026-02-09T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020754542233571413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rQBszKSSw",
+              "end": 75,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2020754542233571413/photo/1",
+              "media_key": "3_2020492677490626560",
+              "start": 52,
+              "url": "https://t.co/2rQBszKSSw"
+            },
+            {
+              "display_url": "pic.x.com/2rQBszKSSw",
+              "end": 75,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2020754542233571413/photo/1",
+              "media_key": "3_2020492676823764992",
+              "start": 52,
+              "url": "https://t.co/2rQBszKSSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020754542233571413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 93382,
+          "like_count": 455,
+          "quote_count": 31,
+          "reply_count": 89,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：北京部分跨性别群体在与警方接触过程中被欺负，个别人士被以“精神异常”为由送往回龙观医院收治。 https://t.co/2rQBszKSSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 685,
+          "like_count": 31983,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 1921
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192640,
+          "following_count": 1014,
+          "like_count": 8941,
+          "listed_count": 8553,
+          "media_count": 41323,
+          "tweet_count": 48314
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

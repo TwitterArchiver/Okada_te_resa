@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940260119024922624",
+        "3_1940260118794235904"
+      ],
+      "media_source_tweet_id": [
+        "1940260141481459775",
+        "1940260141481459775"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1940336112863789310",
+    "created_at": "2025-07-02T09:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T10:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940336112863789310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1156938701382934530",
+          "start": 3,
+          "username": "wataame_IDOL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qxNFtMjsQP",
+          "end": 56,
+          "expanded_url": "https://x.com/wataame_IDOL/status/1940260141481459775/photo/1",
+          "media_key": "3_1940260119024922624",
+          "start": 33,
+          "url": "https://t.co/qxNFtMjsQP"
+        },
+        {
+          "display_url": "pic.x.com/qxNFtMjsQP",
+          "end": 56,
+          "expanded_url": "https://x.com/wataame_IDOL/status/1940260141481459775/photo/1",
+          "media_key": "3_1940260118794235904",
+          "start": 33,
+          "url": "https://t.co/qxNFtMjsQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940336112863789310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940260141481459775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wataame_IDOL: 実質キンマーってことでいい？ https://t.co/qxNFtMjsQP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940260119024922624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0wTF5WcAAphBt.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940260118794235904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0wTFCWcAAvtYV.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940260119024922624",
+            "3_1940260118794235904"
+          ],
+          "media_source_tweet_id": [
+            "1940260141481459775",
+            "1940260141481459775"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1940336112863789310",
+        "created_at": "2025-07-02T09:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940336112863789310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1156938701382934530",
+              "start": 3,
+              "username": "wataame_IDOL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxNFtMjsQP",
+              "end": 56,
+              "expanded_url": "https://x.com/wataame_IDOL/status/1940260141481459775/photo/1",
+              "media_key": "3_1940260119024922624",
+              "start": 33,
+              "url": "https://t.co/qxNFtMjsQP"
+            },
+            {
+              "display_url": "pic.x.com/qxNFtMjsQP",
+              "end": 56,
+              "expanded_url": "https://x.com/wataame_IDOL/status/1940260141481459775/photo/1",
+              "media_key": "3_1940260118794235904",
+              "start": 33,
+              "url": "https://t.co/qxNFtMjsQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940336112863789310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940260141481459775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wataame_IDOL: 実質キンマーってことでいい？ https://t.co/qxNFtMjsQP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940260119024922624",
+            "3_1940260118794235904"
+          ]
+        },
+        "author_id": "1156938701382934530",
+        "conversation_id": "1940260141481459775",
+        "created_at": "2025-07-02T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940260141481459775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxNFtMjsQP",
+              "end": 38,
+              "expanded_url": "https://x.com/wataame_IDOL/status/1940260141481459775/photo/1",
+              "media_key": "3_1940260119024922624",
+              "start": 15,
+              "url": "https://t.co/qxNFtMjsQP"
+            },
+            {
+              "display_url": "pic.x.com/qxNFtMjsQP",
+              "end": 38,
+              "expanded_url": "https://x.com/wataame_IDOL/status/1940260141481459775/photo/1",
+              "media_key": "3_1940260118794235904",
+              "start": 15,
+              "url": "https://t.co/qxNFtMjsQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940260141481459775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 584,
+          "impression_count": 96155,
+          "like_count": 2744,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "実質キンマーってことでいい？ https://t.co/qxNFtMjsQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 379,
+          "like_count": 16403,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 757
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T14:44:16.000Z",
+        "description": "ピンクです。食べてください。 【9️⃣@IDOL_9h1500】#わたあめ捕食 【@DreaMy_CafeBAR 】⬅️ライブスケジュール！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 32,
+                "tag": "わたあめ捕食"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "IDOL_9h1500"
+              },
+              {
+                "end": 56,
+                "start": 41,
+                "username": "DreaMy_CafeBAR"
+              }
+            ]
+          }
+        },
+        "id": "1156938701382934530",
+        "name": "わたあめふわり☁️９時間1500円",
+        "pinned_tweet_id": "1920809134284231114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755608533268393984/p3tg4sTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88287,
+          "following_count": 2255,
+          "like_count": 14462,
+          "listed_count": 224,
+          "media_count": 615,
+          "tweet_count": 7987
+        },
+        "username": "wataame_IDOL",
+        "verified": false
+      }
+    ]
+  }
+}

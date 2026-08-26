@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2077918272914440571",
+    "created_at": "2026-07-17T08:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078037274928071162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078037274928071162",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077918272914440571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 纯野狗一条来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 297,
+        "media_key": "3_2077918270540451840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNY_qGPbkAAfyLo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2077918272914440571",
+        "created_at": "2026-07-17T08:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078037274928071162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078037274928071162",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077918272914440571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 纯野狗一条来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077918270540451840"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2077918272914440571",
+        "created_at": "2026-07-17T00:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077918272914440571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkE6V4qV7K",
+              "end": 25,
+              "expanded_url": "https://x.com/ashasw114514/status/2077918272914440571/photo/1",
+              "media_key": "3_2077918270540451840",
+              "start": 2,
+              "url": "https://t.co/dkE6V4qV7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077918272914440571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7509,
+          "like_count": 141,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/dkE6V4qV7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 977,
+          "like_count": 43009,
+          "listed_count": 5,
+          "media_count": 719,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4913,
+          "following_count": 3704,
+          "like_count": 9013,
+          "listed_count": 12,
+          "media_count": 752,
+          "tweet_count": 6480
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2002782244377866360",
+    "created_at": "2025-12-21T16:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002782244377866360"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "反田葉月",
+          "probability": 0.9381,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tanda_hazuki/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/tanda_hazuki/status/2002661925860335837",
+          "start": 5,
+          "url": "https://t.co/1le5w2kQEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002782244377866360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002661925860335837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反田葉月 https://t.co/1le5w2kQEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53500,
+        "height": 3840,
+        "media_key": "13_2002661208902840320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002661208902840320/img/51YZ4uQteEcdFuuk.jpg",
+        "public_metrics": {
+          "view_count": 16313
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002661208902840320/vid/avc1/1080x1920/tscJialg8YYtJAuk.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002661208902840320/vid/avc1/2160x3840/Bf6mRwnoT31ca1pv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002661208902840320/vid/avc1/480x852/sywX3Ed4NVGdyDwn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002661208902840320/pl/M9OQhNuFV1277esi.m3u8?v=8f4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002661208902840320/vid/avc1/720x1280/9tVg-7qBLl3xeylF.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002661208902840320/vid/avc1/320x568/Aw1-gydwx8oHU4VH.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2002782244377866360",
+        "created_at": "2025-12-21T16:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002782244377866360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "反田葉月",
+              "probability": 0.9381,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tanda_hazuki/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tanda_hazuki/status/2002661925860335837",
+              "start": 5,
+              "url": "https://t.co/1le5w2kQEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002782244377866360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002661925860335837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反田葉月 https://t.co/1le5w2kQEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002661208902840320"
+          ]
+        },
+        "author_id": "3853228393",
+        "conversation_id": "2002661925860335837",
+        "created_at": "2025-12-21T08:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002661925860335837"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "反田葉月",
+              "probability": 0.9333,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/unK2nbR7lz",
+              "end": 28,
+              "expanded_url": "https://x.com/tanda_hazuki/status/2002661925860335837/video/1",
+              "media_key": "13_2002661208902840320",
+              "start": 5,
+              "url": "https://t.co/unK2nbR7lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002661925860335837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 54971,
+          "like_count": 4102,
+          "quote_count": 33,
+          "reply_count": 48,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "反田葉月 https://t.co/unK2nbR7lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 656,
+          "like_count": 27763,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 1647
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./(@Root__mimi ラベンダーパープル担当)/D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg  #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 118,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Root__mimi"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7lviZz"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "location": "ストロボ",
+        "name": "反田葉月",
+        "pinned_tweet_id": "1984188544152412183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625435304984576/zxjPBMtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158119,
+          "following_count": 614,
+          "like_count": 70946,
+          "listed_count": 1179,
+          "media_count": 2859,
+          "tweet_count": 11003
+        },
+        "url": "https://t.co/9SVW7lviZz",
+        "username": "tanda_hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

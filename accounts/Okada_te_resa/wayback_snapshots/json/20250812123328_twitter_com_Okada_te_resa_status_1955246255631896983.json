@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1954865568680485086",
+    "created_at": "2025-08-12T12:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T13:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955246255631896983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541988772937551874",
+          "start": 0,
+          "username": "Jun666Xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955246255631896983",
+    "in_reply_to_user_id": "1541988772937551874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954865568680485086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jun666Xx 银亿这块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68450,
+        "height": 720,
+        "media_key": "13_1954864993222238208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954864993222238208/img/VAiqQ5xTqE_8-kC-.jpg",
+        "public_metrics": {
+          "view_count": 311785
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954864993222238208/vid/avc1/480x270/pT_pqrPbWnWwuHSX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954864993222238208/vid/avc1/640x360/IlZeW6KfMNmrY7Cg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954864993222238208/vid/avc1/1280x720/XB0IRDNYq52myzoI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954864993222238208/pl/nF84E9CDBRvibkeI.m3u8?v=892"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1954865568680485086",
+        "created_at": "2025-08-12T12:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955246255631896983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541988772937551874",
+              "start": 0,
+              "username": "Jun666Xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955246255631896983",
+        "in_reply_to_user_id": "1541988772937551874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954865568680485086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jun666Xx 银亿这块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954864993222238208"
+          ]
+        },
+        "author_id": "1541988772937551874",
+        "conversation_id": "1954865568680485086",
+        "created_at": "2025-08-11T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954865568680485086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFqTZhe3xg",
+              "end": 54,
+              "expanded_url": "https://x.com/Jun666Xx/status/1954865568680485086/video/1",
+              "media_key": "13_1954864993222238208",
+              "start": 31,
+              "url": "https://t.co/nFqTZhe3xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954865568680485086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 785,
+          "impression_count": 819601,
+          "like_count": 2807,
+          "quote_count": 40,
+          "reply_count": 657,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "东北哥们太猛了吧？\n\n说干就干？？？是真不懂法吗？？？！！！ https://t.co/nFqTZhe3xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 454,
+          "like_count": 18929,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 973
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T03:35:53.000Z",
+        "description": "专注探索 #Web3｜#GameFi｜#NFT｜#POW｜空投机会分享 ✨ Team @0xRootDao｜合作DM 📩 https://t.co/6KnYXvbJbi (🧙,🧙)🧙,⛺\n#币安 https://t.co/6ACBbd5ja0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 5,
+                "tag": "Web3"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "GameFi"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "NFT"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "POW"
+              },
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "币安"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "0xRootDao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Jun311",
+                "end": 84,
+                "expanded_url": "https://t.me/Jun311",
+                "start": 61,
+                "url": "https://t.co/6KnYXvbJbi"
+              },
+              {
+                "display_url": "maxweb.mobi/join?ref=JUN666",
+                "end": 121,
+                "expanded_url": "https://www.maxweb.mobi/join?ref=JUN666",
+                "start": 98,
+                "url": "https://t.co/6ACBbd5ja0"
+              }
+            ]
+          }
+        },
+        "id": "1541988772937551874",
+        "location": "上海",
+        "name": "币圈链丹师⛺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944625444776521728/gDYXMvkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16769,
+          "following_count": 955,
+          "like_count": 12944,
+          "listed_count": 67,
+          "media_count": 1127,
+          "tweet_count": 13769
+        },
+        "username": "Jun666Xx",
+        "verified": true
+      }
+    ]
+  }
+}

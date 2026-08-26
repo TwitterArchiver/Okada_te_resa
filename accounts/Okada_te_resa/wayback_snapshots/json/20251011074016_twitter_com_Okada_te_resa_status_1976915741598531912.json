@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1976731676698198323",
+    "created_at": "2025-10-11T07:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T08:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976915741598531912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976915741598531912",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976882911640273363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR @shuishuimao8964 小猫哈气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1976731676698198323",
+        "created_at": "2025-10-11T07:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T08:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976915741598531912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976915741598531912",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976882911640273363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR @shuishuimao8964 小猫哈气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642717433323745281",
+        "conversation_id": "1976731676698198323",
+        "created_at": "2025-10-11T05:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976882911640273363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "shuishuimao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976882911640273363",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 374,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976731676698198323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuishuimao8964 觉得不公平你去跳了吧😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 543,
+          "like_count": 22270,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1184
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973968029672517632/xLRfxz32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 321,
+          "like_count": 186,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 287
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

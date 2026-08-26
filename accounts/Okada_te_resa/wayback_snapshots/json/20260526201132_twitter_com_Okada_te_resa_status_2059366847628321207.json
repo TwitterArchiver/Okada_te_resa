@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044734873768955905"
+      ],
+      "media_source_tweet_id": [
+        "2044734978387517620"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2059366847628321207",
+    "created_at": "2026-05-26T20:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T21:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059366847628321207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1476080196776493056",
+          "start": 3,
+          "username": "munyamunyacat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QhbaERZi4g",
+          "end": 61,
+          "expanded_url": "https://x.com/munyamunyacat/status/2044734978387517620/video/1",
+          "media_key": "13_2044734873768955905",
+          "start": 38,
+          "url": "https://t.co/QhbaERZi4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059366847628321207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 765
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044734978387517620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @munyamunyacat: 犯されてる姿がよく見えるドスケベ画角 https://t.co/QhbaERZi4g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059366847628321207].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059366847628321207",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059366847628321207"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 3840,
+        "media_key": "13_2044734873768955905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044734873768955905/img/I_kHrS-_PdjXqJro.jpg",
+        "public_metrics": {
+          "view_count": 98163
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044734873768955905/vid/avc1/2160x3840/9uBT5jQzjMK5obm_.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044734873768955905/vid/avc1/320x568/1QdppoVstY9Tz_l6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044734873768955905/vid/avc1/1080x1920/B6IcRQ0Jzhz4jgN9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044734873768955905/pl/YgmoiG5zkQKchzmm.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044734873768955905/vid/avc1/480x852/kjSEOTNIQ-8VN-tn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044734873768955905/vid/avc1/720x1280/gcDWlXEPYls0ll7o.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044734873768955905"
+          ]
+        },
+        "author_id": "1476080196776493056",
+        "conversation_id": "2044734978387517620",
+        "created_at": "2026-04-16T11:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044734978387517620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhbaERZi4g",
+              "end": 42,
+              "expanded_url": "https://x.com/munyamunyacat/status/2044734978387517620/video/1",
+              "media_key": "13_2044734873768955905",
+              "start": 19,
+              "url": "https://t.co/QhbaERZi4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044734978387517620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3873,
+          "impression_count": 225436,
+          "like_count": 9375,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 765
+        },
+        "reply_settings": "everyone",
+        "text": "犯されてる姿がよく見えるドスケベ画角 https://t.co/QhbaERZi4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 882,
+          "like_count": 39281,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 2901
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T06:38:46.000Z",
+        "description": "コスプレ♡フェチ♡ペニバン♡ふたなり♡H105cm♡らゔ@yuuki_s0817♥️ 絵@OnaDo_様🐮 fantia🔗https://t.co/PBKjKrLR7o💗 下の↓リンクから全ての🔞に飛べます🪽日常@nemunyacat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "yuuki_s0817"
+              },
+              {
+                "end": 51,
+                "start": 44,
+                "username": "OnaDo_"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "nemunyacat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/nemuzzz",
+                "end": 84,
+                "expanded_url": "https://fantia.jp/nemuzzz",
+                "start": 61,
+                "url": "https://t.co/PBKjKrLR7o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/munyamunyanemu",
+                "end": 23,
+                "expanded_url": "https://lit.link/munyamunyanemu",
+                "start": 0,
+                "url": "https://t.co/5sfyokXlUO"
+              }
+            ]
+          }
+        },
+        "id": "1476080196776493056",
+        "location": "⚠️No reuploading.無断転載、AI学習禁止🚫",
+        "name": "ネむ🔫🌙",
+        "pinned_tweet_id": "2059198465012625828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058914202878947328/dTe0TtTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137328,
+          "following_count": 518,
+          "like_count": 32221,
+          "listed_count": 466,
+          "media_count": 1336,
+          "tweet_count": 20737
+        },
+        "url": "https://t.co/5sfyokXlUO",
+        "username": "munyamunyacat",
+        "verified": true
+      }
+    ]
+  }
+}

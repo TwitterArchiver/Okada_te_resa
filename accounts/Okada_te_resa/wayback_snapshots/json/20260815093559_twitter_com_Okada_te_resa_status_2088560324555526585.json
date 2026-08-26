@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2088560324555526585",
+    "created_at": "2026-08-15T09:35:59.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088560324555526585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YKoni86/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/YKoni86/status/2088294109966684553",
+          "start": 15,
+          "url": "https://t.co/GV3cthzGO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088560324555526585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088294109966684553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "fuck这他妈是辆卡布奇诺！ https://t.co/GV3cthzGO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088294103385874432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPscbDrboAA_b_z.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088294103398440961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPscbDubYAERMkN.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2088560324555526585",
+        "created_at": "2026-08-15T09:35:59.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088560324555526585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YKoni86/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/YKoni86/status/2088294109966684553",
+              "start": 15,
+              "url": "https://t.co/GV3cthzGO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088560324555526585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088294109966684553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fuck这他妈是辆卡布奇诺！ https://t.co/GV3cthzGO9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088294103385874432",
+            "3_2088294103398440961"
+          ]
+        },
+        "author_id": "1686146654628642816",
+        "conversation_id": "2088294109966684553",
+        "created_at": "2026-08-14T15:58:09.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088294109966684553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YOTnpvRp3",
+              "end": 52,
+              "expanded_url": "https://x.com/YKoni86/status/2088294109966684553/photo/1",
+              "media_key": "3_2088294103385874432",
+              "start": 29,
+              "url": "https://t.co/3YOTnpvRp3"
+            },
+            {
+              "display_url": "pic.x.com/3YOTnpvRp3",
+              "end": 52,
+              "expanded_url": "https://x.com/YKoni86/status/2088294109966684553/photo/1",
+              "media_key": "3_2088294103398440961",
+              "start": 29,
+              "url": "https://t.co/3YOTnpvRp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088294109966684553",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088294103385874432"
+          },
+          {
+            "media_key": "3_2088294103398440961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 111932,
+          "like_count": 2996,
+          "quote_count": 19,
+          "reply_count": 21,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "トレチーノver.8\n\nなかなかトレーノなってきましたw https://t.co/3YOTnpvRp3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2088560324555526585",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 1021,
+          "like_count": 45382,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-31T22:48:07.000Z",
+        "description": "奈良在住カプ乗り、元86野郎がカプをトレノっぽくして遊んでますw",
+        "id": "1686146654628642816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088553926983663663",
+        "name": "トレチーノ",
+        "pinned_tweet_id": "2088294109966684553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686146654628642816/1786750913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088410767133700097/OOert96W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 857,
+          "like_count": 41647,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "YKoni86",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

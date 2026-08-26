@@ -1,0 +1,672 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Based on the U.K. series of the same name, \"Top Gear\" takes a trio of enthusiasts -- comedian Adam Ferrara, champion rally racer Tanner Foust and racing analyst Rutledge Wood -- and gives them the chance to test an imaginative series of cars in a variety of outrageous situations. The show tracks the colorful history of the automobile while showcasing the epic stunts and outlandish challenges that take automotive technology for an entertaining ride, as well as highlighting the hosts' eccentric adventures.",
+          "id": "10002702249",
+          "name": "Top Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "This fast-paced, stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The hosts travel to locations around the world, performing extreme stunts and taking part in some unusual challenges to see what the featured cars are capable of. Celebrity guests also appear on some of the episodes to help test out the vehicles. However, things don't always go as planned, with broken bones and mechanical mishaps sometimes part of the experiments.",
+          "id": "10027335816",
+          "name": "Top Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10032366152",
+          "name": "Top Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043311584",
+          "name": "Top Gear : les courses les plus folles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Reality TV",
+          "id": "847523721065537536",
+          "name": "Reality TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1223677471905570817",
+          "name": "Top Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281299832259280896",
+          "name": "Gritty reality"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281300225634627584",
+          "name": "Motor reality"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1223677471905570817",
+          "name": "Top Gear"
+        }
+      }
+    ],
+    "conversation_id": "2068328686139666666",
+    "created_at": "2026-06-20T13:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068328686139666666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1274000870867439616",
+          "start": 3,
+          "username": "Shizukougames"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068328686139666666",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068045450024796439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shizukougames: I genuinely believe the death of Top Gear and the rise of boring cars are connected somehow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Based on the U.K. series of the same name, \"Top Gear\" takes a trio of enthusiasts -- comedian Adam Ferrara, champion rally racer Tanner Foust and racing analyst Rutledge Wood -- and gives them the chance to test an imaginative series of cars in a variety of outrageous situations. The show tracks the colorful history of the automobile while showcasing the epic stunts and outlandish challenges that take automotive technology for an entertaining ride, as well as highlighting the hosts' eccentric adventures.",
+              "id": "10002702249",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "This fast-paced, stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The hosts travel to locations around the world, performing extreme stunts and taking part in some unusual challenges to see what the featured cars are capable of. Celebrity guests also appear on some of the episodes to help test out the vehicles. However, things don't always go as planned, with broken bones and mechanical mishaps sometimes part of the experiments.",
+              "id": "10027335816",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10032366152",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043311584",
+              "name": "Top Gear : les courses les plus folles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reality TV",
+              "id": "847523721065537536",
+              "name": "Reality TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223677471905570817",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281299832259280896",
+              "name": "Gritty reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281300225634627584",
+              "name": "Motor reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223677471905570817",
+              "name": "Top Gear"
+            }
+          }
+        ],
+        "conversation_id": "2068328686139666666",
+        "created_at": "2026-06-20T13:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068328686139666666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1274000870867439616",
+              "start": 3,
+              "username": "Shizukougames"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068328686139666666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068045450024796439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shizukougames: I genuinely believe the death of Top Gear and the rise of boring cars are connected somehow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274000870867439616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Based on the U.K. series of the same name, \"Top Gear\" takes a trio of enthusiasts -- comedian Adam Ferrara, champion rally racer Tanner Foust and racing analyst Rutledge Wood -- and gives them the chance to test an imaginative series of cars in a variety of outrageous situations. The show tracks the colorful history of the automobile while showcasing the epic stunts and outlandish challenges that take automotive technology for an entertaining ride, as well as highlighting the hosts' eccentric adventures.",
+              "id": "10002702249",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "This fast-paced, stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The hosts travel to locations around the world, performing extreme stunts and taking part in some unusual challenges to see what the featured cars are capable of. Celebrity guests also appear on some of the episodes to help test out the vehicles. However, things don't always go as planned, with broken bones and mechanical mishaps sometimes part of the experiments.",
+              "id": "10027335816",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10032366152",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043311584",
+              "name": "Top Gear : les courses les plus folles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reality TV",
+              "id": "847523721065537536",
+              "name": "Reality TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223677471905570817",
+              "name": "Top Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281299832259280896",
+              "name": "Gritty reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281300225634627584",
+              "name": "Motor reality"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223677471905570817",
+              "name": "Top Gear"
+            }
+          }
+        ],
+        "conversation_id": "2068045450024796439",
+        "created_at": "2026-06-19T18:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068045450024796439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068045450024796439",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 71870,
+          "like_count": 5033,
+          "quote_count": 13,
+          "reply_count": 69,
+          "retweet_count": 274
+        },
+        "reply_settings": "everyone",
+        "text": "I genuinely believe the death of Top Gear and the rise of boring cars are connected somehow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 915,
+          "like_count": 40790,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 3094
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-19T15:27:39.000Z",
+        "description": "🇬🇧 Variety & Retro Gaming VTuber ✧ 🏎️🏁 Mercedes F1 ✧ Model: @seeshin_see @Amee_110304 ✧ Email: shizukoulive@gmail.com ✧ 🎨 #ShizuTone 🤣#ShizuMemes",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 122,
+                "tag": "ShizuTone"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "tag": "ShizuMemes"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "seeshin_see"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Amee_110304"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shizukou",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/shizukou",
+                "start": 0,
+                "url": "https://t.co/N9eSvyb0rr"
+              }
+            ]
+          }
+        },
+        "id": "1274000870867439616",
+        "location": "links in pinned ",
+        "name": "Shizukou😈🕹️ Retro Gamer",
+        "pinned_tweet_id": "2067340593336840685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050547358979457024/48nUXjfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37276,
+          "following_count": 936,
+          "like_count": 16400,
+          "listed_count": 143,
+          "media_count": 2036,
+          "tweet_count": 11921
+        },
+        "url": "https://t.co/N9eSvyb0rr",
+        "username": "Shizukougames",
+        "verified": true
+      }
+    ]
+  }
+}

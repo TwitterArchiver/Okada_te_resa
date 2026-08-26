@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963603163753451526"
+      ],
+      "media_source_tweet_id": [
+        "1963603463507775512"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1963697817937141982",
+    "created_at": "2025-09-04T20:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T21:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963697817937141982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITS1DtWMCk",
+          "end": 52,
+          "expanded_url": "https://x.com/igeekbb/status/1963603463507775512/video/1",
+          "media_key": "13_1963603163753451526",
+          "start": 29,
+          "url": "https://t.co/ITS1DtWMCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963697817937141982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963603463507775512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 海底捞蘸料配法，改天我要试试。 https://t.co/ITS1DtWMCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16900,
+        "height": 1440,
+        "media_key": "13_1963603163753451526",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963603163753451526/img/C7BEOfHAM4SMP5c9.jpg",
+        "public_metrics": {
+          "view_count": 45834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963603163753451526/vid/avc1/320x426/3w8Lg6L66MF5hFOm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963603163753451526/vid/avc1/1080x1440/LQErzCoPMs6JpV8h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963603163753451526/vid/avc1/480x640/4Jfn5bgqsFwT6HSZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963603163753451526/vid/avc1/720x960/9KTRlgV5Syyd2MQT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963603163753451526/pl/XnBxSgvq6pFXF99x.m3u8?v=08b"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963603163753451526"
+          ],
+          "media_source_tweet_id": [
+            "1963603463507775512"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963697817937141982",
+        "created_at": "2025-09-04T20:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T21:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963697817937141982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITS1DtWMCk",
+              "end": 52,
+              "expanded_url": "https://x.com/igeekbb/status/1963603463507775512/video/1",
+              "media_key": "13_1963603163753451526",
+              "start": 29,
+              "url": "https://t.co/ITS1DtWMCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963697817937141982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963603463507775512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 海底捞蘸料配法，改天我要试试。 https://t.co/ITS1DtWMCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963603163753451526"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1963603463507775512",
+        "created_at": "2025-09-04T14:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963603463507775512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITS1DtWMCk",
+              "end": 39,
+              "expanded_url": "https://x.com/igeekbb/status/1963603463507775512/video/1",
+              "media_key": "13_1963603163753451526",
+              "start": 16,
+              "url": "https://t.co/ITS1DtWMCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963603463507775512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 90274,
+          "like_count": 601,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "海底捞蘸料配法，改天我要试试。 https://t.co/ITS1DtWMCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 490,
+          "like_count": 20504,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1091
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49402,
+          "following_count": 1,
+          "like_count": 5787,
+          "listed_count": 195,
+          "media_count": 5123,
+          "tweet_count": 7806
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

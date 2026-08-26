@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1931749452739723269",
+    "created_at": "2025-06-08T17:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931765362464526465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1258406248199802880",
+          "start": 0,
+          "username": "LE77678238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931765362464526465",
+    "in_reply_to_user_id": "1258406248199802880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 38,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931749452739723269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LE77678238 1.9m举手🙋🏻‍♀️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1931749449958932480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7z48_bwAAZuio.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1931749452739723269",
+        "created_at": "2025-06-08T17:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931765362464526465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1258406248199802880",
+              "start": 0,
+              "username": "LE77678238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931765362464526465",
+        "in_reply_to_user_id": "1258406248199802880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931749452739723269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LE77678238 1.9m举手🙋🏻‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931749449958932480"
+          ]
+        },
+        "author_id": "1258406248199802880",
+        "conversation_id": "1931749452739723269",
+        "created_at": "2025-06-08T16:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T17:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931749452739723269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSgov2LCac",
+              "end": 161,
+              "expanded_url": "https://x.com/LE77678238/status/1931749452739723269/photo/1",
+              "media_key": "3_1931749449958932480",
+              "start": 138,
+              "url": "https://t.co/qSgov2LCac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931749452739723269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2598,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "时限年末之前  请一位高人\n要求一米九男娘（接近一米九也行 越高越好 ） 南方人\n在南方也行 也不一定非得南方人\n（包飞路费  和星熊cos服整套 鞋子假发衣服  道具  化妆师 食宿餐饮（指角   如果买得到盾牌我去送  ）） 符合条件，我满意即可      截止年末之前 https://t.co/qSgov2LCac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 305,
+          "like_count": 14441,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 617
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T14:40:17.000Z",
+        "description": "伪娘cos爱玩男娘百合贴贴） 请勿转发平台外 （谢谢你们愿意喜欢我）（接cos委托）\n🚪(95）解锁好友位+送涩图作品一部 定制作品带上你的预算）不过门槛不闲聊 没礼貌的勿扰  （可爱男娘朋友欢迎）  海外投喂→https://t.co/QP09nH7zcu\n /看娃的  →@leyibao22805",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 138,
+                "username": "leyibao22805"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "afdian.com/a/chenbao520",
+                "end": 129,
+                "expanded_url": "https://afdian.com/a/chenbao520",
+                "start": 106,
+                "url": "https://t.co/QP09nH7zcu"
+              }
+            ]
+          }
+        },
+        "id": "1258406248199802880",
+        "location": "台灣",
+        "name": "忆往昔LE岁月 怡宝",
+        "pinned_tweet_id": "1866117870150898092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829705730959519744/aAVb9361_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78327,
+          "following_count": 308,
+          "like_count": 4278,
+          "listed_count": 471,
+          "media_count": 534,
+          "tweet_count": 2699
+        },
+        "username": "LE77678238",
+        "verified": false
+      }
+    ]
+  }
+}

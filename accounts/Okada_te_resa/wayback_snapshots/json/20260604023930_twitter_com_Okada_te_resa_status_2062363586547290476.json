@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2062253403573715316",
+    "created_at": "2026-06-04T02:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062363586547290476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610865989398462465",
+          "start": 0,
+          "username": "BeforeNoise0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062363586547290476",
+    "in_reply_to_user_id": "1610865989398462465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062253403573715316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeforeNoise0 做了么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062253397370376192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6YieMakAAxw10.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2062253403573715316",
+        "created_at": "2026-06-04T02:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062363586547290476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610865989398462465",
+              "start": 0,
+              "username": "BeforeNoise0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062363586547290476",
+        "in_reply_to_user_id": "1610865989398462465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062253403573715316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeforeNoise0 做了么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062253397370376192"
+          ]
+        },
+        "author_id": "1610865989398462465",
+        "conversation_id": "2062253403573715316",
+        "created_at": "2026-06-03T19:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062253403573715316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNASNz9H3U",
+              "end": 78,
+              "expanded_url": "https://x.com/BeforeNoise0/status/2062253403573715316/photo/1",
+              "media_key": "3_2062253397370376192",
+              "start": 55,
+              "url": "https://t.co/aNASNz9H3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062253403573715316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在公园坐着玩手机 突然一个姐问我能不能和我坐一起结果聊了几句躺在了我的腿上  但是我现在在人家家床上？？？ https://t.co/aNASNz9H3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 887,
+          "like_count": 39755,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 2978
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "04/entp/双子/一般人 /中日英勉强使用？？？",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055702522439114752/nXi7MTOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 746,
+          "like_count": 9843,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 4434
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2047134193768165489",
+    "created_at": "2026-04-23T02:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047134193768165489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717910688168108032",
+          "start": 3,
+          "username": "heizhongcao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047134193768165489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046636080020250913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heizhongcao: 我真求这些人生堪比开挂的傻子别天天无病呻吟割手嗑药了，上海独生女，日本留学，男友对自己一心一意，这几个词单拎出来都够我嫉妒一辈子了我操你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2047134193768165489",
+        "created_at": "2026-04-23T02:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047134193768165489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717910688168108032",
+              "start": 3,
+              "username": "heizhongcao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047134193768165489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046636080020250913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heizhongcao: 我真求这些人生堪比开挂的傻子别天天无病呻吟割手嗑药了，上海独生女，日本留学，男友对自己一心一意，这几个词单拎出来都够我嫉妒一辈子了我操你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717910688168108032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2046636080020250913",
+        "created_at": "2026-04-21T17:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046636080020250913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046636080020250913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 35725,
+          "like_count": 976,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我真求这些人生堪比开挂的傻子别天天无病呻吟割手嗑药了，上海独生女，日本留学，男友对自己一心一意，这几个词单拎出来都够我嫉妒一辈子了我操你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 783,
+          "like_count": 37111,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 2549
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T14:26:53.000Z",
+        "description": "前往幸福的彼端",
+        "id": "1717910688168108032",
+        "location": "🚪288",
+        "name": "黑种草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918266390689267715/seJqV9JS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2982,
+          "following_count": 321,
+          "like_count": 36051,
+          "listed_count": 5,
+          "media_count": 508,
+          "tweet_count": 12296
+        },
+        "username": "heizhongcao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065515695098806272"
+      ],
+      "media_source_tweet_id": [
+        "2065515707039969448"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2065535548354388176",
+    "created_at": "2026-06-12T20:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065535548354388176"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "男娘"
+        },
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "femboy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042682432848035840",
+          "start": 3,
+          "username": "Kawakin_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZBQ0u3MsG",
+          "end": 52,
+          "expanded_url": "https://x.com/Kawakin_ovo/status/2065515707039969448/photo/1",
+          "media_key": "3_2065515695098806272",
+          "start": 29,
+          "url": "https://t.co/LZBQ0u3MsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065535548354388176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065515707039969448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kawakin_ovo: #男娘 #femboy https://t.co/LZBQ0u3MsG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065515695098806272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKovlMRbwAAK4Ld.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065515695098806272"
+          ],
+          "media_source_tweet_id": [
+            "2065515707039969448"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2065535548354388176",
+        "created_at": "2026-06-12T20:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065535548354388176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042682432848035840",
+              "start": 3,
+              "username": "Kawakin_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZBQ0u3MsG",
+              "end": 52,
+              "expanded_url": "https://x.com/Kawakin_ovo/status/2065515707039969448/photo/1",
+              "media_key": "3_2065515695098806272",
+              "start": 29,
+              "url": "https://t.co/LZBQ0u3MsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065535548354388176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065515707039969448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kawakin_ovo: #男娘 #femboy https://t.co/LZBQ0u3MsG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065515695098806272"
+          ]
+        },
+        "author_id": "2042682432848035840",
+        "conversation_id": "2065515707039969448",
+        "created_at": "2026-06-12T19:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065515707039969448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZBQ0u3MsG",
+              "end": 35,
+              "expanded_url": "https://x.com/Kawakin_ovo/status/2065515707039969448/photo/1",
+              "media_key": "3_2065515695098806272",
+              "start": 12,
+              "url": "https://t.co/LZBQ0u3MsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065515707039969448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 615,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #femboy https://t.co/LZBQ0u3MsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 907,
+          "like_count": 40406,
+          "listed_count": 4,
+          "media_count": 643,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T19:14:00.000Z",
+        "description": "大号@Numbfish_ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Numbfish_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+1HI60YTiuiwzN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+1HI60YTiuiwzNmE9",
+                "start": 0,
+                "url": "https://t.co/a72k4yQKHU"
+              }
+            ]
+          }
+        },
+        "id": "2042682432848035840",
+        "location": "有售图包🚪188/288/520",
+        "name": "魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042682646913077248/gINyGksR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 12,
+          "like_count": 76,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/a72k4yQKHU",
+        "username": "Kawakin_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

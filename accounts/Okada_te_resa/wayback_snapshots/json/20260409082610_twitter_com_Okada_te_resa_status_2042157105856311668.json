@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042062926857842688"
+      ],
+      "media_source_tweet_id": [
+        "2042062934587928908"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042157105856311668",
+    "created_at": "2026-04-09T08:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042157105856311668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1083494690580619264",
+          "start": 3,
+          "username": "peterpanza1"
+        },
+        {
+          "end": 26,
+          "id": "1828632343680294916",
+          "start": 17,
+          "username": "jianlvya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BHGYE3Xna4",
+          "end": 56,
+          "expanded_url": "https://x.com/peterpanza1/status/2042062934587928908/photo/1",
+          "media_key": "3_2042062926857842688",
+          "start": 33,
+          "url": "https://t.co/BHGYE3Xna4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042157105856311668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042062934587928908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peterpanza1: @jianlvya 也不是不行 https://t.co/BHGYE3Xna4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2042062926857842688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbdaaRbMAAVp1I.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042062926857842688"
+          ],
+          "media_source_tweet_id": [
+            "2042062934587928908"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042157105856311668",
+        "created_at": "2026-04-09T08:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042157105856311668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1083494690580619264",
+              "start": 3,
+              "username": "peterpanza1"
+            },
+            {
+              "end": 26,
+              "id": "1828632343680294916",
+              "start": 17,
+              "username": "jianlvya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHGYE3Xna4",
+              "end": 56,
+              "expanded_url": "https://x.com/peterpanza1/status/2042062934587928908/photo/1",
+              "media_key": "3_2042062926857842688",
+              "start": 33,
+              "url": "https://t.co/BHGYE3Xna4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042157105856311668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042062934587928908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peterpanza1: @jianlvya 也不是不行 https://t.co/BHGYE3Xna4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042062926857842688"
+          ]
+        },
+        "author_id": "1083494690580619264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042039219322024127",
+        "created_at": "2026-04-09T02:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042062934587928908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHGYE3Xna4",
+              "end": 39,
+              "expanded_url": "https://x.com/peterpanza1/status/2042062934587928908/photo/1",
+              "media_key": "3_2042062926857842688",
+              "start": 16,
+              "url": "https://t.co/BHGYE3Xna4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042062934587928908",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7999,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042039219322024127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 也不是不行 https://t.co/BHGYE3Xna4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 755,
+          "like_count": 36382,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 2417
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-10T22:43:59.000Z",
+        "description": "",
+        "id": "1083494690580619264",
+        "location": "Statesboro, GA",
+        "name": "peterpanza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1286478770602299392/dwviZTOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 395,
+          "like_count": 3074,
+          "listed_count": 4,
+          "media_count": 502,
+          "tweet_count": 8033
+        },
+        "username": "peterpanza1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2042039219322024127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 985,
+          "like_count": 18163,
+          "listed_count": 13,
+          "media_count": 712,
+          "tweet_count": 1401
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

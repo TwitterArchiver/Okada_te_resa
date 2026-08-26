@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046522375127392256"
+      ],
+      "media_source_tweet_id": [
+        "2046522809615290377"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2046559267147440319",
+    "created_at": "2026-04-21T11:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046559267147440319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "男の娘"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "男娘"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "伪娘"
+        },
+        {
+          "end": 82,
+          "start": 72,
+          "tag": "プロジェクトセカイ"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "暁山瑞希"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "東雲絵名"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "572223752",
+          "start": 3,
+          "username": "DanMoooi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkjpoQV5O2",
+          "end": 118,
+          "expanded_url": "https://x.com/DanMoooi/status/2046522809615290377/photo/1",
+          "media_key": "3_2046522375127392256",
+          "start": 95,
+          "url": "https://t.co/wkjpoQV5O2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046559267147440319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046522809615290377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanMoooi: 我要看画糖四爱你尔多龙吗？\n恶娜娜攻肖瑞希受这口好好吃有没有懂的？\n会有后续的（五条脸）\n#男の娘 #男娘 #伪娘 #プロジェクトセカイ #暁山瑞希 #東雲絵名 https://t.co/wkjpoQV5O2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046559267147440319].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046559267147440319",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046559267147440319"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4062,
+        "media_key": "3_2046522375127392256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa1QdpbYAAiJyo.jpg",
+        "width": 2546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046522375127392256"
+          ]
+        },
+        "author_id": "572223752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2046522809615290377",
+        "created_at": "2026-04-21T09:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046522809615290377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "男の娘"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "男娘"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "伪娘"
+            },
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "プロジェクトセカイ"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "暁山瑞希"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "東雲絵名"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkjpoQV5O2",
+              "end": 104,
+              "expanded_url": "https://x.com/DanMoooi/status/2046522809615290377/photo/1",
+              "media_key": "3_2046522375127392256",
+              "start": 81,
+              "url": "https://t.co/wkjpoQV5O2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046522809615290377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要看画糖四爱你尔多龙吗？\n恶娜娜攻肖瑞希受这口好好吃有没有懂的？\n会有后续的（五条脸）\n#男の娘 #男娘 #伪娘 #プロジェクトセカイ #暁山瑞希 #東雲絵名 https://t.co/wkjpoQV5O2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 778,
+          "like_count": 36977,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 2524
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-06T01:55:18.000Z",
+        "description": "R18G 插画师 漫画师｜含糖MTX🍥｜病弱体质｜\nP站:https://t.co/sv2tI9aNbK  四月恢复接稿…会慢更小说和插画漫画 ｜\n这里主要日常碎碎念+自拍+同步p站更新插画漫画",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/98687985",
+                "end": 52,
+                "expanded_url": "https://www.pixiv.net/users/98687985",
+                "start": 29,
+                "url": "https://t.co/sv2tI9aNbK"
+              }
+            ]
+          }
+        },
+        "id": "572223752",
+        "name": "丹墨离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942255962624262144/np4f2PQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 144,
+          "like_count": 404,
+          "listed_count": 10,
+          "media_count": 167,
+          "tweet_count": 614
+        },
+        "username": "DanMoooi",
+        "verified": false
+      }
+    ]
+  }
+}

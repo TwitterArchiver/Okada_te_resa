@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937785818279739397"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1937785835212206468",
+    "created_at": "2025-06-25T08:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T09:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937785835212206468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1GJtwsuu5r",
+          "end": 30,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1937785835212206468/photo/1",
+          "media_key": "3_1937785818279739397",
+          "start": 7,
+          "url": "https://t.co/1GJtwsuu5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937785835212206468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来入我门槛 https://t.co/1GJtwsuu5r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1937785818279739397",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRl71VagAU8dm7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937785818279739397"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1937785835212206468",
+        "created_at": "2025-06-25T08:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937785835212206468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GJtwsuu5r",
+              "end": 30,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1937785835212206468/photo/1",
+              "media_key": "3_1937785818279739397",
+              "start": 7,
+              "url": "https://t.co/1GJtwsuu5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937785835212206468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来入我门槛 https://t.co/1GJtwsuu5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 353,
+          "like_count": 15665,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 706
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

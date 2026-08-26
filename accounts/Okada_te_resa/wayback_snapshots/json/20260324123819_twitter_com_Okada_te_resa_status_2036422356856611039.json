@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2036422356856611039",
+    "created_at": "2026-03-24T12:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T13:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036422356856611039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Saito_Shuka/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Saito_Shuka/status/2036421082367009106",
+          "start": 11,
+          "url": "https://t.co/VRxoaBHxFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036422356856611039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036421082367009106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你是一个一个宝宝 https://t.co/VRxoaBHxFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036421073559068673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELSLU6boAEOQwj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2036422356856611039",
+        "created_at": "2026-03-24T12:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036422356856611039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Saito_Shuka/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Saito_Shuka/status/2036421082367009106",
+              "start": 11,
+              "url": "https://t.co/VRxoaBHxFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036422356856611039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036421082367009106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你是一个一个宝宝 https://t.co/VRxoaBHxFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036421073559068673"
+          ]
+        },
+        "author_id": "3801397033",
+        "conversation_id": "2036421082367009106",
+        "created_at": "2026-03-24T12:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036421082367009106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUY6rk3lTV",
+              "end": 32,
+              "expanded_url": "https://x.com/Saito_Shuka/status/2036421082367009106/photo/1",
+              "media_key": "3_2036421073559068673",
+              "start": 9,
+              "url": "https://t.co/GUY6rk3lTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036421082367009106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3262,
+          "like_count": 648,
+          "quote_count": 15,
+          "reply_count": 46,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "黒髪にしました。 https://t.co/GUY6rk3lTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 736,
+          "like_count": 35301,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2260
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T08:36:22.000Z",
+        "description": "斉藤朱夏 公式！声優/アーティスト◎！。#lovelive #Aqours 渡辺曜/ #俺好き サザンカ/ #ワンエグ 川井リカ/ #明日ちゃんのセーラー服 福元幹 /#草食ドラゴン 水の聖女 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "lovelive"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aqours"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "俺好き"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "ワンエグ"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "明日ちゃんのセーラー服"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "草食ドラゴン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atashi-shuka.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://atashi-shuka.bitfan.id",
+                "start": 0,
+                "url": "https://t.co/g9g3Xbx0Wj"
+              }
+            ]
+          }
+        },
+        "id": "3801397033",
+        "location": "あたしの推しはファンの子達。",
+        "name": "斉藤 朱夏",
+        "pinned_tweet_id": "2014501571439296925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028418221431484417/kUXtra_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369600,
+          "following_count": 459,
+          "like_count": 7207,
+          "listed_count": 8428,
+          "media_count": 2220,
+          "tweet_count": 11091
+        },
+        "url": "https://t.co/g9g3Xbx0Wj",
+        "username": "Saito_Shuka",
+        "verified": true
+      }
+    ]
+  }
+}

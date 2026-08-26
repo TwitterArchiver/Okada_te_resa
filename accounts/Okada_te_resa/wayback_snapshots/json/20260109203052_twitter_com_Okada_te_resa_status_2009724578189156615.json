@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2009295195322409234",
+    "created_at": "2026-01-09T20:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T21:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009724578189156615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000111596371410944",
+          "start": 0,
+          "username": "Chenhj__mussssk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009724578189156615",
+    "in_reply_to_user_id": "2000111596371410944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009295195322409234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenhj__mussssk 3724"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2009295128138272770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JzRfma0AI5Ez5.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2009295195322409234",
+        "created_at": "2026-01-09T20:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T21:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009724578189156615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000111596371410944",
+              "start": 0,
+              "username": "Chenhj__mussssk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009724578189156615",
+        "in_reply_to_user_id": "2000111596371410944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009295195322409234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenhj__mussssk 3724"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009295128138272770"
+          ]
+        },
+        "author_id": "2000111596371410944",
+        "conversation_id": "2009295195322409234",
+        "created_at": "2026-01-08T16:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009295195322409234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5RWW5IGcn",
+              "end": 35,
+              "expanded_url": "https://x.com/Chenhj__mussssk/status/2009295195322409234/photo/1",
+              "media_key": "3_2009295128138272770",
+              "start": 12,
+              "url": "https://t.co/d5RWW5IGcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009295195322409234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 85786,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家应该都懂我要说什么 https://t.co/d5RWW5IGcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 678,
+          "like_count": 29009,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 1711
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T07:52:32.000Z",
+        "description": "东山再起罢 被献祭的原号 @chenhj_sakana 推友寻回ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "chenhj_sakana"
+              }
+            ]
+          }
+        },
+        "id": "2000111596371410944",
+        "name": "晨晖",
+        "pinned_tweet_id": "2000148722723041435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000113285878935552/JdvA5BET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 293,
+          "like_count": 2431,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 216
+        },
+        "username": "Chenhj__mussssk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2036175077549679042",
+    "created_at": "2026-03-23T20:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T21:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036175077549679042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hoyooyoo/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Hoyooyoo/status/2036061291014737950",
+          "start": 24,
+          "url": "https://t.co/wYhhHhFHGu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036175077549679042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036061291014737950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伊朗那个导弹，哐当一下，干我车的三角篓子里边了 https://t.co/wYhhHhFHGu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2036175077549679042",
+        "created_at": "2026-03-23T20:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036175077549679042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hoyooyoo/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Hoyooyoo/status/2036061291014737950",
+              "start": 24,
+              "url": "https://t.co/wYhhHhFHGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036175077549679042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036061291014737950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伊朗那个导弹，哐当一下，干我车的三角篓子里边了 https://t.co/wYhhHhFHGu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "451227754",
+        "conversation_id": "2036061291014737950",
+        "created_at": "2026-03-23T12:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036061291014737950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036061291014737950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 458051,
+          "like_count": 530,
+          "quote_count": 8,
+          "reply_count": 276,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国油轮可以通过霍尔姆斯海峡，加油站还要涨价这么多？太过分了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 736,
+          "like_count": 35440,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2258
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T05:43:51.000Z",
+        "description": "Price action trader，CFA，分析人类活动在图表上的价格行为。 💪经典战绩太多，见精选“亮点”。📖了解我的交易思想 #秋生裸K 操纵人类意识活动比操纵价格更重要。（认准唯一账号，避免被冒充的骗子割腰子）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "秋生裸K"
+              }
+            ]
+          }
+        },
+        "id": "451227754",
+        "name": "秋生trader",
+        "pinned_tweet_id": "1980447628870709344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348954898386149382/Yf1kNBc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42896,
+          "following_count": 1203,
+          "like_count": 10517,
+          "listed_count": 625,
+          "media_count": 1429,
+          "tweet_count": 17791
+        },
+        "username": "Hoyooyoo",
+        "verified": true
+      }
+    ]
+  }
+}

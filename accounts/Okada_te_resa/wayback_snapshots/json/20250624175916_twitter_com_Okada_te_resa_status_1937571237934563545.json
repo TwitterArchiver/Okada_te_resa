@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1937571237934563545",
+    "created_at": "2025-06-24T17:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T18:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937571237934563545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779579060370522112",
+          "start": 3,
+          "username": "amekami011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937571237934563545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937198269974872531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amekami011: 谁能帮我转转我是ame急支血浆。我的号又炸了啊啊啊啊呵呵，前世@amedes8964 谁还记得这个可怜的女孩？\n奖池：‼️转发这条抽三个188抽两个52抽一个lizlisa抽两个免线下门槛\n真的下血本了求放过我求老天再给这个可爱的小女孩一次机会吧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937571237934563545].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937571237934563545",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937571237934563545"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937198259841433600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJPjblagAA_HgL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937198259841433600"
+          ]
+        },
+        "author_id": "1779579060370522112",
+        "conversation_id": "1937198269974872531",
+        "created_at": "2025-06-23T17:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T18:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937198269974872531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hw0mW1XwLr",
+              "end": 147,
+              "expanded_url": "https://x.com/amekami011/status/1937198269974872531/photo/1",
+              "media_key": "3_1937198259841433600",
+              "start": 124,
+              "url": "https://t.co/Hw0mW1XwLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937198269974872531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7075,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "谁能帮我转转我是ame急支血浆。我的号又炸了啊啊啊啊呵呵，前世@amedes8964 谁还记得这个可怜的女孩？\n奖池：‼️转发这条抽三个188抽两个52抽一个lizlisa抽两个免线下门槛\n真的下血本了求放过我求老天再给这个可爱的小女孩一次机会吧 https://t.co/Hw0mW1XwLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 352,
+          "like_count": 15650,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 704
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T18:35:05.000Z",
+        "description": "总之就是这个女孩重生第五次了吧。",
+        "id": "1779579060370522112",
+        "location": "🚪199/288/388/5201314/5200",
+        "name": "急支血浆重生五代目",
+        "pinned_tweet_id": "1937198269974872531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937199187088789504/4jKDLLzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 51,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "username": "amekami011",
+        "verified": false
+      }
+    ]
+  }
+}

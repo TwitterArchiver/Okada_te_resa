@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2008041097793282309",
+    "created_at": "2026-01-05T05:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T06:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008041097793282309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008041097793282309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007331977448583463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiheyaokanwo: 我明明只是想要一个正常的人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2008041097793282309",
+        "created_at": "2026-01-05T05:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T06:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008041097793282309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008041097793282309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007331977448583463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weiheyaokanwo: 我明明只是想要一个正常的人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "2007331977448583463",
+        "created_at": "2026-01-03T06:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007331977448583463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007331977448583463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1368,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我明明只是想要一个正常的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 671,
+          "like_count": 28680,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 1694
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ/ダメ女 追寻梦中的死亡/🚪288 谢谢你照顾我",
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990250273076600832/GZMeL-dW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 642,
+          "like_count": 1418,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 2654
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

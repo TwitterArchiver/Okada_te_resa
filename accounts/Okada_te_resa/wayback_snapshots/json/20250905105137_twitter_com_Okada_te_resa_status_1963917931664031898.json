@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1963594558857527792",
+    "created_at": "2025-09-05T10:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T11:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963917931664031898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1600736628984938496",
+          "start": 0,
+          "username": "shfftw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963917931664031898",
+    "in_reply_to_user_id": "1600736628984938496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963594558857527792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shfftw 青年大学习"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 1280,
+        "media_key": "13_1963594497289330688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963594497289330688/img/nPB1HX8sRc2nCK-p.jpg",
+        "public_metrics": {
+          "view_count": 386542
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963594497289330688/vid/avc1/320x568/R969AWhtNmiimWcZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963594497289330688/vid/avc1/480x852/VgmeQDVryRqjo2S_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963594497289330688/vid/avc1/720x1280/1j2bzmMpiotP_rez.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963594497289330688/pl/yYLBsNu4wrMAPD79.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1963594558857527792",
+        "created_at": "2025-09-05T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963917931664031898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1600736628984938496",
+              "start": 0,
+              "username": "shfftw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963917931664031898",
+        "in_reply_to_user_id": "1600736628984938496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963594558857527792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shfftw 青年大学习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963594497289330688"
+          ]
+        },
+        "author_id": "1600736628984938496",
+        "conversation_id": "1963594558857527792",
+        "created_at": "2025-09-04T13:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T14:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963594558857527792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpJLzmon6Z",
+              "end": 74,
+              "expanded_url": "https://x.com/shfftw/status/1963594558857527792/video/1",
+              "media_key": "13_1963594497289330688",
+              "start": 51,
+              "url": "https://t.co/KpJLzmon6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963594558857527792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 971,
+          "impression_count": 626467,
+          "like_count": 2434,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "如何讓女生覺得舒服😌\nHow can I make a girl feel comfortable? https://t.co/KpJLzmon6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 490,
+          "like_count": 20518,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1092
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T06:18:53.000Z",
+        "description": "Likey訂閱 看更多日常性感照~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shff.tw/all/",
+                "end": 23,
+                "expanded_url": "https://shff.tw/all/",
+                "start": 0,
+                "url": "https://t.co/2BENXc7Lfz"
+              }
+            ]
+          }
+        },
+        "id": "1600736628984938496",
+        "location": "New Taipei City, Taiwan",
+        "name": "小花姐接",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639959912431382528/CDxVBcC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22396,
+          "following_count": 57,
+          "like_count": 694,
+          "listed_count": 48,
+          "media_count": 433,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/2BENXc7Lfz",
+        "username": "shfftw",
+        "verified": false
+      }
+    ]
+  }
+}

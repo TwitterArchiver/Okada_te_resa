@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069407255737548800"
+      ],
+      "media_source_tweet_id": [
+        "2069407262784004441"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2069548293781340543",
+    "created_at": "2026-06-23T22:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T23:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069548293781340543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1073215503315783680",
+          "start": 3,
+          "username": "Yasal_170"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKSAHFfFJc",
+          "end": 41,
+          "expanded_url": "https://x.com/Yasal_170/status/2069407262784004441/photo/1",
+          "media_key": "3_2069407255737548800",
+          "start": 18,
+          "url": "https://t.co/NKSAHFfFJc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069548293781340543",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069407262784004441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yasal_170: ⛱️ https://t.co/NKSAHFfFJc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069407255737548800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgC71XaQAARaa3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069407255737548800"
+          ],
+          "media_source_tweet_id": [
+            "2069407262784004441"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2069548293781340543",
+        "created_at": "2026-06-23T22:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069548293781340543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1073215503315783680",
+              "start": 3,
+              "username": "Yasal_170"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKSAHFfFJc",
+              "end": 41,
+              "expanded_url": "https://x.com/Yasal_170/status/2069407262784004441/photo/1",
+              "media_key": "3_2069407255737548800",
+              "start": 18,
+              "url": "https://t.co/NKSAHFfFJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069548293781340543",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069407262784004441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yasal_170: ⛱️ https://t.co/NKSAHFfFJc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069407255737548800"
+          ]
+        },
+        "author_id": "1073215503315783680",
+        "conversation_id": "2069407262784004441",
+        "created_at": "2026-06-23T13:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069407262784004441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKSAHFfFJc",
+              "end": 26,
+              "expanded_url": "https://x.com/Yasal_170/status/2069407262784004441/photo/1",
+              "media_key": "3_2069407255737548800",
+              "start": 3,
+              "url": "https://t.co/NKSAHFfFJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069407262784004441",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 47560,
+          "like_count": 5516,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "⛱️ https://t.co/NKSAHFfFJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 921,
+          "like_count": 41034,
+          "listed_count": 4,
+          "media_count": 673,
+          "tweet_count": 3118
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T13:58:10.000Z",
+        "description": "RZ Cos | RZ Heroes / Business : teamrz@naver.com / One and only Yasal's real account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yasal_170",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yasal_170",
+                "start": 0,
+                "url": "https://t.co/eJFm7QU5Fi"
+              }
+            ]
+          }
+        },
+        "id": "1073215503315783680",
+        "location": "weesuzana@naver.com",
+        "name": "야살 / Yasal",
+        "pinned_tweet_id": "2053397906124910750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932840115141029889/96jIZRqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889184,
+          "following_count": 594,
+          "like_count": 9108,
+          "listed_count": 2130,
+          "media_count": 1737,
+          "tweet_count": 17279
+        },
+        "url": "https://t.co/eJFm7QU5Fi",
+        "username": "Yasal_170",
+        "verified": true
+      }
+    ]
+  }
+}

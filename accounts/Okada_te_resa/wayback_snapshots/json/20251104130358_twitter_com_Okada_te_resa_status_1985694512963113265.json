@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985663398227689473"
+      ],
+      "media_source_tweet_id": [
+        "1985663412094058805"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1985694512963113265",
+    "created_at": "2025-11-04T13:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T14:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985694512963113265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431170928713494535",
+          "start": 3,
+          "username": "vega_teu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufTIsrr5qQ",
+          "end": 95,
+          "expanded_url": "https://x.com/vega_teu/status/1985663412094058805/photo/1",
+          "media_key": "3_1985663398227689473",
+          "start": 72,
+          "url": "https://t.co/ufTIsrr5qQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985694512963113265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985663412094058805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vega_teu: NEEDY GIRL OVERDOSE\n꒰ঌゆるふわえんじぇるがーる໒꒱\n\n新グッズのモデルさせていただきました💜 https://t.co/ufTIsrr5qQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_1985663398227689473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45-VxbbQAEqsEN.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985663398227689473"
+          ],
+          "media_source_tweet_id": [
+            "1985663412094058805"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1985694512963113265",
+        "created_at": "2025-11-04T13:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985694512963113265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431170928713494535",
+              "start": 3,
+              "username": "vega_teu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufTIsrr5qQ",
+              "end": 95,
+              "expanded_url": "https://x.com/vega_teu/status/1985663412094058805/photo/1",
+              "media_key": "3_1985663398227689473",
+              "start": 72,
+              "url": "https://t.co/ufTIsrr5qQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985694512963113265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985663412094058805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vega_teu: NEEDY GIRL OVERDOSE\n꒰ঌゆるふわえんじぇるがーる໒꒱\n\n新グッズのモデルさせていただきました💜 https://t.co/ufTIsrr5qQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985663398227689473"
+          ]
+        },
+        "author_id": "1431170928713494535",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1985663412094058805",
+        "created_at": "2025-11-04T11:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985663412094058805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "NEEDY GIRL OVERDOSE",
+              "probability": 0.3197,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufTIsrr5qQ",
+              "end": 81,
+              "expanded_url": "https://x.com/vega_teu/status/1985663412094058805/photo/1",
+              "media_key": "3_1985663398227689473",
+              "start": 58,
+              "url": "https://t.co/ufTIsrr5qQ"
+            },
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/needygirl_o/status/1984183573646098633",
+              "start": 82,
+              "url": "https://t.co/Gl9WjWPHpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985663412094058805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 8938,
+          "like_count": 418,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984183573646098633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "NEEDY GIRL OVERDOSE\n꒰ঌゆるふわえんじぇるがーる໒꒱\n\n新グッズのモデルさせていただきました💜 https://t.co/ufTIsrr5qQ https://t.co/Gl9WjWPHpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 615,
+          "like_count": 23957,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1286
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T08:25:25.000Z",
+        "description": "Hello World. (@vega_teu_Lv2) | (@neonhype_zzz)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "vega_teu_Lv2"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "neonhype_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@vega_teu",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@vega_teu",
+                "start": 0,
+                "url": "https://t.co/2iKRiZJuIN"
+              }
+            ]
+          }
+        },
+        "id": "1431170928713494535",
+        "location": "インターネット・エクスプローラー",
+        "name": "vega.",
+        "pinned_tweet_id": "1673987114495795202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650018237046992896/Ys6tiSBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62648,
+          "following_count": 22,
+          "like_count": 8332,
+          "listed_count": 191,
+          "media_count": 1705,
+          "tweet_count": 12661
+        },
+        "url": "https://t.co/2iKRiZJuIN",
+        "username": "vega_teu",
+        "verified": true
+      }
+    ]
+  }
+}

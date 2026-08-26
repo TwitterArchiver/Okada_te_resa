@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1928178749943730559",
+    "created_at": "2025-05-29T19:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T20:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928178749943730559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Watase_Yuzuki/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Watase_Yuzuki/status/1927938895628660987",
+          "start": 4,
+          "url": "https://t.co/Ia9Ud8C1h2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928178749943730559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927938895628660987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "胖宝宝 https://t.co/Ia9Ud8C1h2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927938885776199680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFqM7NaUAAw05V.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927938885776199684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFqM7NaUAQI04n.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927938885738450950",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFqM7EaUAY6aKn.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927938885776199682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFqM7NaUAIU6IY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1928178749943730559",
+        "created_at": "2025-05-29T19:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T20:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928178749943730559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Watase_Yuzuki/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Watase_Yuzuki/status/1927938895628660987",
+              "start": 4,
+              "url": "https://t.co/Ia9Ud8C1h2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928178749943730559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927938895628660987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "胖宝宝 https://t.co/Ia9Ud8C1h2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927938885776199680",
+            "3_1927938885776199684",
+            "3_1927938885738450950",
+            "3_1927938885776199682"
+          ]
+        },
+        "author_id": "1253494572841201665",
+        "conversation_id": "1927938895628660987",
+        "created_at": "2025-05-29T04:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T05:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927938895628660987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFr8zzJGod",
+              "end": 38,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/1927938895628660987/photo/1",
+              "media_key": "3_1927938885776199680",
+              "start": 15,
+              "url": "https://t.co/EFr8zzJGod"
+            },
+            {
+              "display_url": "pic.x.com/EFr8zzJGod",
+              "end": 38,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/1927938895628660987/photo/1",
+              "media_key": "3_1927938885776199684",
+              "start": 15,
+              "url": "https://t.co/EFr8zzJGod"
+            },
+            {
+              "display_url": "pic.x.com/EFr8zzJGod",
+              "end": 38,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/1927938895628660987/photo/1",
+              "media_key": "3_1927938885738450950",
+              "start": 15,
+              "url": "https://t.co/EFr8zzJGod"
+            },
+            {
+              "display_url": "pic.x.com/EFr8zzJGod",
+              "end": 38,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/1927938895628660987/photo/1",
+              "media_key": "3_1927938885776199682",
+              "start": 15,
+              "url": "https://t.co/EFr8zzJGod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927938895628660987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 137517,
+          "like_count": 7080,
+          "quote_count": 82,
+          "reply_count": 86,
+          "retweet_count": 777
+        },
+        "reply_settings": "everyone",
+        "text": "びっくりするくらい撮るの下手 https://t.co/EFr8zzJGod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "滴淚妹在蘇A12000rpm",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 300,
+          "like_count": 14123,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 603
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T01:24:07.000Z",
+        "description": "響の声優、渡瀬結月(わたせゆづき)です🐶#D4DJ 「Lyrical Lily」竹下みいこ┊︎#黒ウィズ 『魔法使いと黒猫のウィズ』 オーリア┊︎ #STARDOM リングアナ🎤┊︎#バンドリ 若葉睦・モーティス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "黒ウィズ"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "STARDOM"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hibiki-cast.jp/hibiki_f/watas…",
+                "end": 23,
+                "expanded_url": "https://hibiki-cast.jp/hibiki_f/watase_yuzuki/",
+                "start": 0,
+                "url": "https://t.co/KaShLomC2F"
+              }
+            ]
+          }
+        },
+        "id": "1253494572841201665",
+        "location": "｢ゆずき｣じゃなくて｢ゆづき｣🌙",
+        "name": "渡瀬 結月",
+        "pinned_tweet_id": "1915924287808278730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915924842475671552/NR21FUt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88205,
+          "following_count": 581,
+          "like_count": 13939,
+          "listed_count": 918,
+          "media_count": 1195,
+          "tweet_count": 5819
+        },
+        "url": "https://t.co/KaShLomC2F",
+        "username": "Watase_Yuzuki",
+        "verified": false
+      }
+    ]
+  }
+}

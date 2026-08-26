@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054644572966600704"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2054644578154861017",
+    "created_at": "2026-05-13T19:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T20:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054644578154861017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1632193303839121409",
+          "start": 22,
+          "username": "xioshl8"
+        },
+        {
+          "end": 38,
+          "id": "1071058781751042049",
+          "start": 31,
+          "username": "KG1aNt"
+        },
+        {
+          "end": 61,
+          "id": "1169174984389885952",
+          "start": 45,
+          "username": "Angel_SaveUsAll"
+        },
+        {
+          "end": 80,
+          "id": "1723499071124725760",
+          "start": 68,
+          "username": "jsl20061012"
+        },
+        {
+          "end": 94,
+          "id": "1610865989398462465",
+          "start": 81,
+          "username": "BeforeNoise0"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 122,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/dLQLQAkVcj"
+        },
+        {
+          "display_url": "pic.x.com/Eu5VzhUCYY",
+          "end": 146,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2054644578154861017/photo/1",
+          "media_key": "3_2054644572966600704",
+          "start": 123,
+          "url": "https://t.co/Eu5VzhUCYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054644578154861017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @xioshl8 @KG1aNt\n👰 配偶: @Angel_SaveUsAll\n👶 孩子: @jsl20061012 @BeforeNoise0\n\n➡️ https://t.co/dLQLQAkVcj https://t.co/Eu5VzhUCYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2054644572966600704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIOQWmdbwAAI3gR.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054644572966600704"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2054644578154861017",
+        "created_at": "2026-05-13T19:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054644578154861017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1632193303839121409",
+              "start": 22,
+              "username": "xioshl8"
+            },
+            {
+              "end": 38,
+              "id": "1071058781751042049",
+              "start": 31,
+              "username": "KG1aNt"
+            },
+            {
+              "end": 61,
+              "id": "1169174984389885952",
+              "start": 45,
+              "username": "Angel_SaveUsAll"
+            },
+            {
+              "end": 80,
+              "id": "1723499071124725760",
+              "start": 68,
+              "username": "jsl20061012"
+            },
+            {
+              "end": 94,
+              "id": "1610865989398462465",
+              "start": 81,
+              "username": "BeforeNoise0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 122,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/dLQLQAkVcj"
+            },
+            {
+              "display_url": "pic.x.com/Eu5VzhUCYY",
+              "end": 146,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2054644578154861017/photo/1",
+              "media_key": "3_2054644572966600704",
+              "start": 123,
+              "url": "https://t.co/Eu5VzhUCYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054644578154861017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @xioshl8 @KG1aNt\n👰 配偶: @Angel_SaveUsAll\n👶 孩子: @jsl20061012 @BeforeNoise0\n\n➡️ https://t.co/dLQLQAkVcj https://t.co/Eu5VzhUCYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2054391181682049319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 828,
+          "like_count": 38371,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 2744
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T01:37:03.000Z",
+        "description": "我是推特第一洛天依😁\n一个热爱生活的普通人\n热爱骑行，绘画，种地\n喜欢看番，吃谷\n游戏有玩粥，ba\n偶尔打打屁股肉和世界计划\nwmc\n单推洛天依\n平常喜欢记录生活\n喜欢我的推u可以点点关注\n多给我的帖子点点赞\n\n我希望用有限的时间去尽可能多的体验这个世界上美好的东西",
+        "id": "1632193303839121409",
+        "name": "朝暮依依",
+        "pinned_tweet_id": "1896611584472170639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897260762722426880/dARgxzRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 395,
+          "like_count": 37758,
+          "listed_count": 2,
+          "media_count": 1153,
+          "tweet_count": 4757
+        },
+        "username": "xioshl8",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T15:08:07.000Z",
+        "description": "无聊症患者",
+        "id": "1071058781751042049",
+        "location": "北海",
+        "name": "KG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993032062471933952/KgZ2QkTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 651,
+          "like_count": 35853,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 5808
+        },
+        "username": "KG1aNt",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「昇天」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043325022249381888/KmL2tecR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 526,
+          "like_count": 10973,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 3849
+        },
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-12T00:33:03.000Z",
+        "description": "新手xnn，infp，mtf/mtx（还未确定），想和可爱同类贴贴喵",
+        "id": "1723499071124725760",
+        "location": "Petritsi, Greece",
+        "name": "半只喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718199885074432/X-PHbGID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 706,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "jsl20061012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T05:09:30.000Z",
+        "description": "entp/双子/一般人 \n目前喜好是互攻高壮男（会害羞惯着我的玩具",
+        "id": "1610865989398462465",
+        "name": "好梦最重要",
+        "pinned_tweet_id": "2016405520442409007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051037732663611392/Qx_RzDGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 737,
+          "like_count": 9396,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 4279
+        },
+        "username": "BeforeNoise0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2069990103519580249",
+    "created_at": "2026-06-28T14:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071241124753318015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455052587145723904",
+          "start": 0,
+          "username": "MizukiWorkshop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071241124753318015",
+    "in_reply_to_user_id": "1455052587145723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071212274744700942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiWorkshop 别老合理化自己的质疑，不合理化别人的行为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2069990103519580249",
+        "created_at": "2026-06-28T14:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071241124753318015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071241124753318015",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071212274744700942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop 别老合理化自己的质疑，不合理化别人的行为"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2069990103519580249",
+        "created_at": "2026-06-28T12:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071212274744700942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mizukiworkshop…",
+              "end": 38,
+              "expanded_url": "https://x.com/mizukiworkshop/status/2068939240910606744?s=46&t=",
+              "start": 15,
+              "url": "https://t.co/U7lTXjkqeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071212274744700942",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068939240910606744",
+            "type": "quoted"
+          },
+          {
+            "id": "2071188264057540970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa https://t.co/U7lTXjkqeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 926,
+          "like_count": 41351,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 1191,
+          "like_count": 119387,
+          "listed_count": 7,
+          "media_count": 1805,
+          "tweet_count": 24423
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

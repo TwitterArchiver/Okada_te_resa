@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2090729615434408171",
+    "created_at": "2026-08-22T04:17:08.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091016797273362524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071924874163912704",
+          "start": 0,
+          "username": "EVEgojj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091016797273362524",
+    "in_reply_to_user_id": "2071924874163912704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090729615434408171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EVEgojj5 摇滚觉醒🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1610,
+        "media_key": "3_2090729585898070016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPDezDaoAAhBDW.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2090729615434408171",
+        "created_at": "2026-08-22T04:17:08.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091016797273362524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091016797273362524",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090729615434408171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EVEgojj5 摇滚觉醒🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090729585898070016"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2090729615434408171",
+        "created_at": "2026-08-21T09:15:58.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090729615434408171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQZRnz7nFV",
+              "end": 35,
+              "expanded_url": "https://x.com/EVEgojj5/status/2090729615434408171/photo/1",
+              "media_key": "3_2090729585898070016",
+              "start": 12,
+              "url": "https://t.co/eQZRnz7nFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090729615434408171",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090729585898070016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 181,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过两天出这套，我好开心 https://t.co/eQZRnz7nFV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2091016797273362524",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 1028,
+          "like_count": 46570,
+          "listed_count": 5,
+          "media_count": 762,
+          "tweet_count": 3529
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090960658955444478",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 376,
+          "like_count": 5627,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1727
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

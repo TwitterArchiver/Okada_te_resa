@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087352220014845952",
+        "3_2087352275174088704"
+      ],
+      "media_source_tweet_id": [
+        "2087352304634929192",
+        "2087352304634929192"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2087483750280224769",
+    "created_at": "2026-08-12T10:18:04.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087483750280224769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1153412646575546368",
+          "start": 3,
+          "username": "hankinbeijing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cU0FtbvqJJ",
+          "end": 54,
+          "expanded_url": "https://x.com/hankinbeijing/status/2087352304634929192/photo/1",
+          "media_key": "3_2087352220014845952",
+          "start": 31,
+          "url": "https://t.co/cU0FtbvqJJ"
+        },
+        {
+          "display_url": "pic.x.com/cU0FtbvqJJ",
+          "end": 54,
+          "expanded_url": "https://x.com/hankinbeijing/status/2087352304634929192/photo/1",
+          "media_key": "3_2087352275174088704",
+          "start": 31,
+          "url": "https://t.co/cU0FtbvqJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087483750280224769",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087352220014845952"
+      },
+      {
+        "media_key": "3_2087352275174088704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087352304634929192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hankinbeijing: 一顶贝雷帽，初见与永别 https://t.co/cU0FtbvqJJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2087352220014845952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfDyOsboAA39lv.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1220,
+        "media_key": "3_2087352275174088704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfD1cLa4AAFTZQ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087352220014845952",
+            "3_2087352275174088704"
+          ]
+        },
+        "author_id": "1153412646575546368",
+        "conversation_id": "2087352304634929192",
+        "created_at": "2026-08-12T01:35:45.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087352304634929192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cU0FtbvqJJ",
+              "end": 35,
+              "expanded_url": "https://x.com/hankinbeijing/status/2087352304634929192/photo/1",
+              "media_key": "3_2087352220014845952",
+              "start": 12,
+              "url": "https://t.co/cU0FtbvqJJ"
+            },
+            {
+              "display_url": "pic.x.com/cU0FtbvqJJ",
+              "end": 35,
+              "expanded_url": "https://x.com/hankinbeijing/status/2087352304634929192/photo/1",
+              "media_key": "3_2087352275174088704",
+              "start": 12,
+              "url": "https://t.co/cU0FtbvqJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087352304634929192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087352220014845952"
+          },
+          {
+            "media_key": "3_2087352275174088704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 368886,
+          "like_count": 1532,
+          "quote_count": 13,
+          "reply_count": 151,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "一顶贝雷帽，初见与永别 https://t.co/cU0FtbvqJJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087352220014845952",
+            "3_2087352275174088704"
+          ],
+          "media_source_tweet_id": [
+            "2087352304634929192",
+            "2087352304634929192"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2087483750280224769",
+        "created_at": "2026-08-12T10:18:04.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087483750280224769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1153412646575546368",
+              "start": 3,
+              "username": "hankinbeijing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cU0FtbvqJJ",
+              "end": 54,
+              "expanded_url": "https://x.com/hankinbeijing/status/2087352304634929192/photo/1",
+              "media_key": "3_2087352220014845952",
+              "start": 31,
+              "url": "https://t.co/cU0FtbvqJJ"
+            },
+            {
+              "display_url": "pic.x.com/cU0FtbvqJJ",
+              "end": 54,
+              "expanded_url": "https://x.com/hankinbeijing/status/2087352304634929192/photo/1",
+              "media_key": "3_2087352275174088704",
+              "start": 31,
+              "url": "https://t.co/cU0FtbvqJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087483750280224769",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087352220014845952"
+          },
+          {
+            "media_key": "3_2087352275174088704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087352304634929192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hankinbeijing: 一顶贝雷帽，初见与永别 https://t.co/cU0FtbvqJJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2087483750280224769",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 1010,
+          "like_count": 44916,
+          "listed_count": 5,
+          "media_count": 752,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-22T21:12:59.000Z",
+        "description": "由内而外\n管中窥豹\n只渡有缘人\n\nSneakpeek into Chinese Politics, within and beyond.",
+        "id": "1153412646575546368",
+        "is_identity_verified": false,
+        "location": "天堂的下面是你们的天堂",
+        "most_recent_tweet_id": "2087398942711652466",
+        "name": "HANK",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153412646575546368/1666265572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689943432351961089/mtzbIidz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49569,
+          "following_count": 1234,
+          "like_count": 5389,
+          "listed_count": 458,
+          "media_count": 461,
+          "tweet_count": 5818
+        },
+        "url": "",
+        "username": "hankinbeijing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

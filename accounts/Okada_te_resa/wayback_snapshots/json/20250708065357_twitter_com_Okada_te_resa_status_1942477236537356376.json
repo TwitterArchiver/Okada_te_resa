@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1942423728790393019",
+    "created_at": "2025-07-08T06:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T07:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942477236537356376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942477236537356376",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942423728790393019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 是的就是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942423599421218816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvTf-ObWYAAChSX.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1942423728790393019",
+        "created_at": "2025-07-08T06:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942477236537356376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942477236537356376",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942423728790393019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 是的就是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942423599421218816"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "conversation_id": "1942423728790393019",
+        "created_at": "2025-07-08T03:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T04:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942423728790393019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vov2FyuKDU",
+              "end": 29,
+              "expanded_url": "https://x.com/MozaikRR/status/1942423728790393019/photo/1",
+              "media_key": "3_1942423599421218816",
+              "start": 6,
+              "url": "https://t.co/Vov2FyuKDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942423728790393019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人想看🙄 https://t.co/Vov2FyuKDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 388,
+          "like_count": 16793,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 792
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "重庆 男的 术力口 音游",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832438280874553348/f-xGfUYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 240,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 56
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

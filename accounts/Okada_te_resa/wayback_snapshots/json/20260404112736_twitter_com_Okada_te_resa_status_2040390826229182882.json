@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2040383312842354984",
+    "created_at": "2026-04-04T11:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040390826229182882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040390826229182882",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040383312842354984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina 咪和咪一样萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2040383308643917824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDlzw1bYAA8tNt.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2040383312842354984",
+        "created_at": "2026-04-04T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040390826229182882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040390826229182882",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040383312842354984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina 咪和咪一样萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040383308643917824"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2040383312842354984",
+        "created_at": "2026-04-04T10:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040383312842354984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57KMY4iSoP",
+              "end": 169,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2040383312842354984/photo/1",
+              "media_key": "3_2040383308643917824",
+              "start": 146,
+              "url": "https://t.co/57KMY4iSoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040383312842354984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 501,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "首先还是很感谢诸位来私信我哈，不过我就是个记录我生活的日常推，也不靠这个吃饭，cosplay也只是偶尔会发的个人兴趣，我这是高中食堂哈不接受点菜，做什么吃什么，质量也很低，推上那么多高质量coser您可以选择看他们的。\n然后我也不接什么搞黄色的定制乱七八糟的东西，总之不会收你们一分钱的🙏🙏 https://t.co/57KMY4iSoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 755,
+          "like_count": 36220,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 2399
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男//发点女装日常//都内一般会社員//120% sub//169cm 55+Kg//不扩列//提问箱📦在下面//不首先不礼貌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Minato-ku, Tokyo",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2034579525712109919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036264214055239680/68LPc4D1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10924,
+          "following_count": 539,
+          "like_count": 6485,
+          "listed_count": 44,
+          "media_count": 206,
+          "tweet_count": 5398
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991939638144237568"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991939641067626932",
+    "created_at": "2025-11-21T18:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T19:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991939641067626932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C9xpYG86GW",
+          "end": 28,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1991939641067626932/photo/1",
+          "media_key": "3_1991939638144237568",
+          "start": 5,
+          "url": "https://t.co/C9xpYG86GW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991939641067626932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mood https://t.co/C9xpYG86GW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1794,
+        "media_key": "3_1991939638144237568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TKjBGbgAAizhg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991939638144237568"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991939641067626932",
+        "created_at": "2025-11-21T18:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991939641067626932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9xpYG86GW",
+              "end": 28,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1991939641067626932/photo/1",
+              "media_key": "3_1991939638144237568",
+              "start": 5,
+              "url": "https://t.co/C9xpYG86GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991939641067626932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mood https://t.co/C9xpYG86GW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112055593242624/fMUPXFR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 642,
+          "like_count": 25297,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 1388
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

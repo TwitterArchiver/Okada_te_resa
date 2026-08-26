@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076525795938632013",
+    "created_at": "2026-07-13T04:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076525795938632013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kanon_Shizaki/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Kanon_Shizaki/status/2076489154582749333",
+          "start": 5,
+          "url": "https://t.co/IwGOSO8Zdl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076525795938632013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076489154582749333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽女王 https://t.co/IwGOSO8Zdl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076489150556155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEr4XbaMAAF-4t.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076525795938632013",
+        "created_at": "2026-07-13T04:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076525795938632013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kanon_Shizaki/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Kanon_Shizaki/status/2076489154582749333",
+              "start": 5,
+              "url": "https://t.co/IwGOSO8Zdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076525795938632013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076489154582749333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽女王 https://t.co/IwGOSO8Zdl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076489150556155904"
+          ]
+        },
+        "author_id": "1060132463584849920",
+        "conversation_id": "2076489154582749333",
+        "created_at": "2026-07-13T02:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076489154582749333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DkSOutvtI",
+              "end": 28,
+              "expanded_url": "https://x.com/Kanon_Shizaki/status/2076489154582749333/photo/1",
+              "media_key": "3_2076489150556155904",
+              "start": 5,
+              "url": "https://t.co/5DkSOutvtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076489154582749333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 21034,
+          "like_count": 2049,
+          "quote_count": 7,
+          "reply_count": 59,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "オハヨー https://t.co/5DkSOutvtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 968,
+          "like_count": 42583,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 3298
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T11:30:50.000Z",
+        "description": "singer-songwriter/Artist/Voice actor/BanGDream! Roselia key.白金燐子役 / 郵送物のご発送先 〒107-0062 \n東京都港区南青山２丁目３１−６ Le UnDeux南青山602号室　マネジメント宛まで/kanonshizaki.info@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/7252yiab",
+                "end": 23,
+                "expanded_url": "https://potofu.me/7252yiab",
+                "start": 0,
+                "url": "https://t.co/UDrYc9wDd1"
+              }
+            ]
+          }
+        },
+        "id": "1060132463584849920",
+        "name": "志崎樺音/Shizaki Kanon",
+        "pinned_tweet_id": "2040238537107538170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047878859534868480/wNBuOxAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246170,
+          "following_count": 288,
+          "like_count": 3822,
+          "listed_count": 2501,
+          "media_count": 2270,
+          "tweet_count": 7754
+        },
+        "url": "https://t.co/UDrYc9wDd1",
+        "username": "Kanon_Shizaki",
+        "verified": true
+      }
+    ]
+  }
+}

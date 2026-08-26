@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932057153155788801",
+        "3_1932057153134800896"
+      ],
+      "media_source_tweet_id": [
+        "1932057181194699035",
+        "1932057181194699035"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1932649751729877163",
+    "created_at": "2025-06-11T04:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T05:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932649751729877163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "707778526963830784",
+          "start": 3,
+          "username": "sasakirico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pux9qQocPX",
+          "end": 62,
+          "expanded_url": "https://x.com/sasakirico/status/1932057181194699035/photo/1",
+          "media_key": "3_1932057153155788801",
+          "start": 39,
+          "url": "https://t.co/Pux9qQocPX"
+        },
+        {
+          "display_url": "pic.x.com/Pux9qQocPX",
+          "end": 62,
+          "expanded_url": "https://x.com/sasakirico/status/1932057181194699035/photo/1",
+          "media_key": "3_1932057153134800896",
+          "start": 39,
+          "url": "https://t.co/Pux9qQocPX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932649751729877163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932057181194699035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakirico: ｼｬﾝｼｬﾝﾒｲｼｬﾝｼｬｼｬﾒｲｼｬﾝ🐏👑 https://t.co/Pux9qQocPX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1932057153155788801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtALvouacAEN9vX.jpg",
+        "width": 2880
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1932057153134800896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtALvopaMAAjihg.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932057153155788801",
+            "3_1932057153134800896"
+          ],
+          "media_source_tweet_id": [
+            "1932057181194699035",
+            "1932057181194699035"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1932649751729877163",
+        "created_at": "2025-06-11T04:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932649751729877163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "707778526963830784",
+              "start": 3,
+              "username": "sasakirico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pux9qQocPX",
+              "end": 62,
+              "expanded_url": "https://x.com/sasakirico/status/1932057181194699035/photo/1",
+              "media_key": "3_1932057153155788801",
+              "start": 39,
+              "url": "https://t.co/Pux9qQocPX"
+            },
+            {
+              "display_url": "pic.x.com/Pux9qQocPX",
+              "end": 62,
+              "expanded_url": "https://x.com/sasakirico/status/1932057181194699035/photo/1",
+              "media_key": "3_1932057153134800896",
+              "start": 39,
+              "url": "https://t.co/Pux9qQocPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932649751729877163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932057181194699035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakirico: ｼｬﾝｼｬﾝﾒｲｼｬﾝｼｬｼｬﾒｲｼｬﾝ🐏👑 https://t.co/Pux9qQocPX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932057153155788801",
+            "3_1932057153134800896"
+          ]
+        },
+        "author_id": "707778526963830784",
+        "conversation_id": "1932057181194699035",
+        "created_at": "2025-06-09T12:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932057181194699035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pux9qQocPX",
+              "end": 46,
+              "expanded_url": "https://x.com/sasakirico/status/1932057181194699035/photo/1",
+              "media_key": "3_1932057153155788801",
+              "start": 23,
+              "url": "https://t.co/Pux9qQocPX"
+            },
+            {
+              "display_url": "pic.x.com/Pux9qQocPX",
+              "end": 46,
+              "expanded_url": "https://x.com/sasakirico/status/1932057181194699035/photo/1",
+              "media_key": "3_1932057153134800896",
+              "start": 23,
+              "url": "https://t.co/Pux9qQocPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932057181194699035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 253718,
+          "like_count": 8312,
+          "quote_count": 75,
+          "reply_count": 80,
+          "retweet_count": 1150
+        },
+        "reply_settings": "everyone",
+        "text": "ｼｬﾝｼｬﾝﾒｲｼｬﾝｼｬｼｬﾒｲｼｬﾝ🐏👑 https://t.co/Pux9qQocPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 305,
+          "like_count": 14525,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 624
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T04:02:05.000Z",
+        "description": "歌手/声優/作詞作曲/バンドリ・三角初華/日本へようこそエルフさん・ミュイ/ナナシス・アリナ/ワールドダイスター・流石知冴/かげきしょうじょ!!・山田彩子/プリチャン・だいあ/デパプリ/邪神ちゃん等/ https://t.co/aJpyNZU1Sw /お仕事→contact@sasakirico.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakirico",
+                "end": 124,
+                "expanded_url": "http://youtube.com/c/sasakirico",
+                "start": 101,
+                "url": "https://t.co/aJpyNZU1Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakirico.com",
+                "end": 23,
+                "expanded_url": "http://sasakirico.com",
+                "start": 0,
+                "url": "https://t.co/sLLrD1WYEi"
+              }
+            ]
+          }
+        },
+        "id": "707778526963830784",
+        "name": "佐々木李子",
+        "pinned_tweet_id": "1922849418384114027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918608427531845632/ugG4Hl_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109035,
+          "following_count": 1195,
+          "like_count": 21626,
+          "listed_count": 1021,
+          "media_count": 3594,
+          "tweet_count": 13398
+        },
+        "url": "https://t.co/sLLrD1WYEi",
+        "username": "sasakirico",
+        "verified": true
+      }
+    ]
+  }
+}

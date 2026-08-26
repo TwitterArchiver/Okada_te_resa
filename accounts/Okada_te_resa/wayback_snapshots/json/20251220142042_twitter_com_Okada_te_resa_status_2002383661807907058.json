@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002310886187319296"
+      ],
+      "media_source_tweet_id": [
+        "2002310896891097285"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2002383661807907058",
+    "created_at": "2025-12-20T14:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002383661807907058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1535591550834683904",
+          "start": 3,
+          "username": "feiyu30903448"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G79U71zQDA",
+          "end": 44,
+          "expanded_url": "https://x.com/feiyu30903448/status/2002310896891097285/photo/1",
+          "media_key": "3_2002310886187319296",
+          "start": 21,
+          "url": "https://t.co/G79U71zQDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002383661807907058",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002310896891097285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @feiyu30903448: 💦 https://t.co/G79U71zQDA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002383661807907058].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002383661807907058",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002383661807907058"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2002310886187319296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mjJG0XwAATyyH.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002310886187319296"
+          ]
+        },
+        "author_id": "1535591550834683904",
+        "conversation_id": "2002310896891097285",
+        "created_at": "2025-12-20T09:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002310896891097285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G79U71zQDA",
+              "end": 25,
+              "expanded_url": "https://x.com/feiyu30903448/status/2002310896891097285/photo/1",
+              "media_key": "3_2002310886187319296",
+              "start": 2,
+              "url": "https://t.co/G79U71zQDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002310896891097285",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 5392,
+          "like_count": 765,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "reply_settings": "following",
+        "text": "💦 https://t.co/G79U71zQDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 655,
+          "like_count": 27630,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1641
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T11:55:44.000Z",
+        "description": "🇨🇳，she/her，Yuri（包含ftnr），bangdream：mygo🎤🥁mujica🐺🌊Afterglow🎤🥁，arknights：🐺⚫🐺⚪😇💙🐕🧡，Chinese，EnglishOK，日本語勉強中，I believe in God. tip：🚫禁止ai学习，禁止无断转载",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/c9y17k08j9hb3m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/c9y17k08j9hb3m4?t=qAoNAZ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/4UZcApadME"
+              }
+            ]
+          }
+        },
+        "id": "1535591550834683904",
+        "name": "蜚雨",
+        "pinned_tweet_id": "1858702071647924679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868347500974768128/Z03XNb5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13429,
+          "following_count": 518,
+          "like_count": 13971,
+          "listed_count": 41,
+          "media_count": 586,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/4UZcApadME",
+        "username": "feiyu30903448",
+        "verified": false
+      }
+    ]
+  }
+}

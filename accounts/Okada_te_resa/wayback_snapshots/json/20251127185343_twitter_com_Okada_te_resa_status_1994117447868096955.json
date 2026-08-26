@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1994117447868096955",
+    "created_at": "2025-11-27T18:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994117447868096955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/______hnjs/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/______hnjs/status/1993977698788757982",
+          "start": 5,
+          "url": "https://t.co/56RU4kNfcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994117447868096955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993977698788757982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁和我去 https://t.co/56RU4kNfcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_1993977689766809605",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wIJPCa0AUfrF6.jpg",
+        "width": 800
+      },
+      {
+        "height": 1003,
+        "media_key": "3_1993977689808777216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wIJPMbMAAY7V7.jpg",
+        "width": 1500
+      },
+      {
+        "height": 786,
+        "media_key": "3_1993977689775181825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wIJPEakAEOuJX.jpg",
+        "width": 1134
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1993977689791975425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wIJPIa0AEzCys.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1994117447868096955",
+        "created_at": "2025-11-27T18:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994117447868096955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/______hnjs/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/______hnjs/status/1993977698788757982",
+              "start": 5,
+              "url": "https://t.co/56RU4kNfcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994117447868096955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993977698788757982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我去 https://t.co/56RU4kNfcN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993977689766809605",
+            "3_1993977689808777216",
+            "3_1993977689775181825",
+            "3_1993977689791975425"
+          ]
+        },
+        "author_id": "800085358192930817",
+        "conversation_id": "1993977698788757982",
+        "created_at": "2025-11-27T09:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993977698788757982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "洞窟 SHIBUYA",
+              "probability": 0.3511,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 92,
+              "normalized_text": "渋谷公園通り",
+              "probability": 0.742,
+              "start": 87,
+              "type": "Place"
+            },
+            {
+              "end": 103,
+              "normalized_text": "代々木公園ケヤキ並木",
+              "probability": 0.5329,
+              "start": 94,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iltBnEwMik",
+              "end": 128,
+              "expanded_url": "https://x.com/______hnjs/status/1993977698788757982/photo/1",
+              "media_key": "3_1993977689766809605",
+              "start": 105,
+              "url": "https://t.co/iltBnEwMik"
+            },
+            {
+              "display_url": "pic.x.com/iltBnEwMik",
+              "end": 128,
+              "expanded_url": "https://x.com/______hnjs/status/1993977698788757982/photo/1",
+              "media_key": "3_1993977689808777216",
+              "start": 105,
+              "url": "https://t.co/iltBnEwMik"
+            },
+            {
+              "display_url": "pic.x.com/iltBnEwMik",
+              "end": 128,
+              "expanded_url": "https://x.com/______hnjs/status/1993977698788757982/photo/1",
+              "media_key": "3_1993977689775181825",
+              "start": 105,
+              "url": "https://t.co/iltBnEwMik"
+            },
+            {
+              "display_url": "pic.x.com/iltBnEwMik",
+              "end": 128,
+              "expanded_url": "https://x.com/______hnjs/status/1993977698788757982/photo/1",
+              "media_key": "3_1993977689791975425",
+              "start": 105,
+              "url": "https://t.co/iltBnEwMik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993977698788757982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 75924,
+          "like_count": 2097,
+          "quote_count": 153,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "／\nイルミネーションイベント\n💙💙💎青の洞窟 SHIBUYA💎💙💙\n＼\n\n期間💙12月4日～12月25日⸝⸝꙳\n開催時間💙17:00〜22:00\n実施場所💙渋谷公園通り～代々木公園ケヤキ並木 全長 約900m https://t.co/iltBnEwMik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 652,
+          "like_count": 25874,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1483
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-19T21:16:29.000Z",
+        "description": "𝘝𝘰𝘨𝘶𝘦 ⸝꙳⋆ ✉️仕事のご依頼【𝐑𝐏拡散⋆紹介投稿等】【広告主･広告代理店のご依頼】ございましたら【𝐗の𝐃𝐌】までお気軽にご連絡ください。※𝐏𝐑担当枠募集中のクライアント様もぜひ 【🌙https://t.co/QcQ4yUnrvv 】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_moon13bg_",
+                "end": 118,
+                "expanded_url": "https://www.instagram.com/_moon13bg_",
+                "start": 95,
+                "url": "https://t.co/QcQ4yUnrvv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/shop/_moon13bg_",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/shop/_moon13bg_",
+                "start": 0,
+                "url": "https://t.co/146LSHzk16"
+              }
+            ]
+          }
+        },
+        "id": "800085358192930817",
+        "name": "☽",
+        "pinned_tweet_id": "1950871456373723319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760933935163580416/LO3Uya7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742513,
+          "following_count": 190,
+          "like_count": 43047,
+          "listed_count": 3132,
+          "media_count": 12374,
+          "tweet_count": 17860
+        },
+        "url": "https://t.co/146LSHzk16",
+        "username": "______hnjs",
+        "verified": true
+      }
+    ]
+  }
+}

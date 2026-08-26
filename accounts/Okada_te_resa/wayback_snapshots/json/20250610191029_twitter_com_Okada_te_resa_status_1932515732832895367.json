@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932481856668315648"
+      ],
+      "media_source_tweet_id": [
+        "1932481859168186775"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1932515732832895367",
+    "created_at": "2025-06-10T19:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932515732832895367"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "男娘"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "伪娘"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "cd"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "ts"
+        },
+        {
+          "end": 72,
+          "start": 65,
+          "tag": "femboy"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "mtf"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "mtx"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "娼年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1782786360732188672",
+          "start": 3,
+          "username": "Iris_Leclercq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kcjMdqyMAW",
+          "end": 122,
+          "expanded_url": "https://x.com/Iris_Leclercq/status/1932481859168186775/photo/1",
+          "media_key": "3_1932481856668315648",
+          "start": 99,
+          "url": "https://t.co/kcjMdqyMAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932515732832895367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932481859168186775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iris_Leclercq: 想捏捏我的爷爷的妻子的头和我的脊索动物门爬行纲龟鳖目的头吗\n#男娘 #伪娘 #cd #ts #femboy #mtf #mtx #娼年 \n（被限流了😭求转推） https://t.co/kcjMdqyMAW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932515732832895367].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932515732832895367",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932515732832895367"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2154,
+        "media_key": "3_1932481856668315648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGOAomaMAAY5G4.jpg",
+        "width": 1211
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932481856668315648"
+          ]
+        },
+        "author_id": "1782786360732188672",
+        "conversation_id": "1932481859168186775",
+        "created_at": "2025-06-10T16:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T17:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932481859168186775"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "伪娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "cd"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "ts"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "femboy"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "mtf"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "mtx"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "娼年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcjMdqyMAW",
+              "end": 103,
+              "expanded_url": "https://x.com/Iris_Leclercq/status/1932481859168186775/photo/1",
+              "media_key": "3_1932481856668315648",
+              "start": 80,
+              "url": "https://t.co/kcjMdqyMAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932481859168186775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想捏捏我的爷爷的妻子的头和我的脊索动物门爬行纲龟鳖目的头吗\n#男娘 #伪娘 #cd #ts #femboy #mtf #mtx #娼年 \n（被限流了😭求转推） https://t.co/kcjMdqyMAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 305,
+          "like_count": 14504,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 622
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T14:59:43.000Z",
+        "description": "男娘 没吃糖｜0.5 双性恋 mtx｜坐标南京｜不线下（不过男娘可以来和我贴贴）｜扩列加🐧3857342167",
+        "id": "1782786360732188672",
+        "location": "320106",
+        "name": "荻沐虹Iris",
+        "pinned_tweet_id": "1929225090727862774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888976593386876928/Yd8GJ3Ox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1065,
+          "like_count": 497,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 578
+        },
+        "username": "Iris_Leclercq",
+        "verified": false
+      }
+    ]
+  }
+}

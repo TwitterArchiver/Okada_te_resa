@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2052540516366205174",
+    "created_at": "2026-05-08T00:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T01:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052540516366205174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IrisxEcchii/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/IrisxEcchii/status/2051819838817907135",
+          "start": 12,
+          "url": "https://t.co/8dUjiJO4Mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052540516366205174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051819838817907135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "omg我将学习黑皮妆容 https://t.co/8dUjiJO4Mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120104,
+        "height": 1280,
+        "media_key": "13_2051819754663350276",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051819754663350276/img/1gN_8NHTW1XUmOKt.jpg",
+        "public_metrics": {
+          "view_count": 56479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051819754663350276/vid/avc1/320x568/ycMFlx5QAceNTxUx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051819754663350276/vid/avc1/480x852/OuLJCi27AHQCUcnt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051819754663350276/vid/avc1/720x1280/b2Qz0WJM5VcXYqiP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051819754663350276/pl/TNpr_8iVIC-903aQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2052540516366205174",
+        "created_at": "2026-05-08T00:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052540516366205174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IrisxEcchii/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/IrisxEcchii/status/2051819838817907135",
+              "start": 12,
+              "url": "https://t.co/8dUjiJO4Mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052540516366205174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051819838817907135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg我将学习黑皮妆容 https://t.co/8dUjiJO4Mj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051819754663350276"
+          ]
+        },
+        "author_id": "2039793836726079488",
+        "conversation_id": "2051819838817907135",
+        "created_at": "2026-05-06T00:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051819838817907135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "femboy"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "sissy"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "r34"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "hentai"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "ebony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9mXyBRNhQ",
+              "end": 89,
+              "expanded_url": "https://x.com/IrisxEcchii/status/2051819838817907135/video/1",
+              "media_key": "13_2051819754663350276",
+              "start": 66,
+              "url": "https://t.co/n9mXyBRNhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051819838817907135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4800,
+          "impression_count": 32062,
+          "like_count": 6616,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "Darkskin Femboy Gets Pounded…\n\n#femboy #sissy #r34 #hentai #ebony https://t.co/n9mXyBRNhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 811,
+          "like_count": 38001,
+          "listed_count": 4,
+          "media_count": 532,
+          "tweet_count": 2683
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T19:56:41.000Z",
+        "description": "💜 • Daily Content\n💜 • Dm for submission/removal\n💜 • Dm for promos\nMDNI +18",
+        "id": "2039793836726079488",
+        "location": "Dm for Promo",
+        "name": "ᵢ𝚛𝚒𝚜𝚌𝚒𝚝𝚢 ୨୧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049178366876504064/71CNAAed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10467,
+          "following_count": 39,
+          "like_count": 368,
+          "listed_count": 15,
+          "media_count": 63,
+          "tweet_count": 112
+        },
+        "username": "IrisxEcchii",
+        "verified": false
+      }
+    ]
+  }
+}

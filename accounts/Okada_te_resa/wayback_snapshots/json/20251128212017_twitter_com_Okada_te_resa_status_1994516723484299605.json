@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1994516723484299605",
+    "created_at": "2025-11-28T21:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T22:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994516723484299605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "825399047556960257",
+          "start": 3,
+          "username": "SimonJP404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994516723484299605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994379209364615179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SimonJP404: 是不是又创造历史了？在刚刚举办的的上海万代嘉年华中，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。\n\n举办方以“不可抗力”为由中止演出，后面演出的组合“ASH DA HERO”也被取消。 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18946,
+        "height": 1280,
+        "media_key": "13_1994379084777050112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994379084777050112/img/8s4Xw2D7GA8yWh6d.jpg",
+        "public_metrics": {
+          "view_count": 262478
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994379084777050112/vid/avc1/320x568/S_mO3T9YqhNfUwgz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994379084777050112/vid/avc1/480x852/DCVK2HeR3XI3g8IW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994379084777050112/vid/avc1/720x1280/yxlXTT3Nxg2rkqh2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994379084777050112/pl/7f77ekUfl8nlil21.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1994516723484299605",
+        "created_at": "2025-11-28T21:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994516723484299605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "825399047556960257",
+              "start": 3,
+              "username": "SimonJP404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994516723484299605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994379209364615179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SimonJP404: 是不是又创造历史了？在刚刚举办的的上海万代嘉年华中，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。\n\n举办方以“不可抗力”为由中止演出，后面演出的组合“ASH DA HERO”也被取消。 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994379084777050112"
+          ]
+        },
+        "author_id": "825399047556960257",
+        "conversation_id": "1994379209364615179",
+        "created_at": "2025-11-28T12:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994379209364615179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiuWl2Hit6",
+              "end": 141,
+              "expanded_url": "https://x.com/SimonJP404/status/1994379209364615179/video/1",
+              "media_key": "13_1994379084777050112",
+              "start": 118,
+              "url": "https://t.co/eiuWl2Hit6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994379209364615179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 488450,
+          "like_count": 1743,
+          "quote_count": 47,
+          "reply_count": 175,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "是不是又创造历史了？在刚刚举办的的上海万代嘉年华中，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。\n\n举办方以“不可抗力”为由中止演出，后面演出的组合“ASH DA HERO”也被取消。 https://t.co/eiuWl2Hit6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 652,
+          "like_count": 25984,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1500
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T17:44:02.000Z",
+        "description": "📷 Photographer | Writer | 🗼Live in Tokyo | Crypto | Digital Media | ✍️ https://t.co/1wDeze0gFi | 🌏全日本制霸| 📧 商务联系：pm@song.al",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "SONG.AL",
+                "end": 94,
+                "expanded_url": "http://SONG.AL",
+                "start": 71,
+                "url": "https://t.co/1wDeze0gFi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AppDoDo",
+                "end": 23,
+                "expanded_url": "https://t.me/AppDoDo",
+                "start": 0,
+                "url": "https://t.co/WM1LaBYy20"
+              }
+            ]
+          }
+        },
+        "id": "825399047556960257",
+        "location": "Tokyo-to, Japan",
+        "name": "Simon",
+        "pinned_tweet_id": "1961092807910883587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1359332433112436736/Ua21bLy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 652,
+          "like_count": 632,
+          "listed_count": 55,
+          "media_count": 1090,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/WM1LaBYy20",
+        "username": "SimonJP404",
+        "verified": true
+      }
+    ]
+  }
+}

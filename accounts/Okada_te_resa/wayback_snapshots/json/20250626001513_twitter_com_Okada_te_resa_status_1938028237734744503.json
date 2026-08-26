@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1937809711857856688",
+    "created_at": "2025-06-26T00:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T01:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938028237734744503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938028237734744503",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937809711857856688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bocchi1chan 你和青木阳菜是两只小公猫后面忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1937809711857856688",
+        "created_at": "2025-06-26T00:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T01:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938028237734744503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938028237734744503",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937809711857856688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan 你和青木阳菜是两只小公猫后面忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522976249173450759",
+        "conversation_id": "1937809711857856688",
+        "created_at": "2025-06-25T09:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T10:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937809711857856688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NEKOHIGE0123/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/NEKOHIGE0123/status/1937662021732127142",
+              "start": 6,
+              "url": "https://t.co/EppTSUx0W6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937809711857856688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937662021732127142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我这样 https://t.co/EppTSUx0W6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 353,
+          "like_count": 15775,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 718
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nprivate message me on instagram ✉️\nhttps://t.co/jYpgMIVDT2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 86,
+                "expanded_url": "https://www.instagram.com/bocchi1chan/",
+                "start": 63,
+                "url": "https://t.co/jYpgMIVDT2"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14360,
+          "following_count": 1922,
+          "like_count": 24647,
+          "listed_count": 18,
+          "media_count": 1746,
+          "tweet_count": 3979
+        },
+        "username": "bocchi1chan",
+        "verified": true
+      }
+    ]
+  }
+}

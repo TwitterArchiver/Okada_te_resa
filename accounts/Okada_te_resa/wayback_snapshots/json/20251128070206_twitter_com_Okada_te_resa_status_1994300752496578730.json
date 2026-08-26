@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1993970949469949986",
+    "created_at": "2025-11-28T07:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T08:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994300752496578730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        },
+        {
+          "end": 26,
+          "id": "1980120831415234560",
+          "start": 13,
+          "username": "nobita_Stark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994300752496578730",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994295456654876805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bocchi1chan @nobita_Stark 你永远是东baby"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1993970949469949986",
+        "created_at": "2025-11-28T07:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994300752496578730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            },
+            {
+              "end": 26,
+              "id": "1980120831415234560",
+              "start": 13,
+              "username": "nobita_Stark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994300752496578730",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994295456654876805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan @nobita_Stark 你永远是东baby"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522976249173450759",
+        "conversation_id": "1993970949469949986",
+        "created_at": "2025-11-28T06:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994295456654876805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980120831415234560",
+              "start": 0,
+              "username": "nobita_Stark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994295456654876805",
+        "in_reply_to_user_id": "1980120831415234560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993970949469949986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nobita_Stark 话说，前几天在一个小酒馆，遇到个老哥过来\n和我说中国人如何如何，我告诉他我是满洲\n人。包括老板在内和周围的日本人，瞬间表情\n都不一样了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 652,
+          "like_count": 25886,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1490
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nPlease DM me on Instagram\nInstagramでDMしてください \n请在 Instagram 上私信我  \nhttps://t.co/jYpgMIV63u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 117,
+                "expanded_url": "https://www.instagram.com/bocchi1chan/",
+                "start": 94,
+                "url": "https://t.co/jYpgMIV63u"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13940,
+          "following_count": 2579,
+          "like_count": 28020,
+          "listed_count": 19,
+          "media_count": 2053,
+          "tweet_count": 4734
+        },
+        "username": "bocchi1chan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T03:56:21.000Z",
+        "description": "のび太です。如果您有对日本的疑问欢迎随时私信。一些比较普适性的问题我会发贴介绍。但因为平时要工作，加上私信比较多，对于比较特别的问题，可能会回复得比较迟。 如果对您有帮助，可自愿打赏： https://t.co/d2ffqb3oyT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/nobita_orz",
+                "end": 116,
+                "expanded_url": "https://buymeacoffee.com/nobita_orz",
+                "start": 93,
+                "url": "https://t.co/d2ffqb3oyT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/AsukaStark/The…",
+                "end": 23,
+                "expanded_url": "https://github.com/AsukaStark/TheAsukaDeception",
+                "start": 0,
+                "url": "https://t.co/j369xTa8ng"
+              }
+            ]
+          }
+        },
+        "id": "1980120831415234560",
+        "name": "のび太",
+        "pinned_tweet_id": "1992114550309556512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984852763378110464/vmLVKpv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 270,
+          "like_count": 1485,
+          "listed_count": 10,
+          "media_count": 82,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/j369xTa8ng",
+        "username": "nobita_Stark",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2020118162797101389",
+    "created_at": "2026-02-07T17:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T18:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020190576243798374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439306335",
+          "start": 0,
+          "username": "60Mohan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020190576243798374",
+    "in_reply_to_user_id": "1439306335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020118162797101389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@60Mohan 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020118153897078785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjmwgdacAE5npC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2020118153867706368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjmwgWaQAAlR8K.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2020118162797101389",
+        "created_at": "2026-02-07T17:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020190576243798374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439306335",
+              "start": 0,
+              "username": "60Mohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020190576243798374",
+        "in_reply_to_user_id": "1439306335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020118162797101389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@60Mohan 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020118153897078785",
+            "3_2020118153867706368"
+          ]
+        },
+        "author_id": "1439306335",
+        "conversation_id": "2020118162797101389",
+        "created_at": "2026-02-07T12:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020118162797101389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbtkqhSIoL",
+              "end": 23,
+              "expanded_url": "https://x.com/60Mohan/status/2020118162797101389/photo/1",
+              "media_key": "3_2020118153897078785",
+              "start": 0,
+              "url": "https://t.co/SbtkqhSIoL"
+            },
+            {
+              "display_url": "pic.x.com/SbtkqhSIoL",
+              "end": 23,
+              "expanded_url": "https://x.com/60Mohan/status/2020118162797101389/photo/1",
+              "media_key": "3_2020118153867706368",
+              "start": 0,
+              "url": "https://t.co/SbtkqhSIoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020118162797101389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SbtkqhSIoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 680,
+          "like_count": 31778,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 1908
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-18T19:51:12.000Z",
+        "description": "励志成为每一道菜里面不起眼的生姜｜🪜 https://t.co/3tSBo8e9vt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=VAxKtzay",
+                "start": 19,
+                "url": "https://t.co/3tSBo8e9vt"
+              }
+            ]
+          }
+        },
+        "id": "1439306335",
+        "location": "伦敦",
+        "name": "伪装成土豆的生姜小姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007138824158318592/ZVjIMjd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 1176,
+          "like_count": 10928,
+          "listed_count": 8,
+          "media_count": 314,
+          "tweet_count": 6989
+        },
+        "username": "60Mohan",
+        "verified": false
+      }
+    ]
+  }
+}

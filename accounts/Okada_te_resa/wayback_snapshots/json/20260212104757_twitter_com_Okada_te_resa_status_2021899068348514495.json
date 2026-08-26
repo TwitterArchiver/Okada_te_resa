@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2021707364563661256",
+    "created_at": "2026-02-12T10:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021899068348514495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        },
+        {
+          "end": 27,
+          "id": "2019100298808291333",
+          "start": 17,
+          "username": "YuwenT233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021899068348514495",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021707364563661256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 @YuwenT233 炒作狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2021707364563661256",
+        "created_at": "2026-02-12T10:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021899068348514495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            },
+            {
+              "end": 27,
+              "id": "2019100298808291333",
+              "start": 17,
+              "username": "YuwenT233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021899068348514495",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021707364563661256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 @YuwenT233 炒作狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007397795532333056",
+        "conversation_id": "2021707364563661256",
+        "created_at": "2026-02-11T22:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T23:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021707364563661256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2019100298808291333",
+              "start": 16,
+              "username": "YuwenT233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021707364563661256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1549,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "烧仙草被唐毓文日倒计时50天喵♡@YuwenT233"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 689,
+          "like_count": 32196,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 1941
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "10倍凝胶请联系TG https://t.co/eQ5f55oGxr丨\nmtf地雷系女子丨09年161cm药娘丨曾20小时内极限逃离扭转机构丨坐标郑州丨对象兼闺蜜@YuwenT233丨姐姐@Delusions6515 @Snegur0chk 丨纯绿交友🚪18私信口令 同类免 蓝V必回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "YuwenT233"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "Delusions6515"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Snegur0chk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shaoxiancao1314",
+                "end": 34,
+                "expanded_url": "http://t.me/shaoxiancao1314",
+                "start": 11,
+                "url": "https://t.co/eQ5f55oGxr"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "location": "坐在唐毓文无敌几把上",
+        "name": "烧仙草🍥🏳️‍⚧️（出10倍凝胶）",
+        "pinned_tweet_id": "2020683986838954330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007399225236361216/pD-sGP7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 337,
+          "like_count": 1876,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 116
+        },
+        "username": "shaoxiancao1314",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T17:27:46.000Z",
+        "description": "MTF｜Hrt：2025.6.30｜已净身｜需要10倍凝胶🍥找我对象@shaoxiancao1314 ｜观点过激｜NSFW｜墨尔本阻止自杀援助｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTFLEVEL.COM",
+                "end": 23,
+                "expanded_url": "http://MTFLEVEL.COM",
+                "start": 0,
+                "url": "https://t.co/UTbB3jsAQl"
+              }
+            ]
+          }
+        },
+        "id": "2019100298808291333",
+        "name": "唐毓文🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2021053599548309536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020000255790702592/OlSCtUnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 66,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/UTbB3jsAQl",
+        "username": "YuwenT233",
+        "verified": false
+      }
+    ]
+  }
+}

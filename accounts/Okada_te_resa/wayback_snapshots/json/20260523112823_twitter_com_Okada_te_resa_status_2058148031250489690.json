@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058148009830211584",
+        "3_2058148009834356736",
+        "3_2058148010329317376",
+        "3_2058148010522218496"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058148031250489690",
+    "created_at": "2026-05-23T11:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058148031250489690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSQPc31u7w",
+          "end": 27,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+          "media_key": "3_2058148009830211584",
+          "start": 4,
+          "url": "https://t.co/KSQPc31u7w"
+        },
+        {
+          "display_url": "pic.x.com/KSQPc31u7w",
+          "end": 27,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+          "media_key": "3_2058148009834356736",
+          "start": 4,
+          "url": "https://t.co/KSQPc31u7w"
+        },
+        {
+          "display_url": "pic.x.com/KSQPc31u7w",
+          "end": 27,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+          "media_key": "3_2058148010329317376",
+          "start": 4,
+          "url": "https://t.co/KSQPc31u7w"
+        },
+        {
+          "display_url": "pic.x.com/KSQPc31u7w",
+          "end": 27,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+          "media_key": "3_2058148010522218496",
+          "start": 4,
+          "url": "https://t.co/KSQPc31u7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058148031250489690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "击毙你 https://t.co/KSQPc31u7w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058148009830211584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJACtd0bYAAB69O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058148009834356736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJACtd1aoAAt_JQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058148010329317376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJACtfrbIAAS74M.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058148010522218496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJACtgZakAAy9Aa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058148009830211584",
+            "3_2058148009834356736",
+            "3_2058148010329317376",
+            "3_2058148010522218496"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058148031250489690",
+        "created_at": "2026-05-23T11:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058148031250489690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSQPc31u7w",
+              "end": 27,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+              "media_key": "3_2058148009830211584",
+              "start": 4,
+              "url": "https://t.co/KSQPc31u7w"
+            },
+            {
+              "display_url": "pic.x.com/KSQPc31u7w",
+              "end": 27,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+              "media_key": "3_2058148009834356736",
+              "start": 4,
+              "url": "https://t.co/KSQPc31u7w"
+            },
+            {
+              "display_url": "pic.x.com/KSQPc31u7w",
+              "end": 27,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+              "media_key": "3_2058148010329317376",
+              "start": 4,
+              "url": "https://t.co/KSQPc31u7w"
+            },
+            {
+              "display_url": "pic.x.com/KSQPc31u7w",
+              "end": 27,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058148031250489690/photo/1",
+              "media_key": "3_2058148010522218496",
+              "start": 4,
+              "url": "https://t.co/KSQPc31u7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058148031250489690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "击毙你 https://t.co/KSQPc31u7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 864,
+          "like_count": 39130,
+          "listed_count": 4,
+          "media_count": 584,
+          "tweet_count": 2845
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

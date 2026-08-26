@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056686285281239041"
+      ],
+      "media_source_tweet_id": [
+        "2056686293816619008"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2057172423280312352",
+    "created_at": "2026-05-20T18:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057172423280312352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1183028604248027137",
+          "start": 3,
+          "username": "Songzjiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yZarMvF5Yf",
+          "end": 42,
+          "expanded_url": "https://x.com/Songzjiu/status/2056686293816619008/photo/1",
+          "media_key": "3_2056686285281239041",
+          "start": 19,
+          "url": "https://t.co/yZarMvF5Yf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057172423280312352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056686293816619008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Songzjiu: 舌吻指南 https://t.co/yZarMvF5Yf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2056686285281239041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrRR5ibIAEIjg3.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056686285281239041"
+          ],
+          "media_source_tweet_id": [
+            "2056686293816619008"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2057172423280312352",
+        "created_at": "2026-05-20T18:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057172423280312352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1183028604248027137",
+              "start": 3,
+              "username": "Songzjiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZarMvF5Yf",
+              "end": 42,
+              "expanded_url": "https://x.com/Songzjiu/status/2056686293816619008/photo/1",
+              "media_key": "3_2056686285281239041",
+              "start": 19,
+              "url": "https://t.co/yZarMvF5Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057172423280312352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056686293816619008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Songzjiu: 舌吻指南 https://t.co/yZarMvF5Yf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056686285281239041"
+          ]
+        },
+        "author_id": "1183028604248027137",
+        "conversation_id": "2056686293816619008",
+        "created_at": "2026-05-19T10:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056686293816619008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZarMvF5Yf",
+              "end": 28,
+              "expanded_url": "https://x.com/Songzjiu/status/2056686293816619008/photo/1",
+              "media_key": "3_2056686285281239041",
+              "start": 5,
+              "url": "https://t.co/yZarMvF5Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056686293816619008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 878,
+          "impression_count": 153337,
+          "like_count": 2846,
+          "quote_count": 24,
+          "reply_count": 191,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "舌吻指南 https://t.co/yZarMvF5Yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 855,
+          "like_count": 38851,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 2800
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T14:36:19.000Z",
+        "description": "❗️关评推广自辨❗️\n分享随笔黄文 性爱知识教学 \n预约排至六月 身体不舒服可能不会及时回复\n过门口令➕姓氏➕微信私信",
+        "id": "1183028604248027137",
+        "location": "京津冀",
+        "name": "松子酒-入门九折",
+        "pinned_tweet_id": "2042444558727069706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993178303574790145/29wde5Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285766,
+          "following_count": 255,
+          "like_count": 1635,
+          "listed_count": 729,
+          "media_count": 110,
+          "tweet_count": 971
+        },
+        "username": "Songzjiu",
+        "verified": true
+      }
+    ]
+  }
+}

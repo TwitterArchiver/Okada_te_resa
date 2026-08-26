@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936226470751350784"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936226488921305423",
+    "created_at": "2025-06-21T00:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T01:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936226488921305423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uRlRwODv3V",
+          "end": 37,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1936226488921305423/photo/1",
+          "media_key": "3_1936226470751350784",
+          "start": 14,
+          "url": "https://t.co/uRlRwODv3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936226488921305423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后我一个人打车六七十回家 https://t.co/uRlRwODv3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_1936226470751350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7bt3HXsAAQ4H3.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936226470751350784"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936226488921305423",
+        "created_at": "2025-06-21T00:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936226488921305423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRlRwODv3V",
+              "end": 37,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1936226488921305423/photo/1",
+              "media_key": "3_1936226470751350784",
+              "start": 14,
+              "url": "https://t.co/uRlRwODv3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936226488921305423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后我一个人打车六七十回家 https://t.co/uRlRwODv3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 330,
+          "like_count": 15112,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 662
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

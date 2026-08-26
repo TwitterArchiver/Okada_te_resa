@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078103011663212544"
+      ],
+      "media_source_tweet_id": [
+        "2078103019837894656"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese comic magazine",
+          "id": "1309573767421554688",
+          "name": "Young Magazine"
+        }
+      }
+    ],
+    "conversation_id": "2078392180201476566",
+    "created_at": "2026-07-18T08:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078392180201476566"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "ヤンマガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669579351",
+          "start": 3,
+          "username": "kokoro777pp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BahKc9mdfu",
+          "end": 82,
+          "expanded_url": "https://x.com/kokoro777pp/status/2078103019837894656/photo/1",
+          "media_key": "3_2078103011663212544",
+          "start": 59,
+          "url": "https://t.co/BahKc9mdfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078392180201476566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 979
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078103019837894656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokoro777pp: アニメもさいこーに\n楽しませて頂いてるにゃ🌈💉\n\n発売、楽しみだにゃ🚬\n#ヤンマガ https://t.co/BahKc9mdfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078103011663212544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbnrcja8AA6Kok.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078103011663212544"
+          ]
+        },
+        "author_id": "1669579351",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese comic magazine",
+              "id": "1309573767421554688",
+              "name": "Young Magazine"
+            }
+          }
+        ],
+        "conversation_id": "2078103019837894656",
+        "created_at": "2026-07-17T13:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078103019837894656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "ヤンマガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BahKc9mdfu",
+              "end": 65,
+              "expanded_url": "https://x.com/kokoro777pp/status/2078103019837894656/photo/1",
+              "media_key": "3_2078103011663212544",
+              "start": 42,
+              "url": "https://t.co/BahKc9mdfu"
+            },
+            {
+              "display_url": "x.com/yanmaga_g/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/yanmaga_g/status/2077636362753438180",
+              "start": 66,
+              "url": "https://t.co/xnsshI4aod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078103019837894656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2933,
+          "impression_count": 1156179,
+          "like_count": 23768,
+          "quote_count": 40,
+          "reply_count": 109,
+          "retweet_count": 979
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077636362753438180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "アニメもさいこーに\n楽しませて頂いてるにゃ🌈💉\n\n発売、楽しみだにゃ🚬\n#ヤンマガ https://t.co/BahKc9mdfu https://t.co/xnsshI4aod"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078103011663212544"
+          ],
+          "media_source_tweet_id": [
+            "2078103019837894656"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese comic magazine",
+              "id": "1309573767421554688",
+              "name": "Young Magazine"
+            }
+          }
+        ],
+        "conversation_id": "2078392180201476566",
+        "created_at": "2026-07-18T08:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078392180201476566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "ヤンマガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669579351",
+              "start": 3,
+              "username": "kokoro777pp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BahKc9mdfu",
+              "end": 82,
+              "expanded_url": "https://x.com/kokoro777pp/status/2078103019837894656/photo/1",
+              "media_key": "3_2078103011663212544",
+              "start": 59,
+              "url": "https://t.co/BahKc9mdfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078392180201476566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 979
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078103019837894656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokoro777pp: アニメもさいこーに\n楽しませて頂いてるにゃ🌈💉\n\n発売、楽しみだにゃ🚬\n#ヤンマガ https://t.co/BahKc9mdfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 984,
+          "like_count": 43057,
+          "listed_count": 5,
+          "media_count": 720,
+          "tweet_count": 3339
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-14T05:05:23.000Z",
+        "description": "PPE 所属 /モデル/DJギズモ/コスプレ/グラビア/ などをしています。 お仕事のご依頼はこちらまで☺︎▶︎ https://t.co/NZtxSQQAaS #金髪ショー党 推しマ💙🐾 /\n通販📚▶︎https://t.co/uRSVp0js0Y",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 81,
+                "tag": "金髪ショー党"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ppe.jp/contact/",
+                "end": 80,
+                "expanded_url": "http://ppe.jp/contact/",
+                "start": 57,
+                "url": "https://t.co/NZtxSQQAaS"
+              },
+              {
+                "display_url": "kokoro777pp.booth.pm",
+                "end": 125,
+                "expanded_url": "https://kokoro777pp.booth.pm/",
+                "start": 102,
+                "url": "https://t.co/uRSVp0js0Y"
+              }
+            ]
+          }
+        },
+        "id": "1669579351",
+        "name": "篠崎こころ💙🐾",
+        "pinned_tweet_id": "2077730235446157628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956136988832358404/QRLWvMr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538747,
+          "following_count": 2011,
+          "like_count": 72905,
+          "listed_count": 2713,
+          "media_count": 7735,
+          "tweet_count": 43274
+        },
+        "url": "",
+        "username": "kokoro777pp",
+        "verified": true
+      }
+    ]
+  }
+}

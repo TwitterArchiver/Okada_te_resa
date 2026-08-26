@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984499076302614528"
+      ],
+      "media_source_tweet_id": [
+        "1984499137526841435"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1984588588387090460",
+    "created_at": "2025-11-01T11:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984588588387090460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3853228393",
+          "start": 3,
+          "username": "tanda_hazuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5fTZCtxy7",
+          "end": 83,
+          "expanded_url": "https://x.com/tanda_hazuki/status/1984499137526841435/video/1",
+          "media_key": "13_1984499076302614528",
+          "start": 60,
+          "url": "https://t.co/C5fTZCtxy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984588588387090460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984499137526841435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanda_hazuki: 気付いたら沢山いいねしてくれててびっくり\n初めて自分でウイッグどうにかしたよとほほ https://t.co/C5fTZCtxy7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984588588387090460].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984588588387090460",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984588588387090460"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14730,
+        "height": 1280,
+        "media_key": "13_1984499076302614528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984499076302614528/img/PoyowNBoWlWucTM2.jpg",
+        "public_metrics": {
+          "view_count": 12701
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984499076302614528/vid/avc1/320x568/tIQUDolFlLSDC8i2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984499076302614528/vid/avc1/480x852/WlVkGxySqV1ESUGD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984499076302614528/vid/avc1/720x1280/nKfdrhDHDntxauiQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984499076302614528/pl/WGOKd1unsB8XmE-t.m3u8?v=e8f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984499076302614528"
+          ]
+        },
+        "author_id": "3853228393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1984499137526841435",
+        "created_at": "2025-11-01T05:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984499137526841435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5fTZCtxy7",
+              "end": 65,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1984499137526841435/video/1",
+              "media_key": "13_1984499076302614528",
+              "start": 42,
+              "url": "https://t.co/C5fTZCtxy7"
+            },
+            {
+              "display_url": "x.com/tanda_hazuki/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/tanda_hazuki/status/1984188544152412183",
+              "start": 66,
+              "url": "https://t.co/2ZfLiswfik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984499137526841435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 373,
+          "impression_count": 77575,
+          "like_count": 3642,
+          "quote_count": 34,
+          "reply_count": 30,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984188544152412183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "気付いたら沢山いいねしてくれててびっくり\n初めて自分でウイッグどうにかしたよとほほ https://t.co/C5fTZCtxy7 https://t.co/2ZfLiswfik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 613,
+          "like_count": 23779,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1274
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./(@Root__mimi ラベンダーパープル担当)/D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg  #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 118,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Root__mimi"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7lviZz"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "location": "ストロボ",
+        "name": "反田葉月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625435304984576/zxjPBMtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153629,
+          "following_count": 601,
+          "like_count": 69240,
+          "listed_count": 1151,
+          "media_count": 2713,
+          "tweet_count": 10794
+        },
+        "url": "https://t.co/9SVW7lviZz",
+        "username": "tanda_hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

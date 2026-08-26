@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      }
+    ],
+    "conversation_id": "1979774062286286909",
+    "created_at": "2025-10-19T04:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979774062286286909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "318366744",
+          "start": 3,
+          "username": "wenqiangjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979774062286286909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979487657777614883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wenqiangjp: 《颜值的力量》\n\n她的照片，在日本网络上引爆了。\n不是因为罪行，而是因为颜值。\n\n21 岁，东京墨田区。警方公布她被带走的画面，灯光冷白，她的表情几乎无情绪——却在一夜之间，被网友称为“女星级嫌疑人”。\n\n她叫田野和彩，被指控以 GPS… htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_1979487002849333248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iM8PpWUAAYcLT.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "1979774062286286909",
+        "created_at": "2025-10-19T04:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979774062286286909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "318366744",
+              "start": 3,
+              "username": "wenqiangjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979774062286286909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979487657777614883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wenqiangjp: 《颜值的力量》\n\n她的照片，在日本网络上引爆了。\n不是因为罪行，而是因为颜值。\n\n21 岁，东京墨田区。警方公布她被带走的画面，灯光冷白，她的表情几乎无情绪——却在一夜之间，被网友称为“女星级嫌疑人”。\n\n她叫田野和彩，被指控以 GPS… htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979487002849333248"
+          ]
+        },
+        "author_id": "318366744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "1979487657777614883",
+        "created_at": "2025-10-18T10:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:58:28.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979487234157072878",
+          "1979487455557685535",
+          "1979487657777614883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQvfVKcqwU",
+              "end": 142,
+              "expanded_url": "https://x.com/wenqiangjp/status/1979487657777614883/photo/1",
+              "media_key": "3_1979487002849333248",
+              "start": 119,
+              "url": "https://t.co/ZQvfVKcqwU"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7efb0fd5276fdda5"
+        },
+        "id": "1979487657777614883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 826,
+                "start": 821,
+                "tag": "田野和彩"
+              },
+              {
+                "end": 833,
+                "start": 827,
+                "tag": "温哥看日本"
+              }
+            ]
+          },
+          "text": "《颜值的力量》\n\n她的照片，在日本网络上引爆了。\n不是因为罪行，而是因为颜值。\n\n21 岁，东京墨田区。警方公布她被带走的画面，灯光冷白，她的表情几乎无情绪——却在一夜之间，被网友称为“女星级嫌疑人”。\n\n她叫田野和彩，被指控以 GPS 监控女性、强迫卖春。新闻播出后，讨论的焦点并非暴力与控制，而是那张“美得不像罪犯”的脸。\n\n社交媒体上，有人惊叹：“她太漂亮了。”\n有人玩笑：“如果她开 OnlyFans，我一定去订阅。”\n甚至还有人感叹：“长成这样的人，为什么要去犯罪？”\n\n这不是第一次，美貌让人偏离了真相。\n在算法主导的时代，美已经不仅是审美，而是一种“货币”。它能让普通人登上舞台，也能让一个嫌疑人成为全民追逐的“偶像”。\n\n美，是一种注意力的吸铁石。\n而注意力，在今天，就是权力。\n\n媒体很快抓住了这个逻辑：封面不谈案情，只放照片。标题不写罪名，只写“最美嫌疑人”。热搜关键词不是“暴力控制”，而是“像女明星”。\n\n在被算法统治的舆论场，美貌成了新的“正义指标”——好看的人，天然被赋予更多理解、更多宽容，甚至更多原谅。\n\n但真正的现实，是残酷的。\n受害者仍在接受心理治疗，案件背后的黑色产业链依然存在。\n\n而公众却在感叹“可惜了这么漂亮的脸”。\n这就是颜值的力量——它让人忘记思考，让同情错位。\n\n丹尼尔·卡尼曼在《思考，快与慢》中写道：\n\n人类拥有两套系统。\n系统1：感性的、迅速的、依赖外貌与情绪作出判断。系统2：理性的、缓慢的、需要自我克制与思考。\n\n而互联网正是放大“系统1”的机器。\n短视频、热搜、直播间，都在诱导我们“快速反应，立即相信”。\n\n于是，大众被情绪牵着鼻子走：\n被标题操控、被流量收割、被颜值催眠。\n\n真正成熟的个体，不是压抑情绪，而是学会在情绪中保持清醒。既保留直觉的敏锐，也能让理性回到座位（在快感中保持冷静）。\n\n能同时运转这两套系统的人，才能在被算法操控的江湖，披上一层看不见的“软猬甲”。\n\n#田野和彩 #温哥看日本"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 220609,
+          "like_count": 519,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "《颜值的力量》\n\n她的照片，在日本网络上引爆了。\n不是因为罪行，而是因为颜值。\n\n21 岁，东京墨田区。警方公布她被带走的画面，灯光冷白，她的表情几乎无情绪——却在一夜之间，被网友称为“女星级嫌疑人”。\n\n她叫田野和彩，被指控以 GPS https://t.co/ZQvfVKcqwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 565,
+          "like_count": 22779,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1219
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-16T11:23:09.000Z",
+        "description": "🇯🇵旅日媒体人、教育博主、前网易新闻(日本)总编辑🗼定居东京第15年 📸 微信：wenqiangjp（注明来意）｜日常分享：#温哥看日本｜#日本现场｜#每天拍一个日本人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "温哥看日本"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "日本现场"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "每天拍一个日本人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@wenqiangjp",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/@wenqiangjp",
+                "start": 0,
+                "url": "https://t.co/k4Zc0ObsEA"
+              }
+            ]
+          }
+        },
+        "id": "318366744",
+        "location": "Tokyo-to, Japan",
+        "name": "东京温哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826373040273588227/YrBMtIEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114700,
+          "following_count": 1266,
+          "like_count": 52749,
+          "listed_count": 355,
+          "media_count": 1772,
+          "tweet_count": 17468
+        },
+        "url": "https://t.co/k4Zc0ObsEA",
+        "username": "wenqiangjp",
+        "verified": true
+      }
+    ]
+  }
+}

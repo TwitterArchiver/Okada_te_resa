@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046557111132553216"
+      ],
+      "media_source_tweet_id": [
+        "2046557116274766260"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2046888842599485584",
+    "created_at": "2026-04-22T09:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046888842599485584"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 37,
+          "tag": "NIKKEcosplay"
+        },
+        {
+          "end": 58,
+          "start": 52,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "ニケ"
+        },
+        {
+          "end": 72,
+          "start": 65,
+          "tag": "Bready"
+        },
+        {
+          "end": 80,
+          "start": 74,
+          "tag": "ブレッディ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046215399772192769",
+          "start": 3,
+          "username": "Oh_marui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9yXwjcO86f",
+          "end": 104,
+          "expanded_url": "https://x.com/Oh_marui/status/2046557116274766260/photo/1",
+          "media_key": "3_2046557111132553216",
+          "start": 81,
+          "url": "https://t.co/9yXwjcO86f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046888842599485584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046557116274766260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oh_marui: NIKKE ¦ ブレッディ ¦ cos \n\n #NIKKEcosplay  #NIKKE  #ニケ  #Bready  #ブレッディ https://t.co/9yXwjcO86f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046557111132553216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbU2XWbAAAc0nq.jpg",
+        "width": 1380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046557111132553216"
+          ],
+          "media_source_tweet_id": [
+            "2046557116274766260"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2046888842599485584",
+        "created_at": "2026-04-22T09:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046888842599485584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 37,
+              "tag": "NIKKEcosplay"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "ニケ"
+            },
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "Bready"
+            },
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "ブレッディ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046215399772192769",
+              "start": 3,
+              "username": "Oh_marui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yXwjcO86f",
+              "end": 104,
+              "expanded_url": "https://x.com/Oh_marui/status/2046557116274766260/photo/1",
+              "media_key": "3_2046557111132553216",
+              "start": 81,
+              "url": "https://t.co/9yXwjcO86f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046888842599485584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046557116274766260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oh_marui: NIKKE ¦ ブレッディ ¦ cos \n\n #NIKKEcosplay  #NIKKE  #ニケ  #Bready  #ブレッディ https://t.co/9yXwjcO86f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046557111132553216"
+          ]
+        },
+        "author_id": "2046215399772192769",
+        "conversation_id": "2046557116274766260",
+        "created_at": "2026-04-21T11:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046557116274766260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 23,
+              "tag": "NIKKEcosplay"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "ニケ"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "Bready"
+            },
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "ブレッディ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yXwjcO86f",
+              "end": 90,
+              "expanded_url": "https://x.com/Oh_marui/status/2046557116274766260/photo/1",
+              "media_key": "3_2046557111132553216",
+              "start": 67,
+              "url": "https://t.co/9yXwjcO86f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046557116274766260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1613,
+          "impression_count": 215854,
+          "like_count": 8213,
+          "quote_count": 106,
+          "reply_count": 22,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "NIKKE ¦ ブレッディ ¦ cos \n\n #NIKKEcosplay  #NIKKE  #ニケ  #Bready  #ブレッディ https://t.co/9yXwjcO86f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 779,
+          "like_count": 37035,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 2535
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T13:14:42.000Z",
+        "description": "JAPAN ¦ 20⬆️",
+        "id": "2046215399772192769",
+        "name": "おまる",
+        "pinned_tweet_id": "2046225654564389208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046230835301605376/bzFX6MBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 30,
+          "like_count": 68,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "username": "Oh_marui",
+        "verified": false
+      }
+    ]
+  }
+}

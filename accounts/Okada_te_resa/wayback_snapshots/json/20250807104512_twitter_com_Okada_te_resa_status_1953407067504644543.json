@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1953373716357730464",
+    "created_at": "2025-08-07T10:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953407067504644543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813560885459202048",
+          "start": 0,
+          "username": "XWXbl00dbunn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953407067504644543",
+    "in_reply_to_user_id": "1813560885459202048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953373716357730464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XWXbl00dbunn1 去哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953373705159282688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvHCRGbkAAp_VU.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1953373716357730464",
+        "created_at": "2025-08-07T10:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953407067504644543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813560885459202048",
+              "start": 0,
+              "username": "XWXbl00dbunn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953407067504644543",
+        "in_reply_to_user_id": "1813560885459202048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953373716357730464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XWXbl00dbunn1 去哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953373705159282688"
+          ]
+        },
+        "author_id": "1813560885459202048",
+        "conversation_id": "1953373716357730464",
+        "created_at": "2025-08-07T08:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953373716357730464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X12cOu7jz",
+              "end": 39,
+              "expanded_url": "https://x.com/XWXbl00dbunn1/status/1953373716357730464/photo/1",
+              "media_key": "3_1953373705159282688",
+              "start": 16,
+              "url": "https://t.co/7X12cOu7jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953373716357730464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素颜春秋航空 #门槛妹 #门槛 https://t.co/7X12cOu7jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 450,
+          "like_count": 18635,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 937
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:06:32.000Z",
+        "description": "一个智障精神病 🚪 58/88 可怜可怜我的话那我可以给我赞赏码扫点谢谢谢谢",
+        "id": "1813560885459202048",
+        "location": "上海",
+        "name": "xwx恨你。",
+        "pinned_tweet_id": "1947156619030364176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936753742759485440/GZoZyotf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 622,
+          "like_count": 8378,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1144
+        },
+        "username": "XWXbl00dbunn1",
+        "verified": false
+      }
+    ]
+  }
+}

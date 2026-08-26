@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070820518924853248"
+      ],
+      "media_source_tweet_id": [
+        "2070820531604234341"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2070888347338428638",
+    "created_at": "2026-06-27T15:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070888347338428638"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 16,
+          "tag": "スーパーの裏でヤニ吸うふたり"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "ヤニすう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "788328845120311296",
+          "start": 3,
+          "username": "Takomayuyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AwdEB1nzf7",
+          "end": 69,
+          "expanded_url": "https://x.com/Takomayuyi/status/2070820531604234341/photo/1",
+          "media_key": "3_2070820518924853248",
+          "start": 46,
+          "url": "https://t.co/AwdEB1nzf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070888347338428638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 643
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070820531604234341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takomayuyi: #スーパーの裏でヤニ吸うふたり #ヤニすう \n\n田山さん🤫 https://t.co/AwdEB1nzf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2070820518924853248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0ISlAbIAAq43M.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070820518924853248"
+          ],
+          "media_source_tweet_id": [
+            "2070820531604234341"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2070888347338428638",
+        "created_at": "2026-06-27T15:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070888347338428638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "スーパーの裏でヤニ吸うふたり"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ヤニすう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "788328845120311296",
+              "start": 3,
+              "username": "Takomayuyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwdEB1nzf7",
+              "end": 69,
+              "expanded_url": "https://x.com/Takomayuyi/status/2070820531604234341/photo/1",
+              "media_key": "3_2070820518924853248",
+              "start": 46,
+              "url": "https://t.co/AwdEB1nzf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070888347338428638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 643
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070820531604234341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takomayuyi: #スーパーの裏でヤニ吸うふたり #ヤニすう \n\n田山さん🤫 https://t.co/AwdEB1nzf7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070820518924853248"
+          ]
+        },
+        "author_id": "788328845120311296",
+        "conversation_id": "2070820531604234341",
+        "created_at": "2026-06-27T10:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070820531604234341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "スーパーの裏でヤニ吸うふたり"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ヤニすう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwdEB1nzf7",
+              "end": 53,
+              "expanded_url": "https://x.com/Takomayuyi/status/2070820531604234341/photo/1",
+              "media_key": "3_2070820518924853248",
+              "start": 30,
+              "url": "https://t.co/AwdEB1nzf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070820531604234341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1464,
+          "impression_count": 75169,
+          "like_count": 9339,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "#スーパーの裏でヤニ吸うふたり #ヤニすう \n\n田山さん🤫 https://t.co/AwdEB1nzf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 924,
+          "like_count": 41246,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-18T10:40:17.000Z",
+        "description": "Business email：3020850396@qq.com🇨🇳 Chinese. 24 years old. 176cm. English👌中文👌日本語👩‍🏫Español 👩‍🏫Ins：@takomayuyi This is my one and only real account.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "takomayuyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@takomayuyitako",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@takomayuyitako",
+                "start": 0,
+                "url": "https://t.co/3vjNmdSYNO"
+              }
+            ]
+          }
+        },
+        "id": "788328845120311296",
+        "name": "菌烨tako",
+        "pinned_tweet_id": "2070474278630572259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1029664262199758848/xDgEYWlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677531,
+          "following_count": 496,
+          "like_count": 1487,
+          "listed_count": 7488,
+          "media_count": 937,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/3vjNmdSYNO",
+        "username": "Takomayuyi",
+        "verified": true
+      }
+    ]
+  }
+}

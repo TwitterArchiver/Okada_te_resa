@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1946158878233895368",
+    "created_at": "2025-07-18T11:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T12:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946164914579509636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2907026474",
+          "start": 0,
+          "username": "Abs0lutHydra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946164914579509636",
+    "in_reply_to_user_id": "2907026474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946158878233895368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abs0lutHydra 那很坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1946158878233895368",
+        "created_at": "2025-07-18T11:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946164914579509636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2907026474",
+              "start": 0,
+              "username": "Abs0lutHydra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946164914579509636",
+        "in_reply_to_user_id": "2907026474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946158878233895368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abs0lutHydra 那很坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2907026474",
+        "conversation_id": "1946158878233895368",
+        "created_at": "2025-07-18T10:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T11:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946158878233895368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Okada_te_resa/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Okada_te_resa/status/1946134530533782009",
+              "start": 31,
+              "url": "https://t.co/NHUVkPRvzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946158878233895368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946134530533782009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问：什么叫特色专业\n答：色到男娘卓越工程师得自己筹集项目经费 https://t.co/NHUVkPRvzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 420,
+          "like_count": 17629,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 846
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T10:47:41.000Z",
+        "description": "MtF, feel free to call me with any pronouns. Electronics engineer, interested in DSP and Amateur Radio. Ph.D student in AI Acceleration/EDA. \n亲妹妹@cv41___midway",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "cv41___midway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pfmrlib.github.io",
+                "end": 23,
+                "expanded_url": "http://pfmrlib.github.io",
+                "start": 0,
+                "url": "https://t.co/7r7dlsRqQe"
+              }
+            ]
+          }
+        },
+        "id": "2907026474",
+        "name": "Hiryuu Concordea",
+        "pinned_tweet_id": "1828300445972124037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883407152666263552/QWpBbBxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 577,
+          "like_count": 5328,
+          "listed_count": 0,
+          "media_count": 693,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/7r7dlsRqQe",
+        "username": "Abs0lutHydra",
+        "verified": false
+      }
+    ]
+  }
+}

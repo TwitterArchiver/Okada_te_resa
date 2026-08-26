@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "1999184714759090638",
+    "created_at": "2025-12-11T18:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T19:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999184714759090638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "301370609",
+          "start": 3,
+          "username": "SecretHoney_HB"
+        }
+      ],
+      "urls": [
+        {
+          "description": "クロミコラボセットアップ2026ss Collectionクロミのロゴ×どくろマークを合わせたオリジナルリボンが存在感抜群?。【予約商品 1月中旬頃発送予定】クロミコラボセットアップ12/13 10:00 販売スタートsecrethoney　シークレットハニー　シーハニ　サンリオキャラクターズ　量産型　レディース　ガーリー　長袖　無地　ブラック　黒　レース　地雷",
+          "display_url": "x.gd/vC7iK",
+          "end": 129,
+          "expanded_url": "http://x.gd/vC7iK",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/1999056822607777792/JK0nR_VH?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1999056822607777792/JK0nR_VH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "【楽天市場】【予約商品 1月中旬頃発送予定】クロミコラボセットアップ12/13 10:00 販売スタートsecrethoney　シークレットハニー　シーハニ　サンリオキャラクターズ　量産型　レディース　ガーリー　長袖　無地　ブラック　黒　レース　地雷：Secret Honey",
+          "unwound_url": "https://item.rakuten.co.jp/secrethoney/6sa509/",
+          "url": "https://t.co/je0CnFfp9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999184714759090638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999056817335476625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SecretHoney_HB: ♡KUROMI×Secret Honey Collaboration Set up♡\n\n12/13(土)より‼︎\nクロミセットアップを\n各店舗.楽天で予約販売！🎀\n\n詳細→https://t.co/je0CnFfp9a\n\n※サンプル展示は…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999056813392789504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74TlJAaAAAIrM2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1999184714759090638",
+        "created_at": "2025-12-11T18:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999184714759090638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "301370609",
+              "start": 3,
+              "username": "SecretHoney_HB"
+            }
+          ],
+          "urls": [
+            {
+              "description": "クロミコラボセットアップ2026ss Collectionクロミのロゴ×どくろマークを合わせたオリジナルリボンが存在感抜群?。【予約商品 1月中旬頃発送予定】クロミコラボセットアップ12/13 10:00 販売スタートsecrethoney　シークレットハニー　シーハニ　サンリオキャラクターズ　量産型　レディース　ガーリー　長袖　無地　ブラック　黒　レース　地雷",
+              "display_url": "x.gd/vC7iK",
+              "end": 129,
+              "expanded_url": "http://x.gd/vC7iK",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1999056822607777792/JK0nR_VH?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999056822607777792/JK0nR_VH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "【楽天市場】【予約商品 1月中旬頃発送予定】クロミコラボセットアップ12/13 10:00 販売スタートsecrethoney　シークレットハニー　シーハニ　サンリオキャラクターズ　量産型　レディース　ガーリー　長袖　無地　ブラック　黒　レース　地雷：Secret Honey",
+              "unwound_url": "https://item.rakuten.co.jp/secrethoney/6sa509/",
+              "url": "https://t.co/je0CnFfp9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999184714759090638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999056817335476625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SecretHoney_HB: ♡KUROMI×Secret Honey Collaboration Set up♡\n\n12/13(土)より‼︎\nクロミセットアップを\n各店舗.楽天で予約販売！🎀\n\n詳細→https://t.co/je0CnFfp9a\n\n※サンプル展示は…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999056813392789504"
+          ]
+        },
+        "author_id": "301370609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1999056817335476625",
+        "created_at": "2025-12-11T10:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999056817335476625"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 122,
+              "normalized_text": "渋谷店",
+              "probability": 0.6739,
+              "start": 120,
+              "type": "Place"
+            },
+            {
+              "end": 126,
+              "normalized_text": "梅田店",
+              "probability": 0.5927,
+              "start": 124,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 166,
+              "start": 154,
+              "tag": "secrethoney"
+            },
+            {
+              "end": 172,
+              "start": 167,
+              "tag": "シーハニ"
+            },
+            {
+              "end": 183,
+              "start": 173,
+              "tag": "シークレットハニー"
+            },
+            {
+              "end": 188,
+              "start": 184,
+              "tag": "クロミ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "クロミコラボセットアップ2026ss Collectionクロミのロゴ×どくろマークを合わせたオリジナルリボンが存在感抜群?。【予約商品 1月中旬頃発送予定】クロミコラボセットアップ12/13 10:00 販売スタートsecrethoney　シークレットハニー　シーハニ　サンリオキャラクターズ　量産型　レディース　ガーリー　長袖　無地　ブラック　黒　レース　地雷",
+              "display_url": "x.gd/vC7iK",
+              "end": 109,
+              "expanded_url": "http://x.gd/vC7iK",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1999056822607777792/JK0nR_VH?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999056822607777792/JK0nR_VH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "【楽天市場】【予約商品 1月中旬頃発送予定】クロミコラボセットアップ12/13 10:00 販売スタートsecrethoney　シークレットハニー　シーハニ　サンリオキャラクターズ　量産型　レディース　ガーリー　長袖　無地　ブラック　黒　レース　地雷：Secret Honey",
+              "unwound_url": "https://item.rakuten.co.jp/secrethoney/6sa509/",
+              "url": "https://t.co/je0CnFfp9a"
+            },
+            {
+              "display_url": "pic.x.com/lafGepEsRQ",
+              "end": 212,
+              "expanded_url": "https://x.com/SecretHoney_HB/status/1999056817335476625/photo/1",
+              "media_key": "3_1999056813392789504",
+              "start": 189,
+              "url": "https://t.co/lafGepEsRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999056817335476625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 12045,
+          "like_count": 300,
+          "quote_count": 34,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "♡KUROMI×Secret Honey Collaboration Set up♡\n\n12/13(土)より‼︎\nクロミセットアップを\n各店舗.楽天で予約販売！🎀\n\n詳細→https://t.co/je0CnFfp9a\n\n※サンプル展示は渋谷店、梅田店\n※予約販売数に逹したら終了\n※お渡し1月中旬頃予定\n\n#secrethoney\n#シーハニ\n#シークレットハニー\n#クロミ https://t.co/lafGepEsRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 653,
+          "like_count": 26889,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 1568
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-19T10:50:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "est-s.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.est-s.co.jp/",
+                "start": 0,
+                "url": "https://t.co/s63sekq96A"
+              }
+            ]
+          }
+        },
+        "id": "301370609",
+        "name": "シークレットハニー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1318480137990467584/8ApZNcz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61778,
+          "following_count": 162,
+          "like_count": 2534,
+          "listed_count": 1345,
+          "media_count": 9007,
+          "tweet_count": 10498
+        },
+        "url": "https://t.co/s63sekq96A",
+        "username": "SecretHoney_HB",
+        "verified": false
+      }
+    ]
+  }
+}

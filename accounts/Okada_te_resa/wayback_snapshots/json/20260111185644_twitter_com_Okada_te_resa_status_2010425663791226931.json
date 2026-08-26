@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2010425663791226931",
+    "created_at": "2026-01-11T18:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T19:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010425663791226931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1407673990202597379",
+          "start": 3,
+          "username": "GreenWaveness"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010425663791226931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010230727976333597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GreenWaveness: 接吻所需要的亲密指数大于拥抱大于做爱，我这样排名。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2010425663791226931",
+        "created_at": "2026-01-11T18:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010425663791226931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1407673990202597379",
+              "start": 3,
+              "username": "GreenWaveness"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010425663791226931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010230727976333597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GreenWaveness: 接吻所需要的亲密指数大于拥抱大于做爱，我这样排名。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407673990202597379",
+        "conversation_id": "2010230727976333597",
+        "created_at": "2026-01-11T06:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010230727976333597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010230727976333597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9420,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "接吻所需要的亲密指数大于拥抱大于做爱，我这样排名。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 677,
+          "like_count": 29131,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1724
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T12:16:55.000Z",
+        "description": "世间浮云何足间，不如高卧且加餐。https://t.co/DQSf48Qypy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eureka_4ever",
+                "end": 39,
+                "expanded_url": "https://ngl.link/eureka_4ever",
+                "start": 16,
+                "url": "https://t.co/DQSf48Qypy"
+              }
+            ]
+          }
+        },
+        "id": "1407673990202597379",
+        "name": "Matchagrocery",
+        "pinned_tweet_id": "1973244919440613847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010040550259601416/4RWvxYCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 70,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 95
+        },
+        "username": "GreenWaveness",
+        "verified": false
+      }
+    ]
+  }
+}

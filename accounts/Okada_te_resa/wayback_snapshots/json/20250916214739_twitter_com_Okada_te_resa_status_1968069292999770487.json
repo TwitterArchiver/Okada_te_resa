@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1968069292999770487",
+    "created_at": "2025-09-16T21:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T22:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968069292999770487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ilkos_sdvx/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ilkos_sdvx/status/1967953129552613777",
+          "start": 2,
+          "url": "https://t.co/2bup4q0QlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968069292999770487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967953129552613777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/2bup4q0QlI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1968069292999770487",
+        "created_at": "2025-09-16T21:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968069292999770487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilkos_sdvx/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ilkos_sdvx/status/1967953129552613777",
+              "start": 2,
+              "url": "https://t.co/2bup4q0QlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968069292999770487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967953129552613777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/2bup4q0QlI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600287222183661568",
+        "conversation_id": "1967953129552613777",
+        "created_at": "2025-09-16T14:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967953129552613777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967953129552613777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 948,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈凭什么男的女装用那个傻逼门锁相机拍个00年画质的照片只露出两条腿就一堆人去夸啊😂有病吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 508,
+          "like_count": 21205,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1138
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T00:33:14.000Z",
+        "description": "🚪50+ 多少看你心情丨06 162/50丨maimai樱桃将持有 sdvx刚力罗丨不线下不裸聊不卖原味别问了",
+        "id": "1600287222183661568",
+        "name": "藍",
+        "pinned_tweet_id": "1966890460083040634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602970750787584/URhUpf_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 313,
+          "like_count": 10719,
+          "listed_count": 9,
+          "media_count": 405,
+          "tweet_count": 2579
+        },
+        "username": "ilkos_sdvx",
+        "verified": false
+      }
+    ]
+  }
+}

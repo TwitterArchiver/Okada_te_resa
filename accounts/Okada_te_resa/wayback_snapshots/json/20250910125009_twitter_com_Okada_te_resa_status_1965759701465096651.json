@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965497780702740480"
+      ],
+      "media_source_tweet_id": [
+        "1965497792237085071"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1965759701465096651",
+    "created_at": "2025-09-10T12:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T13:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965759701465096651"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582889727694295041",
+          "start": 3,
+          "username": "Seo_miaa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNFfuNOWuf",
+          "end": 49,
+          "expanded_url": "https://x.com/Seo_miaa_/status/1965497792237085071/photo/1",
+          "media_key": "3_1965497780702740480",
+          "start": 26,
+          "url": "https://t.co/VNFfuNOWuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965759701465096651",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965497792237085071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seo_miaa_: #AveMujica https://t.co/VNFfuNOWuf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965497780702740480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0bZ0WGbAAAoguj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965497780702740480"
+          ],
+          "media_source_tweet_id": [
+            "1965497792237085071"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1965759701465096651",
+        "created_at": "2025-09-10T12:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965759701465096651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582889727694295041",
+              "start": 3,
+              "username": "Seo_miaa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNFfuNOWuf",
+              "end": 49,
+              "expanded_url": "https://x.com/Seo_miaa_/status/1965497792237085071/photo/1",
+              "media_key": "3_1965497780702740480",
+              "start": 26,
+              "url": "https://t.co/VNFfuNOWuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965759701465096651",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965497792237085071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seo_miaa_: #AveMujica https://t.co/VNFfuNOWuf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965497780702740480"
+          ]
+        },
+        "author_id": "1582889727694295041",
+        "conversation_id": "1965497792237085071",
+        "created_at": "2025-09-09T19:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T20:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965497792237085071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNFfuNOWuf",
+              "end": 34,
+              "expanded_url": "https://x.com/Seo_miaa_/status/1965497792237085071/photo/1",
+              "media_key": "3_1965497780702740480",
+              "start": 11,
+              "url": "https://t.co/VNFfuNOWuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965497792237085071",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 605,
+          "impression_count": 73034,
+          "like_count": 5013,
+          "quote_count": 12,
+          "reply_count": 22,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "#AveMujica https://t.co/VNFfuNOWuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 118,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 95,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 501,
+          "like_count": 20856,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1121
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T00:23:01.000Z",
+        "description": "小包包一枚🫶是本人 感觉不会经常更新啊..",
+        "id": "1582889727694295041",
+        "name": "小包包一枚",
+        "pinned_tweet_id": "1923761669588820155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892525705927299072/yEGOGu05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11150,
+          "following_count": 126,
+          "like_count": 2035,
+          "listed_count": 45,
+          "media_count": 78,
+          "tweet_count": 133
+        },
+        "username": "Seo_miaa_",
+        "verified": false
+      }
+    ]
+  }
+}

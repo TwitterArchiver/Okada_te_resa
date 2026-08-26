@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1946134530533782009",
+    "created_at": "2025-07-18T09:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946138360776421456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648489172234293252",
+          "start": 0,
+          "username": "xiaokemeiyouai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946138360776421456",
+    "in_reply_to_user_id": "1648489172234293252",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946138014293594304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokemeiyouai 🥺🥺🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946138014293594304].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946138014293594304",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946138014293594304"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1946134530533782009",
+        "created_at": "2025-07-18T09:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946138360776421456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648489172234293252",
+              "start": 0,
+              "username": "xiaokemeiyouai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946138360776421456",
+        "in_reply_to_user_id": "1648489172234293252",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946138014293594304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokemeiyouai 🥺🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 420,
+          "like_count": 17629,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 845
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T00:50:36.000Z",
+        "description": "是可！爱！味！蝴！蝶！酥！‖持证含糖‖cos新手‖infp‖家骗党‖拒绝键政‖重度抑郁双相情感障碍‖边缘人格‖超讨厌自己的声音‖梦想着能成为小可爱‖努力学习化妆ing‖有一点小m但是温柔是一种好文明‖摸摸头就能拐走的小呆瓜‖如果可以的话请把我当做小妹妹‖可能是个病娇‖梦想是拍好多好看的照片",
+        "id": "1648489172234293252",
+        "location": "湖北",
+        "name": "小可",
+        "pinned_tweet_id": "1664666120341553160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657040660917043209/NHjON3g3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1016,
+          "like_count": 40840,
+          "listed_count": 7,
+          "media_count": 81,
+          "tweet_count": 9120
+        },
+        "username": "xiaokemeiyouai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1960971781151285316",
+    "created_at": "2025-08-28T07:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T08:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960971781151285316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Revive_Meink/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Revive_Meink/status/1960272358792462805",
+          "start": 30,
+          "url": "https://t.co/s4xwS5u6mJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960971781151285316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960272358792462805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骑摩托车被创飞了左腿被挖掉两大块肉刮到骨头，手指也断了一根 https://t.co/s4xwS5u6mJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1960971781151285316",
+        "created_at": "2025-08-28T07:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960971781151285316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Revive_Meink/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Revive_Meink/status/1960272358792462805",
+              "start": 30,
+              "url": "https://t.co/s4xwS5u6mJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960971781151285316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960272358792462805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骑摩托车被创飞了左腿被挖掉两大块肉刮到骨头，手指也断了一根 https://t.co/s4xwS5u6mJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "1960272358792462805",
+        "created_at": "2025-08-26T09:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960272358792462805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960272358792462805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 56917,
+          "like_count": 231,
+          "quote_count": 22,
+          "reply_count": 214,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "诶好奇你们受过最重的伤是什么？物理上的伤（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 481,
+          "like_count": 20059,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1072
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "二十二月系统\n\n里推：@knimaisey\n（包括但不限于 崩溃、吐苦水、扭曲病态三观、暴论）\n\n乱涂乱画：@Victimized_P\n（百年一更，画技是坨屎。）\n———\n你好':3 \n我是一个永远八岁的小孩 :D \n梦想是当一辈子长不大的小孩！你的梦想是什么？\n———\n点一下这个？\n｜\nV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "knimaisey"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭（ftmtf vers.）",
+        "pinned_tweet_id": "1959905881497247937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960065486793650177/G2OaOR4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 252,
+          "like_count": 8178,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 3922
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

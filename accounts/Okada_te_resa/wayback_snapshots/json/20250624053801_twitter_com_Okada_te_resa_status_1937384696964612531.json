@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1937359183793557606",
+    "created_at": "2025-06-24T05:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T06:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937384696964612531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1005032686925242368",
+          "start": 0,
+          "username": "Ch0coIates_W00O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937384696964612531",
+    "in_reply_to_user_id": "1005032686925242368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937382266201899513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ch0coIates_W00O 看看夫妻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1937359183793557606",
+        "created_at": "2025-06-24T05:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937384696964612531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1005032686925242368",
+              "start": 0,
+              "username": "Ch0coIates_W00O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937384696964612531",
+        "in_reply_to_user_id": "1005032686925242368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937382266201899513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch0coIates_W00O 看看夫妻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1005032686925242368",
+        "conversation_id": "1937359183793557606",
+        "created_at": "2025-06-24T05:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937382266201899513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937382266201899513",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937359183793557606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 我来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 349,
+          "like_count": 15597,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 700
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T10:23:59.000Z",
+        "description": "Age:20↑ /162CM /48KG /#门槛 68解锁联系方式（口令or赞赏）/Maimai DX/ニーゴ💜💻箱推し/希望你在消逝前能够漂亮一点。置顶推广自辨。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "门槛"
+              }
+            ]
+          }
+        },
+        "id": "1005032686925242368",
+        "location": "在你心里❤️",
+        "name": "樹状チョコレート",
+        "pinned_tweet_id": "1909762270923784452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745727620879441920/5pExMzWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6395,
+          "following_count": 159,
+          "like_count": 277,
+          "listed_count": 18,
+          "media_count": 296,
+          "tweet_count": 1178
+        },
+        "username": "Ch0coIates_W00O",
+        "verified": false
+      }
+    ]
+  }
+}

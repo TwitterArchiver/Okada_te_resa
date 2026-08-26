@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969273763259957248"
+      ],
+      "media_source_tweet_id": [
+        "1969273766736699853"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1971312853081784320",
+    "created_at": "2025-09-25T20:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T21:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971312853081784320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "cos"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "尾巴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582701554099924995",
+          "start": 3,
+          "username": "armycc99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0tl1rYvYOE",
+          "end": 56,
+          "expanded_url": "https://x.com/armycc99/status/1969273766736699853/photo/1",
+          "media_key": "3_1969273763259957248",
+          "start": 33,
+          "url": "https://t.co/0tl1rYvYOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971312853081784320",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969273766736699853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @armycc99: wataa 💕\n  #cos #尾巴 https://t.co/0tl1rYvYOE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971312853081784320].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971312853081784320",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971312853081784320"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1969273763259957248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1REDdSbQAAvdvz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969273763259957248"
+          ]
+        },
+        "author_id": "1582701554099924995",
+        "conversation_id": "1969273766736699853",
+        "created_at": "2025-09-20T05:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969273766736699853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "cos"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "尾巴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tl1rYvYOE",
+              "end": 42,
+              "expanded_url": "https://x.com/armycc99/status/1969273766736699853/photo/1",
+              "media_key": "3_1969273763259957248",
+              "start": 19,
+              "url": "https://t.co/0tl1rYvYOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969273766736699853",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 484,
+          "impression_count": 95498,
+          "like_count": 2126,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "wataa 💕\n  #cos #尾巴 https://t.co/0tl1rYvYOE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 517,
+          "like_count": 21718,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1153
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T11:53:57.000Z",
+        "description": "日更博主，不定期删帖，某音网红小主播，无🚪槛，纯分享，喜欢多点赞！推广自辩！",
+        "id": "1582701554099924995",
+        "location": "浙江",
+        "name": "Amy",
+        "pinned_tweet_id": "1968967187911069827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966765881679376387/8TegNj1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194553,
+          "following_count": 137,
+          "like_count": 636,
+          "listed_count": 419,
+          "media_count": 70,
+          "tweet_count": 404
+        },
+        "username": "armycc99",
+        "verified": false
+      }
+    ]
+  }
+}

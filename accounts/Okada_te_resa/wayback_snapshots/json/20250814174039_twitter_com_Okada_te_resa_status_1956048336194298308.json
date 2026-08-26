@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955962118987243580",
+        "3_1955962118995632194",
+        "3_1955962118991437875"
+      ],
+      "media_source_tweet_id": [
+        "1955962134862684163",
+        "1955962134862684163",
+        "1955962134862684163"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1956048336194298308",
+    "created_at": "2025-08-14T17:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T18:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956048336194298308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2880189872",
+          "start": 3,
+          "username": "okada_mei0519"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7a2qX0Xfz",
+          "end": 49,
+          "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+          "media_key": "3_1955962118987243580",
+          "start": 26,
+          "url": "https://t.co/t7a2qX0Xfz"
+        },
+        {
+          "display_url": "pic.x.com/t7a2qX0Xfz",
+          "end": 49,
+          "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+          "media_key": "3_1955962118995632194",
+          "start": 26,
+          "url": "https://t.co/t7a2qX0Xfz"
+        },
+        {
+          "display_url": "pic.x.com/t7a2qX0Xfz",
+          "end": 49,
+          "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+          "media_key": "3_1955962118991437875",
+          "start": 26,
+          "url": "https://t.co/t7a2qX0Xfz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956048336194298308",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 766
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955962134862684163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okada_mei0519: 🌻🦋✦·̩͙ https://t.co/t7a2qX0Xfz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1955962118987243580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT5LyBa4DwNziY.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3918,
+        "media_key": "3_1955962118995632194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT5LyDa4EIxGCJ.jpg",
+        "width": 2938
+      },
+      {
+        "height": 3783,
+        "media_key": "3_1955962118991437875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT5LyCa4DMk6ND.jpg",
+        "width": 2836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955962118987243580",
+            "3_1955962118995632194",
+            "3_1955962118991437875"
+          ],
+          "media_source_tweet_id": [
+            "1955962134862684163",
+            "1955962134862684163",
+            "1955962134862684163"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1956048336194298308",
+        "created_at": "2025-08-14T17:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T18:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956048336194298308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2880189872",
+              "start": 3,
+              "username": "okada_mei0519"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7a2qX0Xfz",
+              "end": 49,
+              "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+              "media_key": "3_1955962118987243580",
+              "start": 26,
+              "url": "https://t.co/t7a2qX0Xfz"
+            },
+            {
+              "display_url": "pic.x.com/t7a2qX0Xfz",
+              "end": 49,
+              "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+              "media_key": "3_1955962118995632194",
+              "start": 26,
+              "url": "https://t.co/t7a2qX0Xfz"
+            },
+            {
+              "display_url": "pic.x.com/t7a2qX0Xfz",
+              "end": 49,
+              "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+              "media_key": "3_1955962118991437875",
+              "start": 26,
+              "url": "https://t.co/t7a2qX0Xfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956048336194298308",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 766
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955962134862684163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okada_mei0519: 🌻🦋✦·̩͙ https://t.co/t7a2qX0Xfz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955962118987243580",
+            "3_1955962118995632194",
+            "3_1955962118991437875"
+          ]
+        },
+        "author_id": "2880189872",
+        "conversation_id": "1955962134862684163",
+        "created_at": "2025-08-14T11:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955962134862684163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7a2qX0Xfz",
+              "end": 30,
+              "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+              "media_key": "3_1955962118987243580",
+              "start": 7,
+              "url": "https://t.co/t7a2qX0Xfz"
+            },
+            {
+              "display_url": "pic.x.com/t7a2qX0Xfz",
+              "end": 30,
+              "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+              "media_key": "3_1955962118995632194",
+              "start": 7,
+              "url": "https://t.co/t7a2qX0Xfz"
+            },
+            {
+              "display_url": "pic.x.com/t7a2qX0Xfz",
+              "end": 30,
+              "expanded_url": "https://x.com/okada_mei0519/status/1955962134862684163/photo/1",
+              "media_key": "3_1955962118991437875",
+              "start": 7,
+              "url": "https://t.co/t7a2qX0Xfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955962134862684163",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 75881,
+          "like_count": 5402,
+          "quote_count": 57,
+          "reply_count": 70,
+          "retweet_count": 766
+        },
+        "reply_settings": "everyone",
+        "text": "🌻🦋✦·̩͙ https://t.co/t7a2qX0Xfz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 461,
+          "like_count": 19139,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 996
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "Ace Crew Entertainment 所属┊声優 #D4DJ Merm4id 水島茉莉花 / #バンドリ Ave Mujica Ba.🎸八幡海鈴 / #らぶフォー 最上羅巫, etc┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ❥ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 147,
+                "expanded_url": "https://maysland.jp/",
+                "start": 124,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身🐏✦",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1924134506191290600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848344854885171200/sMebPHkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123839,
+          "following_count": 397,
+          "like_count": 64728,
+          "listed_count": 1176,
+          "media_count": 4466,
+          "tweet_count": 14502
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

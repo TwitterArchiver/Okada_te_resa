@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000411621861023745",
+        "3_2000411639481315332",
+        "3_2000411657655259139",
+        "3_2000411697136230404"
+      ],
+      "media_source_tweet_id": [
+        "2000412270082593092",
+        "2000412270082593092",
+        "2000412270082593092",
+        "2000412270082593092"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2000434964433891402",
+    "created_at": "2025-12-15T05:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T06:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000434964433891402"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "スタァライト",
+          "probability": 0.6492,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "じゅんななな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "424466917",
+          "start": 3,
+          "username": "93brochan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Rl7rqJgpk",
+          "end": 71,
+          "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+          "media_key": "3_2000411621861023745",
+          "start": 48,
+          "url": "https://t.co/1Rl7rqJgpk"
+        },
+        {
+          "display_url": "pic.x.com/1Rl7rqJgpk",
+          "end": 71,
+          "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+          "media_key": "3_2000411639481315332",
+          "start": 48,
+          "url": "https://t.co/1Rl7rqJgpk"
+        },
+        {
+          "display_url": "pic.x.com/1Rl7rqJgpk",
+          "end": 71,
+          "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+          "media_key": "3_2000411657655259139",
+          "start": 48,
+          "url": "https://t.co/1Rl7rqJgpk"
+        },
+        {
+          "display_url": "pic.x.com/1Rl7rqJgpk",
+          "end": 71,
+          "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+          "media_key": "3_2000411697136230404",
+          "start": 48,
+          "url": "https://t.co/1Rl7rqJgpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000434964433891402",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000412270082593092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @93brochan: Fancy you...🐶\n\n#スタァライト   #じゅんななな https://t.co/1Rl7rqJgpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2000411621861023745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LjxX2W4AEHE57.jpg",
+        "width": 1200
+      },
+      {
+        "height": 781,
+        "media_key": "3_2000411639481315332",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LjyZfXMAQbD4F.jpg",
+        "width": 1200
+      },
+      {
+        "height": 781,
+        "media_key": "3_2000411657655259139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LjzdMXkAMwIOe.jpg",
+        "width": 1200
+      },
+      {
+        "height": 781,
+        "media_key": "3_2000411697136230404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Lj1wRXYAQOsfE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000411621861023745",
+            "3_2000411639481315332",
+            "3_2000411657655259139",
+            "3_2000411697136230404"
+          ],
+          "media_source_tweet_id": [
+            "2000412270082593092",
+            "2000412270082593092",
+            "2000412270082593092",
+            "2000412270082593092"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2000434964433891402",
+        "created_at": "2025-12-15T05:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000434964433891402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "スタァライト",
+              "probability": 0.6492,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "じゅんななな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "424466917",
+              "start": 3,
+              "username": "93brochan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 71,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411621861023745",
+              "start": 48,
+              "url": "https://t.co/1Rl7rqJgpk"
+            },
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 71,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411639481315332",
+              "start": 48,
+              "url": "https://t.co/1Rl7rqJgpk"
+            },
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 71,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411657655259139",
+              "start": 48,
+              "url": "https://t.co/1Rl7rqJgpk"
+            },
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 71,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411697136230404",
+              "start": 48,
+              "url": "https://t.co/1Rl7rqJgpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000434964433891402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000412270082593092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @93brochan: Fancy you...🐶\n\n#スタァライト   #じゅんななな https://t.co/1Rl7rqJgpk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000411621861023745",
+            "3_2000411639481315332",
+            "3_2000411657655259139",
+            "3_2000411697136230404"
+          ]
+        },
+        "author_id": "424466917",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2000412270082593092",
+        "created_at": "2025-12-15T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000412270082593092"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "スタァライト",
+              "probability": 0.6713,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "じゅんななな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 56,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411621861023745",
+              "start": 33,
+              "url": "https://t.co/1Rl7rqJgpk"
+            },
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 56,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411639481315332",
+              "start": 33,
+              "url": "https://t.co/1Rl7rqJgpk"
+            },
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 56,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411657655259139",
+              "start": 33,
+              "url": "https://t.co/1Rl7rqJgpk"
+            },
+            {
+              "display_url": "pic.x.com/1Rl7rqJgpk",
+              "end": 56,
+              "expanded_url": "https://x.com/93brochan/status/2000412270082593092/photo/1",
+              "media_key": "3_2000411697136230404",
+              "start": 33,
+              "url": "https://t.co/1Rl7rqJgpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000412270082593092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1806,
+          "like_count": 268,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "Fancy you...🐶\n\n#スタァライト   #じゅんななな https://t.co/1Rl7rqJgpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 656,
+          "like_count": 27178,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1602
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-29T20:15:28.000Z",
+        "description": "🇲🇽 | 🍞 | ESP-ENG | Cheap comedy and fluff | I draw sometimes | Multifandom  | ⚡ Afterglow stan and lots of spam | 🍞x🐙 | 👓x🍌\n\n✨ https://t.co/zITuLxB3Bi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/93brochan",
+                "end": 150,
+                "expanded_url": "https://vgen.co/93brochan",
+                "start": 127,
+                "url": "https://t.co/zITuLxB3Bi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/brochan",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/brochan",
+                "start": 0,
+                "url": "https://t.co/39iukAndLd"
+              }
+            ]
+          }
+        },
+        "id": "424466917",
+        "name": "Brochan - VGen Commissions Open",
+        "pinned_tweet_id": "1987889648837001616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719425279683158016/-SGqZMSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 442,
+          "like_count": 15488,
+          "listed_count": 8,
+          "media_count": 1245,
+          "tweet_count": 10168
+        },
+        "url": "https://t.co/39iukAndLd",
+        "username": "93brochan",
+        "verified": false
+      }
+    ]
+  }
+}

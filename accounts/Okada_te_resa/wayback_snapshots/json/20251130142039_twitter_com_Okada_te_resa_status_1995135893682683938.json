@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1995135893682683938",
+    "created_at": "2025-11-30T14:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995135893682683938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "827513806880329732",
+          "start": 3,
+          "username": "XinHaNewsAgency"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995135893682683938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994822977523986832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinHaNewsAgency: 到今日止，全党全军全国各族人民公认的享有崇高威望的卓越领导人，伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家、久经考验的共产主义战士，中国特色社会主义伟大事业的杰出领导者，党的第三代中央领导集体的核心，三个代表重要思想…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108060,
+        "height": 720,
+        "media_key": "7_1994822919751700480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994822919751700480/pu/img/qtIcelqLQjgzabRS.jpg",
+        "public_metrics": {
+          "view_count": 87452
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994822919751700480/pu/vid/avc1/480x270/EByFVbw66IDcE1Ow.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994822919751700480/pu/vid/avc1/640x360/E6L7gsCVCL5tI8Af.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994822919751700480/pu/vid/avc1/1280x720/q_QvciwUZXLSI3rq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994822919751700480/pu/pl/MZ6TQrKpDs-YdxU5.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1995135893682683938",
+        "created_at": "2025-11-30T14:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995135893682683938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "827513806880329732",
+              "start": 3,
+              "username": "XinHaNewsAgency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995135893682683938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994822977523986832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XinHaNewsAgency: 到今日止，全党全军全国各族人民公认的享有崇高威望的卓越领导人，伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家、久经考验的共产主义战士，中国特色社会主义伟大事业的杰出领导者，党的第三代中央领导集体的核心，三个代表重要思想…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994822919751700480"
+          ]
+        },
+        "author_id": "827513806880329732",
+        "conversation_id": "1994822977523986832",
+        "created_at": "2025-11-29T17:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994822977523986832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBRRiB6fhR",
+              "end": 164,
+              "expanded_url": "https://x.com/XinHaNewsAgency/status/1994822977523986832/video/1",
+              "media_key": "7_1994822919751700480",
+              "start": 141,
+              "url": "https://t.co/yBRRiB6fhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994822977523986832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 181574,
+          "like_count": 567,
+          "quote_count": 16,
+          "reply_count": 49,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "到今日止，全党全军全国各族人民公认的享有崇高威望的卓越领导人，伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家、久经考验的共产主义战士，中国特色社会主义伟大事业的杰出领导者，党的第三代中央领导集体的核心，三个代表重要思想的主要创立者江泽民主席，离开我们已经三年了。 https://t.co/yBRRiB6fhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 652,
+          "like_count": 26163,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 1514
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T13:47:20.000Z",
+        "description": "新蛤社，让世界听到江学的声音！ 欢迎关注新蛤社。下能听取蛙声一片，中能提高姿势水平，上可学习人生经验，岂不美哉？投稿请@我或发送私信投稿 \n电报：https://t.co/xVVgQZGUDy\n#膜蛤 #膜法 #长者 #续命 #江泽民",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "膜蛤"
+              },
+              {
+                "end": 104,
+                "start": 101,
+                "tag": "膜法"
+              },
+              {
+                "end": 108,
+                "start": 105,
+                "tag": "长者"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "续命"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "江泽民"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/XinHaNewsAgency",
+                "end": 96,
+                "expanded_url": "http://t.me/XinHaNewsAgency",
+                "start": 73,
+                "url": "https://t.co/xVVgQZGUDy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XinHaNewsAgen…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@XinHaNewsAgency",
+                "start": 0,
+                "url": "https://t.co/p8jeIezwhr"
+              }
+            ]
+          }
+        },
+        "id": "827513806880329732",
+        "location": "中蛤人民共和国",
+        "name": "新蛤社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648128228505321478/Ph0Mps49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89375,
+          "following_count": 32,
+          "like_count": 716,
+          "listed_count": 229,
+          "media_count": 1746,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/p8jeIezwhr",
+        "username": "XinHaNewsAgency",
+        "verified": false
+      }
+    ]
+  }
+}

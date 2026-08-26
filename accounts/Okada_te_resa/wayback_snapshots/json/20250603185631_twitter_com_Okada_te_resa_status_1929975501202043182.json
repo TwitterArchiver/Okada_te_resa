@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1929972603273523455",
+    "created_at": "2025-06-03T18:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T19:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929975501202043182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2907026474",
+          "start": 0,
+          "username": "Abs0lutHydra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929975501202043182",
+    "in_reply_to_user_id": "2907026474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929972603273523455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abs0lutHydra 不要o了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1929972603273523455",
+        "created_at": "2025-06-03T18:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T19:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929975501202043182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2907026474",
+              "start": 0,
+              "username": "Abs0lutHydra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929975501202043182",
+        "in_reply_to_user_id": "2907026474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929972603273523455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abs0lutHydra 不要o了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2907026474",
+        "conversation_id": "1929972603273523455",
+        "created_at": "2025-06-03T18:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T19:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929972603273523455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Abs0lutHydra/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/Abs0lutHydra/status/1929773063337660924",
+              "start": 107,
+              "url": "https://t.co/YjVXrG0emP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929972603273523455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929773063337660924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总摄入量2000mg\n相当于正常日剂量的5x\n产生了轻微解离的现象 效果大概是正常量美金刚产生的解离的1/3及更低\n但是看悲惨的剧情已经没有感觉了 说明解离还是存在的\n正常服用的话可能是比美金刚更温和的神经保护剂 https://t.co/YjVXrG0emP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "滴淚妹在蘇A12000rpm",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 300,
+          "like_count": 14257,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 612
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T10:47:41.000Z",
+        "description": "MtF, feel free to call me with any pronouns. Electronics engineer, interested in DSP/AI and Amateur Radio. \n 亲妹妹@cv41___midway\n 進め、メンヘラ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "cv41___midway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pfmrlib.github.io",
+                "end": 23,
+                "expanded_url": "http://pfmrlib.github.io",
+                "start": 0,
+                "url": "https://t.co/7r7dlsRqQe"
+              }
+            ]
+          }
+        },
+        "id": "2907026474",
+        "name": "Hiryuu Concordea",
+        "pinned_tweet_id": "1828300445972124037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883407152666263552/QWpBbBxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 567,
+          "like_count": 5240,
+          "listed_count": 0,
+          "media_count": 686,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/7r7dlsRqQe",
+        "username": "Abs0lutHydra",
+        "verified": false
+      }
+    ]
+  }
+}

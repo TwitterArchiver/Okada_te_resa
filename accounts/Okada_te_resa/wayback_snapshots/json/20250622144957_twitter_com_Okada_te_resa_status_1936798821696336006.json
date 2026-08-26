@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936445602948378701",
+    "created_at": "2025-06-22T14:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936798821696336006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1676871441332187136",
+          "start": 0,
+          "username": "chnd261982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936798821696336006",
+    "in_reply_to_user_id": "1676871441332187136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936445602948378701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnd261982 妈的脏了就去洗😅滂臭脚别几把乱脱鞋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_1936445592907264000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-jAcwbsAAGnpr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936445602948378701",
+        "created_at": "2025-06-22T14:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936798821696336006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676871441332187136",
+              "start": 0,
+              "username": "chnd261982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936798821696336006",
+        "in_reply_to_user_id": "1676871441332187136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936445602948378701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnd261982 妈的脏了就去洗😅滂臭脚别几把乱脱鞋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936445592907264000"
+          ]
+        },
+        "author_id": "1676871441332187136",
+        "conversation_id": "1936445602948378701",
+        "created_at": "2025-06-21T15:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936445602948378701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "女s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZIT7NZkRe",
+              "end": 47,
+              "expanded_url": "https://x.com/chnd261982/status/1936445602948378701/photo/1",
+              "media_key": "3_1936445592907264000",
+              "start": 24,
+              "url": "https://t.co/HZIT7NZkRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936445602948378701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 104709,
+          "like_count": 1100,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "玩吗 别在你最贱的年纪 错过最会调的我\n#女s https://t.co/HZIT7NZkRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 337,
+          "like_count": 15310,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 687
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T08:31:36.000Z",
+        "description": "女1/S",
+        "id": "1676871441332187136",
+        "location": "贱狗头上",
+        "name": "嘉",
+        "pinned_tweet_id": "1849447997824028787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859314106685325313/t4jwpGri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28028,
+          "following_count": 1,
+          "like_count": 91,
+          "listed_count": 45,
+          "media_count": 165,
+          "tweet_count": 196
+        },
+        "username": "chnd261982",
+        "verified": false
+      }
+    ]
+  }
+}

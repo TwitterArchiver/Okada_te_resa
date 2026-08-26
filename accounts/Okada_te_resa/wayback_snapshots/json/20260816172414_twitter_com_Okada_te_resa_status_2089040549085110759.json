@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2089040549085110759",
+    "created_at": "2026-08-16T17:24:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089040549085110759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1614311887419887616",
+          "start": 3,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089040549085110759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089032847634161668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lion040317: 自介2.0\n在下狮子，04年顺女，4i/1i ，oder，偶尔的画手，贝斯手，机车女。还在上学……（悲。严重的焦虑性依赖！请大家和我聊天互fo！冷脸萌性格超好！\n不聊黄/不键政。\n欧美流行/摇滚又不完全滚\n来聊天吧各位宝宝。 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089032815971389440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP28Rygb0AAZGZ9.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2089032839216209920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP28TJGboAAgJRQ.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089040549085110759",
+        "created_at": "2026-08-16T17:24:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089040549085110759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1614311887419887616",
+              "start": 3,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089040549085110759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089032847634161668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lion040317: 自介2.0\n在下狮子，04年顺女，4i/1i ，oder，偶尔的画手，贝斯手，机车女。还在上学……（悲。严重的焦虑性依赖！请大家和我聊天互fo！冷脸萌性格超好！\n不聊黄/不键政。\n欧美流行/摇滚又不完全滚\n来聊天吧各位宝宝。 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089032815971389440",
+            "3_2089032839216209920"
+          ]
+        },
+        "author_id": "1614311887419887616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089032847634161668",
+        "created_at": "2026-08-16T16:53:37.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089032847634161668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gSw0XRRw6",
+              "end": 136,
+              "expanded_url": "https://x.com/lion040317/status/2089032847634161668/photo/1",
+              "media_key": "3_2089032815971389440",
+              "start": 113,
+              "url": "https://t.co/8gSw0XRRw6"
+            },
+            {
+              "display_url": "pic.x.com/8gSw0XRRw6",
+              "end": 136,
+              "expanded_url": "https://x.com/lion040317/status/2089032847634161668/photo/1",
+              "media_key": "3_2089032839216209920",
+              "start": 113,
+              "url": "https://t.co/8gSw0XRRw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089032847634161668",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089032815971389440"
+          },
+          {
+            "media_key": "3_2089032839216209920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自介2.0\n在下狮子，04年顺女，4i/1i ，oder，偶尔的画手，贝斯手，机车女。还在上学……（悲。严重的焦虑性依赖！请大家和我聊天互fo！冷脸萌性格超好！\n不聊黄/不键政。\n欧美流行/摇滚又不完全滚\n来聊天吧各位宝宝。 https://t.co/8gSw0XRRw6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2089040549085110759",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1021,
+          "like_count": 45676,
+          "listed_count": 5,
+          "media_count": 756,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发/4i。恶趣味十足 吉林/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖/不配得感/焦虑症严重。请和我闲聊~\n我的ngl:https://t.co/9S8dc1Yv1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lion200403",
+                "end": 90,
+                "expanded_url": "https://ngl.link/lion200403",
+                "start": 67,
+                "url": "https://t.co/9S8dc1Yv1i"
+              }
+            ]
+          }
+        },
+        "id": "1614311887419887616",
+        "is_identity_verified": false,
+        "location": "地下18层",
+        "most_recent_tweet_id": "2089032847634161668",
+        "name": "狮子桑Lion",
+        "pinned_tweet_id": "2089032847634161668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614311887419887616/1783088331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086681545818193920/_AWKPSgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 229,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

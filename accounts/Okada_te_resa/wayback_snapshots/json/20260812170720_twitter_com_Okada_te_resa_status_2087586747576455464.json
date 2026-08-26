@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2087520475421323509",
+    "created_at": "2026-08-12T17:07:20.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087586747576455464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087586747576455464",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087520475421323509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 ！？异议？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2087520475421323509",
+        "created_at": "2026-08-12T17:07:20.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087586747576455464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087586747576455464",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087520475421323509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 ！？异议？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557846379736666113",
+        "conversation_id": "2087520475421323509",
+        "created_at": "2026-08-12T12:44:00.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087520475421323509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087520475421323509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3947,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得一些视频里两个同性比较亲密一点弹幕就有人发“？！给给！？”/“？！拉拉？！”很诡异吗？\n\n换过来，如果两个异性比较亲密弹幕就有人发“！？异异！？”不诡异吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2087586747576455464",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 1012,
+          "like_count": 44973,
+          "listed_count": 5,
+          "media_count": 752,
+          "tweet_count": 3458
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@Meguminsuki2009\n🟨⬜🟪⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2087582354491765246",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 1945,
+          "like_count": 3448,
+          "listed_count": 2,
+          "media_count": 1131,
+          "tweet_count": 8536
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

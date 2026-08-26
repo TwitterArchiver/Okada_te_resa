@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023898240853458944"
+      ],
+      "media_source_tweet_id": [
+        "2023898246473806132"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2023965819240095953",
+    "created_at": "2026-02-18T03:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023965819240095953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2868648264",
+          "start": 3,
+          "username": "antigones_majoh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RT4tR7nIQ",
+          "end": 82,
+          "expanded_url": "https://x.com/antigones_majoh/status/2023898246473806132/photo/1",
+          "media_key": "3_2023898240853458944",
+          "start": 59,
+          "url": "https://t.co/7RT4tR7nIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023965819240095953",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023898246473806132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @antigones_majoh: SWEET DEVIL APRON BUSTIER\n RESTOCK 🖤🖤 https://t.co/7RT4tR7nIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023898240853458944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZUuhubwAA1J7x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023898240853458944"
+          ],
+          "media_source_tweet_id": [
+            "2023898246473806132"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2023965819240095953",
+        "created_at": "2026-02-18T03:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023965819240095953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2868648264",
+              "start": 3,
+              "username": "antigones_majoh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RT4tR7nIQ",
+              "end": 82,
+              "expanded_url": "https://x.com/antigones_majoh/status/2023898246473806132/photo/1",
+              "media_key": "3_2023898240853458944",
+              "start": 59,
+              "url": "https://t.co/7RT4tR7nIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023965819240095953",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023898246473806132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @antigones_majoh: SWEET DEVIL APRON BUSTIER\n RESTOCK 🖤🖤 https://t.co/7RT4tR7nIQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023898240853458944"
+          ]
+        },
+        "author_id": "2868648264",
+        "conversation_id": "2023898246473806132",
+        "created_at": "2026-02-17T23:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023898246473806132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RT4tR7nIQ",
+              "end": 61,
+              "expanded_url": "https://x.com/antigones_majoh/status/2023898246473806132/photo/1",
+              "media_key": "3_2023898240853458944",
+              "start": 38,
+              "url": "https://t.co/7RT4tR7nIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023898246473806132",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1428,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "SWEET DEVIL APRON BUSTIER\n RESTOCK 🖤🖤 https://t.co/7RT4tR7nIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 692,
+          "like_count": 32780,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 1970
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-21T08:59:13.000Z",
+        "description": "MAJOH原宿店 公式X♡ Insta→ https://t.co/xEWdFL4h6d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/antigones_majo…",
+                "end": 44,
+                "expanded_url": "http://instagram.com/antigones_majoh/",
+                "start": 21,
+                "url": "https://t.co/xEWdFL4h6d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "majoh.co",
+                "end": 23,
+                "expanded_url": "http://majoh.co",
+                "start": 0,
+                "url": "https://t.co/36sWnxaRSl"
+              }
+            ]
+          }
+        },
+        "id": "2868648264",
+        "location": "ラフォーレ原宿B1.5F❤︎営業時間11:00〜20:00",
+        "name": "MAJOH",
+        "pinned_tweet_id": "1787745209704656916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689555753743552512/ud2g3vCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19928,
+          "following_count": 1,
+          "like_count": 12834,
+          "listed_count": 397,
+          "media_count": 20507,
+          "tweet_count": 26370
+        },
+        "url": "https://t.co/36sWnxaRSl",
+        "username": "antigones_majoh",
+        "verified": false
+      }
+    ]
+  }
+}

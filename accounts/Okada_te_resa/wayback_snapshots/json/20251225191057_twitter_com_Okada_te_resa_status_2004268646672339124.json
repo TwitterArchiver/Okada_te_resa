@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2003469657932726498",
+    "created_at": "2025-12-25T19:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T20:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004268646672339124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004268646672339124",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003469657932726498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots 死爹烂妈的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003469644963913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83BBvpaIAAc2KQ.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2003469657932726498",
+        "created_at": "2025-12-25T19:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T20:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004268646672339124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004268646672339124",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003469657932726498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 死爹烂妈的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003469644963913728"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2003469657932726498",
+        "created_at": "2025-12-23T14:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003469657932726498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saV6WTIFlN",
+              "end": 83,
+              "expanded_url": "https://x.com/tatanakots/status/2003469657932726498/photo/1",
+              "media_key": "3_2003469644963913728",
+              "start": 60,
+              "url": "https://t.co/saV6WTIFlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003469657932726498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 15614,
+          "like_count": 120,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "加油华立，加油SEGA！\n期待你们搬出最强的防护方案，彻底杜绝科技访问服务器！还舞萌DX玩家一个清净的游戏环境！💪💪💪 https://t.co/saV6WTIFlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 665,
+          "like_count": 28035,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1661
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 243,
+          "like_count": 23953,
+          "listed_count": 6,
+          "media_count": 1456,
+          "tweet_count": 9567
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

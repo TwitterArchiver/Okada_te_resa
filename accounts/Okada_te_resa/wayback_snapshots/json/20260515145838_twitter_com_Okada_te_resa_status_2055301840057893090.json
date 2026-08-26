@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2055255226568065192",
+    "created_at": "2026-05-15T14:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055301840057893090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896604741821726720",
+          "start": 0,
+          "username": "_yonayonaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055301840057893090",
+    "in_reply_to_user_id": "1896604741821726720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055291192527786332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yonayonaka_ 现在也不胖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2055255226568065192",
+        "created_at": "2026-05-15T14:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055301840057893090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896604741821726720",
+              "start": 0,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055301840057893090",
+        "in_reply_to_user_id": "1896604741821726720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055291192527786332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yonayonaka_ 现在也不胖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896604741821726720",
+        "conversation_id": "2055255226568065192",
+        "created_at": "2026-05-15T14:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055291192527786332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055291192527786332",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055277042388893752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 瘦时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2054391181682049319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 832,
+          "like_count": 38503,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 2755
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。\n里人格：@shi6w6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "shi6w6"
+              }
+            ]
+          }
+        },
+        "id": "1896604741821726720",
+        "location": "🚪288/520 88好友位可抵线下門",
+        "name": "✞薬箱✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 288,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1230
+        },
+        "username": "_yonayonaka_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1990211833823932760",
+    "created_at": "2025-11-17T00:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990212376130711875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990212376130711875",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990212149642404330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage 别把我操死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1990211833823932760",
+        "created_at": "2025-11-17T00:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990212376130711875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990212376130711875",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990212149642404330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage 别把我操死了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433833820810211332",
+        "conversation_id": "1990211833823932760",
+        "created_at": "2025-11-17T00:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990212149642404330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990212149642404330",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990211833823932760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 我替你草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112055593242624/fMUPXFR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 632,
+          "like_count": 24837,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1350
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 双性恋 男孩子！活动范围以泉州／厦门为主 现在是18岁想可爱的180cm 85kg性压抑肥猪 - Citroen C4 Coupe车主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "1972319761364365391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 1573,
+          "like_count": 42818,
+          "listed_count": 7,
+          "media_count": 274,
+          "tweet_count": 10206
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944963151403081728"
+      ],
+      "media_source_tweet_id": [
+        "1944963162987749682"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1944963734243566069",
+    "created_at": "2025-07-15T03:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944963734243566069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642717433323745281",
+          "start": 3,
+          "username": "MozaikRR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zR3BF8cV0X",
+          "end": 46,
+          "expanded_url": "https://x.com/MozaikRR/status/1944963162987749682/photo/1",
+          "media_key": "3_1944963151403081728",
+          "start": 23,
+          "url": "https://t.co/zR3BF8cV0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944963734243566069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944963162987749682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MozaikRR: 发个牛子一会删了 https://t.co/zR3BF8cV0X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944963734243566069].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944963734243566069",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944963734243566069"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944963151403081728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3lrmya4AAYA9e.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944963151403081728"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "conversation_id": "1944963162987749682",
+        "created_at": "2025-07-15T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944963162987749682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zR3BF8cV0X",
+              "end": 32,
+              "expanded_url": "https://x.com/MozaikRR/status/1944963162987749682/photo/1",
+              "media_key": "3_1944963151403081728",
+              "start": 9,
+              "url": "https://t.co/zR3BF8cV0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944963162987749682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发个牛子一会删了 https://t.co/zR3BF8cV0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 412,
+          "like_count": 17435,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 832
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "没w5别和我说话",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832438280874553348/f-xGfUYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 241,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 62
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

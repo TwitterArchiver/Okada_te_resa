@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057695702059524096",
+        "3_2057695697261191168"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2057695704756400133",
+    "created_at": "2026-05-22T05:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057695704756400133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZyJOOZoDm",
+          "end": 54,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2057695704756400133/photo/1",
+          "media_key": "3_2057695702059524096",
+          "start": 31,
+          "url": "https://t.co/cZyJOOZoDm"
+        },
+        {
+          "display_url": "pic.x.com/cZyJOOZoDm",
+          "end": 54,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2057695704756400133/photo/1",
+          "media_key": "3_2057695697261191168",
+          "start": 31,
+          "url": "https://t.co/cZyJOOZoDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057695704756400133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你自己看看你发的东西傻逼不？转一下脑袋你的猪耳朵有没有扇你？ https://t.co/cZyJOOZoDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057695702059524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5nVsEbIAAp-bE.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057695697261191168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5nVaMaYAAnHhr.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057695702059524096",
+            "3_2057695697261191168"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2057695704756400133",
+        "created_at": "2026-05-22T05:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057695704756400133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZyJOOZoDm",
+              "end": 54,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2057695704756400133/photo/1",
+              "media_key": "3_2057695702059524096",
+              "start": 31,
+              "url": "https://t.co/cZyJOOZoDm"
+            },
+            {
+              "display_url": "pic.x.com/cZyJOOZoDm",
+              "end": 54,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2057695704756400133/photo/1",
+              "media_key": "3_2057695697261191168",
+              "start": 31,
+              "url": "https://t.co/cZyJOOZoDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057695704756400133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你自己看看你发的东西傻逼不？转一下脑袋你的猪耳朵有没有扇你？ https://t.co/cZyJOOZoDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 859,
+          "like_count": 38954,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 2821
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

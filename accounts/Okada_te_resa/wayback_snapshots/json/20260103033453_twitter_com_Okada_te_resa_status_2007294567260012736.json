@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007049423483011073"
+      ],
+      "media_source_tweet_id": [
+        "2007049433406751154"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2007294567260012736",
+    "created_at": "2026-01-03T03:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007294567260012736"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "ansy",
+          "probability": 0.7424,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "339716499",
+          "start": 3,
+          "username": "sasiyuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LPefLu9vU1",
+          "end": 49,
+          "expanded_url": "https://x.com/sasiyuu/status/2007049433406751154/photo/1",
+          "media_key": "3_2007049423483011073",
+          "start": 26,
+          "url": "https://t.co/LPefLu9vU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007294567260012736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007049433406751154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasiyuu: ansy family💖 https://t.co/LPefLu9vU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_2007049423483011073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9p40R1bgAEmZJI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007049423483011073"
+          ],
+          "media_source_tweet_id": [
+            "2007049433406751154"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2007294567260012736",
+        "created_at": "2026-01-03T03:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007294567260012736"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "ansy",
+              "probability": 0.7424,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "339716499",
+              "start": 3,
+              "username": "sasiyuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPefLu9vU1",
+              "end": 49,
+              "expanded_url": "https://x.com/sasiyuu/status/2007049433406751154/photo/1",
+              "media_key": "3_2007049423483011073",
+              "start": 26,
+              "url": "https://t.co/LPefLu9vU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007294567260012736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007049433406751154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasiyuu: ansy family💖 https://t.co/LPefLu9vU1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007049423483011073"
+          ]
+        },
+        "author_id": "339716499",
+        "conversation_id": "2007049433406751154",
+        "created_at": "2026-01-02T11:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007049433406751154"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ansy",
+              "probability": 0.6562,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPefLu9vU1",
+              "end": 36,
+              "expanded_url": "https://x.com/sasiyuu/status/2007049433406751154/photo/1",
+              "media_key": "3_2007049423483011073",
+              "start": 13,
+              "url": "https://t.co/LPefLu9vU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007049433406751154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 16803,
+          "like_count": 1007,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "ansy family💖 https://t.co/LPefLu9vU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 671,
+          "like_count": 28477,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 1683
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-21T15:02:29.000Z",
+        "description": "BanGDream!/Roselia/MyGO!!!!!/夢限大みゅーたいぷ/ポケモン/モンハン/学マス/🥮🏺🦆🎶/next▶︎拡張ﾌﾟﾛﾌ",
+        "id": "339716499",
+        "location": "ANON KOBE",
+        "name": "つばさ",
+        "pinned_tweet_id": "1909889586295095329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1077581019081928704/JRurXN3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1297,
+          "like_count": 566759,
+          "listed_count": 37,
+          "media_count": 3070,
+          "tweet_count": 107256
+        },
+        "username": "sasiyuu",
+        "verified": false
+      }
+    ]
+  }
+}

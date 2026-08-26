@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2014440757411897632",
+    "created_at": "2026-01-22T20:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T21:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014440757411897632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tsunderebutt/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/tsunderebutt/status/2014387152704921708",
+          "start": 14,
+          "url": "https://t.co/AJMBBk3QoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014440757411897632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014387152704921708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草你们妈能不能尊重你的食物 https://t.co/AJMBBk3QoE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6394,
+        "height": 480,
+        "media_key": "13_2014387145297768448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014387145297768448/img/sdbrMIdMA9GlUW31.jpg",
+        "public_metrics": {
+          "view_count": 90457
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014387145297768448/vid/avc1/276x270/QAnQDOQmRNNJgY8H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014387145297768448/vid/avc1/368x360/tvLqxaxZFKB5qTwK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014387145297768448/vid/avc1/492x480/uykgmxzNTrIzQ5sE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014387145297768448/pl/-_oYZYcZkVMLSWZP.m3u8"
+          }
+        ],
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2014440757411897632",
+        "created_at": "2026-01-22T20:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T21:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014440757411897632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tsunderebutt/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/tsunderebutt/status/2014387152704921708",
+              "start": 14,
+              "url": "https://t.co/AJMBBk3QoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014440757411897632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014387152704921708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草你们妈能不能尊重你的食物 https://t.co/AJMBBk3QoE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014387145297768448"
+          ]
+        },
+        "author_id": "1316036072921538564",
+        "conversation_id": "2014387152704921708",
+        "created_at": "2026-01-22T17:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014387152704921708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ugxk6iOy71",
+              "end": 97,
+              "expanded_url": "https://x.com/tsunderebutt/status/2014387152704921708/video/1",
+              "media_key": "13_2014387145297768448",
+              "start": 74,
+              "url": "https://t.co/ugxk6iOy71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014387152704921708",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2460,
+          "impression_count": 186455,
+          "like_count": 9689,
+          "quote_count": 131,
+          "reply_count": 137,
+          "retweet_count": 577
+        },
+        "reply_settings": "everyone",
+        "text": "ohhh t-that's my b-bburger you're stepping on my burger oh okay umm hahah https://t.co/ugxk6iOy71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 653,
+          "like_count": 30084,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 1803
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T15:20:36.000Z",
+        "description": "i'm insane but like in a hot way",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tsunderebutt.straw.page",
+                "end": 23,
+                "expanded_url": "https://tsunderebutt.straw.page",
+                "start": 0,
+                "url": "https://t.co/pWHLi0ukWQ"
+              }
+            ]
+          }
+        },
+        "id": "1316036072921538564",
+        "name": "mellow 🐈‍⬛",
+        "pinned_tweet_id": "1999284739778445502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999772048172695553/2jFqGtjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27551,
+          "following_count": 407,
+          "like_count": 83343,
+          "listed_count": 45,
+          "media_count": 3907,
+          "tweet_count": 26184
+        },
+        "url": "https://t.co/pWHLi0ukWQ",
+        "username": "tsunderebutt",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2090653837346717696"
+      ],
+      "media_source_tweet_id": [
+        "2091755883525284107"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091783826293031106",
+    "created_at": "2026-08-24T07:05:02.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091783826293031106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g2WicoXDDm",
+          "end": 49,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2091755883525284107/photo/1",
+          "media_key": "16_2090653837346717696",
+          "start": 26,
+          "url": "https://t.co/g2WicoXDDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091783826293031106",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2090653837346717696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091755883525284107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 🌶️🦋💭 https://t.co/g2WicoXDDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "16_2090653837346717696",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQN-lptbwAAD75l.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQN-lptbwAAD75l.mp4"
+          }
+        ],
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090653837346717696"
+          ],
+          "media_source_tweet_id": [
+            "2091755883525284107"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091783826293031106",
+        "created_at": "2026-08-24T07:05:02.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091783826293031106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2WicoXDDm",
+              "end": 49,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2091755883525284107/photo/1",
+              "media_key": "16_2090653837346717696",
+              "start": 26,
+              "url": "https://t.co/g2WicoXDDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091783826293031106",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2090653837346717696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091755883525284107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 🌶️🦋💭 https://t.co/g2WicoXDDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090653837346717696"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091755883525284107",
+        "created_at": "2026-08-24T05:14:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091755883525284107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2WicoXDDm",
+              "end": 28,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2091755883525284107/photo/1",
+              "media_key": "16_2090653837346717696",
+              "start": 5,
+              "url": "https://t.co/g2WicoXDDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091755883525284107",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2090653837346717696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 61808,
+          "like_count": 4229,
+          "quote_count": 36,
+          "reply_count": 15,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "🌶️🦋💭 https://t.co/g2WicoXDDm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2091783826293031106",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 1027,
+          "like_count": 46805,
+          "listed_count": 5,
+          "media_count": 765,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2091755883525284107",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543325,
+          "following_count": 1,
+          "like_count": 43,
+          "listed_count": 1161,
+          "media_count": 857,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1936746730193928500",
+    "created_at": "2025-06-22T12:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T13:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936765107759091923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936765107759091923",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936746730193928500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1936746712745291776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuC037kWsAAWQGx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1936746712561012736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuC0364a0AAuNBJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1936746712699125760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuC037ZWQAAsTfY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1936746730193928500",
+        "created_at": "2025-06-22T12:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936765107759091923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936765107759091923",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936746730193928500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936746712745291776",
+            "3_1936746712561012736",
+            "3_1936746712699125760"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1936746730193928500",
+        "created_at": "2025-06-22T11:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936746730193928500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnBo5fT8Ud",
+              "end": 41,
+              "expanded_url": "https://x.com/akui1121/status/1936746730193928500/photo/1",
+              "media_key": "3_1936746712745291776",
+              "start": 18,
+              "url": "https://t.co/WnBo5fT8Ud"
+            },
+            {
+              "display_url": "pic.x.com/WnBo5fT8Ud",
+              "end": 41,
+              "expanded_url": "https://x.com/akui1121/status/1936746730193928500/photo/1",
+              "media_key": "3_1936746712561012736",
+              "start": 18,
+              "url": "https://t.co/WnBo5fT8Ud"
+            },
+            {
+              "display_url": "pic.x.com/WnBo5fT8Ud",
+              "end": 41,
+              "expanded_url": "https://x.com/akui1121/status/1936746730193928500/photo/1",
+              "media_key": "3_1936746712699125760",
+              "start": 18,
+              "url": "https://t.co/WnBo5fT8Ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936746730193928500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会喜欢骑摩托乱跑，答案好像就在风中 https://t.co/WnBo5fT8Ud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 337,
+          "like_count": 15281,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 682
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 门槛80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "jiangshi1121"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930435608746569730/RgFfuLcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19897,
+          "following_count": 1077,
+          "like_count": 16909,
+          "listed_count": 54,
+          "media_count": 699,
+          "tweet_count": 9376
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

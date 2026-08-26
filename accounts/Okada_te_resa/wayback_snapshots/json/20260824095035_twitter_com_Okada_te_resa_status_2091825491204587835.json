@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091495016896086017"
+      ],
+      "media_source_tweet_id": [
+        "2091495040023441570"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091825491204587835",
+    "created_at": "2026-08-24T09:50:35.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091825491204587835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911388464378994688",
+          "start": 3,
+          "username": "kirailiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/73yWn1CXlc",
+          "end": 87,
+          "expanded_url": "https://x.com/kirailiss/status/2091495040023441570/video/1",
+          "media_key": "13_2091495016896086017",
+          "start": 64,
+          "url": "https://t.co/73yWn1CXlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091825491204587835",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091495016896086017"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2074
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091495040023441570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirailiss: when you get high on that bootleg figure plastic https://t.co/73yWn1CXlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8800,
+        "height": 720,
+        "media_key": "13_2091495016896086017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091495016896086017/img/U6nK95L6Xfe1IKtu.jpg",
+        "public_metrics": {
+          "view_count": 96480
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091495016896086017/vid/avc1/366x270/ditmageOMQ-zZjkI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091495016896086017/vid/avc1/488x360/CTwImyEGjfFfRmAu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091495016896086017/vid/avc1/978x720/NKalKmSuAOer7AAa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091495016896086017/pl/LiQG__QOYSyjFZev.m3u8"
+          }
+        ],
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091495016896086017"
+          ],
+          "media_source_tweet_id": [
+            "2091495040023441570"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091825491204587835",
+        "created_at": "2026-08-24T09:50:35.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091825491204587835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911388464378994688",
+              "start": 3,
+              "username": "kirailiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/73yWn1CXlc",
+              "end": 87,
+              "expanded_url": "https://x.com/kirailiss/status/2091495040023441570/video/1",
+              "media_key": "13_2091495016896086017",
+              "start": 64,
+              "url": "https://t.co/73yWn1CXlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091825491204587835",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091495016896086017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2074
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091495040023441570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirailiss: when you get high on that bootleg figure plastic https://t.co/73yWn1CXlc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091495016896086017"
+          ]
+        },
+        "author_id": "1911388464378994688",
+        "conversation_id": "2091495040023441570",
+        "created_at": "2026-08-23T11:57:30.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091495040023441570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73yWn1CXlc",
+              "end": 72,
+              "expanded_url": "https://x.com/kirailiss/status/2091495040023441570/video/1",
+              "media_key": "13_2091495016896086017",
+              "start": 49,
+              "url": "https://t.co/73yWn1CXlc"
+            },
+            {
+              "display_url": "x.com/tomoparasite/s…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/tomoparasite/status/2091424819351077148",
+              "start": 73,
+              "url": "https://t.co/9Ie4UrdRS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091495040023441570",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091495016896086017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1891,
+          "impression_count": 209090,
+          "like_count": 16084,
+          "quote_count": 26,
+          "reply_count": 25,
+          "retweet_count": 2074
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091424819351077148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when you get high on that bootleg figure plastic https://t.co/73yWn1CXlc https://t.co/9Ie4UrdRS5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2091825491204587835",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 1027,
+          "like_count": 46823,
+          "listed_count": 5,
+          "media_count": 767,
+          "tweet_count": 3545
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T11:58:30.000Z",
+        "description": "i jus be postin shi\nim 17 and a bad drummer\ni also make stuff in blender",
+        "id": "1911388464378994688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091815581401956835",
+        "name": "kirailiss",
+        "pinned_tweet_id": "2089392208315023464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911388464378994688/1782976283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166637563289600/8BR0t5Ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 427,
+          "like_count": 51287,
+          "listed_count": 3,
+          "media_count": 3735,
+          "tweet_count": 9837
+        },
+        "url": "",
+        "username": "kirailiss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

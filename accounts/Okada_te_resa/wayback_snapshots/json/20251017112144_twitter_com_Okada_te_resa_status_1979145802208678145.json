@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1979145802208678145",
+    "created_at": "2025-10-17T11:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979145802208678145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Saito_Shuka/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Saito_Shuka/status/1979140663028650234",
+          "start": 13,
+          "url": "https://t.co/CQQ3UOWlsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979145802208678145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979140663028650234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊我要来 https://t.co/CQQ3UOWlsf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1979140654752993280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dR8IcWEAAs2i3.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1979145802208678145",
+        "created_at": "2025-10-17T11:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979145802208678145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Saito_Shuka/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Saito_Shuka/status/1979140663028650234",
+              "start": 13,
+              "url": "https://t.co/CQQ3UOWlsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979145802208678145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979140663028650234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊我要来 https://t.co/CQQ3UOWlsf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979140654752993280"
+          ]
+        },
+        "author_id": "3801397033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1979140663028650234",
+        "created_at": "2025-10-17T11:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979140663028650234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "上海",
+              "probability": 0.935,
+              "start": 22,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "上海",
+              "probability": 0.8733,
+              "start": 46,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 130,
+              "tag": "しゅからいぶ上海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMKAcxUSjm",
+              "end": 163,
+              "expanded_url": "https://x.com/Saito_Shuka/status/1979140663028650234/photo/1",
+              "media_key": "3_1979140654752993280",
+              "start": 140,
+              "url": "https://t.co/HMKAcxUSjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979140663028650234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10953,
+          "like_count": 650,
+          "quote_count": 36,
+          "reply_count": 58,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "【おしらせ】\n2025年12月6日 (土)\n上海で単独ワンマンライブ決定！🐼\nお久しぶりに上海でワンマンライブです\n嬉しい。また歌えるっ。\n\n今回カバーもやりますっ☺︎\n上海用に撮り下ろした\n朱夏のグッズも出ちゃうんだなっ\n\n詳細は後ほど\nしばし待たれよ。\n\n#しゅからいぶ上海 https://t.co/HMKAcxUSjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 563,
+          "like_count": 22631,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1209
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T08:36:22.000Z",
+        "description": "斉藤朱夏 公式！声優/アーティスト◎！。#lovelive #Aqours 渡辺曜/ #俺好き サザンカ/ #ワンエグ 川井リカ/ #明日ちゃんのセーラー服 福元幹 /#草食ドラゴン 水の聖女 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "lovelive"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aqours"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "俺好き"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "ワンエグ"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "明日ちゃんのセーラー服"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "草食ドラゴン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atashi-shuka.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://atashi-shuka.bitfan.id",
+                "start": 0,
+                "url": "https://t.co/g9g3XbxyLR"
+              }
+            ]
+          }
+        },
+        "id": "3801397033",
+        "name": "斉藤 朱夏",
+        "pinned_tweet_id": "1978795105101480027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973312468727554048/W2ASPRFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383408,
+          "following_count": 478,
+          "like_count": 6950,
+          "listed_count": 8544,
+          "media_count": 2134,
+          "tweet_count": 10792
+        },
+        "url": "https://t.co/g9g3XbxyLR",
+        "username": "Saito_Shuka",
+        "verified": true
+      }
+    ]
+  }
+}

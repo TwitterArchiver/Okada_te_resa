@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005232272971292672"
+      ],
+      "media_source_tweet_id": [
+        "2005232285289992347"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2005287537796137303",
+    "created_at": "2025-12-28T14:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T15:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005287537796137303"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "渋谷",
+          "probability": 0.6325,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431170928713494535",
+          "start": 3,
+          "username": "vega_teu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5F6yVf19tm",
+          "end": 46,
+          "expanded_url": "https://x.com/vega_teu/status/2005232285289992347/photo/1",
+          "media_key": "3_2005232272971292672",
+          "start": 23,
+          "url": "https://t.co/5F6yVf19tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005287537796137303",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005232285289992347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vega_teu: 冥土 in 渋谷 https://t.co/5F6yVf19tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3985,
+        "media_key": "3_2005232272971292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QEIMqaYAArQ_h.jpg",
+        "width": 2657
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005232272971292672"
+          ],
+          "media_source_tweet_id": [
+            "2005232285289992347"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2005287537796137303",
+        "created_at": "2025-12-28T14:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005287537796137303"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "渋谷",
+              "probability": 0.6325,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431170928713494535",
+              "start": 3,
+              "username": "vega_teu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5F6yVf19tm",
+              "end": 46,
+              "expanded_url": "https://x.com/vega_teu/status/2005232285289992347/photo/1",
+              "media_key": "3_2005232272971292672",
+              "start": 23,
+              "url": "https://t.co/5F6yVf19tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005287537796137303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005232285289992347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vega_teu: 冥土 in 渋谷 https://t.co/5F6yVf19tm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005232272971292672"
+          ]
+        },
+        "author_id": "1431170928713494535",
+        "conversation_id": "2005232285289992347",
+        "created_at": "2025-12-28T11:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005232285289992347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "渋谷",
+              "probability": 0.6761,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5F6yVf19tm",
+              "end": 32,
+              "expanded_url": "https://x.com/vega_teu/status/2005232285289992347/photo/1",
+              "media_key": "3_2005232272971292672",
+              "start": 9,
+              "url": "https://t.co/5F6yVf19tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005232285289992347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6094,
+          "like_count": 942,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "冥土 in 渋谷 https://t.co/5F6yVf19tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 668,
+          "like_count": 28183,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 1668
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T08:25:25.000Z",
+        "description": "Hello World. (@vega_teu_Lv2) | (@neonhype_zzz）| #ヴァーチャル中毒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "ヴァーチャル中毒"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "vega_teu_Lv2"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "neonhype_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@vega_teu",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@vega_teu",
+                "start": 0,
+                "url": "https://t.co/2iKRiZJuIN"
+              }
+            ]
+          }
+        },
+        "id": "1431170928713494535",
+        "location": "インターネット・エクスプローラー",
+        "name": "vega.",
+        "pinned_tweet_id": "1673987114495795202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650018237046992896/Ys6tiSBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64797,
+          "following_count": 28,
+          "like_count": 8643,
+          "listed_count": 216,
+          "media_count": 1763,
+          "tweet_count": 12765
+        },
+        "url": "https://t.co/2iKRiZJuIN",
+        "username": "vega_teu",
+        "verified": true
+      }
+    ]
+  }
+}

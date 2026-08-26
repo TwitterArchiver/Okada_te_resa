@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1955318494784000445",
+    "created_at": "2025-08-12T18:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T19:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955334407977570775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1005032686925242368",
+          "start": 0,
+          "username": "Ch0coIates_W00O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955334407977570775",
+    "in_reply_to_user_id": "1005032686925242368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955318494784000445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ch0coIates_W00O 腿不赖摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955318480179433477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKvzEnaEAU2DSq.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955318486332526592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKvzbia0AAHtpt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1955318494784000445",
+        "created_at": "2025-08-12T18:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T19:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955334407977570775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1005032686925242368",
+              "start": 0,
+              "username": "Ch0coIates_W00O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955334407977570775",
+        "in_reply_to_user_id": "1005032686925242368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955318494784000445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch0coIates_W00O 腿不赖摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955318480179433477",
+            "3_1955318486332526592"
+          ]
+        },
+        "author_id": "1005032686925242368",
+        "conversation_id": "1955318494784000445",
+        "created_at": "2025-08-12T17:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955318494784000445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IoHY1vafK8",
+              "end": 35,
+              "expanded_url": "https://x.com/Ch0coIates_W00O/status/1955318494784000445/photo/1",
+              "media_key": "3_1955318480179433477",
+              "start": 12,
+              "url": "https://t.co/IoHY1vafK8"
+            },
+            {
+              "display_url": "pic.x.com/IoHY1vafK8",
+              "end": 35,
+              "expanded_url": "https://x.com/Ch0coIates_W00O/status/1955318494784000445/photo/1",
+              "media_key": "3_1955318486332526592",
+              "start": 12,
+              "url": "https://t.co/IoHY1vafK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955318494784000445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈反贼支黑泡的起吗 https://t.co/IoHY1vafK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 455,
+          "like_count": 18962,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 978
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T10:23:59.000Z",
+        "description": "Age:20↑ /162CM /48KG /#门槛 68解锁联系方式（口令or赞赏）/Maimai DX/ニーゴ💜💻箱推し/希望你在消逝前能够漂亮一点。置顶推广自辨。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "门槛"
+              }
+            ]
+          }
+        },
+        "id": "1005032686925242368",
+        "location": "在你心里❤️",
+        "name": "樹状チョコレート",
+        "pinned_tweet_id": "1919635796296139113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745727620879441920/5pExMzWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6410,
+          "following_count": 171,
+          "like_count": 294,
+          "listed_count": 18,
+          "media_count": 356,
+          "tweet_count": 1405
+        },
+        "username": "Ch0coIates_W00O",
+        "verified": false
+      }
+    ]
+  }
+}

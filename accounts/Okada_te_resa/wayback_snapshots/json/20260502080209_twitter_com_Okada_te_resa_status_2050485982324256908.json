@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2050463710519652444",
+    "created_at": "2026-05-02T08:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050485982324256908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935251668188413955",
+          "start": 0,
+          "username": "yourmaodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050485982324256908",
+    "in_reply_to_user_id": "1935251668188413955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050464720633876499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yourmaodie 卧槽五角场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2050463710519652444",
+        "created_at": "2026-05-02T08:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050485982324256908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935251668188413955",
+              "start": 0,
+              "username": "yourmaodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050485982324256908",
+        "in_reply_to_user_id": "1935251668188413955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050464720633876499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yourmaodie 卧槽五角场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935251668188413955",
+        "conversation_id": "2050463710519652444",
+        "created_at": "2026-05-02T06:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050464720633876499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050464720633876499",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050463710519652444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa woc五角场！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 799,
+          "like_count": 37704,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 2640
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T08:22:23.000Z",
+        "description": "哈——！/耄耋本耋/跨性别女同/性取向无男/ffer/entp/ @UsamiAsteria 会过上如愿以偿的幸福生活的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "UsamiAsteria"
+              }
+            ]
+          }
+        },
+        "id": "1935251668188413955",
+        "name": "遥星旻月",
+        "pinned_tweet_id": "2037588443186995653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048717823648874497/4DLD3EKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 570,
+          "like_count": 5092,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2533
+        },
+        "username": "yourmaodie",
+        "verified": false
+      }
+    ]
+  }
+}

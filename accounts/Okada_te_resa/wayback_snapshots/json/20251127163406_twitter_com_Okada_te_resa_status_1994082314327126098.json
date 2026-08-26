@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1994082314327126098",
+    "created_at": "2025-11-27T16:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994082314327126098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/mentallychels/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mentallychels/status/1993978835507802392",
+          "start": 20,
+          "url": "https://t.co/vX4LY6b6BD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994082314327126098",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993978835507802392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 诡秘下次我们拍这个 https://t.co/vX4LY6b6BD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993978803157442560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wJKCvboAAmoD5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1994082314327126098",
+        "created_at": "2025-11-27T16:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994082314327126098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mentallychels/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mentallychels/status/1993978835507802392",
+              "start": 20,
+              "url": "https://t.co/vX4LY6b6BD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994082314327126098",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993978835507802392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 诡秘下次我们拍这个 https://t.co/vX4LY6b6BD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993978803157442560"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1993978835507802392",
+        "created_at": "2025-11-27T09:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993978835507802392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYcdlbmBYU",
+              "end": 32,
+              "expanded_url": "https://x.com/mentallychels/status/1993978835507802392/photo/1",
+              "media_key": "3_1993978803157442560",
+              "start": 9,
+              "url": "https://t.co/wYcdlbmBYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993978835507802392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6084,
+          "like_count": 183,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嚴肅參觀學習中！ https://t.co/wYcdlbmBYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 651,
+          "like_count": 25861,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1478
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "pinned_tweet_id": "1983417542363492449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980138187793043456/awTN5IqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 349,
+          "like_count": 293,
+          "listed_count": 6,
+          "media_count": 47,
+          "tweet_count": 440
+        },
+        "username": "MozaikRR",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜shtwt｜双性恋｜双相I型｜天秤infp-t｜重度酥皮枕p｜素晴日全角色全肯定bot｜三無少女全肯定bot｜舞萌dx學習中｜我就這樣等著誰和我一起建設*卓希*｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_8964 🚪299",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "scutigera_8964"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13723,
+          "following_count": 235,
+          "like_count": 1788,
+          "listed_count": 22,
+          "media_count": 318,
+          "tweet_count": 1293
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

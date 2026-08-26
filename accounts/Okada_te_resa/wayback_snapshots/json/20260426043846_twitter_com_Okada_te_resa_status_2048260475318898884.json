@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2048260475318898884",
+    "created_at": "2026-04-26T04:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048260475318898884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chengeshuo/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Chengeshuo/status/2047963077724041420",
+          "start": 12,
+          "url": "https://t.co/rAx4sarRcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048260475318898884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047963077724041420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赛道只看实力与性别无关 https://t.co/rAx4sarRcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2047963067934453760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvTj0laMAAUvPE.jpg",
+        "width": 828
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2047963067909357568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvTj0fbQAAkMi4.jpg",
+        "width": 828
+      },
+      {
+        "height": 1097,
+        "media_key": "3_2047963067947032576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvTj0oaIAAs1OJ.jpg",
+        "width": 828
+      },
+      {
+        "height": 1091,
+        "media_key": "3_2047963067926114304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvTj0ja8AAolQ_.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2048260475318898884",
+        "created_at": "2026-04-26T04:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048260475318898884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chengeshuo/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Chengeshuo/status/2047963077724041420",
+              "start": 12,
+              "url": "https://t.co/rAx4sarRcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048260475318898884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963077724041420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赛道只看实力与性别无关 https://t.co/rAx4sarRcr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047963067934453760",
+            "3_2047963067909357568",
+            "3_2047963067947032576",
+            "3_2047963067926114304"
+          ]
+        },
+        "author_id": "2015207927590891520",
+        "conversation_id": "2047963077724041420",
+        "created_at": "2026-04-25T08:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047963077724041420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5mdPbgqdy",
+              "end": 91,
+              "expanded_url": "https://x.com/Chengeshuo/status/2047963077724041420/photo/1",
+              "media_key": "3_2047963067934453760",
+              "start": 68,
+              "url": "https://t.co/Z5mdPbgqdy"
+            },
+            {
+              "display_url": "pic.x.com/Z5mdPbgqdy",
+              "end": 91,
+              "expanded_url": "https://x.com/Chengeshuo/status/2047963077724041420/photo/1",
+              "media_key": "3_2047963067909357568",
+              "start": 68,
+              "url": "https://t.co/Z5mdPbgqdy"
+            },
+            {
+              "display_url": "pic.x.com/Z5mdPbgqdy",
+              "end": 91,
+              "expanded_url": "https://x.com/Chengeshuo/status/2047963077724041420/photo/1",
+              "media_key": "3_2047963067947032576",
+              "start": 68,
+              "url": "https://t.co/Z5mdPbgqdy"
+            },
+            {
+              "display_url": "pic.x.com/Z5mdPbgqdy",
+              "end": 91,
+              "expanded_url": "https://x.com/Chengeshuo/status/2047963077724041420/photo/1",
+              "media_key": "3_2047963067926114304",
+              "start": 68,
+              "url": "https://t.co/Z5mdPbgqdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963077724041420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 124394,
+          "like_count": 230,
+          "quote_count": 10,
+          "reply_count": 25,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "上海国际赛车比赛，第一名是一位“女性刘禹（网名Nana）”，女权们开始集体欢呼女性力量，但事实上她原本是一名男性，后来做了变性手术…… https://t.co/Z5mdPbgqdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 791,
+          "like_count": 37274,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 2574
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T23:40:09.000Z",
+        "description": "反对性别歧视\n共创美好未来",
+        "id": "2015207927590891520",
+        "name": "陈哥说Pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029197876170244096/1ffnWFCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 679,
+          "like_count": 180,
+          "listed_count": 9,
+          "media_count": 644,
+          "tweet_count": 772
+        },
+        "username": "Chengeshuo",
+        "verified": true
+      }
+    ]
+  }
+}

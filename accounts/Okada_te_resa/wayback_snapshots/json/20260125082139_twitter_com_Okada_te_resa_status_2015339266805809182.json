@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1591342424034516992"
+      ],
+      "media_source_tweet_id": [
+        "1591342469048061952"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2015339266805809182",
+    "created_at": "2026-01-25T08:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T09:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015339266805809182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1419009668735815680",
+          "start": 3,
+          "username": "moekapic_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dgnNJTs4iT",
+          "end": 41,
+          "expanded_url": "https://x.com/moekamedia/status/1591342469048061952/photo/1",
+          "media_key": "16_1591342424034516992",
+          "start": 18,
+          "url": "https://t.co/dgnNJTs4iT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015339266805809182",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015238520848232871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moekapic_bot: https://t.co/dgnNJTs4iT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "16_1591342424034516992",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/FhWVgNyWIAAwib2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/FhWVgNyWIAAwib2.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1591342424034516992"
+          ],
+          "media_source_tweet_id": [
+            "1591342469048061952"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2015339266805809182",
+        "created_at": "2026-01-25T08:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015339266805809182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1419009668735815680",
+              "start": 3,
+              "username": "moekapic_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgnNJTs4iT",
+              "end": 41,
+              "expanded_url": "https://x.com/moekamedia/status/1591342469048061952/photo/1",
+              "media_key": "16_1591342424034516992",
+              "start": 18,
+              "url": "https://t.co/dgnNJTs4iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015339266805809182",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015238520848232871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moekapic_bot: https://t.co/dgnNJTs4iT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1591342424034516992"
+          ],
+          "media_source_tweet_id": [
+            "1591342469048061952"
+          ]
+        },
+        "author_id": "1419009668735815680",
+        "conversation_id": "2015238520848232871",
+        "created_at": "2026-01-25T01:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T02:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015238520848232871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgnNJTs4iT",
+              "end": 23,
+              "expanded_url": "https://x.com/moekamedia/status/1591342469048061952/photo/1",
+              "media_key": "16_1591342424034516992",
+              "start": 0,
+              "url": "https://t.co/dgnNJTs4iT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015238520848232871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1405,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dgnNJTs4iT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 659,
+          "like_count": 30349,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 1824
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T19:00:52.000Z",
+        "description": "声優小泉萌香の非公式画像botです。3時間に1回ツイートします (@GimmickBots)。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "GimmickBots"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "harmoe.jp",
+                "end": 23,
+                "expanded_url": "http://harmoe.jp",
+                "start": 0,
+                "url": "https://t.co/CE0Ad8nNLQ"
+              }
+            ]
+          }
+        },
+        "id": "1419009668735815680",
+        "name": "小泉萌香bot",
+        "pinned_tweet_id": "1653228279661473792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860297410297180161/PV_Vmacm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3892,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 14,
+          "media_count": 16843,
+          "tweet_count": 16853
+        },
+        "url": "https://t.co/CE0Ad8nNLQ",
+        "username": "moekapic_bot",
+        "verified": false
+      }
+    ]
+  }
+}

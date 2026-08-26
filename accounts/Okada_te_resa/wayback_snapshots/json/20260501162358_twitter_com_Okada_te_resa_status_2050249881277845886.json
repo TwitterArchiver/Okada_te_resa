@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050008329842499584"
+      ],
+      "media_source_tweet_id": [
+        "2050008344036065728"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2050249881277845886",
+    "created_at": "2026-05-01T16:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050249881277845886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 95,
+          "tag": "コスサミパーティー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4832757335",
+          "start": 3,
+          "username": "notuki138"
+        },
+        {
+          "end": 93,
+          "id": "3304038998",
+          "start": 82,
+          "username": "Shio_PapPa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nY7KdkL6br",
+          "end": 129,
+          "expanded_url": "https://x.com/notuki138/status/2050008344036065728/photo/1",
+          "media_key": "3_2050008329842499584",
+          "start": 106,
+          "url": "https://t.co/nY7KdkL6br"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050249881277845886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050008344036065728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @notuki138: cosplay\nNEEDY GIRL OVERDOSE/あめちゃん\n\n　このクソゴミカスキショキショな現実\n\nphoto:塩パッぱさん@Shio_PapPa \n#コスサミパーティー https://t.co/nY7KdkL6br"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2050008329842499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMXtu7aoAAshOq.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050008329842499584"
+          ],
+          "media_source_tweet_id": [
+            "2050008344036065728"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2050249881277845886",
+        "created_at": "2026-05-01T16:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050249881277845886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 95,
+              "tag": "コスサミパーティー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4832757335",
+              "start": 3,
+              "username": "notuki138"
+            },
+            {
+              "end": 93,
+              "id": "3304038998",
+              "start": 82,
+              "username": "Shio_PapPa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nY7KdkL6br",
+              "end": 129,
+              "expanded_url": "https://x.com/notuki138/status/2050008344036065728/photo/1",
+              "media_key": "3_2050008329842499584",
+              "start": 106,
+              "url": "https://t.co/nY7KdkL6br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050249881277845886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050008344036065728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @notuki138: cosplay\nNEEDY GIRL OVERDOSE/あめちゃん\n\n　このクソゴミカスキショキショな現実\n\nphoto:塩パッぱさん@Shio_PapPa \n#コスサミパーティー https://t.co/nY7KdkL6br"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050008329842499584"
+          ]
+        },
+        "author_id": "4832757335",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2050008344036065728",
+        "created_at": "2026-05-01T00:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050008344036065728"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 80,
+              "tag": "コスサミパーティー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 78,
+              "id": "3304038998",
+              "start": 67,
+              "username": "Shio_PapPa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nY7KdkL6br",
+              "end": 114,
+              "expanded_url": "https://x.com/notuki138/status/2050008344036065728/photo/1",
+              "media_key": "3_2050008329842499584",
+              "start": 91,
+              "url": "https://t.co/nY7KdkL6br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050008344036065728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 5330,
+          "like_count": 612,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay\nNEEDY GIRL OVERDOSE/あめちゃん\n\n　このクソゴミカスキショキショな現実\n\nphoto:塩パッぱさん@Shio_PapPa \n#コスサミパーティー https://t.co/nY7KdkL6br"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 799,
+          "like_count": 37641,
+          "listed_count": 3,
+          "media_count": 511,
+          "tweet_count": 2631
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-21T12:59:09.000Z",
+        "description": "自己満でコスするただのオタク cosplay/151cm/🇯🇵愛知/自撮り反転/⚠重加工厨⚠︎/妹☞ @gyouza_omuraisu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "gyouza_omuraisu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@notuki138",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@notuki138",
+                "start": 0,
+                "url": "https://t.co/BVdsIdqcpC"
+              }
+            ]
+          }
+        },
+        "id": "4832757335",
+        "location": "写真の人物は存在しません",
+        "name": "夜空ノツキ@5/17ビビコス",
+        "pinned_tweet_id": "2005072069265117214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722462694597648384/Unte1Jqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8227,
+          "following_count": 489,
+          "like_count": 33218,
+          "listed_count": 157,
+          "media_count": 2914,
+          "tweet_count": 43366
+        },
+        "url": "https://t.co/BVdsIdqcpC",
+        "username": "notuki138",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-02T07:04:13.000Z",
+        "description": "ボタンがあったら押す\n宝箱は開ける\n落ちてたら拾うし、壺は割る",
+        "id": "3304038998",
+        "location": "愛知の賑わってる辺",
+        "name": "塩パッぱ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563860211705806849/9uGlgDqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 1229,
+          "like_count": 215215,
+          "listed_count": 28,
+          "media_count": 368,
+          "tweet_count": 2602
+        },
+        "username": "Shio_PapPa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053189462",
+          "name": "バンドリ!TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2088524088222663082",
+    "created_at": "2026-08-15T07:12:00.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088524088222663082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoni_official/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/aoni_official/status/2087918469031571543",
+          "start": 9,
+          "url": "https://t.co/FF3ojiYiap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088524088222663082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087918469031571543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽初酱黑丝凉鞋 https://t.co/FF3ojiYiap"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12768,
+        "height": 1838,
+        "media_key": "13_2087918112708657152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087918112708657152/img/K3FDjEoeEwhAp8xf.jpg",
+        "public_metrics": {
+          "view_count": 322227
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087918112708657152/vid/avc1/1032x1838/fFuY3hatIfTI_Tn-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087918112708657152/vid/avc1/720x1282/6NxG9Wcn77PCRfI2.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087918112708657152/vid/avc1/320x568/zZccOtR5WpltFyEy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087918112708657152/vid/avc1/480x854/aPxUqKP0qvHbiJkw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087918112708657152/pl/hbzEE-GBjKsRScJw.m3u8?v=cfc"
+          }
+        ],
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088524088222663082",
+        "created_at": "2026-08-15T07:12:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088524088222663082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoni_official/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aoni_official/status/2087918469031571543",
+              "start": 9,
+              "url": "https://t.co/FF3ojiYiap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088524088222663082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087918469031571543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽初酱黑丝凉鞋 https://t.co/FF3ojiYiap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087918112708657152"
+          ]
+        },
+        "author_id": "1123410609922396160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2087918469031571543",
+        "created_at": "2026-08-13T15:05:29.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087918469031571543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "花宮初奈"
+            },
+            {
+              "end": 143,
+              "start": 132,
+              "tag": "バンドリTVLIVE"
+            },
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "家団"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンドリ！プロジェクトに関する最新情報などをお届けする「バンドリ！TV LIVE 2026」！！毎週木曜日は、22:00よりYou...",
+              "display_url": "m.youtube.com/watch?v=TUtR6-…",
+              "end": 69,
+              "expanded_url": "https://m.youtube.com/watch?v=TUtR6-c-WRU&pp=0gcJCfkLAYcqIYzv&ra=m",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2086701711943770112/DfPlei1M?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086701711943770112/DfPlei1M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "バンドリ！TV LIVE 2026 #327",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=TUtR6-c-WRU&pp=0gcJCfkLAYcqIYzv&ra=m",
+              "url": "https://t.co/MSDOnVxMGx"
+            },
+            {
+              "display_url": "pic.x.com/sB5H7ZRPP4",
+              "end": 177,
+              "expanded_url": "https://x.com/aoni_official/status/2087918469031571543/video/1",
+              "media_key": "13_2087918112708657152",
+              "start": 154,
+              "url": "https://t.co/sB5H7ZRPP4"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/2087879369306124763",
+              "start": 178,
+              "url": "https://t.co/r9pyuMe5oY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087918469031571543",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087918112708657152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4514,
+          "impression_count": 1597036,
+          "like_count": 17495,
+          "quote_count": 377,
+          "reply_count": 25,
+          "retweet_count": 2678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087879369306124763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#花宮初奈\n\n【「バンドリ！TV LIVE 2026」＃327】\n〈8月13日(木)配信〉\nhttps://t.co/MSDOnVxMGx\n\nご視聴いただいた皆様、ありがとうございました！\n矢倉蓬咲 役の花宮初奈が出演させて頂きました！\nオフショットをお届け♪\n\n#バンドリTVLIVE\n#バンドリ\n#家団 https://t.co/sB5H7ZRPP4 https://t.co/r9pyuMe5oY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2088524088222663082",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 1016,
+          "like_count": 45333,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-01T02:15:36.000Z",
+        "description": "青二プロダクション公式アカウントです。 最新の出演情報やイベント情報を発信します。 お仕事のご依頼はホームページの出演依頼フォームよりお願い致します。 個別でのお問い合わせはご対応致しかねますのでご了承ください。 画像・動画の無断転載はご遠慮ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp",
+                "start": 0,
+                "url": "https://t.co/it9fWGQWSD"
+              }
+            ]
+          }
+        },
+        "id": "1123410609922396160",
+        "is_identity_verified": false,
+        "location": "港区北青山3丁目",
+        "most_recent_tweet_id": "2088513815323570564",
+        "name": "青二プロダクション【公式】",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123410609922396160/1585725216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128237738283552768/ZubwDNHq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173808,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 1393,
+          "media_count": 6904,
+          "tweet_count": 10341
+        },
+        "url": "https://t.co/it9fWGQWSD",
+        "username": "aoni_official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2001295754279710975",
+    "created_at": "2025-12-18T22:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T23:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001776180991766907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001776180991766907",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001295754279710975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 赌狗好死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2001295750635085824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YH4cMaYAAP8XG.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2001295754279710975",
+        "created_at": "2025-12-18T22:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T23:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001776180991766907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001776180991766907",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001295754279710975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 赌狗好死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001295750635085824"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2001295754279710975",
+        "created_at": "2025-12-17T14:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001295754279710975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyEJLULlV8",
+              "end": 114,
+              "expanded_url": "https://x.com/y0zarashi/status/2001295754279710975/photo/1",
+              "media_key": "3_2001295750635085824",
+              "start": 91,
+              "url": "https://t.co/lyEJLULlV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001295754279710975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 83716,
+          "like_count": 159,
+          "quote_count": 5,
+          "reply_count": 120,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "咱遗书写好了，对不起。\n遗书写好了，想对这个世界说再见了。\n迫于生活的压力、我无能为力了。\n今天也许有人让我吃饱了饭，下一顿呢？\n我并没有你们想象中的富有，也没有人会愿意帮我.…. https://t.co/lyEJLULlV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 657,
+          "like_count": 27464,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1630
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 ftm 不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。不知道为什么吴思嫣把我当做仇人看待了。",
+        "id": "1811690667720212480",
+        "location": "何以思嫣",
+        "name": "yozarashi🏳️‍⚧️",
+        "pinned_tweet_id": "1988859428183892376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173282617323535/gFc0LSIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 159,
+          "like_count": 33,
+          "listed_count": 5,
+          "media_count": 1110,
+          "tweet_count": 5164
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

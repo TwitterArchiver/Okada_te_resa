@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1946662611317133591",
+    "created_at": "2025-07-20T02:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946753553718300763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946753553718300763",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946727571007402279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 丑丑的会失禁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1946662611317133591",
+        "created_at": "2025-07-20T02:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946753553718300763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946753553718300763",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946727571007402279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 丑丑的会失禁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "1946662611317133591",
+        "created_at": "2025-07-20T00:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T01:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946727571007402279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946727571007402279",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946662611317133591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 上吊啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 424,
+          "like_count": 17750,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 855
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "余华 单车佬 实习公路车技师 宅 双 抽象 我的世界  闪电S WROKS VENGE Allez sprint tfsa jhf06 OCR5500 Lain Overdoes 双相情感障碍治疗中  最喜欢的东西 是100%椰子汁\n接公路车各种异响\n\n第二人格 @yuhuacs5570\n最好の兄弟@Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 132,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "余華誠霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 972,
+          "like_count": 75309,
+          "listed_count": 9,
+          "media_count": 1548,
+          "tweet_count": 12999
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

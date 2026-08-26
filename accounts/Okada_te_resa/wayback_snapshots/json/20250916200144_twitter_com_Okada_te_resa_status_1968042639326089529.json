@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968029494654144513"
+      ],
+      "media_source_tweet_id": [
+        "1968029497493688448"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1968042639326089529",
+    "created_at": "2025-09-16T20:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968042639326089529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1965786477302075393",
+          "start": 3,
+          "username": "yuehongdieqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nQLMGQAj4h",
+          "end": 59,
+          "expanded_url": "https://x.com/yuehongdieqwq/status/1968029497493688448/photo/1",
+          "media_key": "3_1968029494654144513",
+          "start": 36,
+          "url": "https://t.co/nQLMGQAj4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968042639326089529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968029497493688448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuehongdieqwq: 求求转转，想互关…想要更多朋友! https://t.co/nQLMGQAj4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_1968029494654144513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_YZfhaEAE1IfY.jpg",
+        "width": 2063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968029494654144513"
+          ],
+          "media_source_tweet_id": [
+            "1968029497493688448"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1968042639326089529",
+        "created_at": "2025-09-16T20:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968042639326089529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1965786477302075393",
+              "start": 3,
+              "username": "yuehongdieqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQLMGQAj4h",
+              "end": 59,
+              "expanded_url": "https://x.com/yuehongdieqwq/status/1968029497493688448/photo/1",
+              "media_key": "3_1968029494654144513",
+              "start": 36,
+              "url": "https://t.co/nQLMGQAj4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968042639326089529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968029497493688448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuehongdieqwq: 求求转转，想互关…想要更多朋友! https://t.co/nQLMGQAj4h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968029494654144513"
+          ]
+        },
+        "author_id": "1965786477302075393",
+        "conversation_id": "1968029497493688448",
+        "created_at": "2025-09-16T19:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T20:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968029497493688448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQLMGQAj4h",
+              "end": 40,
+              "expanded_url": "https://x.com/yuehongdieqwq/status/1968029497493688448/photo/1",
+              "media_key": "3_1968029494654144513",
+              "start": 17,
+              "url": "https://t.co/nQLMGQAj4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968029497493688448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求求转转，想互关…想要更多朋友! https://t.co/nQLMGQAj4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 508,
+          "like_count": 21197,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1137
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:36:51.000Z",
+        "description": "新人友跨顺女大王请多关照!｜互关寻回中｜ed｜ADHD｜双相｜交流障碍｜♡",
+        "id": "1965786477302075393",
+        "location": "Nagasaki-shi, Nagasaki",
+        "name": "月虹蝶（2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965788219636891648/lhHWssHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 76,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "yuehongdieqwq",
+        "verified": false
+      }
+    ]
+  }
+}

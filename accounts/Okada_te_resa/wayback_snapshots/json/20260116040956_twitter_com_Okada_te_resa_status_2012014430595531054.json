@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2012013676560335131",
+    "created_at": "2026-01-16T04:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T05:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012014430595531054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944562899713703936",
+          "start": 0,
+          "username": "Lelya___RU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012014430595531054",
+    "in_reply_to_user_id": "1944562899713703936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012013676560335131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lelya___RU 好涩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29966,
+        "height": 720,
+        "media_key": "7_2012013634826960896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012013634826960896/pu/img/ybeRQfRejZYpS1Fw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012013634826960896/pu/vid/avc1/404x270/pmpTwhtKoBWCYPiz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012013634826960896/pu/vid/avc1/540x360/e5WJQpRuGhZXdcOp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012013634826960896/pu/vid/avc1/1082x720/YuZN6BG0J9g45E36.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012013634826960896/pu/pl/JAao-Ixb7fMAwN86.m3u8?tag=12"
+          }
+        ],
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2012013676560335131",
+        "created_at": "2026-01-16T04:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012014430595531054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944562899713703936",
+              "start": 0,
+              "username": "Lelya___RU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012014430595531054",
+        "in_reply_to_user_id": "1944562899713703936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012013676560335131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lelya___RU 好涩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012013634826960896"
+          ]
+        },
+        "author_id": "1944562899713703936",
+        "conversation_id": "2012013676560335131",
+        "created_at": "2026-01-16T04:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012013676560335131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6IcDAHtXO",
+              "end": 37,
+              "expanded_url": "https://x.com/Lelya___RU/status/2012013676560335131/video/1",
+              "media_key": "7_2012013634826960896",
+              "start": 14,
+              "url": "https://t.co/Z6IcDAHtXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012013676560335131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蕾 娅 调 教.mp4\n🔞 https://t.co/Z6IcDAHtXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 688,
+          "like_count": 29535,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1747
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T01:02:09.000Z",
+        "description": "私 信 之 前 请 看 置 顶 仅 回 口 令 其 余 屏 蔽🚪52/女 大 生（2004.10.06）/语 言：简 体 中 文 俄 文/别 看 我 这 样 其 实 中 文 说 的 比 俄 文 还 要 好. Ясчастлив жить здесь.地 雷 系❤️/🏳️‍⚧️❤️友 跨/🇷🇺❤️",
+        "id": "1944562899713703936",
+        "location": "位 置 10 元 ",
+        "name": "🇷🇺Леля🇷🇺（仅回口令）",
+        "pinned_tweet_id": "1972989194751586585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964715675366363136/8dqrsBD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 118,
+          "like_count": 478,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 471
+        },
+        "username": "Lelya___RU",
+        "verified": false
+      }
+    ]
+  }
+}

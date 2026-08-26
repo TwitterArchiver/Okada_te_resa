@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2077034192794464669",
+    "created_at": "2026-07-14T16:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077073426372845591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694626666684039169",
+          "start": 0,
+          "username": "littlearight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077073426372845591",
+    "in_reply_to_user_id": "1694626666684039169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077034192794464669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlearight 打"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077034192794464669].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077034192794464669",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077034192794464669"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2077034192794464669",
+        "created_at": "2026-07-14T16:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077073426372845591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694626666684039169",
+              "start": 0,
+              "username": "littlearight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077073426372845591",
+        "in_reply_to_user_id": "1694626666684039169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077034192794464669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlearight 打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 975,
+          "like_count": 42852,
+          "listed_count": 5,
+          "media_count": 713,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T08:24:34.000Z",
+        "description": "我叫三原怜 是 #男娘 接 #线下 175cm/65kg 萍水相逢 有缘无份 爱吃饭团 爱抽荷花 我心匪石 不可转也 我心匪席 不可卷也 纯绿非绿 有钱就干 咬紧牙关 扶住墙面 疼点总比上班强 账号爆炸 救救我们 前世@Kuranaga0 推u寻回中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "男娘"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "线下"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "Kuranaga0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lianlianzinya",
+                "end": 23,
+                "expanded_url": "https://t.me/lianlianzinya",
+                "start": 0,
+                "url": "https://t.co/KWIWpBreZq"
+              }
+            ]
+          }
+        },
+        "id": "1694626666684039169",
+        "location": "🚪52",
+        "name": "怜怜子（ver.2",
+        "pinned_tweet_id": "2066457433518882866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059017776346632192/1djCF9Zm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 105,
+          "like_count": 270,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/KWIWpBreZq",
+        "username": "littlearight",
+        "verified": false
+      }
+    ]
+  }
+}

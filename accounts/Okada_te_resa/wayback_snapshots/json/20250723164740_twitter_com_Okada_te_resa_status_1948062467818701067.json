@@ -1,0 +1,967 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948046831222657024",
+        "3_1948046850134818816",
+        "3_1948046869743210496",
+        "3_1948046883383087104"
+      ],
+      "media_source_tweet_id": [
+        "1948047449349886373",
+        "1948047449349886373",
+        "1948047449349886373",
+        "1948047449349886373"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1948062467818701067",
+    "created_at": "2025-07-23T16:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T17:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948062467818701067"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "進藤あま",
+          "probability": 0.5783,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1765214863453016064",
+          "start": 3,
+          "username": "DEATHDOL_NOTE"
+        },
+        {
+          "end": 59,
+          "id": "1041938828682911744",
+          "start": 47,
+          "username": "amane_bushi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LZqBf0jk4",
+          "end": 110,
+          "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+          "media_key": "3_1948046831222657024",
+          "start": 87,
+          "url": "https://t.co/3LZqBf0jk4"
+        },
+        {
+          "display_url": "pic.x.com/3LZqBf0jk4",
+          "end": 110,
+          "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+          "media_key": "3_1948046850134818816",
+          "start": 87,
+          "url": "https://t.co/3LZqBf0jk4"
+        },
+        {
+          "display_url": "pic.x.com/3LZqBf0jk4",
+          "end": 110,
+          "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+          "media_key": "3_1948046869743210496",
+          "start": 87,
+          "url": "https://t.co/3LZqBf0jk4"
+        },
+        {
+          "display_url": "pic.x.com/3LZqBf0jk4",
+          "end": 110,
+          "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+          "media_key": "3_1948046883383087104",
+          "start": 87,
+          "url": "https://t.co/3LZqBf0jk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948062467818701067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 806
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948047449349886373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEATHDOL_NOTE: 【知名度S+】\n\nラブライブ・バンドリ声優\n進藤あまね @amane_bushi  \n\n備考\n・彼氏が浮気調査を探偵に依頼し浮気が発覚 https://t.co/3LZqBf0jk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948046831222657024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjaRZTaEAApOSv.jpg",
+        "width": 1538
+      },
+      {
+        "height": 450,
+        "media_key": "3_1948046850134818816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjaSfwawAAR2c5.jpg",
+        "width": 514
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948046869743210496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjaTozbEAAhg8c.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1194,
+        "media_key": "3_1948046883383087104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjaUbnbEAANwrV.jpg",
+        "width": 593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948046831222657024",
+            "3_1948046850134818816",
+            "3_1948046869743210496",
+            "3_1948046883383087104"
+          ],
+          "media_source_tweet_id": [
+            "1948047449349886373",
+            "1948047449349886373",
+            "1948047449349886373",
+            "1948047449349886373"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1948062467818701067",
+        "created_at": "2025-07-23T16:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948062467818701067"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "進藤あま",
+              "probability": 0.5783,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1765214863453016064",
+              "start": 3,
+              "username": "DEATHDOL_NOTE"
+            },
+            {
+              "end": 59,
+              "id": "1041938828682911744",
+              "start": 47,
+              "username": "amane_bushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 110,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046831222657024",
+              "start": 87,
+              "url": "https://t.co/3LZqBf0jk4"
+            },
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 110,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046850134818816",
+              "start": 87,
+              "url": "https://t.co/3LZqBf0jk4"
+            },
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 110,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046869743210496",
+              "start": 87,
+              "url": "https://t.co/3LZqBf0jk4"
+            },
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 110,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046883383087104",
+              "start": 87,
+              "url": "https://t.co/3LZqBf0jk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948062467818701067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 806
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948047449349886373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEATHDOL_NOTE: 【知名度S+】\n\nラブライブ・バンドリ声優\n進藤あまね @amane_bushi  \n\n備考\n・彼氏が浮気調査を探偵に依頼し浮気が発覚 https://t.co/3LZqBf0jk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948046831222657024",
+            "3_1948046850134818816",
+            "3_1948046869743210496",
+            "3_1948046883383087104"
+          ]
+        },
+        "author_id": "1765214863453016064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1948047449349886373",
+        "created_at": "2025-07-23T15:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948047449349886373"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "進藤あま",
+              "probability": 0.562,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1041938828682911744",
+              "start": 28,
+              "username": "amane_bushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 91,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046831222657024",
+              "start": 68,
+              "url": "https://t.co/3LZqBf0jk4"
+            },
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 91,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046850134818816",
+              "start": 68,
+              "url": "https://t.co/3LZqBf0jk4"
+            },
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 91,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046869743210496",
+              "start": 68,
+              "url": "https://t.co/3LZqBf0jk4"
+            },
+            {
+              "display_url": "pic.x.com/3LZqBf0jk4",
+              "end": 91,
+              "expanded_url": "https://x.com/DEATHDOL_NOTE/status/1948047449349886373/photo/1",
+              "media_key": "3_1948046883383087104",
+              "start": 68,
+              "url": "https://t.co/3LZqBf0jk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948047449349886373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1543,
+          "impression_count": 895428,
+          "like_count": 4089,
+          "quote_count": 1382,
+          "reply_count": 158,
+          "retweet_count": 806
+        },
+        "reply_settings": "everyone",
+        "text": "【知名度S+】\n\nラブライブ・バンドリ声優\n進藤あまね @amane_bushi  \n\n備考\n・彼氏が浮気調査を探偵に依頼し浮気が発覚 https://t.co/3LZqBf0jk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 438,
+          "like_count": 17936,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 884
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T03:16:46.000Z",
+        "description": "名前を書かれたアイドルは晒される。タレコミやお仕事のご依頼はDMまで。知名度C以下の地底用はこちら @deathdolnote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "deathdolnote"
+              }
+            ]
+          }
+        },
+        "id": "1765214863453016064",
+        "name": "DEATHDOL NOTE",
+        "pinned_tweet_id": "1937831165521785177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800774318374387712/ROFNuqyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136846,
+          "following_count": 1,
+          "like_count": 53,
+          "listed_count": 222,
+          "media_count": 25,
+          "tweet_count": 41
+        },
+        "username": "DEATHDOL_NOTE",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-18T06:35:49.000Z",
+        "description": "響 所属🌱 #蓮ノ空 #lovelive 桂城泉 #アニメ100カノ 原賀胡桃 #バンドリ 倉田ましろ #D4DJ 春日春奈 #ヴァンガード 大倉メグミ #温泉むすめ かみのやま庵 #Vシネ555 スマートレディ 等…/ #プレバンのライブショッピング MC / #ROCKETOON 宣伝大使 / #あまね部🦈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "蓮ノ空"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "lovelive"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "tag": "アニメ100カノ"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "ヴァンガード"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "温泉むすめ"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "tag": "Vシネ555"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "tag": "プレバンのライブショッピング"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "tag": "ROCKETOON"
+              },
+              {
+                "end": 155,
+                "start": 150,
+                "tag": "あまね部"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hibiki-cast.jp/hibiki_f/shind…",
+                "end": 23,
+                "expanded_url": "https://hibiki-cast.jp/hibiki_f/shindou_amane/",
+                "start": 0,
+                "url": "https://t.co/MTfQVgqlwK"
+              }
+            ]
+          }
+        },
+        "id": "1041938828682911744",
+        "location": "愛知県出身🌱",
+        "name": "進藤あまね",
+        "pinned_tweet_id": "1910328568523169896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913618796620967936/0hmjTtMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263099,
+          "following_count": 886,
+          "like_count": 53931,
+          "listed_count": 3110,
+          "media_count": 4673,
+          "tweet_count": 30356
+        },
+        "url": "https://t.co/MTfQVgqlwK",
+        "username": "amane_bushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062560334762954752"
+      ],
+      "media_source_tweet_id": [
+        "2062560339250868686"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2062565573427630201",
+    "created_at": "2026-06-04T16:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062565573427630201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667380334701457409",
+          "start": 3,
+          "username": "2olv0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJJ3rZhh2N",
+          "end": 39,
+          "expanded_url": "https://x.com/2olv0/status/2062560339250868686/photo/1",
+          "media_key": "3_2062560334762954752",
+          "start": 16,
+          "url": "https://t.co/fJJ3rZhh2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062565573427630201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062560339250868686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2olv0: 事後❤︎ https://t.co/fJJ3rZhh2N"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062565573427630201].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062565573427630201",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062565573427630201"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062560334762954752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-vslFbUAAZ89-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062560334762954752"
+          ]
+        },
+        "author_id": "1667380334701457409",
+        "conversation_id": "2062560339250868686",
+        "created_at": "2026-06-04T15:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062560339250868686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJJ3rZhh2N",
+              "end": 28,
+              "expanded_url": "https://x.com/2olv0/status/2062560339250868686/photo/1",
+              "media_key": "3_2062560334762954752",
+              "start": 5,
+              "url": "https://t.co/fJJ3rZhh2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062560339250868686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 319,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "事後❤︎ https://t.co/fJJ3rZhh2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 888,
+          "like_count": 39837,
+          "listed_count": 4,
+          "media_count": 624,
+          "tweet_count": 2988
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T03:57:16.000Z",
+        "description": "@nemu1nya_n ￤有料 @p2vz_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "nemu1nya_n"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "username": "p2vz_"
+              }
+            ]
+          }
+        },
+        "id": "1667380334701457409",
+        "name": "死u",
+        "pinned_tweet_id": "2027340291196457329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062361110779727872/N-t-CevR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33971,
+          "following_count": 179,
+          "like_count": 21235,
+          "listed_count": 54,
+          "media_count": 12,
+          "tweet_count": 62
+        },
+        "username": "2olv0",
+        "verified": false
+      }
+    ]
+  }
+}

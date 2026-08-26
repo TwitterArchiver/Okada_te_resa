@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2031795757150543904",
+    "created_at": "2026-03-11T18:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T19:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031795757150543904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hiyodorixxxx/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hiyodorixxxx/status/2031482731511820782",
+          "start": 5,
+          "url": "https://t.co/IBKHQWTEWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031795757150543904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031482731511820782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱！ https://t.co/IBKHQWTEWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2031440207434973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEgGwqbgAAouZu.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2031795757150543904",
+        "created_at": "2026-03-11T18:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031795757150543904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiyodorixxxx/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hiyodorixxxx/status/2031482731511820782",
+              "start": 5,
+              "url": "https://t.co/IBKHQWTEWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031795757150543904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031482731511820782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱！ https://t.co/IBKHQWTEWZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031440207434973184"
+          ]
+        },
+        "author_id": "1601961116262813696",
+        "conversation_id": "2031482731511820782",
+        "created_at": "2026-03-10T21:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T22:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031482731511820782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1H9MwW2RW",
+              "end": 58,
+              "expanded_url": "https://x.com/hiyodorixxxx/status/2031482731511820782/photo/1",
+              "media_key": "3_2031440207434973184",
+              "start": 35,
+              "url": "https://t.co/D1H9MwW2RW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031482731511820782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 836,
+          "impression_count": 162419,
+          "like_count": 11331,
+          "quote_count": 51,
+          "reply_count": 143,
+          "retweet_count": 1418
+        },
+        "reply_settings": "everyone",
+        "text": "捨てるに捨てられなかったヘルメットの中に\nバイク屋がオープンしていた https://t.co/D1H9MwW2RW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 723,
+          "like_count": 34433,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 2103
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T15:24:52.000Z",
+        "description": "AIを使ってイラストなどを投稿していきます\n（主にChatGPT,Nano Banana Pro,SeeDream(Genspark内で生成))\nAIイラストはひとつひとつ心を込めて作っています\n#AI高いところ好き部 部長 サブアカウント @suzughinxxxx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 98,
+                "tag": "AI高いところ好き部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "suzughinxxxx"
+              }
+            ]
+          }
+        },
+        "id": "1601961116262813696",
+        "location": "日本",
+        "name": "ひよどり(hiyodori)",
+        "pinned_tweet_id": "2008169603130884512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601963097131925504/jVrNEA1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53141,
+          "following_count": 612,
+          "like_count": 243988,
+          "listed_count": 290,
+          "media_count": 4159,
+          "tweet_count": 28817
+        },
+        "username": "hiyodorixxxx",
+        "verified": true
+      }
+    ]
+  }
+}

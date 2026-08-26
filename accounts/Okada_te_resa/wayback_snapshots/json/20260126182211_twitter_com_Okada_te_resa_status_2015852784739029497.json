@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015711309237800960"
+      ],
+      "media_source_tweet_id": [
+        "2015711318406496526"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2015852784739029497",
+    "created_at": "2026-01-26T18:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015852784739029497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702041603257319424",
+          "start": 3,
+          "username": "QWQing555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UuC5STIjxm",
+          "end": 75,
+          "expanded_url": "https://x.com/QWQing555/status/2015711318406496526/photo/1",
+          "media_key": "3_2015711309237800960",
+          "start": 52,
+          "url": "https://t.co/UuC5STIjxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015852784739029497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015711318406496526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @QWQing555: 不理解这句话为啥火，如果真变美了第一个想法不就是以前咋眼瞎和他谈恋爱吗… https://t.co/UuC5STIjxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_2015711309237800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k-wYzbUAAGLwp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015711309237800960"
+          ],
+          "media_source_tweet_id": [
+            "2015711318406496526"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2015852784739029497",
+        "created_at": "2026-01-26T18:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015852784739029497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702041603257319424",
+              "start": 3,
+              "username": "QWQing555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UuC5STIjxm",
+              "end": 75,
+              "expanded_url": "https://x.com/QWQing555/status/2015711318406496526/photo/1",
+              "media_key": "3_2015711309237800960",
+              "start": 52,
+              "url": "https://t.co/UuC5STIjxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015852784739029497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015711318406496526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @QWQing555: 不理解这句话为啥火，如果真变美了第一个想法不就是以前咋眼瞎和他谈恋爱吗… https://t.co/UuC5STIjxm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015711309237800960"
+          ]
+        },
+        "author_id": "1702041603257319424",
+        "conversation_id": "2015711318406496526",
+        "created_at": "2026-01-26T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015711318406496526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UuC5STIjxm",
+              "end": 60,
+              "expanded_url": "https://x.com/QWQing555/status/2015711318406496526/photo/1",
+              "media_key": "3_2015711309237800960",
+              "start": 37,
+              "url": "https://t.co/UuC5STIjxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015711318406496526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 57065,
+          "like_count": 1042,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 38
+        },
+        "reply_settings": "following",
+        "text": "不理解这句话为啥火，如果真变美了第一个想法不就是以前咋眼瞎和他谈恋爱吗… https://t.co/UuC5STIjxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 661,
+          "like_count": 30434,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 1830
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T19:28:45.000Z",
+        "description": "当QQ空间用的！",
+        "id": "1702041603257319424",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009738129792741377/dHZWlfU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 148,
+          "like_count": 12857,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3745
+        },
+        "username": "QWQing555",
+        "verified": false
+      }
+    ]
+  }
+}

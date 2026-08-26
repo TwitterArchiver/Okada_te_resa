@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1997600582090248414",
+    "created_at": "2025-12-08T12:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998013380162961909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998013380162961909",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997600582090248414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 唐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1997600582090248414",
+        "created_at": "2025-12-08T12:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998013380162961909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998013380162961909",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997600582090248414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 唐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1997600582090248414",
+        "created_at": "2025-12-07T09:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T10:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997600582090248414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997600582090248414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8054,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "说吸毒会复吸的是因为现代戒毒机制压根就是错的，可以说除了重度阿片类成瘾后连抑制骨头摩擦带来的疼痛的内啡肽都分泌不出来这一种情况的成瘾基本上都能恢复\n让一个自己完全在生活中没有任何正向的事情让自己主动分泌的人，仅仅是关个几年就妄想能戒毒简直匪夷所思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 651,
+          "like_count": 26644,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 1559
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14哦｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996464884062818304/V790rprR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 1259,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2390,
+          "tweet_count": 11661
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071537432047366144"
+      ],
+      "media_source_tweet_id": [
+        "2071537442105233831"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2071593292375175345",
+    "created_at": "2026-06-29T13:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071593292375175345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4228564660",
+          "start": 3,
+          "username": "RooOOooOOppl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7nRm4Btve",
+          "end": 41,
+          "expanded_url": "https://x.com/RooOOooOOppl/status/2071537442105233831/photo/1",
+          "media_key": "3_2071537432047366144",
+          "start": 18,
+          "url": "https://t.co/a7nRm4Btve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071593292375175345",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071537442105233831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @RooOOooOOppl: https://t.co/a7nRm4Btve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2818,
+        "media_key": "3_2071537432047366144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-UUagbsAAsrwk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071537432047366144"
+          ],
+          "media_source_tweet_id": [
+            "2071537442105233831"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2071593292375175345",
+        "created_at": "2026-06-29T13:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071593292375175345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4228564660",
+              "start": 3,
+              "username": "RooOOooOOppl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7nRm4Btve",
+              "end": 41,
+              "expanded_url": "https://x.com/RooOOooOOppl/status/2071537442105233831/photo/1",
+              "media_key": "3_2071537432047366144",
+              "start": 18,
+              "url": "https://t.co/a7nRm4Btve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071593292375175345",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071537442105233831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @RooOOooOOppl: https://t.co/a7nRm4Btve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071537432047366144"
+          ]
+        },
+        "author_id": "4228564660",
+        "conversation_id": "2071537442105233831",
+        "created_at": "2026-06-29T10:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071537442105233831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7nRm4Btve",
+              "end": 23,
+              "expanded_url": "https://x.com/RooOOooOOppl/status/2071537442105233831/photo/1",
+              "media_key": "3_2071537432047366144",
+              "start": 0,
+              "url": "https://t.co/a7nRm4Btve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071537442105233831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 6846,
+          "like_count": 1449,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/a7nRm4Btve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 932,
+          "like_count": 41410,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-19T19:03:12.000Z",
+        "description": "",
+        "id": "4228564660",
+        "location": "Manaus, AM",
+        "name": "Rool",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046863556986232832/5L_NRQHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 651,
+          "like_count": 1384,
+          "listed_count": 18,
+          "media_count": 82,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "RooOOooOOppl",
+        "verified": false
+      }
+    ]
+  }
+}

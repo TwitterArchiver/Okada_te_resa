@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995149473903964160",
+        "3_1995149478752591872"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1995149487334183002",
+    "created_at": "2025-11-30T15:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995149487334183002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2tudRR5EIO",
+          "end": 41,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1995149487334183002/photo/1",
+          "media_key": "3_1995149473903964160",
+          "start": 18,
+          "url": "https://t.co/2tudRR5EIO"
+        },
+        {
+          "display_url": "pic.x.com/2tudRR5EIO",
+          "end": 41,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1995149487334183002/photo/1",
+          "media_key": "3_1995149478752591872",
+          "start": 18,
+          "url": "https://t.co/2tudRR5EIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995149487334183002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 85,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "←地雷系时候      郭楠时候→ https://t.co/2tudRR5EIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1995149473903964160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ax4DHacAAg8ZU.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1995149478752591872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ax4VLaoAAgNkS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995149473903964160",
+            "3_1995149478752591872"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1995149487334183002",
+        "created_at": "2025-11-30T15:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995149487334183002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tudRR5EIO",
+              "end": 41,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1995149487334183002/photo/1",
+              "media_key": "3_1995149473903964160",
+              "start": 18,
+              "url": "https://t.co/2tudRR5EIO"
+            },
+            {
+              "display_url": "pic.x.com/2tudRR5EIO",
+              "end": 41,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1995149487334183002/photo/1",
+              "media_key": "3_1995149478752591872",
+              "start": 18,
+              "url": "https://t.co/2tudRR5EIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995149487334183002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "←地雷系时候      郭楠时候→ https://t.co/2tudRR5EIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 652,
+          "like_count": 26171,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 1514
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

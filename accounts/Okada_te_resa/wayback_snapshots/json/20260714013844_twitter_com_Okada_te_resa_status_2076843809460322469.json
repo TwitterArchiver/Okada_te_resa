@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2076836289731813766",
+    "created_at": "2026-07-14T01:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076843809460322469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356145157226196999",
+          "start": 0,
+          "username": "mary_sauce_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076843809460322469",
+    "in_reply_to_user_id": "1356145157226196999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076840063783039259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mary_sauce_22 也够一条难说能够上辅警的边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2076836289731813766",
+        "created_at": "2026-07-14T01:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076843809460322469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356145157226196999",
+              "start": 0,
+              "username": "mary_sauce_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076843809460322469",
+        "in_reply_to_user_id": "1356145157226196999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076840063783039259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mary_sauce_22 也够一条难说能够上辅警的边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356145157226196999",
+        "conversation_id": "2076836289731813766",
+        "created_at": "2026-07-14T01:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076840063783039259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076840063783039259",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076836289731813766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 还有晶哥药娘😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 973,
+          "like_count": 42746,
+          "listed_count": 5,
+          "media_count": 712,
+          "tweet_count": 3312
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T07:39:43.000Z",
+        "description": "呼噜呼噜～睡大觉～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mary_sauce_22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mary_sauce_22",
+                "start": 0,
+                "url": "https://t.co/yLjevbj9Bm"
+              }
+            ]
+          }
+        },
+        "id": "1356145157226196999",
+        "location": "银河系～",
+        "name": "某只玛莉w",
+        "pinned_tweet_id": "2049977920651719133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070824015229284352/g-WQ5mVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7300,
+          "following_count": 6965,
+          "like_count": 114229,
+          "listed_count": 44,
+          "media_count": 181,
+          "tweet_count": 15728
+        },
+        "url": "https://t.co/yLjevbj9Bm",
+        "username": "mary_sauce_22",
+        "verified": true
+      }
+    ]
+  }
+}

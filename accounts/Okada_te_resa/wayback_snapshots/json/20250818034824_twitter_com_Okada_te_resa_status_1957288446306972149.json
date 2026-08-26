@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1957089854770299178",
+    "created_at": "2025-08-18T03:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957288446306972149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957288446306972149",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957226353583091950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 可以定向减吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1957089854770299178",
+        "created_at": "2025-08-18T03:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957288446306972149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957288446306972149",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957226353583091950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 可以定向减吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841768354178334721",
+        "conversation_id": "1957089854770299178",
+        "created_at": "2025-08-17T23:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T00:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957226353583091950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957226353583091950",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957089854770299178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 減肥找我☝️🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 464,
+          "like_count": 19305,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1017
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "常駐昆山😁是剛用上雌激素沒幾年的亞洲人妖🌝自產自銷人妖藥（雌二醇）糖商🌚減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我☝️🤓會轉發好看的",
+        "id": "1841768354178334721",
+        "location": "中國大陸江蘇",
+        "name": "劉陰嫚（京本京子）",
+        "pinned_tweet_id": "1945386725200871568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3383,
+          "following_count": 3355,
+          "like_count": 1053,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 5167
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

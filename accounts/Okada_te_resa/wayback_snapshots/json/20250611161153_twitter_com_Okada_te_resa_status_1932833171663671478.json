@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1932808535533932907",
+    "created_at": "2025-06-11T16:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T17:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932833171663671478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593618958195621889",
+          "start": 0,
+          "username": "Shanca_GoodAzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932833171663671478",
+    "in_reply_to_user_id": "1593618958195621889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932808535533932907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanca_GoodAzi 好美艳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932808531780030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtK3HoOX0AAb6_H.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1932808535533932907",
+        "created_at": "2025-06-11T16:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T17:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932833171663671478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593618958195621889",
+              "start": 0,
+              "username": "Shanca_GoodAzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932833171663671478",
+        "in_reply_to_user_id": "1593618958195621889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932808535533932907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanca_GoodAzi 好美艳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932808531780030464"
+          ]
+        },
+        "author_id": "1593618958195621889",
+        "conversation_id": "1932808535533932907",
+        "created_at": "2025-06-11T14:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932808535533932907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p4L6pu6nt",
+              "end": 41,
+              "expanded_url": "https://x.com/Shanca_GoodAzi/status/1932808535533932907/photo/1",
+              "media_key": "3_1932808531780030464",
+              "start": 18,
+              "url": "https://t.co/3p4L6pu6nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932808535533932907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2921,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "修白了点，豪堪！\n#男娘 #男の娘 https://t.co/3p4L6pu6nt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 304,
+          "like_count": 14556,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 625
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T14:56:09.000Z",
+        "description": "雌堕伪娘善擦！（不约）    可以和我互动不咬人的 欢迎大家来找擦擦玩💙💙💙\nIntroverted and timid, seeking love\nmake friends call me😘",
+        "id": "1593618958195621889",
+        "name": "善擦擦🦔",
+        "pinned_tweet_id": "1925444932078329894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919307463280480256/oAwzNt4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45574,
+          "following_count": 315,
+          "like_count": 2936,
+          "listed_count": 350,
+          "media_count": 42,
+          "tweet_count": 563
+        },
+        "username": "Shanca_GoodAzi",
+        "verified": false
+      }
+    ]
+  }
+}

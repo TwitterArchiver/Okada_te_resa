@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985215312732504064"
+      ],
+      "media_source_tweet_id": [
+        "1985716163892920738"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1985775272973762724",
+    "created_at": "2025-11-04T18:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985775272973762724"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "RX-7",
+          "probability": 0.5336,
+          "start": 38,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2560249548",
+          "start": 3,
+          "username": "kingsofjdm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DicT2QMqC",
+          "end": 69,
+          "expanded_url": "https://x.com/kingsofjdm/status/1985716163892920738/video/1",
+          "media_key": "13_1985215312732504064",
+          "start": 46,
+          "url": "https://t.co/8DicT2QMqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985775272973762724",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985716163892920738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kingsofjdm: Exhaust sound from an RX-7 😍💛 https://t.co/8DicT2QMqC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19409,
+        "height": 1280,
+        "media_key": "13_1985215312732504064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985215312732504064/img/6sSg9Le2D01ZqFYI.jpg",
+        "public_metrics": {
+          "view_count": 575
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985215312732504064/vid/avc1/320x568/w3tGkpemXpIHF4L3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985215312732504064/vid/avc1/480x852/CbxeKVYNdSfmth0W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985215312732504064/vid/avc1/720x1280/kad6fdJs5HbI29ct.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985215312732504064/pl/7OkqVfauCmEGesqy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985215312732504064"
+          ],
+          "media_source_tweet_id": [
+            "1985716163892920738"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1985775272973762724",
+        "created_at": "2025-11-04T18:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985775272973762724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "RX-7",
+              "probability": 0.5336,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2560249548",
+              "start": 3,
+              "username": "kingsofjdm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DicT2QMqC",
+              "end": 69,
+              "expanded_url": "https://x.com/kingsofjdm/status/1985716163892920738/video/1",
+              "media_key": "13_1985215312732504064",
+              "start": 46,
+              "url": "https://t.co/8DicT2QMqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985775272973762724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985716163892920738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kingsofjdm: Exhaust sound from an RX-7 😍💛 https://t.co/8DicT2QMqC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985215312732504064"
+          ]
+        },
+        "author_id": "2560249548",
+        "conversation_id": "1985716163892920738",
+        "created_at": "2025-11-04T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985716163892920738"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "RX-7",
+              "probability": 0.5913,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DicT2QMqC",
+              "end": 53,
+              "expanded_url": "https://x.com/kingsofjdm/status/1985716163892920738/video/1",
+              "media_key": "13_1985215312732504064",
+              "start": 30,
+              "url": "https://t.co/8DicT2QMqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985716163892920738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1600,
+          "like_count": 158,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Exhaust sound from an RX-7 😍💛 https://t.co/8DicT2QMqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 614,
+          "like_count": 23991,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1288
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-11T01:17:03.000Z",
+        "description": "Follow us for the best car content on X🔰",
+        "id": "2560249548",
+        "location": "Florida, USA",
+        "name": "Kings of JDM",
+        "pinned_tweet_id": "1955788964951896162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700354460386557952/vITJy1qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112414,
+          "following_count": 24287,
+          "like_count": 14502,
+          "listed_count": 127,
+          "media_count": 8115,
+          "tweet_count": 14428
+        },
+        "username": "kingsofjdm",
+        "verified": true
+      }
+    ]
+  }
+}

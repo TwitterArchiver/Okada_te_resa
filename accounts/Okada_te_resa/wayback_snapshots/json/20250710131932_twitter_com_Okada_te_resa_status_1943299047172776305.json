@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943286133682520064"
+      ],
+      "media_source_tweet_id": [
+        "1943286146731307475"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1943299047172776305",
+    "created_at": "2025-07-10T13:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943299047172776305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531145919722188803",
+          "start": 3,
+          "username": "AkaneY_banu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2dJ8MekqaU",
+          "end": 48,
+          "expanded_url": "https://x.com/AkaneY_banu/status/1943286146731307475/photo/1",
+          "media_key": "3_1943286133682520064",
+          "start": 25,
+          "url": "https://t.co/2dJ8MekqaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943299047172776305",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943286146731307475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaneY_banu: Amorʚ♥ɞ https://t.co/2dJ8MekqaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4029,
+        "media_key": "3_1943286133682520064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfwcU8WwAA4yz8.jpg",
+        "width": 2616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943286133682520064"
+          ],
+          "media_source_tweet_id": [
+            "1943286146731307475"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1943299047172776305",
+        "created_at": "2025-07-10T13:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943299047172776305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531145919722188803",
+              "start": 3,
+              "username": "AkaneY_banu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dJ8MekqaU",
+              "end": 48,
+              "expanded_url": "https://x.com/AkaneY_banu/status/1943286146731307475/photo/1",
+              "media_key": "3_1943286133682520064",
+              "start": 25,
+              "url": "https://t.co/2dJ8MekqaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943299047172776305",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943286146731307475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaneY_banu: Amorʚ♥ɞ https://t.co/2dJ8MekqaU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943286133682520064"
+          ]
+        },
+        "author_id": "1531145919722188803",
+        "conversation_id": "1943286146731307475",
+        "created_at": "2025-07-10T12:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943286146731307475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dJ8MekqaU",
+              "end": 31,
+              "expanded_url": "https://x.com/AkaneY_banu/status/1943286146731307475/photo/1",
+              "media_key": "3_1943286133682520064",
+              "start": 8,
+              "url": "https://t.co/2dJ8MekqaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943286146731307475",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 17890,
+          "like_count": 2416,
+          "quote_count": 55,
+          "reply_count": 55,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "Amorʚ♥ɞ https://t.co/2dJ8MekqaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 400,
+          "like_count": 17030,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 805
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1897315442534031680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878150523565785088/PVqZn2jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92703,
+          "following_count": 91,
+          "like_count": 10410,
+          "listed_count": 466,
+          "media_count": 714,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": false
+      }
+    ]
+  }
+}

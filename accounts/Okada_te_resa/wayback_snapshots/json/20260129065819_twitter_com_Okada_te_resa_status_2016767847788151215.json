@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2016712117580419527",
+    "created_at": "2026-01-29T06:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016767847788151215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016767847788151215",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016712117580419527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 来点单主"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2016712108067737604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zM-i-bUAQZdXd.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2016712117580419527",
+        "created_at": "2026-01-29T06:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016767847788151215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016767847788151215",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016712117580419527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 来点单主"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016712108067737604"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016712117580419527",
+        "created_at": "2026-01-29T03:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T04:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016712117580419527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fLHvpoHyK",
+              "end": 34,
+              "expanded_url": "https://x.com/akui1121/status/2016712117580419527/photo/1",
+              "media_key": "3_2016712108067737604",
+              "start": 11,
+              "url": "https://t.co/7fLHvpoHyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016712117580419527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2145,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跟单主开始拼模型…… https://t.co/7fLHvpoHyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 665,
+          "like_count": 30644,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 1849
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸会一直跳下去！纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "1965chich"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1840302665340989578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008191911446888448/B9dNkp8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28721,
+          "following_count": 1245,
+          "like_count": 20634,
+          "listed_count": 76,
+          "media_count": 1111,
+          "tweet_count": 14279
+        },
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

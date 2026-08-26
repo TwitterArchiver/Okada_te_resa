@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1935543057988075996",
+    "created_at": "2025-06-19T07:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T08:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935597006120263704"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "李嘉",
+          "probability": 0.7449,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935597006120263704",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935543057988075996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 李嘉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1935543057988075996",
+        "created_at": "2025-06-19T07:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935597006120263704"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "李嘉",
+              "probability": 0.7449,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935597006120263704",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935543057988075996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 李嘉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "conversation_id": "1935543057988075996",
+        "created_at": "2025-06-19T03:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T04:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935543057988075996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minaseayano/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/minaseayano/status/1935309687228137647",
+              "start": 13,
+              "url": "https://t.co/LC2kakia7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935543057988075996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5337,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935309687228137647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "九曲河的下一站是什么😧？ https://t.co/LC2kakia7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 329,
+          "like_count": 15011,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 653
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 1114,
+          "like_count": 89049,
+          "listed_count": 31,
+          "media_count": 1033,
+          "tweet_count": 19016
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

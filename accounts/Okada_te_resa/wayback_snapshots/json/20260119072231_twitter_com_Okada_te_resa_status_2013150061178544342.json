@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2013150061178544342",
+    "created_at": "2026-01-19T07:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T08:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013150061178544342"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "中国",
+          "probability": 0.9612,
+          "start": 18,
+          "type": "Place"
+        },
+        {
+          "end": 96,
+          "normalized_text": "中国",
+          "probability": 0.7084,
+          "start": 95,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2683505532",
+          "start": 3,
+          "username": "k_bikematome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013150061178544342",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009958874468786534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k_bikematome: 中国で2026年モデルの新型GSX250Rが型式認証されています。\n\nスペックも判明していて、馬力は29.2PS(+4.2PS)です。\n重量は178kg(中国仕様)のままです。\n\n現行ベースで、ヘッドライト、ウィンカーの変更や、ウイングレット…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2009958147990130688",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-TOSVBakAA3Ey9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-TOSVBakAA3Ey9.mp4"
+          }
+        ],
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2013150061178544342",
+        "created_at": "2026-01-19T07:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013150061178544342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "中国",
+              "probability": 0.9612,
+              "start": 18,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "中国",
+              "probability": 0.7084,
+              "start": 95,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2683505532",
+              "start": 3,
+              "username": "k_bikematome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013150061178544342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009958874468786534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k_bikematome: 中国で2026年モデルの新型GSX250Rが型式認証されています。\n\nスペックも判明していて、馬力は29.2PS(+4.2PS)です。\n重量は178kg(中国仕様)のままです。\n\n現行ベースで、ヘッドライト、ウィンカーの変更や、ウイングレット…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2009958147990130688"
+          ]
+        },
+        "author_id": "2683505532",
+        "conversation_id": "2009958874468786534",
+        "created_at": "2026-01-10T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009958874468786534"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9649,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "中国",
+              "probability": 0.6927,
+              "start": 77,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026年モデルの新型GSX250Rのお姿が明らかになりました。それから一部スペックも明らかになっています。 2026 新型GSX250Rが発表されたらしい 管ちゃん GSX250Rきたね よろしく頼",
+              "display_url": "kojintekibikematomeblog.com/archives/2026-…",
+              "end": 171,
+              "expanded_url": "https://kojintekibikematomeblog.com/archives/2026-%e6%96%b0%e5%9e%8bgsx250r%e3%81%8c%e5%9e%8b%e5%bc%8f%e8%aa%8d%e8%a8%bc%e7%99%bb%e9%8c%b2%e6%b8%88%e3%80%82%e3%82%b9%e3%83%9a%e3%83%83%e3%82%af%e5%88%a4%e6%98%8e.html",
+              "images": [
+                {
+                  "height": 794,
+                  "url": "https://pbs.twimg.com/news_img/2009958885164261376/yD6-gFwS?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009958885164261376/yD6-gFwS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 148,
+              "status": 200,
+              "title": "2026 新型GSX250Rが型式認証登録済。スペック判明",
+              "unwound_url": "https://kojintekibikematomeblog.com/archives/2026-%e6%96%b0%e5%9e%8bgsx250r%e3%81%8c%e5%9e%8b%e5%bc%8f%e8%aa%8d%e8%a8%bc%e7%99%bb%e9%8c%b2%e6%b8%88%e3%80%82%e3%82%b9%e3%83%9a%e3%83%83%e3%82%af%e5%88%a4%e6%98%8e.html",
+              "url": "https://t.co/woZ0Vo5pei"
+            },
+            {
+              "display_url": "pic.x.com/GB4W7qn9GR",
+              "end": 195,
+              "expanded_url": "https://x.com/k_bikematome/status/2009958874468786534/photo/1",
+              "media_key": "16_2009958147990130688",
+              "start": 172,
+              "url": "https://t.co/GB4W7qn9GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009958874468786534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 83483,
+          "like_count": 374,
+          "quote_count": 49,
+          "reply_count": 14,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "中国で2026年モデルの新型GSX250Rが型式認証されています。\n\nスペックも判明していて、馬力は29.2PS(+4.2PS)です。\n重量は178kg(中国仕様)のままです。\n\n現行ベースで、ヘッドライト、ウィンカーの変更や、ウイングレットが追加されています。\n\n詳しくは以下リンクでどうぞ。\nhttps://t.co/woZ0Vo5pei https://t.co/GB4W7qn9GR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 644,
+          "like_count": 29844,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 1778
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-26T22:59:06.000Z",
+        "description": "個人的に興味のあるバイクについて調べたり、まとめたりなブログを趣味でやってます。バイクに関係無い個人的な事を呟きます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kojintekibikematomeblog.com",
+                "end": 23,
+                "expanded_url": "https://kojintekibikematomeblog.com/",
+                "start": 0,
+                "url": "https://t.co/XV8Dm0UwSL"
+              }
+            ]
+          }
+        },
+        "id": "2683505532",
+        "name": "菅(個人的バイクまとめブログ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289924617298034688/IxjBerqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11976,
+          "following_count": 3197,
+          "like_count": 23163,
+          "listed_count": 124,
+          "media_count": 5438,
+          "tweet_count": 20199
+        },
+        "url": "https://t.co/XV8Dm0UwSL",
+        "username": "k_bikematome",
+        "verified": false
+      }
+    ]
+  }
+}

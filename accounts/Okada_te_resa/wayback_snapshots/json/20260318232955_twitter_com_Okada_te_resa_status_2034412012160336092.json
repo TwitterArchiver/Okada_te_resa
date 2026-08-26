@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2034266018995191972",
+    "created_at": "2026-03-18T23:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T00:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034412012160336092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034412012160336092",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034266018995191972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 我去求处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2034266018995191972",
+        "created_at": "2026-03-18T23:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T00:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034412012160336092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034412012160336092",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034266018995191972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 我去求处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2034266018995191972",
+        "created_at": "2026-03-18T13:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034266018995191972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034266018995191972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1699,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有自己的pr处方但还是孜孜不倦p图在pdd互联网医院练习技术（）糯米这个要强\n不过我肉眼看见瑕疵很大的p图痕迹很重没想到也还是给过，避雷pdd桃子就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 728,
+          "like_count": 35099,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2203
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo会回-没品b我也回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 2095,
+          "like_count": 8457,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 7000
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

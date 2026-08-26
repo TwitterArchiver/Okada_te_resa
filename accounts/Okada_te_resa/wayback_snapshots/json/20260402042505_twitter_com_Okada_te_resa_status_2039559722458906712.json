@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2039292756376617340",
+    "created_at": "2026-04-02T04:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039559722458906712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1979915051071938560",
+          "start": 0,
+          "username": "Prouwtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039559722458906712",
+    "in_reply_to_user_id": "1979915051071938560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039527481078878418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prouwtt 陪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039527470538596352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3bbbcaoAAQVar.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2039292756376617340",
+        "created_at": "2026-04-02T04:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039559722458906712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1979915051071938560",
+              "start": 0,
+              "username": "Prouwtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039559722458906712",
+        "in_reply_to_user_id": "1979915051071938560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039527481078878418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prouwtt 陪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039527470538596352"
+          ]
+        },
+        "author_id": "1979915051071938560",
+        "conversation_id": "2039292756376617340",
+        "created_at": "2026-04-02T02:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039527481078878418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/94iM52E0O1",
+              "end": 40,
+              "expanded_url": "https://x.com/Prouwtt/status/2039527481078878418/photo/1",
+              "media_key": "3_2039527470538596352",
+              "start": 17,
+              "url": "https://t.co/94iM52E0O1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039527481078878418",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039292756376617340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 陪 https://t.co/94iM52E0O1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 743,
+          "like_count": 35982,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 2359
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T14:19:42.000Z",
+        "description": "",
+        "id": "1979915051071938560",
+        "name": "Prouw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915757858287616/Ag0ZSmsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 97,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 262
+        },
+        "username": "Prouwtt",
+        "verified": false
+      }
+    ]
+  }
+}

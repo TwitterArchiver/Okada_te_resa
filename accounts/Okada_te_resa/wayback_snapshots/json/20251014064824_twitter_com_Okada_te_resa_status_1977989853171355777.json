@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977890088957665280"
+      ],
+      "media_source_tweet_id": [
+        "1977890095697985706"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1977989853171355777",
+    "created_at": "2025-10-14T06:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977989853171355777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARKBQkHHvT",
+          "end": 41,
+          "expanded_url": "https://x.com/Kenntnis22/status/1977890095697985706/photo/1",
+          "media_key": "3_1977890088957665280",
+          "start": 18,
+          "url": "https://t.co/ARKBQkHHvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977989853171355777",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977890095697985706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 🫨 https://t.co/ARKBQkHHvT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977890088957665280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Lgjn0WYAA-SXq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977890088957665280"
+          ],
+          "media_source_tweet_id": [
+            "1977890095697985706"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1977989853171355777",
+        "created_at": "2025-10-14T06:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977989853171355777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARKBQkHHvT",
+              "end": 41,
+              "expanded_url": "https://x.com/Kenntnis22/status/1977890095697985706/photo/1",
+              "media_key": "3_1977890088957665280",
+              "start": 18,
+              "url": "https://t.co/ARKBQkHHvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977989853171355777",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977890095697985706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 🫨 https://t.co/ARKBQkHHvT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977890088957665280"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1977890095697985706",
+        "created_at": "2025-10-14T00:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T01:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977890095697985706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARKBQkHHvT",
+              "end": 25,
+              "expanded_url": "https://x.com/Kenntnis22/status/1977890095697985706/photo/1",
+              "media_key": "3_1977890088957665280",
+              "start": 2,
+              "url": "https://t.co/ARKBQkHHvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977890095697985706",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 18690,
+          "like_count": 351,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "🫨 https://t.co/ARKBQkHHvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 548,
+          "like_count": 22389,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 1194
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1977890095697985706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40376,
+          "following_count": 338,
+          "like_count": 32750,
+          "listed_count": 191,
+          "media_count": 6728,
+          "tweet_count": 10617
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

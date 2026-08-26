@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946178962314457088",
+        "3_1946178961563664384"
+      ],
+      "media_source_tweet_id": [
+        "1946178969348292790",
+        "1946178969348292790"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1946662651376906504",
+    "created_at": "2025-07-19T20:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T21:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946662651376906504"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "咲く薔薇の貴婦人コーデ",
+          "probability": 0.1745,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1110966399801790464",
+          "start": 3,
+          "username": "Belchic7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiQxQakGwq",
+          "end": 61,
+          "expanded_url": "https://x.com/Belchic7/status/1946178969348292790/photo/1",
+          "media_key": "3_1946178962314457088",
+          "start": 38,
+          "url": "https://t.co/AiQxQakGwq"
+        },
+        {
+          "display_url": "pic.x.com/AiQxQakGwq",
+          "end": 61,
+          "expanded_url": "https://x.com/Belchic7/status/1946178969348292790/photo/1",
+          "media_key": "3_1946178961563664384",
+          "start": 38,
+          "url": "https://t.co/AiQxQakGwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946662651376906504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946178969348292790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Belchic7: 🤍🖤 幻想のオペラに咲く薔薇の貴婦人コーデ🖤🤍 https://t.co/AiQxQakGwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1946178962314457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwI3dHYXcAAWqYT.jpg",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1946178961563664384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwI3dElXQAAWVwj.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946178962314457088",
+            "3_1946178961563664384"
+          ],
+          "media_source_tweet_id": [
+            "1946178969348292790",
+            "1946178969348292790"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1946662651376906504",
+        "created_at": "2025-07-19T20:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T21:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946662651376906504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "咲く薔薇の貴婦人コーデ",
+              "probability": 0.1745,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1110966399801790464",
+              "start": 3,
+              "username": "Belchic7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiQxQakGwq",
+              "end": 61,
+              "expanded_url": "https://x.com/Belchic7/status/1946178969348292790/photo/1",
+              "media_key": "3_1946178962314457088",
+              "start": 38,
+              "url": "https://t.co/AiQxQakGwq"
+            },
+            {
+              "display_url": "pic.x.com/AiQxQakGwq",
+              "end": 61,
+              "expanded_url": "https://x.com/Belchic7/status/1946178969348292790/photo/1",
+              "media_key": "3_1946178961563664384",
+              "start": 38,
+              "url": "https://t.co/AiQxQakGwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946662651376906504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946178969348292790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Belchic7: 🤍🖤 幻想のオペラに咲く薔薇の貴婦人コーデ🖤🤍 https://t.co/AiQxQakGwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946178962314457088",
+            "3_1946178961563664384"
+          ]
+        },
+        "author_id": "1110966399801790464",
+        "conversation_id": "1946178969348292790",
+        "created_at": "2025-07-18T12:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946178969348292790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiQxQakGwq",
+              "end": 47,
+              "expanded_url": "https://x.com/Belchic7/status/1946178969348292790/photo/1",
+              "media_key": "3_1946178962314457088",
+              "start": 24,
+              "url": "https://t.co/AiQxQakGwq"
+            },
+            {
+              "display_url": "pic.x.com/AiQxQakGwq",
+              "end": 47,
+              "expanded_url": "https://x.com/Belchic7/status/1946178969348292790/photo/1",
+              "media_key": "3_1946178961563664384",
+              "start": 24,
+              "url": "https://t.co/AiQxQakGwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946178969348292790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 693,
+          "impression_count": 115910,
+          "like_count": 2605,
+          "quote_count": 26,
+          "reply_count": 1,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "🤍🖤 幻想のオペラに咲く薔薇の貴婦人コーデ🖤🤍 https://t.co/AiQxQakGwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 424,
+          "like_count": 17750,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 854
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T18:06:45.000Z",
+        "description": "Belchic公式Twitter❤︎|20000円以上〜のご購入でもらえる数量限定ノベルティフェア開催中🧸| 《商標登録済みブランド》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "belchic.xsrv.jp/cz/vxFHz",
+                "end": 23,
+                "expanded_url": "http://belchic.xsrv.jp/cz/vxFHz",
+                "start": 0,
+                "url": "https://t.co/9ssNVfJSEq"
+              }
+            ]
+          }
+        },
+        "id": "1110966399801790464",
+        "location": "公式Webサイトはこちら♡",
+        "name": "Belchic",
+        "pinned_tweet_id": "1891019271163056484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288001065661521920/9138XXeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234383,
+          "following_count": 1,
+          "like_count": 2615,
+          "listed_count": 1726,
+          "media_count": 58158,
+          "tweet_count": 80613
+        },
+        "url": "https://t.co/9ssNVfJSEq",
+        "username": "Belchic7",
+        "verified": true
+      }
+    ]
+  }
+}

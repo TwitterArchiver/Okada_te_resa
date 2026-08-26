@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1969998821896937831",
+    "created_at": "2025-09-22T09:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T10:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970057622419292634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970057622419292634",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969998821896937831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 宝宝给我玩玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969998811453104128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bXe0SaoAA0sdh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1969998821896937831",
+        "created_at": "2025-09-22T09:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T10:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970057622419292634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970057622419292634",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969998821896937831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 宝宝给我玩玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969998811453104128"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "conversation_id": "1969998821896937831",
+        "created_at": "2025-09-22T05:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969998821896937831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKu6nvafE4",
+              "end": 39,
+              "expanded_url": "https://x.com/MozaikRR/status/1969998821896937831/photo/1",
+              "media_key": "3_1969998811453104128",
+              "start": 16,
+              "url": "https://t.co/ZKu6nvafE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969998821896937831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我学成转生视觉系emo长发男 https://t.co/ZKu6nvafE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 514,
+          "like_count": 21467,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1145
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952306352854097920/WMElfmq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 306,
+          "like_count": 151,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 211
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

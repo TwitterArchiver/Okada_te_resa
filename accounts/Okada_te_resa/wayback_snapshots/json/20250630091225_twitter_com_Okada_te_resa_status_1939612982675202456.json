@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939612978543792128",
+        "3_1939612979189747712",
+        "3_1939612977633665024"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1939612982675202456",
+    "created_at": "2025-06-30T09:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T10:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939612982675202456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lvC9DsddY",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1939612982675202456/photo/1",
+          "media_key": "3_1939612978543792128",
+          "start": 8,
+          "url": "https://t.co/5lvC9DsddY"
+        },
+        {
+          "display_url": "pic.x.com/5lvC9DsddY",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1939612982675202456/photo/1",
+          "media_key": "3_1939612979189747712",
+          "start": 8,
+          "url": "https://t.co/5lvC9DsddY"
+        },
+        {
+          "display_url": "pic.x.com/5lvC9DsddY",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1939612982675202456/photo/1",
+          "media_key": "3_1939612977633665024",
+          "start": 8,
+          "url": "https://t.co/5lvC9DsddY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939612982675202456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东百b真的是😅 https://t.co/5lvC9DsddY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939612978543792128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurjujvXEAAANqN.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939612979189747712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurjumJXkAA1okB.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939612977633665024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurjugWXoAAlGlm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939612978543792128",
+            "3_1939612979189747712",
+            "3_1939612977633665024"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1939612982675202456",
+        "created_at": "2025-06-30T09:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939612982675202456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lvC9DsddY",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1939612982675202456/photo/1",
+              "media_key": "3_1939612978543792128",
+              "start": 8,
+              "url": "https://t.co/5lvC9DsddY"
+            },
+            {
+              "display_url": "pic.x.com/5lvC9DsddY",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1939612982675202456/photo/1",
+              "media_key": "3_1939612979189747712",
+              "start": 8,
+              "url": "https://t.co/5lvC9DsddY"
+            },
+            {
+              "display_url": "pic.x.com/5lvC9DsddY",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1939612982675202456/photo/1",
+              "media_key": "3_1939612977633665024",
+              "start": 8,
+              "url": "https://t.co/5lvC9DsddY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939612982675202456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东百b真的是😅 https://t.co/5lvC9DsddY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 369,
+          "like_count": 16255,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 745
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

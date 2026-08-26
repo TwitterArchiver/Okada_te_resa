@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2068923078084899290",
+    "created_at": "2026-06-22T05:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068923078084899290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/komorebi_jikan…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/komorebi_jikan/status/2068619935090106762",
+          "start": 7,
+          "url": "https://t.co/2VUuRh0sq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068923078084899290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068619935090106762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽吓鼠我了 https://t.co/2VUuRh0sq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2067886685111963648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKb--Xb0AAfVnb.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2068923078084899290",
+        "created_at": "2026-06-22T05:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068923078084899290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/komorebi_jikan…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/komorebi_jikan/status/2068619935090106762",
+              "start": 7,
+              "url": "https://t.co/2VUuRh0sq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068923078084899290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068619935090106762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽吓鼠我了 https://t.co/2VUuRh0sq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067886685111963648"
+          ]
+        },
+        "author_id": "1902302237352980481",
+        "conversation_id": "2068619935090106762",
+        "created_at": "2026-06-21T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068619935090106762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "文化放送"
+            },
+            {
+              "end": 141,
+              "start": 133,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "urls": [
+            {
+              "description": "番組メールフォーム：https://form.run/@komorebiX（旧Twitter）ハッシュタグは「#こもれびじかん」X（旧Twitter）ページは「https://x.com/komoreb",
+              "display_url": "radiko.jp/share/?sid=QRR…",
+              "end": 89,
+              "expanded_url": "https://radiko.jp/share/?sid=QRR&t=20260622003000",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2068616204621860865/86De6gX9?format=png&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068616204621860865/86De6gX9?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 66,
+              "status": 200,
+              "title": "羊宮妃那のこもれびじかん | 文化放送 | 2026/06/21/日 24:30-25:00",
+              "unwound_url": "https://radiko.jp/share/?sid=QRR&t=20260622003000",
+              "url": "https://t.co/KB0ynJ5PRK"
+            },
+            {
+              "description": "ラジオ番組「神谷浩史・小野大輔のDear Girl〜Stories〜」ゲームソフト「BUSTAFELLOWS」「Side Kicks！beyond」など文化放送エクステンド関連グッズを販売中！",
+              "display_url": "extendshop.jp/collections/ko…",
+              "end": 131,
+              "expanded_url": "https://extendshop.jp/collections/komorebi",
+              "images": [
+                {
+                  "height": 1105,
+                  "url": "https://pbs.twimg.com/news_img/2068619990266195968/LrQEZoWH?format=jpg&name=orig",
+                  "width": 2500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068619990266195968/LrQEZoWH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "羊宮妃那のこもれびじかん",
+              "unwound_url": "https://extendshop.jp/collections/komorebi",
+              "url": "https://t.co/tgSCCZ9kF8"
+            },
+            {
+              "display_url": "pic.x.com/nBxulaueKa",
+              "end": 165,
+              "expanded_url": "https://x.com/komorebi_jikan/status/2068619935090106762/photo/1",
+              "media_key": "3_2067886685111963648",
+              "start": 142,
+              "url": "https://t.co/nBxulaueKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068619935090106762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 493,
+          "impression_count": 293776,
+          "like_count": 6726,
+          "quote_count": 138,
+          "reply_count": 100,
+          "retweet_count": 787
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "今夜も24時30分から🐿️\n『羊宮妃那のこもれびじかん』🌳\n#文化放送 地上波(FM91.6/AM1134/radiko)で放送📻\nhttps://t.co/KB0ynJ5PRK\n\nグッズ通販もよろしくお願いします\nhttps://t.co/tgSCCZ9kF8\n\n#こもれびじかん https://t.co/nBxulaueKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 915,
+          "like_count": 40901,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T10:12:58.000Z",
+        "description": "ラジオ番組公式Xアカウント\n文化放送地上波(radiko)にて毎週日曜24:30～25:00放送\nカルチェラでアーカイブとこもればなしを配信中！\n\nメール：komorebi@joqr.net\nフォーム：https://t.co/qAD2ORz4Gk\n#こもれびじかん\n\n※ラジオや写真等の無断転載はご遠慮ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "こもれびじかん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "form.run/@komorebi",
+                "end": 124,
+                "expanded_url": "https://form.run/@komorebi",
+                "start": 101,
+                "url": "https://t.co/qAD2ORz4Gk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "culuchera.stores.play.jp",
+                "end": 23,
+                "expanded_url": "https://culuchera.stores.play.jp/",
+                "start": 0,
+                "url": "https://t.co/PFofhpyYAw"
+              }
+            ]
+          }
+        },
+        "id": "1902302237352980481",
+        "name": "羊宮妃那のこもれびじかん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905469206323494912/U5feN3Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9975,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 66,
+          "media_count": 164,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/PFofhpyYAw",
+        "username": "komorebi_jikan",
+        "verified": false
+      }
+    ]
+  }
+}

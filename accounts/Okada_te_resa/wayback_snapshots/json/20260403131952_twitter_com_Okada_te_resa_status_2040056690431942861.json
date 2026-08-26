@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2040028750847644071",
+    "created_at": "2026-04-03T13:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040056690431942861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        },
+        {
+          "end": 26,
+          "id": "1362960365055668225",
+          "start": 14,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040056690431942861",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040040079771803859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina @POI74103174 海天是池袋西口买的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2040040072448458752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-toyXaQAAIpUx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2040028750847644071",
+        "created_at": "2026-04-03T13:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040056690431942861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            },
+            {
+              "end": 26,
+              "id": "1362960365055668225",
+              "start": 14,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040056690431942861",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040040079771803859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina @POI74103174 海天是池袋西口买的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040040072448458752"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040028750847644071",
+        "created_at": "2026-04-03T12:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040040079771803859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6OK487mxr",
+              "end": 47,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2040040079771803859/photo/1",
+              "media_key": "3_2040040072448458752",
+              "start": 24,
+              "url": "https://t.co/z6OK487mxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040040079771803859",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040028750847644071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 鄙人只能吃麻酱拌挂面 https://t.co/z6OK487mxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 751,
+          "like_count": 36148,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 2387
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男//发点女装日常//都内一般会社員//120% sub//169cm 55+Kg//不扩列//提问箱📦在下面//不首先不礼貌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Minato-ku, Tokyo",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2034579525712109919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036264214055239680/68LPc4D1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10880,
+          "following_count": 540,
+          "like_count": 6343,
+          "listed_count": 43,
+          "media_count": 207,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@kinpeimoment615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kinpeimoment615"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "唯@Poi🍠",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000797534844018688/zJpBTZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3459,
+          "following_count": 332,
+          "like_count": 65986,
+          "listed_count": 11,
+          "media_count": 2857,
+          "tweet_count": 24217
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

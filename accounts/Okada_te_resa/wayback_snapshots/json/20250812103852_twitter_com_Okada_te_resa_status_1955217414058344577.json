@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1955211279989424128"
+      ],
+      "media_source_tweet_id": [
+        "1955211514253808111"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1955217414058344577",
+    "created_at": "2025-08-12T10:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T11:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955217414058344577"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 87,
+          "tag": "NoGenki"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "地雷系"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "量産型"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815968553931268099",
+          "start": 3,
+          "username": "Nogenki_offic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCzv1SsgSq",
+          "end": 133,
+          "expanded_url": "https://x.com/Nogenki_offic/status/1955211514253808111/video/1",
+          "media_key": "13_1955211279989424128",
+          "start": 110,
+          "url": "https://t.co/lCzv1SsgSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955217414058344577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955211514253808111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nogenki_offic: 新作のブラウス！３色展開\nどの色がお好みですか？\n\n最近デザイナーが最も気に入っている1着です\n8.17（日）20時から発売予定🗓️\n\n#NoGenki \n \n #地雷系 #量産型 https://t.co/lCzv1SsgSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17133,
+        "height": 1920,
+        "media_key": "13_1955211279989424128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955211279989424128/img/0TFcTFGLjx_vljym.jpg",
+        "public_metrics": {
+          "view_count": 201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955211279989424128/vid/avc1/320x568/u2Y86d8KvQgpVOcc.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955211279989424128/vid/avc1/720x1280/oWGWOfZcxyelGc-Y.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955211279989424128/vid/avc1/1080x1920/ksAlQO2Vr_ULq4WL.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955211279989424128/vid/avc1/480x852/D0gpK1wUtFz6eUYG.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955211279989424128/pl/yxyNv3JRcqawXi2t.m3u8?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955211279989424128"
+          ],
+          "media_source_tweet_id": [
+            "1955211514253808111"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1955217414058344577",
+        "created_at": "2025-08-12T10:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955217414058344577"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "NoGenki"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "地雷系"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "量産型"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815968553931268099",
+              "start": 3,
+              "username": "Nogenki_offic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCzv1SsgSq",
+              "end": 133,
+              "expanded_url": "https://x.com/Nogenki_offic/status/1955211514253808111/video/1",
+              "media_key": "13_1955211279989424128",
+              "start": 110,
+              "url": "https://t.co/lCzv1SsgSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955217414058344577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955211514253808111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nogenki_offic: 新作のブラウス！３色展開\nどの色がお好みですか？\n\n最近デザイナーが最も気に入っている1着です\n8.17（日）20時から発売予定🗓️\n\n#NoGenki \n \n #地雷系 #量産型 https://t.co/lCzv1SsgSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955211279989424128"
+          ]
+        },
+        "author_id": "1815968553931268099",
+        "conversation_id": "1955211514253808111",
+        "created_at": "2025-08-12T10:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955211514253808111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "NoGenki"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "地雷系"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "量産型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCzv1SsgSq",
+              "end": 114,
+              "expanded_url": "https://x.com/Nogenki_offic/status/1955211514253808111/video/1",
+              "media_key": "13_1955211279989424128",
+              "start": 91,
+              "url": "https://t.co/lCzv1SsgSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955211514253808111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 748,
+          "like_count": 46,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "新作のブラウス！３色展開\nどの色がお好みですか？\n\n最近デザイナーが最も気に入っている1着です\n8.17（日）20時から発売予定🗓️\n\n#NoGenki \n \n #地雷系 #量産型 https://t.co/lCzv1SsgSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 454,
+          "like_count": 18912,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 971
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T04:33:50.000Z",
+        "description": "🖤地雷系・量産型ブランド🖤 大人かわいいブランド:@bunnylis_offic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "bunnylis_offic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nogenki.com",
+                "end": 23,
+                "expanded_url": "http://nogenki.com",
+                "start": 0,
+                "url": "https://t.co/TFEDW0yN89"
+              }
+            ]
+          }
+        },
+        "id": "1815968553931268099",
+        "name": "NoGenki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815968689856077826/YBI3ba_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 51,
+          "like_count": 39,
+          "listed_count": 35,
+          "media_count": 199,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/TFEDW0yN89",
+        "username": "Nogenki_offic",
+        "verified": true
+      }
+    ]
+  }
+}

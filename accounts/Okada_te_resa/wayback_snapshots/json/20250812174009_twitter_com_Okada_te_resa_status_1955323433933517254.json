@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955253520224952321"
+      ],
+      "media_source_tweet_id": [
+        "1955253525295812995"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1955323433933517254",
+    "created_at": "2025-08-12T17:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T18:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955323433933517254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1110966399801790464",
+          "start": 3,
+          "username": "Belchic7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DUxfD9iXVg",
+          "end": 56,
+          "expanded_url": "https://x.com/Belchic7/status/1955253525295812995/photo/1",
+          "media_key": "3_1955253520224952321",
+          "start": 33,
+          "url": "https://t.co/DUxfD9iXVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955323433933517254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955253525295812995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Belchic7: 🪐💫 星降る夜の星座魔法タイツ 💫🪐 https://t.co/DUxfD9iXVg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_1955253520224952321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJ0t57XIAEq-pZ.jpg",
+        "width": 1866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955253520224952321"
+          ],
+          "media_source_tweet_id": [
+            "1955253525295812995"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1955323433933517254",
+        "created_at": "2025-08-12T17:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955323433933517254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1110966399801790464",
+              "start": 3,
+              "username": "Belchic7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUxfD9iXVg",
+              "end": 56,
+              "expanded_url": "https://x.com/Belchic7/status/1955253525295812995/photo/1",
+              "media_key": "3_1955253520224952321",
+              "start": 33,
+              "url": "https://t.co/DUxfD9iXVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955323433933517254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955253525295812995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Belchic7: 🪐💫 星降る夜の星座魔法タイツ 💫🪐 https://t.co/DUxfD9iXVg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955253520224952321"
+          ]
+        },
+        "author_id": "1110966399801790464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1955253525295812995",
+        "created_at": "2025-08-12T13:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955253525295812995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUxfD9iXVg",
+              "end": 42,
+              "expanded_url": "https://x.com/Belchic7/status/1955253525295812995/photo/1",
+              "media_key": "3_1955253520224952321",
+              "start": 19,
+              "url": "https://t.co/DUxfD9iXVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955253525295812995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 10910,
+          "like_count": 249,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "🪐💫 星降る夜の星座魔法タイツ 💫🪐 https://t.co/DUxfD9iXVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 455,
+          "like_count": 18955,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 977
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T18:06:45.000Z",
+        "description": "Belchic公式Twitter❤︎|20000円以上〜のご購入でもらえる数量限定ノベルティフェア開催中🧸| 《商標登録済みブランド》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "belchic.xsrv.jp/cz/vxFHz",
+                "end": 23,
+                "expanded_url": "http://belchic.xsrv.jp/cz/vxFHz",
+                "start": 0,
+                "url": "https://t.co/9ssNVfJSEq"
+              }
+            ]
+          }
+        },
+        "id": "1110966399801790464",
+        "location": "公式Webサイトはこちら♡",
+        "name": "Belchic",
+        "pinned_tweet_id": "1891019271163056484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288001065661521920/9138XXeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240683,
+          "following_count": 1,
+          "like_count": 2616,
+          "listed_count": 1757,
+          "media_count": 59923,
+          "tweet_count": 82758
+        },
+        "url": "https://t.co/9ssNVfJSEq",
+        "username": "Belchic7",
+        "verified": true
+      }
+    ]
+  }
+}

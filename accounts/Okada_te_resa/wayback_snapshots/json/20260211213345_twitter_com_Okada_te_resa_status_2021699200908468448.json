@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2021527940488679870",
+    "created_at": "2026-02-11T21:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T22:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021699200908468448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954547725607047168",
+          "start": 0,
+          "username": "regretaaa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021699200908468448",
+    "in_reply_to_user_id": "1954547725607047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021527940488679870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regretaaa_ 起号的来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021527936483127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3o8p2a8AA0v9V.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2021527940488679870",
+        "created_at": "2026-02-11T21:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T22:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021699200908468448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954547725607047168",
+              "start": 0,
+              "username": "regretaaa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021699200908468448",
+        "in_reply_to_user_id": "1954547725607047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021527940488679870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regretaaa_ 起号的来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021527936483127296"
+          ]
+        },
+        "author_id": "1954547725607047168",
+        "conversation_id": "2021527940488679870",
+        "created_at": "2026-02-11T10:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021527940488679870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbTLdN8Uy7",
+              "end": 73,
+              "expanded_url": "https://x.com/regretaaa_/status/2021527940488679870/photo/1",
+              "media_key": "3_2021527936483127296",
+              "start": 50,
+              "url": "https://t.co/sbTLdN8Uy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021527940488679870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 218201,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 203,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死骗人的🚪姐，入了388的，结果总共就看过十秒不到的视频 最后还把我拉黑了遇到这人别再信了，真无语 https://t.co/sbTLdN8Uy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 690,
+          "like_count": 32147,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 1941
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T14:18:09.000Z",
+        "description": "",
+        "id": "1954547725607047168",
+        "name": "regret",
+        "pinned_tweet_id": "2021651483851378879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954622871340486656/NimeiL_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 190,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "regretaaa_",
+        "verified": false
+      }
+    ]
+  }
+}

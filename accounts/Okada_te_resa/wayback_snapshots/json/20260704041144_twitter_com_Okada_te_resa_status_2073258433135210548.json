@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073250484174143488"
+      ],
+      "media_source_tweet_id": [
+        "2073250496480235524"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2073258433135210548",
+    "created_at": "2026-07-04T04:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073258433135210548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727277830025973760",
+          "start": 3,
+          "username": "yuriano3479"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5OTbfr2PCH",
+          "end": 54,
+          "expanded_url": "https://x.com/yuriano3479/status/2073250496480235524/photo/1",
+          "media_key": "3_2073250484174143488",
+          "start": 31,
+          "url": "https://t.co/5OTbfr2PCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073258433135210548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073250496480235524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuriano3479: 我只是喜歡賣萌我有什麼錯？ https://t.co/5OTbfr2PCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073250484174143488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWqVK-bQAAqS4b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073250484174143488"
+          ],
+          "media_source_tweet_id": [
+            "2073250496480235524"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2073258433135210548",
+        "created_at": "2026-07-04T04:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073258433135210548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727277830025973760",
+              "start": 3,
+              "username": "yuriano3479"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OTbfr2PCH",
+              "end": 54,
+              "expanded_url": "https://x.com/yuriano3479/status/2073250496480235524/photo/1",
+              "media_key": "3_2073250484174143488",
+              "start": 31,
+              "url": "https://t.co/5OTbfr2PCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073258433135210548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073250496480235524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuriano3479: 我只是喜歡賣萌我有什麼錯？ https://t.co/5OTbfr2PCH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073250484174143488"
+          ]
+        },
+        "author_id": "1727277830025973760",
+        "conversation_id": "2073250496480235524",
+        "created_at": "2026-07-04T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073250496480235524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OTbfr2PCH",
+              "end": 37,
+              "expanded_url": "https://x.com/yuriano3479/status/2073250496480235524/photo/1",
+              "media_key": "3_2073250484174143488",
+              "start": 14,
+              "url": "https://t.co/5OTbfr2PCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073250496480235524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只是喜歡賣萌我有什麼錯？ https://t.co/5OTbfr2PCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 946,
+          "like_count": 41797,
+          "listed_count": 4,
+          "media_count": 695,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "ユリです。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2062862792403951637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 375,
+          "like_count": 5796,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

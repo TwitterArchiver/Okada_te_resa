@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997000547396980736"
+      ],
+      "media_source_tweet_id": [
+        "1997000553361285358"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1997070425830863173",
+    "created_at": "2025-12-05T22:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T23:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997070425830863173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "980148866614943744",
+          "start": 3,
+          "username": "Hangah_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQ5wq07mfD",
+          "end": 39,
+          "expanded_url": "https://x.com/Hangah_cos/status/1997000553361285358/photo/1",
+          "media_key": "3_1997000547396980736",
+          "start": 16,
+          "url": "https://t.co/fQ5wq07mfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997070425830863173",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997000553361285358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hangah_cos: https://t.co/fQ5wq07mfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1997000547396980736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bFatPbkAAVyrs.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997000547396980736"
+          ],
+          "media_source_tweet_id": [
+            "1997000553361285358"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1997070425830863173",
+        "created_at": "2025-12-05T22:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T23:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997070425830863173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "980148866614943744",
+              "start": 3,
+              "username": "Hangah_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQ5wq07mfD",
+              "end": 39,
+              "expanded_url": "https://x.com/Hangah_cos/status/1997000553361285358/photo/1",
+              "media_key": "3_1997000547396980736",
+              "start": 16,
+              "url": "https://t.co/fQ5wq07mfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997070425830863173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997000553361285358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hangah_cos: https://t.co/fQ5wq07mfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997000547396980736"
+          ]
+        },
+        "author_id": "980148866614943744",
+        "conversation_id": "1997000553361285358",
+        "created_at": "2025-12-05T17:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T18:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997000553361285358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQ5wq07mfD",
+              "end": 23,
+              "expanded_url": "https://x.com/Hangah_cos/status/1997000553361285358/photo/1",
+              "media_key": "3_1997000547396980736",
+              "start": 0,
+              "url": "https://t.co/fQ5wq07mfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997000553361285358",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 11713,
+          "like_count": 1408,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fQ5wq07mfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 648,
+          "like_count": 26431,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1532
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-31T18:24:34.000Z",
+        "description": "🇰🇷 Cosplayer & streamer\nInsta : Hangah_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hangah?utm_sou…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hangah?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/FEjxycWtvq"
+              }
+            ]
+          }
+        },
+        "id": "980148866614943744",
+        "name": "항아 : Hangah🌙",
+        "pinned_tweet_id": "1873369816230412659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924888521422368768/D1M-gZT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21503,
+          "following_count": 394,
+          "like_count": 2276,
+          "listed_count": 106,
+          "media_count": 198,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/FEjxycWtvq",
+        "username": "Hangah_cos",
+        "verified": false
+      }
+    ]
+  }
+}

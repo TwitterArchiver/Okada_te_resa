@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050179445617827840"
+      ],
+      "media_source_tweet_id": [
+        "2050179471152685444"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2050249475994833074",
+    "created_at": "2026-05-01T16:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050249475994833074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1219613337014530048",
+          "start": 3,
+          "username": "purinn_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c14gE58znv",
+          "end": 49,
+          "expanded_url": "https://x.com/purinn_cos/status/2050179471152685444/photo/1",
+          "media_key": "3_2050179445617827840",
+          "start": 26,
+          "url": "https://t.co/c14gE58znv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050249475994833074",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050179471152685444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purinn_cos: -ˋˏ ♡ ˎˊ- https://t.co/c14gE58znv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2050179445617827840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOzV-3boAARKX6.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050179445617827840"
+          ],
+          "media_source_tweet_id": [
+            "2050179471152685444"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2050249475994833074",
+        "created_at": "2026-05-01T16:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050249475994833074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1219613337014530048",
+              "start": 3,
+              "username": "purinn_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c14gE58znv",
+              "end": 49,
+              "expanded_url": "https://x.com/purinn_cos/status/2050179471152685444/photo/1",
+              "media_key": "3_2050179445617827840",
+              "start": 26,
+              "url": "https://t.co/c14gE58znv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050249475994833074",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050179471152685444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purinn_cos: -ˋˏ ♡ ˎˊ- https://t.co/c14gE58znv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050179445617827840"
+          ]
+        },
+        "author_id": "1219613337014530048",
+        "conversation_id": "2050179471152685444",
+        "created_at": "2026-05-01T11:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050179471152685444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c14gE58znv",
+              "end": 33,
+              "expanded_url": "https://x.com/purinn_cos/status/2050179471152685444/photo/1",
+              "media_key": "3_2050179445617827840",
+              "start": 10,
+              "url": "https://t.co/c14gE58znv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050179471152685444",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 488,
+          "impression_count": 17353,
+          "like_count": 2695,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "-ˋˏ ♡ ˎˊ- https://t.co/c14gE58znv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 799,
+          "like_count": 37636,
+          "listed_count": 3,
+          "media_count": 511,
+          "tweet_count": 2630
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T13:31:04.000Z",
+        "description": "東京住みコスプレイヤー韓国人！164cm 重加工注意(՞߹ - ߹՞) お仕事の依頼はDMまたは［purinchancos@gmail.com］他SNS・イベント情報などは↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/purinchann",
+                "end": 23,
+                "expanded_url": "https://lit.link/purinchann",
+                "start": 0,
+                "url": "https://t.co/WGaqSReuA3"
+              }
+            ]
+          }
+        },
+        "id": "1219613337014530048",
+        "name": "プリンちゃん🍮",
+        "pinned_tweet_id": "2050179471152685444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958656364546596864/kesRk5_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311251,
+          "following_count": 389,
+          "like_count": 16241,
+          "listed_count": 987,
+          "media_count": 324,
+          "tweet_count": 8651
+        },
+        "url": "https://t.co/WGaqSReuA3",
+        "username": "purinn_cos",
+        "verified": true
+      }
+    ]
+  }
+}

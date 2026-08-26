@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059672653385039872",
+        "3_2059672653380890624"
+      ],
+      "media_source_tweet_id": [
+        "2059672691880431756",
+        "2059672691880431756"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2072629312063430672",
+    "created_at": "2026-07-02T10:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072629312063430672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056655773502160896",
+          "start": 3,
+          "username": "simaojie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f79yalgDSt",
+          "end": 123,
+          "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+          "media_key": "3_2059672653385039872",
+          "start": 100,
+          "url": "https://t.co/f79yalgDSt"
+        },
+        {
+          "display_url": "pic.x.com/f79yalgDSt",
+          "end": 123,
+          "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+          "media_key": "3_2059672653380890624",
+          "start": 100,
+          "url": "https://t.co/f79yalgDSt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072629312063430672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059672691880431756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simaojie: 那个那个我重生了\n我叫kaki 05年 你们可以叫我小卉\n我磕我o我吸 穿搭风格地雷/量产系 我跟温良！想认识结交更多朋友\n已经连续封了四个推特号了\n严肃寻找前世互关！！ https://t.co/f79yalgDSt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2059672653385039872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVtXZqaAAAZwoy.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_2059672653380890624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVtXZpasAAMpeJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059672653385039872",
+            "3_2059672653380890624"
+          ],
+          "media_source_tweet_id": [
+            "2059672691880431756",
+            "2059672691880431756"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2072629312063430672",
+        "created_at": "2026-07-02T10:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629312063430672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056655773502160896",
+              "start": 3,
+              "username": "simaojie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f79yalgDSt",
+              "end": 123,
+              "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+              "media_key": "3_2059672653385039872",
+              "start": 100,
+              "url": "https://t.co/f79yalgDSt"
+            },
+            {
+              "display_url": "pic.x.com/f79yalgDSt",
+              "end": 123,
+              "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+              "media_key": "3_2059672653380890624",
+              "start": 100,
+              "url": "https://t.co/f79yalgDSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629312063430672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059672691880431756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simaojie: 那个那个我重生了\n我叫kaki 05年 你们可以叫我小卉\n我磕我o我吸 穿搭风格地雷/量产系 我跟温良！想认识结交更多朋友\n已经连续封了四个推特号了\n严肃寻找前世互关！！ https://t.co/f79yalgDSt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059672653385039872",
+            "3_2059672653380890624"
+          ]
+        },
+        "author_id": "2056655773502160896",
+        "conversation_id": "2059672691880431756",
+        "created_at": "2026-05-27T16:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059672691880431756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f79yalgDSt",
+              "end": 109,
+              "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+              "media_key": "3_2059672653385039872",
+              "start": 86,
+              "url": "https://t.co/f79yalgDSt"
+            },
+            {
+              "display_url": "pic.x.com/f79yalgDSt",
+              "end": 109,
+              "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+              "media_key": "3_2059672653380890624",
+              "start": 86,
+              "url": "https://t.co/f79yalgDSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059672691880431756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14490,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "那个那个我重生了\n我叫kaki 05年 你们可以叫我小卉\n我磕我o我吸 穿搭风格地雷/量产系 我跟温良！想认识结交更多朋友\n已经连续封了四个推特号了\n严肃寻找前世互关！！ https://t.co/f79yalgDSt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 940,
+          "like_count": 41619,
+          "listed_count": 4,
+          "media_count": 691,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n欢迎互fo互转！！\n女宝宝们直fo就行我都会回关的",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别骚扰别评论别私信",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 194,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

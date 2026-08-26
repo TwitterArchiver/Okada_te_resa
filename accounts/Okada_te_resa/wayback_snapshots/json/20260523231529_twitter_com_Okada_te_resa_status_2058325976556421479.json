@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057776711933288449"
+      ],
+      "media_source_tweet_id": [
+        "2057776766048149867"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058325976556421479",
+    "created_at": "2026-05-23T23:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T00:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058325976556421479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773772574801244160",
+          "start": 3,
+          "username": "vmx_xmv77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nDwBm4BXPM",
+          "end": 62,
+          "expanded_url": "https://x.com/vmx_xmv77/status/2057776766048149867/video/1",
+          "media_key": "13_2057776711933288449",
+          "start": 39,
+          "url": "https://t.co/nDwBm4BXPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058325976556421479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057776766048149867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vmx_xmv77: テレビなのに陰キャオーラ溢れすぎてどうしよう🥺 https://t.co/nDwBm4BXPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5041,
+        "height": 720,
+        "media_key": "13_2057776711933288449",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057776711933288449/img/YD00PtmiZQCy2R1l.jpg",
+        "public_metrics": {
+          "view_count": 6148242
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057776711933288449/vid/avc1/362x270/QHYrt-vPw916jikR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057776711933288449/vid/avc1/482x360/Yg2XT3R3eDdd7f55.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057776711933288449/vid/avc1/966x720/ZHni0Fj8aNOLoOed.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057776711933288449/pl/EhMUTX_1r3MY6G-r.m3u8"
+          }
+        ],
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057776711933288449"
+          ],
+          "media_source_tweet_id": [
+            "2057776766048149867"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058325976556421479",
+        "created_at": "2026-05-23T23:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058325976556421479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773772574801244160",
+              "start": 3,
+              "username": "vmx_xmv77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDwBm4BXPM",
+              "end": 62,
+              "expanded_url": "https://x.com/vmx_xmv77/status/2057776766048149867/video/1",
+              "media_key": "13_2057776711933288449",
+              "start": 39,
+              "url": "https://t.co/nDwBm4BXPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058325976556421479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057776766048149867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vmx_xmv77: テレビなのに陰キャオーラ溢れすぎてどうしよう🥺 https://t.co/nDwBm4BXPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057776711933288449"
+          ]
+        },
+        "author_id": "1773772574801244160",
+        "conversation_id": "2057776766048149867",
+        "created_at": "2026-05-22T10:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057776766048149867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDwBm4BXPM",
+              "end": 47,
+              "expanded_url": "https://x.com/vmx_xmv77/status/2057776766048149867/video/1",
+              "media_key": "13_2057776711933288449",
+              "start": 24,
+              "url": "https://t.co/nDwBm4BXPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057776766048149867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5089,
+          "impression_count": 23554776,
+          "like_count": 18379,
+          "quote_count": 630,
+          "reply_count": 534,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "テレビなのに陰キャオーラ溢れすぎてどうしよう🥺 https://t.co/nDwBm4BXPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 873,
+          "like_count": 39240,
+          "listed_count": 4,
+          "media_count": 589,
+          "tweet_count": 2863
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T18:02:08.000Z",
+        "description": "高一 さぶ→@x_x_myu7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "x_x_myu7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/vmx_xmv77",
+                "end": 23,
+                "expanded_url": "https://lit.link/vmx_xmv77",
+                "start": 0,
+                "url": "https://t.co/bSkiyK6tNq"
+              }
+            ]
+          }
+        },
+        "id": "1773772574801244160",
+        "location": "ねむねむ⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝♡",
+        "name": "みゅあ",
+        "pinned_tweet_id": "2010347372581441865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017503706619777026/Sb07iurB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14250,
+          "following_count": 29,
+          "like_count": 510,
+          "listed_count": 16,
+          "media_count": 105,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/bSkiyK6tNq",
+        "username": "vmx_xmv77",
+        "verified": false
+      }
+    ]
+  }
+}

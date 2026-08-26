@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2009443936490905727",
+    "created_at": "2026-01-09T13:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T14:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009616888528331086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1598233147216306177",
+          "start": 0,
+          "username": "bqjushen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009616888528331086",
+    "in_reply_to_user_id": "1598233147216306177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009443936490905727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bqjushen 穷人别写爽文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2009443936490905727",
+        "created_at": "2026-01-09T13:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009616888528331086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1598233147216306177",
+              "start": 0,
+              "username": "bqjushen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009616888528331086",
+        "in_reply_to_user_id": "1598233147216306177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009443936490905727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bqjushen 穷人别写爽文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598233147216306177",
+        "conversation_id": "2009443936490905727",
+        "created_at": "2026-01-09T01:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009443936490905727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009443936490905727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 93227,
+          "like_count": 391,
+          "quote_count": 9,
+          "reply_count": 239,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "拥有一个亿有多痛苦\n\n就把这一个亿存在银行，每年就利息300万收入，每天到账8219元。\n\n早上吃碗面，加200元牛肉，花销210元\n\n中午去吃顶级海鲜自助，800元/位\n\n晚饭去希尔顿icon吃日料，1800元/位\n\n三餐用掉2810元，才花掉利息的三分之一\n\n第二天8219元又到账!\n\n想想都焦虑!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 678,
+          "like_count": 28951,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 1711
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T08:30:58.000Z",
+        "description": "#Binance 数字货币交易首选币安，立即注册👉 官网链接https://t.co/5dUl1LT2Px\nokx：https://t.co/WGt4ueRQCu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 53,
+                "expanded_url": "https://www.binance.com",
+                "start": 30,
+                "url": "https://t.co/5dUl1LT2Px"
+              },
+              {
+                "display_url": "tazheo.com/join/1849747",
+                "end": 81,
+                "expanded_url": "https://www.tazheo.com/join/1849747",
+                "start": 58,
+                "url": "https://t.co/WGt4ueRQCu"
+              }
+            ]
+          }
+        },
+        "id": "1598233147216306177",
+        "name": "狙神Trader",
+        "pinned_tweet_id": "1933038718597976377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623983537937608704/mlFEgqZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65548,
+          "following_count": 2723,
+          "like_count": 62824,
+          "listed_count": 328,
+          "media_count": 1753,
+          "tweet_count": 61308
+        },
+        "username": "bqjushen",
+        "verified": true
+      }
+    ]
+  }
+}

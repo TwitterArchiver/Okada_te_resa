@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948480887626018816"
+      ],
+      "media_source_tweet_id": [
+        "1948480890276917553"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1948819803470504177",
+    "created_at": "2025-07-25T18:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T19:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948819803470504177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "840286695421595649",
+          "start": 3,
+          "username": "autoass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ThdG9YKclg",
+          "end": 40,
+          "expanded_url": "https://x.com/autoass/status/1948480890276917553/photo/1",
+          "media_key": "3_1948480887626018816",
+          "start": 17,
+          "url": "https://t.co/ThdG9YKclg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948819803470504177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948480890276917553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @autoass: NSX https://t.co/ThdG9YKclg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1948480887626018816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwplCzaWMAAp3tJ.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948480887626018816"
+          ],
+          "media_source_tweet_id": [
+            "1948480890276917553"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1948819803470504177",
+        "created_at": "2025-07-25T18:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T19:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948819803470504177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "840286695421595649",
+              "start": 3,
+              "username": "autoass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThdG9YKclg",
+              "end": 40,
+              "expanded_url": "https://x.com/autoass/status/1948480890276917553/photo/1",
+              "media_key": "3_1948480887626018816",
+              "start": 17,
+              "url": "https://t.co/ThdG9YKclg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948819803470504177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948480890276917553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @autoass: NSX https://t.co/ThdG9YKclg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948480887626018816"
+          ]
+        },
+        "author_id": "840286695421595649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1948480890276917553",
+        "created_at": "2025-07-24T20:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T21:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948480890276917553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThdG9YKclg",
+              "end": 27,
+              "expanded_url": "https://x.com/autoass/status/1948480890276917553/photo/1",
+              "media_key": "3_1948480887626018816",
+              "start": 4,
+              "url": "https://t.co/ThdG9YKclg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948480890276917553",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 426,
+          "impression_count": 183960,
+          "like_count": 11910,
+          "quote_count": 28,
+          "reply_count": 26,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "NSX https://t.co/ThdG9YKclg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 445,
+          "like_count": 18095,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 898
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-10T19:42:14.000Z",
+        "description": "Follower Goal: 497k 🔥\nInsta @ AutoassOfficial\nDM your car for a shoutout/ post. All types of cars welcome. DMs open.",
+        "id": "840286695421595649",
+        "location": "New York, USA",
+        "name": "Autoass Media",
+        "pinned_tweet_id": "1942680918906527972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862077554884030464/1IH4AwSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496802,
+          "following_count": 165,
+          "like_count": 21680,
+          "listed_count": 636,
+          "media_count": 10051,
+          "tweet_count": 14922
+        },
+        "username": "autoass",
+        "verified": true
+      }
+    ]
+  }
+}

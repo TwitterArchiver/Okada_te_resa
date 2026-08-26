@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066488513206562816"
+      ],
+      "media_source_tweet_id": [
+        "2066488779205185606"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2066776213621006699",
+    "created_at": "2026-06-16T06:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066776213621006699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1997747427936522240",
+          "start": 3,
+          "username": "TeresaFitz38511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gaEFRM1HDd",
+          "end": 44,
+          "expanded_url": "https://x.com/TeresaFitz38511/status/2066488779205185606/video/1",
+          "media_key": "13_2066488513206562816",
+          "start": 21,
+          "url": "https://t.co/gaEFRM1HDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066776213621006699",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 709
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066488779205185606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeresaFitz38511: https://t.co/gaEFRM1HDd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35781,
+        "height": 720,
+        "media_key": "13_2066488513206562816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066488513206562816/img/iaOd-OEgWIwq0bLe.jpg",
+        "public_metrics": {
+          "view_count": 252197
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066488513206562816/vid/avc1/480x270/vcrztlIObKXus4wO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066488513206562816/vid/avc1/640x360/UCaE-riNrq6Pxc8u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066488513206562816/vid/avc1/1280x720/7YE1CMNpXZ4vNYWz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066488513206562816/pl/Z-aGwu3fXFqaxk0Z.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066488513206562816"
+          ],
+          "media_source_tweet_id": [
+            "2066488779205185606"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2066776213621006699",
+        "created_at": "2026-06-16T06:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066776213621006699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1997747427936522240",
+              "start": 3,
+              "username": "TeresaFitz38511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaEFRM1HDd",
+              "end": 44,
+              "expanded_url": "https://x.com/TeresaFitz38511/status/2066488779205185606/video/1",
+              "media_key": "13_2066488513206562816",
+              "start": 21,
+              "url": "https://t.co/gaEFRM1HDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066776213621006699",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 709
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066488779205185606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeresaFitz38511: https://t.co/gaEFRM1HDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066488513206562816"
+          ]
+        },
+        "author_id": "1997747427936522240",
+        "conversation_id": "2066488779205185606",
+        "created_at": "2026-06-15T11:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066488779205185606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaEFRM1HDd",
+              "end": 23,
+              "expanded_url": "https://x.com/TeresaFitz38511/status/2066488779205185606/video/1",
+              "media_key": "13_2066488513206562816",
+              "start": 0,
+              "url": "https://t.co/gaEFRM1HDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066488779205185606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3180,
+          "impression_count": 812991,
+          "like_count": 10779,
+          "quote_count": 33,
+          "reply_count": 63,
+          "retweet_count": 709
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gaEFRM1HDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 909,
+          "like_count": 40538,
+          "listed_count": 4,
+          "media_count": 648,
+          "tweet_count": 3056
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T19:18:09.000Z",
+        "description": "",
+        "id": "1997747427936522240",
+        "name": "Teresa Fitzgerald",
+        "pinned_tweet_id": "2066493439638896997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997747594056151040/jWH_8Ytk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "username": "TeresaFitz38511",
+        "verified": false
+      }
+    ]
+  }
+}

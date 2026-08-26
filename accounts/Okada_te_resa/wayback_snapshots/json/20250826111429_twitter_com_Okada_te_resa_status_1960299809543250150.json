@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1960280895405093309",
+    "created_at": "2025-08-26T11:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T12:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960299809543250150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960299809543250150",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960296611357299057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage 爆裂黎明！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1829,
+        "media_key": "3_1960296608203235328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRfYQpbYAAyvKZ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1960280895405093309",
+        "created_at": "2025-08-26T11:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960299809543250150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960299809543250150",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960296611357299057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage 爆裂黎明！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960296608203235328"
+          ]
+        },
+        "author_id": "1433833820810211332",
+        "conversation_id": "1960280895405093309",
+        "created_at": "2025-08-26T11:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960296611357299057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNH1bXRj4t",
+              "end": 38,
+              "expanded_url": "https://x.com/Ettf_Cabage/status/1960296611357299057/photo/1",
+              "media_key": "3_1960296608203235328",
+              "start": 15,
+              "url": "https://t.co/tNH1bXRj4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960296611357299057",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960280895405093309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa https://t.co/tNH1bXRj4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 477,
+          "like_count": 19846,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1052
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 双性恋 男孩子！活动范围以泉州／厦门为主 现在是18岁想可爱的180cm 85kg性压抑肥猪 友跨／航空航天／ACG／车迷（汽车爱好者）欢迎来交朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1475,
+          "like_count": 38913,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 9011
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

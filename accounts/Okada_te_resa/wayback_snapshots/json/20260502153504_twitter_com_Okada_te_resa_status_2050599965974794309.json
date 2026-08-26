@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050599953672847360"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2050599965974794309",
+    "created_at": "2026-05-02T15:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050599965974794309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g2cjzbKLWU",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2050599965974794309/photo/1",
+          "media_key": "3_2050599953672847360",
+          "start": 8,
+          "url": "https://t.co/g2cjzbKLWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050599965974794309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种是好女孩吗 https://t.co/g2cjzbKLWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2050599953672847360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUxyxcaQAA0a2z.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050599953672847360"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2050599965974794309",
+        "created_at": "2026-05-02T15:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050599965974794309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2cjzbKLWU",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2050599965974794309/photo/1",
+              "media_key": "3_2050599953672847360",
+              "start": 8,
+              "url": "https://t.co/g2cjzbKLWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050599965974794309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种是好女孩吗 https://t.co/g2cjzbKLWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 799,
+          "like_count": 37714,
+          "listed_count": 3,
+          "media_count": 518,
+          "tweet_count": 2644
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

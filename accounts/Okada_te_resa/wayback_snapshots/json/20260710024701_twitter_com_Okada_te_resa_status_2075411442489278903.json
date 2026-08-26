@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2075194898152902980",
+    "created_at": "2026-07-10T02:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075411442489278903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084526175727185920",
+          "start": 0,
+          "username": "yukominami520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075411442489278903",
+    "in_reply_to_user_id": "1084526175727185920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075194898152902980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukominami520 肥猪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075194872030695425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySvcMaEAEm9WV.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075194872026611712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySvcLbwAA-Asb.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075194872051773440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySvcRbsAAVUUO.jpg",
+        "width": 945
+      },
+      {
+        "height": 966,
+        "media_key": "3_2075194872055975936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySvcSb0AAHR-s.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2075194898152902980",
+        "created_at": "2026-07-10T02:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075411442489278903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1084526175727185920",
+              "start": 0,
+              "username": "yukominami520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075411442489278903",
+        "in_reply_to_user_id": "1084526175727185920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075194898152902980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukominami520 肥猪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075194872030695425",
+            "3_2075194872026611712",
+            "3_2075194872051773440",
+            "3_2075194872055975936"
+          ]
+        },
+        "author_id": "1084526175727185920",
+        "conversation_id": "2075194898152902980",
+        "created_at": "2026-07-09T12:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075194898152902980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4TwcJfCm0",
+              "end": 38,
+              "expanded_url": "https://x.com/yukominami520/status/2075194898152902980/photo/1",
+              "media_key": "3_2075194872030695425",
+              "start": 15,
+              "url": "https://t.co/G4TwcJfCm0"
+            },
+            {
+              "display_url": "pic.x.com/G4TwcJfCm0",
+              "end": 38,
+              "expanded_url": "https://x.com/yukominami520/status/2075194898152902980/photo/1",
+              "media_key": "3_2075194872026611712",
+              "start": 15,
+              "url": "https://t.co/G4TwcJfCm0"
+            },
+            {
+              "display_url": "pic.x.com/G4TwcJfCm0",
+              "end": 38,
+              "expanded_url": "https://x.com/yukominami520/status/2075194898152902980/photo/1",
+              "media_key": "3_2075194872051773440",
+              "start": 15,
+              "url": "https://t.co/G4TwcJfCm0"
+            },
+            {
+              "display_url": "pic.x.com/G4TwcJfCm0",
+              "end": 38,
+              "expanded_url": "https://x.com/yukominami520/status/2075194898152902980/photo/1",
+              "media_key": "3_2075194872055975936",
+              "start": 15,
+              "url": "https://t.co/G4TwcJfCm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194898152902980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 244738,
+          "like_count": 498,
+          "quote_count": 2,
+          "reply_count": 283,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "富哥哦穿30块钱4条的内裤🫡 https://t.co/G4TwcJfCm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 969,
+          "like_count": 42325,
+          "listed_count": 5,
+          "media_count": 702,
+          "tweet_count": 3275
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊",
+        "id": "1084526175727185920",
+        "location": "老婆的怀里",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2073430751228633574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 439,
+          "like_count": 13551,
+          "listed_count": 3,
+          "media_count": 1021,
+          "tweet_count": 5002
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false
+      }
+    ]
+  }
+}

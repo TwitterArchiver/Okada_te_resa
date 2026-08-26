@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082038088172498944",
+        "3_2082038088134750208",
+        "3_2082038088197685250",
+        "3_2082038088122163200"
+      ],
+      "media_source_tweet_id": [
+        "2082038093176304071",
+        "2082038093176304071",
+        "2082038093176304071",
+        "2082038093176304071"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2082189781816246599",
+    "created_at": "2026-07-28T19:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082189781816246599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944092021154885632",
+          "start": 3,
+          "username": "amane_azusa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmTbxdsJsL",
+          "end": 58,
+          "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+          "media_key": "3_2082038088172498944",
+          "start": 35,
+          "url": "https://t.co/NmTbxdsJsL"
+        },
+        {
+          "display_url": "pic.x.com/NmTbxdsJsL",
+          "end": 58,
+          "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+          "media_key": "3_2082038088134750208",
+          "start": 35,
+          "url": "https://t.co/NmTbxdsJsL"
+        },
+        {
+          "display_url": "pic.x.com/NmTbxdsJsL",
+          "end": 58,
+          "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+          "media_key": "3_2082038088197685250",
+          "start": 35,
+          "url": "https://t.co/NmTbxdsJsL"
+        },
+        {
+          "display_url": "pic.x.com/NmTbxdsJsL",
+          "end": 58,
+          "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+          "media_key": "3_2082038088122163200",
+          "start": 35,
+          "url": "https://t.co/NmTbxdsJsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082189781816246599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 272
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082038093176304071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amane_azusa: 3回も万バズした地雷系女子まとめ🎀 https://t.co/NmTbxdsJsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082038088172498944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTinC5a8AABbrC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082038088134750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTinCwa8AAW0D-.jpg",
+        "width": 1364
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082038088197685250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTinC_bQAIAUYu.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082038088122163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTinCta4AAs4bC.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082038088172498944",
+            "3_2082038088134750208",
+            "3_2082038088197685250",
+            "3_2082038088122163200"
+          ]
+        },
+        "author_id": "1944092021154885632",
+        "conversation_id": "2082038093176304071",
+        "created_at": "2026-07-28T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082038093176304071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 41,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088172498944",
+              "start": 18,
+              "url": "https://t.co/NmTbxdsJsL"
+            },
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 41,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088134750208",
+              "start": 18,
+              "url": "https://t.co/NmTbxdsJsL"
+            },
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 41,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088197685250",
+              "start": 18,
+              "url": "https://t.co/NmTbxdsJsL"
+            },
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 41,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088122163200",
+              "start": 18,
+              "url": "https://t.co/NmTbxdsJsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082038093176304071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2557,
+          "impression_count": 156047,
+          "like_count": 7213,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "3回も万バズした地雷系女子まとめ🎀 https://t.co/NmTbxdsJsL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082038088172498944",
+            "3_2082038088134750208",
+            "3_2082038088197685250",
+            "3_2082038088122163200"
+          ],
+          "media_source_tweet_id": [
+            "2082038093176304071",
+            "2082038093176304071",
+            "2082038093176304071",
+            "2082038093176304071"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2082189781816246599",
+        "created_at": "2026-07-28T19:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082189781816246599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944092021154885632",
+              "start": 3,
+              "username": "amane_azusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 58,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088172498944",
+              "start": 35,
+              "url": "https://t.co/NmTbxdsJsL"
+            },
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 58,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088134750208",
+              "start": 35,
+              "url": "https://t.co/NmTbxdsJsL"
+            },
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 58,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088197685250",
+              "start": 35,
+              "url": "https://t.co/NmTbxdsJsL"
+            },
+            {
+              "display_url": "pic.x.com/NmTbxdsJsL",
+              "end": 58,
+              "expanded_url": "https://x.com/amane_azusa/status/2082038093176304071/photo/1",
+              "media_key": "3_2082038088122163200",
+              "start": 35,
+              "url": "https://t.co/NmTbxdsJsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082189781816246599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082038093176304071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amane_azusa: 3回も万バズした地雷系女子まとめ🎀 https://t.co/NmTbxdsJsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 996,
+          "like_count": 43842,
+          "listed_count": 5,
+          "media_count": 736,
+          "tweet_count": 3393
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T17:51:54.000Z",
+        "description": "Cosplayer🇯🇵￤NIKKE♡￤VTuber♡￤写真や動画は全部ハイライトにまとめてるよ!￤エゴサ #みてみてあずにゃ￤お仕事などご依頼はamane.azusa7work@gmail.comまでお願いします📨￤サブ垢@azuazu_sa7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "みてみてあずにゃ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "azuazu_sa7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/amane_azusa",
+                "end": 23,
+                "expanded_url": "https://lit.link/amane_azusa",
+                "start": 0,
+                "url": "https://t.co/P6NFk38cum"
+              }
+            ]
+          }
+        },
+        "id": "1944092021154885632",
+        "location": "福岡",
+        "name": "天音あずさ‎",
+        "pinned_tweet_id": "2081303495362465823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033946331426000901/6eST2v38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38110,
+          "following_count": 449,
+          "like_count": 11846,
+          "listed_count": 248,
+          "media_count": 435,
+          "tweet_count": 6254
+        },
+        "url": "https://t.co/P6NFk38cum",
+        "username": "amane_azusa",
+        "verified": true
+      }
+    ]
+  }
+}

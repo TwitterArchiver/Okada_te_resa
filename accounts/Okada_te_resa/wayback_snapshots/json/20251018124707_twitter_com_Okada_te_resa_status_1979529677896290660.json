@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1979527223590936755",
+    "created_at": "2025-10-18T12:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979529677896290660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1577485263978143746",
+          "start": 0,
+          "username": "luplan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979529677896290660",
+    "in_reply_to_user_id": "1577485263978143746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979527223590936755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luplan1 看看露出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979527210424754177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ixgoiWYAEifyx.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1979527223590936755",
+        "created_at": "2025-10-18T12:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979529677896290660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577485263978143746",
+              "start": 0,
+              "username": "luplan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979529677896290660",
+        "in_reply_to_user_id": "1577485263978143746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979527223590936755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luplan1 看看露出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979527210424754177"
+          ]
+        },
+        "author_id": "1577485263978143746",
+        "conversation_id": "1979527223590936755",
+        "created_at": "2025-10-18T12:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979527223590936755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2JvHef1n9j",
+              "end": 47,
+              "expanded_url": "https://x.com/luplan1/status/1979527223590936755/photo/1",
+              "media_key": "3_1979527210424754177",
+              "start": 24,
+              "url": "https://t.co/2JvHef1n9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979527223590936755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们周一晚上在天津之眼摩天轮这边户外直播🥵🥵 https://t.co/2JvHef1n9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 565,
+          "like_count": 22732,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1215
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T02:26:16.000Z",
+        "description": "4i  喜欢cosplay 热爱二次元",
+        "id": "1577485263978143746",
+        "name": "雪亚亚",
+        "pinned_tweet_id": "1850934875580493982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599329159968223232/stbZeOfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44554,
+          "following_count": 366,
+          "like_count": 42,
+          "listed_count": 103,
+          "media_count": 63,
+          "tweet_count": 70
+        },
+        "username": "luplan1",
+        "verified": false
+      }
+    ]
+  }
+}

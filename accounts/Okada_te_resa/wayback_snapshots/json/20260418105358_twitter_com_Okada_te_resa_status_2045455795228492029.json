@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2045191452767207577",
+    "created_at": "2026-04-18T10:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045455795228492029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1037021329600532480",
+          "start": 0,
+          "username": "FrancisOcean76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045455795228492029",
+    "in_reply_to_user_id": "1037021329600532480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045455590890328310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrancisOcean76 宝子我裸高190💜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2045191452767207577",
+        "created_at": "2026-04-18T10:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045455795228492029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1037021329600532480",
+              "start": 0,
+              "username": "FrancisOcean76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045455795228492029",
+        "in_reply_to_user_id": "1037021329600532480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045455590890328310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrancisOcean76 宝子我裸高190💜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1037021329600532480",
+        "conversation_id": "2045191452767207577",
+        "created_at": "2026-04-18T10:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045455590890328310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045455590890328310",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045191452767207577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 我185穿高跟鞋190能看不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 767,
+          "like_count": 36793,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 2493
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-04T16:55:26.000Z",
+        "description": "マツダRX-8 Type-S ABA-SE3PとマツダFamilia BJ(三菱4G18エンジン)乗っでます。中国重慶人、日本語勉強中です。街道バトルと迷惑行為進行中。自分は走り屋だと思っている。English/中文 OK!",
+        "id": "1037021329600532480",
+        "location": "Chongqing, China",
+        "name": "西米",
+        "pinned_tweet_id": "2013108923008737663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006964163650924551/s0BZcB_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 1001,
+          "like_count": 17659,
+          "listed_count": 1,
+          "media_count": 1584,
+          "tweet_count": 8417
+        },
+        "username": "FrancisOcean76",
+        "verified": false
+      }
+    ]
+  }
+}

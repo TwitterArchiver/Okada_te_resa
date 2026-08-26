@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2068328062484443260",
+    "created_at": "2026-06-20T13:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068328062484443260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068328062484443260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 803
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068321976465473787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『7th EVENT in TOKYO』\n\nデアリングタクトちゃんとして\nナンバリングライブ2回目の出走です。\n素敵なお衣装やステージングの中で\nトレーナーの皆さんと駆け抜けた時間は\nとても眩しく、あたたかく、幸せなひとときでした。\nご視聴、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068321967758028800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQn3wlasAAPCIy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068321967774789632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQn3wpacAAEGNf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2068328062484443260",
+        "created_at": "2026-06-20T13:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068328062484443260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068328062484443260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 803
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068321976465473787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『7th EVENT in TOKYO』\n\nデアリングタクトちゃんとして\nナンバリングライブ2回目の出走です。\n素敵なお衣装やステージングの中で\nトレーナーの皆さんと駆け抜けた時間は\nとても眩しく、あたたかく、幸せなひとときでした。\nご視聴、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068321967758028800",
+            "3_2068321967774789632"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053142503",
+              "name": "ウマ娘 プリティーダービー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2068321976465473787",
+        "created_at": "2026-06-20T13:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068321976465473787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 158,
+              "start": 147,
+              "tag": "ウマ娘7th東京D1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BU9aDTsBq2",
+              "end": 182,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2068321976465473787/photo/1",
+              "media_key": "3_2068321967758028800",
+              "start": 159,
+              "url": "https://t.co/BU9aDTsBq2"
+            },
+            {
+              "display_url": "pic.x.com/BU9aDTsBq2",
+              "end": 182,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2068321976465473787/photo/1",
+              "media_key": "3_2068321967774789632",
+              "start": 159,
+              "url": "https://t.co/BU9aDTsBq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068321976465473787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 21794,
+          "like_count": 2606,
+          "quote_count": 35,
+          "reply_count": 68,
+          "retweet_count": 803
+        },
+        "reply_settings": "everyone",
+        "text": "『7th EVENT in TOKYO』\n\nデアリングタクトちゃんとして\nナンバリングライブ2回目の出走です。\n素敵なお衣装やステージングの中で\nトレーナーの皆さんと駆け抜けた時間は\nとても眩しく、あたたかく、幸せなひとときでした。\nご視聴、ご来場いただきありがとうございました✨\n\n#ウマ娘 #ウマ娘7th東京D1 https://t.co/BU9aDTsBq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 915,
+          "like_count": 40786,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246048,
+          "following_count": 314,
+          "like_count": 1974,
+          "listed_count": 1769,
+          "media_count": 192,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

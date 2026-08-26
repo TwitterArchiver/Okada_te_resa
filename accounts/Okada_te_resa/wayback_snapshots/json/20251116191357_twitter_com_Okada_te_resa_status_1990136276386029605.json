@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989959482982756352",
+        "3_1989959482722648064",
+        "3_1989959482970181632",
+        "3_1989959482714324992"
+      ],
+      "media_source_tweet_id": [
+        "1989959493250420787",
+        "1989959493250420787",
+        "1989959493250420787",
+        "1989959493250420787"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1990136276386029605",
+    "created_at": "2025-11-16T19:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990136276386029605"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "les"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "女同"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "漫画"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "恋爱"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "fwb"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257306993619959813",
+          "start": 3,
+          "username": "Guangmoye_nz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIzIR6BCl2",
+          "end": 81,
+          "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+          "media_key": "3_1989959482982756352",
+          "start": 58,
+          "url": "https://t.co/XIzIR6BCl2"
+        },
+        {
+          "display_url": "pic.x.com/XIzIR6BCl2",
+          "end": 81,
+          "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+          "media_key": "3_1989959482722648064",
+          "start": 58,
+          "url": "https://t.co/XIzIR6BCl2"
+        },
+        {
+          "display_url": "pic.x.com/XIzIR6BCl2",
+          "end": 81,
+          "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+          "media_key": "3_1989959482970181632",
+          "start": 58,
+          "url": "https://t.co/XIzIR6BCl2"
+        },
+        {
+          "display_url": "pic.x.com/XIzIR6BCl2",
+          "end": 81,
+          "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+          "media_key": "3_1989959482714324992",
+          "start": 58,
+          "url": "https://t.co/XIzIR6BCl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990136276386029605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989959493250420787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guangmoye_nz: 【漫画】和前妻姐分手了，之后（1）\n#les #女同 #漫画 #恋爱 #fwb https://t.co/XIzIR6BCl2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1989959482982756352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53Bm0SbcAAwfUM.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1989959482722648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53BmzUagAARWco.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1703,
+        "media_key": "3_1989959482970181632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53Bm0PbkAAXkb4.jpg",
+        "width": 1191
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989959482714324992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53BmzSbgAAiUNg.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989959482982756352",
+            "3_1989959482722648064",
+            "3_1989959482970181632",
+            "3_1989959482714324992"
+          ],
+          "media_source_tweet_id": [
+            "1989959493250420787",
+            "1989959493250420787",
+            "1989959493250420787",
+            "1989959493250420787"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1990136276386029605",
+        "created_at": "2025-11-16T19:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990136276386029605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "les"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "女同"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "漫画"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "恋爱"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "fwb"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257306993619959813",
+              "start": 3,
+              "username": "Guangmoye_nz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 81,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482982756352",
+              "start": 58,
+              "url": "https://t.co/XIzIR6BCl2"
+            },
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 81,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482722648064",
+              "start": 58,
+              "url": "https://t.co/XIzIR6BCl2"
+            },
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 81,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482970181632",
+              "start": 58,
+              "url": "https://t.co/XIzIR6BCl2"
+            },
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 81,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482714324992",
+              "start": 58,
+              "url": "https://t.co/XIzIR6BCl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990136276386029605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989959493250420787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guangmoye_nz: 【漫画】和前妻姐分手了，之后（1）\n#les #女同 #漫画 #恋爱 #fwb https://t.co/XIzIR6BCl2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989959482982756352",
+            "3_1989959482722648064",
+            "3_1989959482970181632",
+            "3_1989959482714324992"
+          ]
+        },
+        "author_id": "1257306993619959813",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1989959493250420787",
+        "created_at": "2025-11-16T07:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989959493250420787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "les"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "女同"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "漫画"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "恋爱"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "fwb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 63,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482982756352",
+              "start": 40,
+              "url": "https://t.co/XIzIR6BCl2"
+            },
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 63,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482722648064",
+              "start": 40,
+              "url": "https://t.co/XIzIR6BCl2"
+            },
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 63,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482970181632",
+              "start": 40,
+              "url": "https://t.co/XIzIR6BCl2"
+            },
+            {
+              "display_url": "pic.x.com/XIzIR6BCl2",
+              "end": 63,
+              "expanded_url": "https://x.com/Guangmoye_nz/status/1989959493250420787/photo/1",
+              "media_key": "3_1989959482714324992",
+              "start": 40,
+              "url": "https://t.co/XIzIR6BCl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989959493250420787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 368,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【漫画】和前妻姐分手了，之后（1）\n#les #女同 #漫画 #恋爱 #fwb https://t.co/XIzIR6BCl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112055593242624/fMUPXFR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 629,
+          "like_count": 24812,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 1345
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-04T13:52:13.000Z",
+        "description": "低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "at.tumblr.com/nanzhi799/7tl7…",
+                "end": 23,
+                "expanded_url": "https://at.tumblr.com/nanzhi799/7tl7yiltpupd",
+                "start": 0,
+                "url": "https://t.co/GFqhDmBSle"
+              }
+            ]
+          }
+        },
+        "id": "1257306993619959813",
+        "location": "China",
+        "name": "广莫野_MoYe",
+        "pinned_tweet_id": "1816103919082430918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968270798755676160/W1vx3zy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 337,
+          "like_count": 10596,
+          "listed_count": 18,
+          "media_count": 1704,
+          "tweet_count": 8555
+        },
+        "url": "https://t.co/GFqhDmBSle",
+        "username": "Guangmoye_nz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060392919601958912"
+      ],
+      "media_source_tweet_id": [
+        "2060393274192650695"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060456741658358179",
+    "created_at": "2026-05-29T20:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060456741658358179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "清洁"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "灌肠"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "女攻男受"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "第四爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1206263390416433152",
+          "start": 3,
+          "username": "QWQTATi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWOAjAFxkz",
+          "end": 64,
+          "expanded_url": "https://x.com/QWQTATi/status/2060393274192650695/video/1",
+          "media_key": "13_2060392919601958912",
+          "start": 41,
+          "url": "https://t.co/RWOAjAFxkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060456741658358179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060393274192650695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QWQTATi: 这是一个灌肠教程\n#清洁 #灌肠 #女攻男受 #第四爱 https://t.co/RWOAjAFxkz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060456741658358179].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060456741658358179",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060456741658358179"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 208333,
+        "height": 1440,
+        "media_key": "13_2060392919601958912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060392919601958912/img/I1cjgwD6FxuDSSMT.jpg",
+        "public_metrics": {
+          "view_count": 10371
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060392919601958912/vid/avc1/1080x1440/rPBOquU2crIOdpV3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060392919601958912/vid/avc1/720x960/7z0Xrrp6922fec7B.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060392919601958912/vid/avc1/320x426/7-dyB0kFz9-0_ghY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060392919601958912/vid/avc1/480x640/-y7ta6v9P1y1druz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060392919601958912/pl/PN1EVgZZOVwd5ZpP.m3u8?v=2f4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060392919601958912"
+          ]
+        },
+        "author_id": "1206263390416433152",
+        "conversation_id": "2060393274192650695",
+        "created_at": "2026-05-29T16:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060393274192650695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "清洁"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "灌肠"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "女攻男受"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "第四爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWOAjAFxkz",
+              "end": 51,
+              "expanded_url": "https://x.com/QWQTATi/status/2060393274192650695/video/1",
+              "media_key": "13_2060392919601958912",
+              "start": 28,
+              "url": "https://t.co/RWOAjAFxkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060393274192650695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 8847,
+          "like_count": 342,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个灌肠教程\n#清洁 #灌肠 #女攻男受 #第四爱 https://t.co/RWOAjAFxkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 886,
+          "like_count": 39380,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T17:23:07.000Z",
+        "description": "常驻上海/反差女攻😈/龟责小能手/2.5次元/猎人厨/爱看男人哭💧/不卖视频不口舌/下载视频会被拉黑/碎碎念号@maowan1227/VX🚪138领取课表",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maowandamowang.taobao.com",
+                "end": 23,
+                "expanded_url": "http://maowandamowang.taobao.com",
+                "start": 0,
+                "url": "https://t.co/6UQmhPrEnw"
+              }
+            ]
+          }
+        },
+        "id": "1206263390416433152",
+        "location": "淘宝店：色欲发动机",
+        "name": "猫丸大魔王S",
+        "pinned_tweet_id": "2043951635362361519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682328177702768640/7OZWEN1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114656,
+          "following_count": 434,
+          "like_count": 2617,
+          "listed_count": 264,
+          "media_count": 360,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/6UQmhPrEnw",
+        "username": "QWQTATi",
+        "verified": true
+      }
+    ]
+  }
+}

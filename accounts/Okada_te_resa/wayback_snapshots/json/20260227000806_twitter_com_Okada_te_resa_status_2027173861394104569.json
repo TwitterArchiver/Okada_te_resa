@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027035935398035456",
+        "3_2027035935213555712",
+        "3_2027035935410712576",
+        "3_2027035935221940224"
+      ],
+      "media_source_tweet_id": [
+        "2027035948459192633",
+        "2027035948459192633",
+        "2027035948459192633",
+        "2027035948459192633"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714559518150656",
+          "name": "Japanese actors"
+        }
+      }
+    ],
+    "conversation_id": "2027173861394104569",
+    "created_at": "2026-02-27T00:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027173861394104569"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "小泉萌香",
+          "probability": 0.7649,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4110103573",
+          "start": 3,
+          "username": "k_moeka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/88YbGX4bt2",
+          "end": 48,
+          "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+          "media_key": "3_2027035935398035456",
+          "start": 25,
+          "url": "https://t.co/88YbGX4bt2"
+        },
+        {
+          "display_url": "pic.x.com/88YbGX4bt2",
+          "end": 48,
+          "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+          "media_key": "3_2027035935213555712",
+          "start": 25,
+          "url": "https://t.co/88YbGX4bt2"
+        },
+        {
+          "display_url": "pic.x.com/88YbGX4bt2",
+          "end": 48,
+          "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+          "media_key": "3_2027035935410712576",
+          "start": 25,
+          "url": "https://t.co/88YbGX4bt2"
+        },
+        {
+          "display_url": "pic.x.com/88YbGX4bt2",
+          "end": 48,
+          "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+          "media_key": "3_2027035935221940224",
+          "start": 25,
+          "url": "https://t.co/88YbGX4bt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027173861394104569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1825
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027035948459192633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k_moeka_: 小泉萌香(30)爆誕 https://t.co/88YbGX4bt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027035935398035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6cYxaAAAZ1St.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027035935213555712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6cYFbEAAu-9U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027035935410712576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6cY0bcAAKsty.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1567,
+        "media_key": "3_2027035935221940224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6cYHbAAAAJZW.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027035935398035456",
+            "3_2027035935213555712",
+            "3_2027035935410712576",
+            "3_2027035935221940224"
+          ],
+          "media_source_tweet_id": [
+            "2027035948459192633",
+            "2027035948459192633",
+            "2027035948459192633",
+            "2027035948459192633"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "2027173861394104569",
+        "created_at": "2026-02-27T00:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027173861394104569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "小泉萌香",
+              "probability": 0.7649,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4110103573",
+              "start": 3,
+              "username": "k_moeka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 48,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935398035456",
+              "start": 25,
+              "url": "https://t.co/88YbGX4bt2"
+            },
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 48,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935213555712",
+              "start": 25,
+              "url": "https://t.co/88YbGX4bt2"
+            },
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 48,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935410712576",
+              "start": 25,
+              "url": "https://t.co/88YbGX4bt2"
+            },
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 48,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935221940224",
+              "start": 25,
+              "url": "https://t.co/88YbGX4bt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027173861394104569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027035948459192633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k_moeka_: 小泉萌香(30)爆誕 https://t.co/88YbGX4bt2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027035935398035456",
+            "3_2027035935213555712",
+            "3_2027035935410712576",
+            "3_2027035935221940224"
+          ]
+        },
+        "author_id": "4110103573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "2027035948459192633",
+        "created_at": "2026-02-26T15:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027035948459192633"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "小泉萌香",
+              "probability": 0.7754,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 34,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935398035456",
+              "start": 11,
+              "url": "https://t.co/88YbGX4bt2"
+            },
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 34,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935213555712",
+              "start": 11,
+              "url": "https://t.co/88YbGX4bt2"
+            },
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 34,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935410712576",
+              "start": 11,
+              "url": "https://t.co/88YbGX4bt2"
+            },
+            {
+              "display_url": "pic.x.com/88YbGX4bt2",
+              "end": 34,
+              "expanded_url": "https://x.com/k_moeka_/status/2027035948459192633/photo/1",
+              "media_key": "3_2027035935221940224",
+              "start": 11,
+              "url": "https://t.co/88YbGX4bt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027035948459192633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 115431,
+          "like_count": 7019,
+          "quote_count": 124,
+          "reply_count": 558,
+          "retweet_count": 1825
+        },
+        "reply_settings": "everyone",
+        "text": "小泉萌香(30)爆誕 https://t.co/88YbGX4bt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 703,
+          "like_count": 33493,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2022
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-03T06:30:02.000Z",
+        "description": "#スタァライト 大場なな/#けもフレ3 タスマニアデビル/#D4DJ 笹子･J･由香/#lovelive 三船栞子/#駅メモ ミオ リコ/#舞台やが君 七海燈子/#少女ヨルハ 二十一号/#オッドタクシー 市村しほ/#舞台カラマリ 星野市香/#濱ステ 濱茜/#トワツガイ フクロウ/#ラスバレ 富永真/#パリステ 久遠七海",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "スタァライト"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "けもフレ3"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "tag": "lovelive"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "駅メモ"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "舞台やが君"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "少女ヨルハ"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "tag": "オッドタクシー"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "舞台カラマリ"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "濱ステ"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "トワツガイ"
+              },
+              {
+                "end": 145,
+                "start": 140,
+                "tag": "ラスバレ"
+              },
+              {
+                "end": 155,
+                "start": 150,
+                "tag": "パリステ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/moeka_koizumi_…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/moeka_koizumi_?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/ztkJpNOGNp"
+              }
+            ]
+          }
+        },
+        "id": "4110103573",
+        "name": "小泉萌香◯◇𝒉𝒂𝒓𝕞𝕠𝕖",
+        "pinned_tweet_id": "2019652275640074560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906985722151899136/Wba4it_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182692,
+          "following_count": 1166,
+          "like_count": 10324,
+          "listed_count": 5243,
+          "media_count": 2098,
+          "tweet_count": 8891
+        },
+        "url": "https://t.co/ztkJpNOGNp",
+        "username": "k_moeka_",
+        "verified": false
+      }
+    ]
+  }
+}

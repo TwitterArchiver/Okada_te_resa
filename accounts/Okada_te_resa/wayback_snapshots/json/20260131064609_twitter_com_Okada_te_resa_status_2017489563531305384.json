@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2017269147051118941",
+    "created_at": "2026-01-31T06:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017489563531305384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949994452845789184",
+          "start": 0,
+          "username": "mike95271314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017489563531305384",
+    "in_reply_to_user_id": "1949994452845789184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017269147051118941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mike95271314 秦是什么穷逼车还碰上bba了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2017269147051118941",
+        "created_at": "2026-01-31T06:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017489563531305384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949994452845789184",
+              "start": 0,
+              "username": "mike95271314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017489563531305384",
+        "in_reply_to_user_id": "1949994452845789184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017269147051118941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mike95271314 秦是什么穷逼车还碰上bba了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949994452845789184",
+        "conversation_id": "2017269147051118941",
+        "created_at": "2026-01-30T16:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017269147051118941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kinglinzhuhui/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kinglinzhuhui/status/2017238629064781909",
+              "start": 34,
+              "url": "https://t.co/JgqMOoZDrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017269147051118941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5357,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017238629064781909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绝大多数时候体验远不如899的秦L，甚至跑圈都被2024款秦L秒杀 https://t.co/JgqMOoZDrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 669,
+          "like_count": 30880,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 1855
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T00:44:54.000Z",
+        "description": "慢即是快",
+        "id": "1949994452845789184",
+        "location": "中南海",
+        "name": "麦克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956540401420275712/sshL3tqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 470,
+          "like_count": 9985,
+          "listed_count": 14,
+          "media_count": 415,
+          "tweet_count": 4846
+        },
+        "username": "mike95271314",
+        "verified": false
+      }
+    ]
+  }
+}

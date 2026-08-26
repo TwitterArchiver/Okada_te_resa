@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058207360292909056"
+      ],
+      "media_source_tweet_id": [
+        "2058207447333117968"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2058327106648777208",
+    "created_at": "2026-05-23T23:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T00:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058327106648777208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "あいすを愛す"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1677692123825709057",
+          "start": 3,
+          "username": "mei_ice_saosan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CyD6GRl26L",
+          "end": 73,
+          "expanded_url": "https://x.com/mei_ice_saosan/status/2058207447333117968/video/1",
+          "media_key": "13_2058207360292909056",
+          "start": 50,
+          "url": "https://t.co/CyD6GRl26L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058327106648777208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058207447333117968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mei_ice_saosan: あいすまとめ🤍🍨\nこれ永遠に流してたい🤍🍨\n#あいすを愛す https://t.co/CyD6GRl26L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42833,
+        "height": 720,
+        "media_key": "13_2058207360292909056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058207360292909056/img/iCRdlfGXg19QBEn5.jpg",
+        "public_metrics": {
+          "view_count": 1049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058207360292909056/vid/avc1/480x270/tS5ueMsnUzVNT3A1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058207360292909056/vid/avc1/640x360/Pb2qfKwkNwxBRHTo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058207360292909056/vid/avc1/1280x720/B2UmHMnuklyy9d0t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058207360292909056/pl/OBwOJJMN8ENj1MZ5.m3u8?v=329"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058207360292909056"
+          ],
+          "media_source_tweet_id": [
+            "2058207447333117968"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2058327106648777208",
+        "created_at": "2026-05-23T23:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058327106648777208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1677692123825709057",
+              "start": 3,
+              "username": "mei_ice_saosan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyD6GRl26L",
+              "end": 73,
+              "expanded_url": "https://x.com/mei_ice_saosan/status/2058207447333117968/video/1",
+              "media_key": "13_2058207360292909056",
+              "start": 50,
+              "url": "https://t.co/CyD6GRl26L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058327106648777208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058207447333117968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mei_ice_saosan: あいすまとめ🤍🍨\nこれ永遠に流してたい🤍🍨\n#あいすを愛す https://t.co/CyD6GRl26L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058207360292909056"
+          ]
+        },
+        "author_id": "1677692123825709057",
+        "conversation_id": "2058207447333117968",
+        "created_at": "2026-05-23T15:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058207447333117968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyD6GRl26L",
+              "end": 53,
+              "expanded_url": "https://x.com/mei_ice_saosan/status/2058207447333117968/video/1",
+              "media_key": "13_2058207360292909056",
+              "start": 30,
+              "url": "https://t.co/CyD6GRl26L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058207447333117968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2409,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "あいすまとめ🤍🍨\nこれ永遠に流してたい🤍🍨\n#あいすを愛す https://t.co/CyD6GRl26L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 875,
+          "like_count": 39242,
+          "listed_count": 4,
+          "media_count": 589,
+          "tweet_count": 2864
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T14:53:39.000Z",
+        "description": "永野芽郁ちゃん🌱/iLIFE! あいすちゃん🍨🤍/伊澤彩織さん🐶🐾/07/メイト(9)/あいらいふぁー(1)/わんころもち(2)",
+        "id": "1677692123825709057",
+        "location": "3人推してるけどみんな本気で愛してる！",
+        "name": "めいあ🍨🌱🐾",
+        "pinned_tweet_id": "2048296679498235947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052392210545713152/ZRA7Cw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 721,
+          "like_count": 33995,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 4272
+        },
+        "username": "mei_ice_saosan",
+        "verified": false
+      }
+    ]
+  }
+}

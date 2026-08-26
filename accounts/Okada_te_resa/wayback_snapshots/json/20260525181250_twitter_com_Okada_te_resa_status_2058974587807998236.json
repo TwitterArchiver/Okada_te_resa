@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058974584855207937",
+        "3_2058974584603557888",
+        "3_2058974583315894272",
+        "3_2058974583743741952"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2058974587807998236",
+    "created_at": "2026-05-25T18:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058974587807998236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRAebwRAyH",
+          "end": 44,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+          "media_key": "3_2058974584855207937",
+          "start": 21,
+          "url": "https://t.co/JRAebwRAyH"
+        },
+        {
+          "display_url": "pic.x.com/JRAebwRAyH",
+          "end": 44,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+          "media_key": "3_2058974584603557888",
+          "start": 21,
+          "url": "https://t.co/JRAebwRAyH"
+        },
+        {
+          "display_url": "pic.x.com/JRAebwRAyH",
+          "end": 44,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+          "media_key": "3_2058974583315894272",
+          "start": 21,
+          "url": "https://t.co/JRAebwRAyH"
+        },
+        {
+          "display_url": "pic.x.com/JRAebwRAyH",
+          "end": 44,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+          "media_key": "3_2058974583743741952",
+          "start": 21,
+          "url": "https://t.co/JRAebwRAyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058974587807998236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个担担面最近凉凉的，于是炒旧饭擦一下。 https://t.co/JRAebwRAyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2058974584855207937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLyedvaIAEYSxq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1262,
+        "media_key": "3_2058974584603557888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLyeczaQAA4qkI.jpg",
+        "width": 2240
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058974583315894272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLyeYAaEAA_eSN.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058974583743741952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLyeZmagAA5ccb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058974584855207937",
+            "3_2058974584603557888",
+            "3_2058974583315894272",
+            "3_2058974583743741952"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2058974587807998236",
+        "created_at": "2026-05-25T18:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058974587807998236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRAebwRAyH",
+              "end": 44,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+              "media_key": "3_2058974584855207937",
+              "start": 21,
+              "url": "https://t.co/JRAebwRAyH"
+            },
+            {
+              "display_url": "pic.x.com/JRAebwRAyH",
+              "end": 44,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+              "media_key": "3_2058974584603557888",
+              "start": 21,
+              "url": "https://t.co/JRAebwRAyH"
+            },
+            {
+              "display_url": "pic.x.com/JRAebwRAyH",
+              "end": 44,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+              "media_key": "3_2058974583315894272",
+              "start": 21,
+              "url": "https://t.co/JRAebwRAyH"
+            },
+            {
+              "display_url": "pic.x.com/JRAebwRAyH",
+              "end": 44,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2058974587807998236/photo/1",
+              "media_key": "3_2058974583743741952",
+              "start": 21,
+              "url": "https://t.co/JRAebwRAyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058974587807998236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个担担面最近凉凉的，于是炒旧饭擦一下。 https://t.co/JRAebwRAyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 879,
+          "like_count": 39204,
+          "listed_count": 4,
+          "media_count": 595,
+          "tweet_count": 2887
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

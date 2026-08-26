@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1947482239442555293",
+    "created_at": "2025-07-22T03:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947493522648768586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813560885459202048",
+          "start": 0,
+          "username": "XWXbl00dbunn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947493522648768586",
+    "in_reply_to_user_id": "1813560885459202048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947482239442555293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XWXbl00dbunn1 小侦探和土星西太后吗（关注点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947482230735179777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbYxUlbEAEp_hQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1947482239442555293",
+        "created_at": "2025-07-22T03:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947493522648768586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813560885459202048",
+              "start": 0,
+              "username": "XWXbl00dbunn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947493522648768586",
+        "in_reply_to_user_id": "1813560885459202048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947482239442555293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XWXbl00dbunn1 小侦探和土星西太后吗（关注点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947482230735179777"
+          ]
+        },
+        "author_id": "1813560885459202048",
+        "conversation_id": "1947482239442555293",
+        "created_at": "2025-07-22T02:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947482239442555293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFAKHfs2tv",
+              "end": 35,
+              "expanded_url": "https://x.com/XWXbl00dbunn1/status/1947482239442555293/photo/1",
+              "media_key": "3_1947482230735179777",
+              "start": 12,
+              "url": "https://t.co/hFAKHfs2tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947482239442555293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界好坏 #门槛妹 https://t.co/hFAKHfs2tv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 433,
+          "like_count": 17844,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 866
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:06:32.000Z",
+        "description": "一个智障神经病 🚪 58/88 可怜可怜我的话那我可以给我赞赏码扫点谢谢谢谢",
+        "id": "1813560885459202048",
+        "location": "上海",
+        "name": "xwx恨你。",
+        "pinned_tweet_id": "1947156619030364176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936753742759485440/GZoZyotf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 587,
+          "like_count": 7976,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1029
+        },
+        "username": "XWXbl00dbunn1",
+        "verified": false
+      }
+    ]
+  }
+}

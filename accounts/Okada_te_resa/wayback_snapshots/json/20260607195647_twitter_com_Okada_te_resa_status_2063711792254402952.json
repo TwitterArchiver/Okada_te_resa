@@ -1,0 +1,1329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Auto racing action from the Formula One circuit.",
+          "id": "10002765236",
+          "name": "Formula One Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Coverage of the Formula 1 racing action.",
+          "id": "10027483505",
+          "name": "Live: Formula 1 Motor Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Acompanhe as emoções da principal categoria de automobilismo do planeta.",
+          "id": "10029035313",
+          "name": "Fórmula 1"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1132059848282034176",
+          "name": "Pierre Gasly"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Racing",
+          "id": "1058103880376971264",
+          "name": "Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1132059848282034176",
+          "name": "Pierre Gasly"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Auto racing",
+          "id": "847900599387430912",
+          "name": "Auto racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1132059848282034176",
+          "name": "Pierre Gasly"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1497266565669998594",
+          "name": "Open-wheel racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509530211146088466",
+          "name": "Motorsport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1523975068459552768",
+          "name": "Monaco Grand Prix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524349601792241664",
+          "name": "Formula 1 Grand Prix"
+        }
+      }
+    ],
+    "conversation_id": "2063711792254402952",
+    "created_at": "2026-06-07T19:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063711792254402952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "537951506",
+          "start": 3,
+          "username": "PierreGASLY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063711792254402952",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063683851440861604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PierreGASLY: I’m heartbroken right now… no words can describe the pain of losing a podium in Formula 1 and in the streets Monaco, I’m d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063683699086950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOtY_TXgAAFHKc.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage of the Formula 1 racing action.",
+              "id": "10027483505",
+              "name": "Live: Formula 1 Motor Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe as emoções da principal categoria de automobilismo do planeta.",
+              "id": "10029035313",
+              "name": "Fórmula 1"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132059848282034176",
+              "name": "Pierre Gasly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1132059848282034176",
+              "name": "Pierre Gasly"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132059848282034176",
+              "name": "Pierre Gasly"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1523975068459552768",
+              "name": "Monaco Grand Prix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524349601792241664",
+              "name": "Formula 1 Grand Prix"
+            }
+          }
+        ],
+        "conversation_id": "2063711792254402952",
+        "created_at": "2026-06-07T19:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063711792254402952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "537951506",
+              "start": 3,
+              "username": "PierreGASLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063711792254402952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063683851440861604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PierreGASLY: I’m heartbroken right now… no words can describe the pain of losing a podium in Formula 1 and in the streets Monaco, I’m d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063683699086950400"
+          ]
+        },
+        "author_id": "537951506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage of the Formula 1 racing action.",
+              "id": "10027483505",
+              "name": "Live: Formula 1 Motor Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe as emoções da principal categoria de automobilismo do planeta.",
+              "id": "10029035313",
+              "name": "Fórmula 1"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132059848282034176",
+              "name": "Pierre Gasly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1132059848282034176",
+              "name": "Pierre Gasly"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132059848282034176",
+              "name": "Pierre Gasly"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1523975068459552768",
+              "name": "Monaco Grand Prix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524349601792241664",
+              "name": "Formula 1 Grand Prix"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Circuit de Monaco.",
+              "id": "1511001813197021191",
+              "name": "Monaco Grand Prix 2022"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Circuit de Monaco.",
+              "id": "1661856193046872066",
+              "name": "Monaco Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Circuit de Monaco.",
+              "id": "1792617373716848641",
+              "name": "Monaco Grand Prix 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Circuit de Monaco.",
+              "id": "1511001813197021191",
+              "name": "Monaco Grand Prix 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Circuit de Monaco.",
+              "id": "1661856193046872066",
+              "name": "Monaco Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Circuit de Monaco.",
+              "id": "1792617373716848641",
+              "name": "Monaco Grand Prix 2024"
+            }
+          }
+        ],
+        "conversation_id": "2063683851440861604",
+        "created_at": "2026-06-07T18:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:05:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063683718066110482",
+          "2063683851440861604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVwA4BfhmR",
+              "end": 299,
+              "expanded_url": "https://x.com/PierreGASLY/status/2063683851440861604/photo/1",
+              "media_key": "3_2063683699086950400",
+              "start": 276,
+              "url": "https://t.co/MVwA4BfhmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063683851440861604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I’m heartbroken right now… no words can describe the pain of losing a podium in Formula 1 and in the streets Monaco, I’m devastated. We crossed the finish line in 3rd today, and thats all I want to remember. I’ve dreamed about that podium thousands times, we all working very hard for years to achieve moments like today and it doesn’t feel right for it to be taken away like this. I really hope the right outcome can be made. We will fight for it with my team."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 512201,
+          "like_count": 26452,
+          "quote_count": 387,
+          "reply_count": 592,
+          "retweet_count": 1288
+        },
+        "reply_settings": "everyone",
+        "text": "I’m heartbroken right now… no words can describe the pain of losing a podium in Formula 1 and in the streets Monaco, I’m devastated. We crossed the finish line in 3rd today, and thats all I want to remember. I’ve dreamed about that podium thousands times, we all working very https://t.co/MVwA4BfhmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 898,
+          "like_count": 40036,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 3008
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-27T07:38:35.000Z",
+        "description": "Formula 1 driver",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pierregasly.com",
+                "end": 23,
+                "expanded_url": "http://pierregasly.com",
+                "start": 0,
+                "url": "https://t.co/EL21bcNvRH"
+              }
+            ]
+          }
+        },
+        "id": "537951506",
+        "name": "PIERRE GASLY 🇫🇷",
+        "pinned_tweet_id": "1302677964589592577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014043205445025793/9elx3rvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786294,
+          "following_count": 462,
+          "like_count": 17871,
+          "listed_count": 9759,
+          "media_count": 1051,
+          "tweet_count": 2826
+        },
+        "url": "https://t.co/EL21bcNvRH",
+        "username": "PierreGASLY",
+        "verified": true
+      }
+    ]
+  }
+}

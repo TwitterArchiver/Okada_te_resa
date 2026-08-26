@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060326202720894976"
+      ],
+      "media_source_tweet_id": [
+        "2060326454332940629"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2060424063596769660",
+    "created_at": "2026-05-29T18:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060424063596769660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1481608987087077380",
+          "start": 3,
+          "username": "qxsddofficial"
+        },
+        {
+          "end": 63,
+          "id": "2043225826301497344",
+          "start": 52,
+          "username": "XingLi0512"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65Sk29RuAC",
+          "end": 111,
+          "expanded_url": "https://x.com/qxsddofficial/status/2060326454332940629/video/1",
+          "media_key": "13_2060326202720894976",
+          "start": 88,
+          "url": "https://t.co/65Sk29RuAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060424063596769660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060326454332940629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qxsddofficial: 是两只温迪的doi呀！！！\n强制接吻窒息大力打桩！\n攻：本人\n受：@XingLi0512 \n星璃老师还是太娇羞了\n（注意看后面的镜子哟） https://t.co/65Sk29RuAC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060424063596769660].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060424063596769660",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060424063596769660"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46811,
+        "height": 1080,
+        "media_key": "13_2060326202720894976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060326202720894976/img/nyMjUBiEb-wexwit.jpg",
+        "public_metrics": {
+          "view_count": 1751
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060326202720894976/vid/avc1/1920x1080/-XqIexJd8jPF-p7N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060326202720894976/pl/Xlzaf8hIUUF4Zl2o.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060326202720894976/vid/avc1/480x270/RG2he9gV1gtsDgo4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060326202720894976/vid/avc1/640x360/xsOE7Eysmsi6yNob.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060326202720894976/vid/avc1/1280x720/WdAzMZjXPhE9snRt.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060326202720894976"
+          ]
+        },
+        "author_id": "1481608987087077380",
+        "conversation_id": "2060326454332940629",
+        "created_at": "2026-05-29T11:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060326454332940629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2043225826301497344",
+              "start": 33,
+              "username": "XingLi0512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65Sk29RuAC",
+              "end": 92,
+              "expanded_url": "https://x.com/qxsddofficial/status/2060326454332940629/video/1",
+              "media_key": "13_2060326202720894976",
+              "start": 69,
+              "url": "https://t.co/65Sk29RuAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060326454332940629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 5222,
+          "like_count": 329,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "是两只温迪的doi呀！！！\n强制接吻窒息大力打桩！\n攻：本人\n受：@XingLi0512 \n星璃老师还是太娇羞了\n（注意看后面的镜子哟） https://t.co/65Sk29RuAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 886,
+          "like_count": 39363,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T12:48:35.000Z",
+        "description": "Blitz⚡Zenon | Ball Lightning Boy 中文/ENGLISH 正太奶弟人格：@qiuxingsdd 175cm/65kg/17cm/4.2cm 男高模子人格：@SDNMQX雌小鬼人格：@qxsddsama无糖，双性恋，属性0.5 常驻江浙沪 门槛🚪88 zfb口令红包/vx赞赏码，不卖图包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "qiuxingsdd"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "username": "SDNMQX"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "qxsddsama"
+              }
+            ]
+          }
+        },
+        "id": "1481608987087077380",
+        "name": "球形闪电电official",
+        "pinned_tweet_id": "2060326454332940629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915617905229914113/vJgP6_Kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11718,
+          "following_count": 407,
+          "like_count": 337,
+          "listed_count": 33,
+          "media_count": 37,
+          "tweet_count": 328
+        },
+        "username": "qxsddofficial",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T07:29:08.000Z",
+        "description": "旧号被封的涩涩小男娘╭(╯3╰)╮175/65",
+        "id": "2043225826301497344",
+        "name": "星璃（重生求互推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043244372419112960/8csQJKGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 44,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "XingLi0512",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048757935648735232",
+        "3_2048757935615119360",
+        "3_2048757935627714560",
+        "3_2048757935602536449"
+      ],
+      "media_source_tweet_id": [
+        "2048757953793253448",
+        "2048757953793253448",
+        "2048757953793253448",
+        "2048757953793253448"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2048938923301417179",
+    "created_at": "2026-04-28T01:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048938923301417179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1961835260037287936",
+          "start": 3,
+          "username": "chan19890604to5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fE5IGmd0XX",
+          "end": 87,
+          "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+          "media_key": "3_2048757935648735232",
+          "start": 64,
+          "url": "https://t.co/fE5IGmd0XX"
+        },
+        {
+          "display_url": "pic.x.com/fE5IGmd0XX",
+          "end": 87,
+          "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+          "media_key": "3_2048757935615119360",
+          "start": 64,
+          "url": "https://t.co/fE5IGmd0XX"
+        },
+        {
+          "display_url": "pic.x.com/fE5IGmd0XX",
+          "end": 87,
+          "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+          "media_key": "3_2048757935627714560",
+          "start": 64,
+          "url": "https://t.co/fE5IGmd0XX"
+        },
+        {
+          "display_url": "pic.x.com/fE5IGmd0XX",
+          "end": 87,
+          "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+          "media_key": "3_2048757935602536449",
+          "start": 64,
+          "url": "https://t.co/fE5IGmd0XX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048938923301417179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048757953793253448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604to5: 宅男悲歌\n\n跟去女僕餐廳的差不多\n\n不排除有人是抖m\n喜歡這種的\n\n要我說\n不如去🐞 https://t.co/fE5IGmd0XX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_2048757935648735232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6mfNkbAAA0lvB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 874,
+        "media_key": "3_2048757935615119360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6mfNcaEAAIET-.jpg",
+        "width": 690
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048757935627714560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6mfNfaQAAzPCo.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048757935602536449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6mfNZaEAEGUo-.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048757935648735232",
+            "3_2048757935615119360",
+            "3_2048757935627714560",
+            "3_2048757935602536449"
+          ],
+          "media_source_tweet_id": [
+            "2048757953793253448",
+            "2048757953793253448",
+            "2048757953793253448",
+            "2048757953793253448"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2048938923301417179",
+        "created_at": "2026-04-28T01:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048938923301417179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1961835260037287936",
+              "start": 3,
+              "username": "chan19890604to5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 87,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935648735232",
+              "start": 64,
+              "url": "https://t.co/fE5IGmd0XX"
+            },
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 87,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935615119360",
+              "start": 64,
+              "url": "https://t.co/fE5IGmd0XX"
+            },
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 87,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935627714560",
+              "start": 64,
+              "url": "https://t.co/fE5IGmd0XX"
+            },
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 87,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935602536449",
+              "start": 64,
+              "url": "https://t.co/fE5IGmd0XX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048938923301417179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048757953793253448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604to5: 宅男悲歌\n\n跟去女僕餐廳的差不多\n\n不排除有人是抖m\n喜歡這種的\n\n要我說\n不如去🐞 https://t.co/fE5IGmd0XX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048757935648735232",
+            "3_2048757935615119360",
+            "3_2048757935627714560",
+            "3_2048757935602536449"
+          ]
+        },
+        "author_id": "1961835260037287936",
+        "conversation_id": "2048757953793253448",
+        "created_at": "2026-04-27T13:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048757953793253448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 66,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935648735232",
+              "start": 43,
+              "url": "https://t.co/fE5IGmd0XX"
+            },
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 66,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935615119360",
+              "start": 43,
+              "url": "https://t.co/fE5IGmd0XX"
+            },
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 66,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935627714560",
+              "start": 43,
+              "url": "https://t.co/fE5IGmd0XX"
+            },
+            {
+              "display_url": "pic.x.com/fE5IGmd0XX",
+              "end": 66,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048757953793253448/photo/1",
+              "media_key": "3_2048757935602536449",
+              "start": 43,
+              "url": "https://t.co/fE5IGmd0XX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048757953793253448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 42715,
+          "like_count": 290,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "宅男悲歌\n\n跟去女僕餐廳的差不多\n\n不排除有人是抖m\n喜歡這種的\n\n要我說\n不如去🐞 https://t.co/fE5IGmd0XX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 795,
+          "like_count": 37438,
+          "listed_count": 3,
+          "media_count": 501,
+          "tweet_count": 2603
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T16:56:30.000Z",
+        "description": "@chan19890604t04的備用號 🕷️🐷🐰滾 不跟🕷️🐷🐰對話 畜牲是聽不懂人話的 備用號@chan19890604to6 圖和影片都是轉的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "chan19890604t04"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "chan19890604to6"
+              }
+            ]
+          }
+        },
+        "id": "1961835260037287936",
+        "name": "陳少5.0",
+        "pinned_tweet_id": "2043861402184757747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961836450586275840/_P22MB1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 444,
+          "like_count": 8083,
+          "listed_count": 4,
+          "media_count": 2429,
+          "tweet_count": 4721
+        },
+        "username": "chan19890604to5",
+        "verified": false
+      }
+    ]
+  }
+}

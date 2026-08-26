@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2058766139371732992"
+      ],
+      "media_source_tweet_id": [
+        "2058766298482614530"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2058957899339325844",
+    "created_at": "2026-05-25T17:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058957899339325844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787996694757699584",
+          "start": 3,
+          "username": "ur2dcutie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBQi3xlD7B",
+          "end": 38,
+          "expanded_url": "https://x.com/ur2dcutie/status/2058766298482614530/photo/1",
+          "media_key": "16_2058766139371732992",
+          "start": 15,
+          "url": "https://t.co/fBQi3xlD7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058957899339325844",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058766298482614530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ur2dcutie: https://t.co/fBQi3xlD7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "16_2058766139371732992",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJI05VzawAAO7ZV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJI05VzawAAO7ZV.mp4"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058766139371732992"
+          ],
+          "media_source_tweet_id": [
+            "2058766298482614530"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2058957899339325844",
+        "created_at": "2026-05-25T17:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058957899339325844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787996694757699584",
+              "start": 3,
+              "username": "ur2dcutie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBQi3xlD7B",
+              "end": 38,
+              "expanded_url": "https://x.com/ur2dcutie/status/2058766298482614530/photo/1",
+              "media_key": "16_2058766139371732992",
+              "start": 15,
+              "url": "https://t.co/fBQi3xlD7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058957899339325844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766298482614530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ur2dcutie: https://t.co/fBQi3xlD7B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058766139371732992"
+          ]
+        },
+        "author_id": "1787996694757699584",
+        "conversation_id": "2058766298482614530",
+        "created_at": "2026-05-25T04:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058766298482614530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBQi3xlD7B",
+              "end": 23,
+              "expanded_url": "https://x.com/ur2dcutie/status/2058766298482614530/photo/1",
+              "media_key": "16_2058766139371732992",
+              "start": 0,
+              "url": "https://t.co/fBQi3xlD7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058766298482614530",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 70384,
+          "like_count": 2717,
+          "quote_count": 62,
+          "reply_count": 33,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fBQi3xlD7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 879,
+          "like_count": 39197,
+          "listed_count": 4,
+          "media_count": 593,
+          "tweet_count": 2884
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T00:03:40.000Z",
+        "description": "🐾♡₊ ⊹ 26 | #1 hot mulligan fan ₊˚⊹ 𐂯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/ur2dwaifu",
+                "end": 23,
+                "expanded_url": "http://beacons.ai/ur2dwaifu",
+                "start": 0,
+                "url": "https://t.co/Brh9sETMad"
+              }
+            ]
+          }
+        },
+        "id": "1787996694757699584",
+        "location": "cali 🖤🩶🤍💜  ദ്ദി◝ ⩊ ◜)",
+        "name": "Ellie ˎˊ˗",
+        "pinned_tweet_id": "2032158606095946154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056205296771735552/7UIGLMSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9135,
+          "following_count": 104,
+          "like_count": 2961,
+          "listed_count": 9,
+          "media_count": 121,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/Brh9sETMad",
+        "username": "ur2dcutie",
+        "verified": false
+      }
+    ]
+  }
+}

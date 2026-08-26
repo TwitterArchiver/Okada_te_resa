@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981910324069416960"
+      ],
+      "media_source_tweet_id": [
+        "1981910383796670970"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1982145270310641915",
+    "created_at": "2025-10-25T18:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T19:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982145270310641915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "797419005384491012",
+          "start": 3,
+          "username": "saki_no_beaty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EoLDev6H2n",
+          "end": 69,
+          "expanded_url": "https://x.com/saki_no_beaty/status/1981910383796670970/video/1",
+          "media_key": "13_1981910324069416960",
+          "start": 46,
+          "url": "https://t.co/EoLDev6H2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982145270310641915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981910383796670970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saki_no_beaty: パターン別‼️髪の巻き方が分かりやすすぎる..... https://t.co/EoLDev6H2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16615,
+        "height": 822,
+        "media_key": "13_1981910324069416960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981910324069416960/img/nXzyNGwVz86uB0Al.jpg",
+        "public_metrics": {
+          "view_count": 313383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981910324069416960/vid/avc1/320x364/AR56gbsoiqbskpR5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981910324069416960/vid/avc1/480x548/1W-CPUnUwTJ3KExI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981910324069416960/vid/avc1/720x822/phQvxnO6GbjCAw4T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981910324069416960/pl/qp2KPo_1ENoZm6kM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981910324069416960"
+          ],
+          "media_source_tweet_id": [
+            "1981910383796670970"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1982145270310641915",
+        "created_at": "2025-10-25T18:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T19:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982145270310641915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "797419005384491012",
+              "start": 3,
+              "username": "saki_no_beaty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoLDev6H2n",
+              "end": 69,
+              "expanded_url": "https://x.com/saki_no_beaty/status/1981910383796670970/video/1",
+              "media_key": "13_1981910324069416960",
+              "start": 46,
+              "url": "https://t.co/EoLDev6H2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982145270310641915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981910383796670970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saki_no_beaty: パターン別‼️髪の巻き方が分かりやすすぎる..... https://t.co/EoLDev6H2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981910324069416960"
+          ]
+        },
+        "author_id": "797419005384491012",
+        "conversation_id": "1981910383796670970",
+        "created_at": "2025-10-25T02:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981910383796670970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoLDev6H2n",
+              "end": 50,
+              "expanded_url": "https://x.com/saki_no_beaty/status/1981910383796670970/video/1",
+              "media_key": "13_1981910324069416960",
+              "start": 27,
+              "url": "https://t.co/EoLDev6H2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981910383796670970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2243,
+          "impression_count": 634796,
+          "like_count": 3130,
+          "quote_count": 14,
+          "reply_count": 7,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "パターン別‼️髪の巻き方が分かりやすすぎる..... https://t.co/EoLDev6H2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 591,
+          "like_count": 23289,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1242
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T12:41:21.000Z",
+        "description": "10年間悩んだニキビとおさらばした女の呟き",
+        "id": "797419005384491012",
+        "name": "美人研究所サキ🔬",
+        "pinned_tweet_id": "1981682649027752175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857687231382884352/xCK_nUfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37304,
+          "following_count": 476,
+          "like_count": 4220,
+          "listed_count": 96,
+          "media_count": 721,
+          "tweet_count": 4011
+        },
+        "username": "saki_no_beaty",
+        "verified": false
+      }
+    ]
+  }
+}

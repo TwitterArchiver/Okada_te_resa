@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Suzuki (スズキ)",
+          "id": "1035596658015272961",
+          "name": "Suzuki (スズキ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Suzuki (スズキ)",
+          "id": "1035596658015272961",
+          "name": "Suzuki (スズキ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2030892365498724826",
+    "created_at": "2026-03-09T06:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030892365498724826"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "VTuber・輪堂千",
+          "probability": 0.2189,
+          "start": 30,
+          "type": "Organization"
+        },
+        {
+          "end": 58,
+          "normalized_text": "GSX250R",
+          "probability": 0.4068,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 120,
+          "normalized_text": "ホロライブプロダクション",
+          "probability": 0.4012,
+          "start": 109,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "953313042753667073",
+          "start": 3,
+          "username": "motospo_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "スズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無二のコラボバイク「GSX250R[Chihaya Remix]」を作成。単なるキャラクターコラボと侮るなかれ。ガチのクルマ・バイク好きとして知られる",
+          "display_url": "young-machine.com/2026/03/08/715…",
+          "end": 91,
+          "expanded_url": "https://young-machine.com/2026/03/08/715325/",
+          "images": [
+            {
+              "height": 432,
+              "url": "https://pbs.twimg.com/news_img/2030487783190802432/KOuP__lQ?format=jpg&name=orig",
+              "width": 768
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2030487783190802432/KOuP__lQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 68,
+          "status": 200,
+          "title": "RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み",
+          "unwound_url": "https://young-machine.com/2026/03/08/715325/",
+          "url": "https://t.co/yl9uHI7BTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030892365498724826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 488
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030776827179061351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motospo_: RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み\nhttps://t.co/yl9uHI7BTx\n\nスズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2030707748795736064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC6F8DmaYAA0YMf.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2030707748720324608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC6F8DUbsAAiq08.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Suzuki (スズキ)",
+              "id": "1035596658015272961",
+              "name": "Suzuki (スズキ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Suzuki (スズキ)",
+              "id": "1035596658015272961",
+              "name": "Suzuki (スズキ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2030892365498724826",
+        "created_at": "2026-03-09T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030892365498724826"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "VTuber・輪堂千",
+              "probability": 0.2189,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 58,
+              "normalized_text": "GSX250R",
+              "probability": 0.4068,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "ホロライブプロダクション",
+              "probability": 0.4012,
+              "start": 109,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "953313042753667073",
+              "start": 3,
+              "username": "motospo_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無二のコラボバイク「GSX250R[Chihaya Remix]」を作成。単なるキャラクターコラボと侮るなかれ。ガチのクルマ・バイク好きとして知られる",
+              "display_url": "young-machine.com/2026/03/08/715…",
+              "end": 91,
+              "expanded_url": "https://young-machine.com/2026/03/08/715325/",
+              "images": [
+                {
+                  "height": 432,
+                  "url": "https://pbs.twimg.com/news_img/2030487783190802432/KOuP__lQ?format=jpg&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030487783190802432/KOuP__lQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み",
+              "unwound_url": "https://young-machine.com/2026/03/08/715325/",
+              "url": "https://t.co/yl9uHI7BTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030892365498724826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 488
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030776827179061351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motospo_: RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み\nhttps://t.co/yl9uHI7BTx\n\nスズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030707748795736064",
+            "3_2030707748720324608"
+          ]
+        },
+        "author_id": "953313042753667073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Suzuki (スズキ)",
+              "id": "1035596658015272961",
+              "name": "Suzuki (スズキ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Suzuki (スズキ)",
+              "id": "1035596658015272961",
+              "name": "Suzuki (スズキ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2030776827179061351",
+        "created_at": "2026-03-08T22:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T23:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030776827179061351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "VTuber・輪堂千",
+              "probability": 0.2136,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 44,
+              "normalized_text": "GSX250R",
+              "probability": 0.4324,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "ホロライブプロダクション",
+              "probability": 0.4196,
+              "start": 95,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無二のコラボバイク「GSX250R[Chihaya Remix]」を作成。単なるキャラクターコラボと侮るなかれ。ガチのクルマ・バイク好きとして知られる",
+              "display_url": "young-machine.com/2026/03/08/715…",
+              "end": 77,
+              "expanded_url": "https://young-machine.com/2026/03/08/715325/",
+              "images": [
+                {
+                  "height": 432,
+                  "url": "https://pbs.twimg.com/news_img/2030487783190802432/KOuP__lQ?format=jpg&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030487783190802432/KOuP__lQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み",
+              "unwound_url": "https://young-machine.com/2026/03/08/715325/",
+              "url": "https://t.co/yl9uHI7BTx"
+            },
+            {
+              "display_url": "pic.x.com/tQ42QV8dx3",
+              "end": 173,
+              "expanded_url": "https://x.com/motospo_/status/2030776827179061351/photo/1",
+              "media_key": "3_2030707748795736064",
+              "start": 150,
+              "url": "https://t.co/tQ42QV8dx3"
+            },
+            {
+              "display_url": "pic.x.com/tQ42QV8dx3",
+              "end": 173,
+              "expanded_url": "https://x.com/motospo_/status/2030776827179061351/photo/1",
+              "media_key": "3_2030707748720324608",
+              "start": 150,
+              "url": "https://t.co/tQ42QV8dx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030776827179061351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "young-machine.com/2026/03/08/715…",
+                "end": 77,
+                "expanded_url": "https://young-machine.com/2026/03/08/715325/",
+                "start": 54,
+                "url": "https://t.co/9I24UKFf9E"
+              }
+            ]
+          },
+          "text": "RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み\nhttps://t.co/9I24UKFf9E\n\nスズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無二のコラボバイク「GSX250R[Chihaya Remix]」を作成。単なるキャラクターコラボと侮るなかれ。ガチのクルマ・バイク好きとして知られる輪堂氏の熱量と、スズキのデザイナーのプロの技が本気でぶつかり合った、ストリート感溢れるカスタムマシンだ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 416149,
+          "like_count": 3631,
+          "quote_count": 70,
+          "reply_count": 7,
+          "retweet_count": 488
+        },
+        "reply_settings": "everyone",
+        "text": "RX-8に給料を全振りしたガチ勢VTuber・輪堂千速が本気で監修！スズキ「GSX250R」コラボ車の凄み\nhttps://t.co/yl9uHI7BTx\n\nスズキが大手VTuber事務所「ホロライブプロダクション」の輪堂千速氏とタッグを組み、唯一無二のコラボバイク「GSX250R[Chihaya https://t.co/tQ42QV8dx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 715,
+          "like_count": 34099,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 2061
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T17:08:35.000Z",
+        "description": "バイクに関する話題をツイートしていきます！ いいねもどんどんしていきます！微力ながらバイク業界を盛り上げて行きたいです＼(^o^)／ 無言フォロー失礼いたしますm(_ _)m #ad",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 88,
+                "tag": "ad"
+              }
+            ]
+          }
+        },
+        "id": "953313042753667073",
+        "name": "モトスポ@バイク総合情報",
+        "pinned_tweet_id": "2006857969582092643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/953317248948563968/DwIWPojK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46845,
+          "following_count": 50125,
+          "like_count": 97886,
+          "listed_count": 174,
+          "media_count": 8329,
+          "tweet_count": 9793
+        },
+        "username": "motospo_",
+        "verified": true
+      }
+    ]
+  }
+}

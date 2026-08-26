@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2070118307978748317",
+    "created_at": "2026-06-26T07:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070414923654664572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        },
+        {
+          "end": 26,
+          "id": "1964458263128526853",
+          "start": 10,
+          "username": "tall_laboratory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070414923654664572",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070414855350439988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 @tall_laboratory ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2070118307978748317",
+        "created_at": "2026-06-26T07:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070414923654664572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            },
+            {
+              "end": 26,
+              "id": "1964458263128526853",
+              "start": 10,
+              "username": "tall_laboratory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070414923654664572",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070414855350439988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 @tall_laboratory ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "conversation_id": "2070118307978748317",
+        "created_at": "2026-06-26T07:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070414855350439988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964458263128526853",
+              "start": 0,
+              "username": "tall_laboratory"
+            },
+            {
+              "end": 31,
+              "id": "1767107094313160704",
+              "start": 17,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070414855350439988",
+        "in_reply_to_user_id": "1964458263128526853",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070118307978748317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tall_laboratory @Okada_te_resa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 925,
+          "like_count": 41194,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸！我！男生还是女生？机车！理想？！我会有自己的家🚬纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "1965chich"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "2022155627494265173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053313170438242304/O_PNkfzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28146,
+          "following_count": 1214,
+          "like_count": 21290,
+          "listed_count": 80,
+          "media_count": 1283,
+          "tweet_count": 15601
+        },
+        "url": "",
+        "username": "akui1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T22:38:54.000Z",
+        "description": "大きな女性との「比較」に特化したAI画像を投稿！非現実な大きさと日常の両立を研究中です！過去画像・プロンプト・制作メモはnoteへ！※投稿画像は全てAI生成です\nAI generated / size contrast lab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/tall_labo",
+                "end": 23,
+                "expanded_url": "https://note.com/tall_labo",
+                "start": 0,
+                "url": "https://t.co/Phpqa9zVYf"
+              }
+            ]
+          }
+        },
+        "id": "1964458263128526853",
+        "location": "過去の画像やプロンプトはnoteへ",
+        "name": "せくらべラボ",
+        "pinned_tweet_id": "2062093524636754097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066790089385234432/mDP9-qKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14063,
+          "following_count": 300,
+          "like_count": 29,
+          "listed_count": 24,
+          "media_count": 486,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/Phpqa9zVYf",
+        "username": "tall_laboratory",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1978711372016824390",
+    "created_at": "2025-10-16T08:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T09:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978736940179767600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813560885459202048",
+          "start": 0,
+          "username": "XWXbl00dbunn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978736940179767600",
+    "in_reply_to_user_id": "1813560885459202048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978736300631957674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XWXbl00dbunn1 沪摩托车进去会被晶哥哥抓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1978711372016824390",
+        "created_at": "2025-10-16T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978736940179767600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813560885459202048",
+              "start": 0,
+              "username": "XWXbl00dbunn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978736940179767600",
+        "in_reply_to_user_id": "1813560885459202048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978736300631957674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XWXbl00dbunn1 沪摩托车进去会被晶哥哥抓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813560885459202048",
+        "conversation_id": "1978711372016824390",
+        "created_at": "2025-10-16T08:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978736300631957674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978736300631957674",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978711372016824390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 来找我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 560,
+          "like_count": 22551,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1204
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:06:32.000Z",
+        "description": "一个智障精神病 🚪 58/88 可怜可怜我的话那我可以给我赞赏码扫点谢谢谢谢",
+        "id": "1813560885459202048",
+        "location": "上海",
+        "name": "xwx恨你。",
+        "pinned_tweet_id": "1968283046416986516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936753742759485440/GZoZyotf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 780,
+          "like_count": 10094,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 1519
+        },
+        "username": "XWXbl00dbunn1",
+        "verified": false
+      }
+    ]
+  }
+}

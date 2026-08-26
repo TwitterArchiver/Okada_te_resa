@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062901664261279744"
+      ],
+      "media_source_tweet_id": [
+        "2062901676655456698"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2062988768467112234",
+    "created_at": "2026-06-05T20:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062988768467112234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1178342689206493185",
+          "start": 3,
+          "username": "NANIMONO_purin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/97JbtZs5qa",
+          "end": 110,
+          "expanded_url": "https://x.com/NANIMONO_purin/status/2062901676655456698/photo/1",
+          "media_key": "3_2062901664261279744",
+          "start": 87,
+          "url": "https://t.co/97JbtZs5qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062988768467112234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062901676655456698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NANIMONO_purin: ツアーファイナルまでいよいよあと1週間……❕❕❕\n⁡\nぷりんさん復帰戦、1ヶ月以上ぶりのライブです……どきどき…………………………… https://t.co/97JbtZs5qa"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "広いところでゲネしたぞー！！のしゃしん",
+        "height": 3398,
+        "media_key": "3_2062901664261279744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDmIkjbEAAfWIm.jpg",
+        "width": 2611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062901664261279744"
+          ],
+          "media_source_tweet_id": [
+            "2062901676655456698"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2062988768467112234",
+        "created_at": "2026-06-05T20:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062988768467112234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1178342689206493185",
+              "start": 3,
+              "username": "NANIMONO_purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/97JbtZs5qa",
+              "end": 110,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2062901676655456698/photo/1",
+              "media_key": "3_2062901664261279744",
+              "start": 87,
+              "url": "https://t.co/97JbtZs5qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062988768467112234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062901676655456698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NANIMONO_purin: ツアーファイナルまでいよいよあと1週間……❕❕❕\n⁡\nぷりんさん復帰戦、1ヶ月以上ぶりのライブです……どきどき…………………………… https://t.co/97JbtZs5qa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062901664261279744"
+          ]
+        },
+        "author_id": "1178342689206493185",
+        "conversation_id": "2062901676655456698",
+        "created_at": "2026-06-05T14:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062901676655456698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/97JbtZs5qa",
+              "end": 89,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2062901676655456698/photo/1",
+              "media_key": "3_2062901664261279744",
+              "start": 66,
+              "url": "https://t.co/97JbtZs5qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062901676655456698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "ツアーファイナルまでいよいよあと1週間……❕❕❕\n⁡\nぷりんさん復帰戦、1ヶ月以上ぶりのライブです……どきどき…………………………\n\nツアーで全国まわれなかったの、本当はすごい悔しいんだ、みんなの所に会いに行けるのすっごい楽しみにしてたのに、ドクターストップかかって急にお休みになっちゃって……アイドル人生でいちばん悔しかったかもしれない\n全国にいる居場所がない人達に、いちばん近い距離であなたの居場所はここだよって言ってあげられる機会だったのに………………ㅠㅠ\n\n悔やんでも悔やみきれないけど、泣いても何も変わらないから前を向くことにしたよ！！！\n⁡\nだからちょっと情けないんだけどみんなにおねがいさせてください\n⁡\n全国にいるファンのみんな、わたしのこと、NANIMONOのことちょっとでもきになってるそこの君、今これを見てるあなた、6/12KanadeviaHallにきてくれませんか\n同じ空間で直接、私の想いを届けさせてくれませんか\n⁡\nNANIMONOがあなたの居場所になるって約束するから、遊びに来てくれたらうれしいです\n⁡\nチケット500円からあるよ！\nNANIMONOの眠岸ぷりんをみにきてほしいな"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11744,
+          "like_count": 771,
+          "quote_count": 10,
+          "reply_count": 18,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "ツアーファイナルまでいよいよあと1週間……❕❕❕\n⁡\nぷりんさん復帰戦、1ヶ月以上ぶりのライブです……どきどき………………………… https://t.co/97JbtZs5qa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 891,
+          "like_count": 39888,
+          "listed_count": 4,
+          "media_count": 626,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T16:16:12.000Z",
+        "description": "NANIMONO(@NANIMONO_idol) 黄色 ねぎしぷりんだよ🍮食いしん坊ビール大好きインキャ🍺群馬県出身！きょうもビールがうまい！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "NANIMONO_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/purin__oi4?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/purin__oi4?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/sjgBxGegEm"
+              }
+            ]
+          }
+        },
+        "id": "1178342689206493185",
+        "location": " #せーのでぷっちん  #きょうもぷりんがうまい ",
+        "name": "眠岸ぷりん🍺 6/12 4周年ワンマン",
+        "pinned_tweet_id": "1995418029463933353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061751449021972480/7OwrC2VF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107774,
+          "following_count": 249,
+          "like_count": 121604,
+          "listed_count": 651,
+          "media_count": 1387,
+          "tweet_count": 17348
+        },
+        "url": "https://t.co/sjgBxGegEm",
+        "username": "NANIMONO_purin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1947451577930801300",
+    "created_at": "2025-07-22T00:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T01:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947451577930801300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719717437569155072",
+          "start": 3,
+          "username": "dollymissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947451577930801300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947309803233296634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dollymissu: 你开盒我也没意义  你只能开出一张丑得人神共愤的大头照  一个坐落于贫困县贫困镇的家庭住址"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1947451577930801300",
+        "created_at": "2025-07-22T00:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T01:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947451577930801300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719717437569155072",
+              "start": 3,
+              "username": "dollymissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947451577930801300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947309803233296634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dollymissu: 你开盒我也没意义  你只能开出一张丑得人神共愤的大头照  一个坐落于贫困县贫困镇的家庭住址"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719717437569155072",
+        "conversation_id": "1947309803233296634",
+        "created_at": "2025-07-21T14:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947309803233296634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947309803233296634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3459,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你开盒我也没意义  你只能开出一张丑得人神共愤的大头照  一个坐落于贫困县贫困镇的家庭住址"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 46,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 433,
+          "like_count": 17827,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 863
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T14:06:16.000Z",
+        "description": "肥肥的G杯巨乳萝莉——˗ˋˏ♡ˎˊ˗——喜欢我请给我投喂 接线下女友꒰ ´͈ ᵕ `͈ ꒱ ｜碎碎念 @meowuu5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "meowuu5"
+              }
+            ]
+          }
+        },
+        "id": "1719717437569155072",
+        "location": "🚪288/520/1314/3344/5200 上无封顶 ",
+        "name": "悲伤猪肘子",
+        "pinned_tweet_id": "1945160283183325607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892517746652442625/1VYK34OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21907,
+          "following_count": 176,
+          "like_count": 9137,
+          "listed_count": 77,
+          "media_count": 248,
+          "tweet_count": 4247
+        },
+        "username": "dollymissu",
+        "verified": false
+      }
+    ]
+  }
+}

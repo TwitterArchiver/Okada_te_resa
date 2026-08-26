@@ -1,0 +1,703 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "DJs",
+          "id": "847526099986685952",
+          "name": "DJs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "2076535203703779403",
+    "created_at": "2026-07-13T05:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076535203703779403"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 18,
+          "tag": "BEAT_AX_SUMMER"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "930439312209952768",
+          "start": 3,
+          "username": "risa_tsumugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076535203703779403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 633
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076259862154244580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @risa_tsumugi: #BEAT_AX_SUMMER \nありがとうございましたあぁあ！！\n\nすんごい化学反応起きまくりぃい😭✨\nあつい、あつすぎるぜ、、、\nバンドリーマーは勿論\nイコラバーの皆様暖か空間ちょちょぎれ\n\nRAISE A SUILEN DJ 紡木吏佐で…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076259855606980609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBbVpLboAElVwW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2076535203703779403",
+        "created_at": "2026-07-13T05:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076535203703779403"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 18,
+              "tag": "BEAT_AX_SUMMER"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "930439312209952768",
+              "start": 3,
+              "username": "risa_tsumugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076535203703779403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 633
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076259862154244580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @risa_tsumugi: #BEAT_AX_SUMMER \nありがとうございましたあぁあ！！\n\nすんごい化学反応起きまくりぃい😭✨\nあつい、あつすぎるぜ、、、\nバンドリーマーは勿論\nイコラバーの皆様暖か空間ちょちょぎれ\n\nRAISE A SUILEN DJ 紡木吏佐で…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076259855606980609"
+          ]
+        },
+        "author_id": "930439312209952768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2076259862154244580",
+        "created_at": "2026-07-12T10:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076259862154244580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "BEAT_AX_SUMMER"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIh2HOMhbu",
+              "end": 149,
+              "expanded_url": "https://x.com/risa_tsumugi/status/2076259862154244580/photo/1",
+              "media_key": "3_2076259855606980609",
+              "start": 126,
+              "url": "https://t.co/PIh2HOMhbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076259862154244580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 112162,
+          "like_count": 4668,
+          "quote_count": 60,
+          "reply_count": 52,
+          "retweet_count": 633
+        },
+        "reply_settings": "everyone",
+        "text": "#BEAT_AX_SUMMER \nありがとうございましたあぁあ！！\n\nすんごい化学反応起きまくりぃい😭✨\nあつい、あつすぎるぜ、、、\nバンドリーマーは勿論\nイコラバーの皆様暖か空間ちょちょぎれ\n\nRAISE A SUILEN DJ 紡木吏佐でした🎧🤘 https://t.co/PIh2HOMhbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 968,
+          "like_count": 42593,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-14T14:16:33.000Z",
+        "description": "声優です𖤐˒˒ / #バンドリ RAISE A SUILEN DJ チュチュ / #D4DJ 出雲咲姫 / #アサルトリリィ 安藤鶴紗 / #FGO ロクスタ / #NIKKE モリー / #ゼンゼロ スージー etc... / 💎FC https://t.co/UmKVqUb1Kz #紡木の保護者会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "アサルトリリィ"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "FGO"
+              },
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 151,
+                "start": 143,
+                "tag": "紡木の保護者会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "risatsumugi.bitfan.id",
+                "end": 142,
+                "expanded_url": "https://risatsumugi.bitfan.id/",
+                "start": 119,
+                "url": "https://t.co/UmKVqUb1Kz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/risa.tsumugi/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/risa.tsumugi/",
+                "start": 0,
+                "url": "https://t.co/2FGRo7SVuP"
+              }
+            ]
+          }
+        },
+        "id": "930439312209952768",
+        "location": "mitt management所属",
+        "name": "紡木 吏佐",
+        "pinned_tweet_id": "2073421710007976214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884551322617401344/Ojc9lZAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221902,
+          "following_count": 464,
+          "like_count": 4345,
+          "listed_count": 2599,
+          "media_count": 690,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/2FGRo7SVuP",
+        "username": "risa_tsumugi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925236485139439623"
+      ],
+      "media_source_tweet_id": [
+        "1925824039185993943"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1925977345048903836",
+    "created_at": "2025-05-23T18:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T19:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925977345048903836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1799667184094040065",
+          "start": 3,
+          "username": "ttyasashiisekai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9OROoUBr5O",
+          "end": 44,
+          "expanded_url": "https://x.com/ttyasashiisekai/status/1925824039185993943/photo/1",
+          "media_key": "3_1925236485139439623",
+          "start": 21,
+          "url": "https://t.co/9OROoUBr5O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925977345048903836",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1900
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925824039185993943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttyasashiisekai: https://t.co/9OROoUBr5O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1925236485139439623",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrfQYgVboAc2jZy.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925236485139439623"
+          ],
+          "media_source_tweet_id": [
+            "1925824039185993943"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1925977345048903836",
+        "created_at": "2025-05-23T18:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T19:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925977345048903836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1799667184094040065",
+              "start": 3,
+              "username": "ttyasashiisekai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OROoUBr5O",
+              "end": 44,
+              "expanded_url": "https://x.com/ttyasashiisekai/status/1925824039185993943/photo/1",
+              "media_key": "3_1925236485139439623",
+              "start": 21,
+              "url": "https://t.co/9OROoUBr5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925977345048903836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1900
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925824039185993943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttyasashiisekai: https://t.co/9OROoUBr5O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925236485139439623"
+          ]
+        },
+        "author_id": "1799667184094040065",
+        "conversation_id": "1925824039185993943",
+        "created_at": "2025-05-23T08:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T09:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925824039185993943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OROoUBr5O",
+              "end": 23,
+              "expanded_url": "https://x.com/ttyasashiisekai/status/1925824039185993943/photo/1",
+              "media_key": "3_1925236485139439623",
+              "start": 0,
+              "url": "https://t.co/9OROoUBr5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925824039185993943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 905,
+          "impression_count": 291683,
+          "like_count": 17847,
+          "quote_count": 30,
+          "reply_count": 18,
+          "retweet_count": 1900
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9OROoUBr5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "滴淚妹在蘇A12000rpm",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 296,
+          "like_count": 13924,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 604
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T04:58:38.000Z",
+        "description": "地雷系女子のやさしい日常\n\n作:tetto\nピンクの子→ヒナミちゃん\n黒髪の子→りっちゃん",
+        "id": "1799667184094040065",
+        "location": "やさしいせかい",
+        "name": "やさしいせかい(仮)",
+        "pinned_tweet_id": "1871839947285819836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799668375591002112/oi25gxEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97208,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 290,
+          "media_count": 38,
+          "tweet_count": 38
+        },
+        "username": "ttyasashiisekai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091959353507287040"
+      ],
+      "media_source_tweet_id": [
+        "2091959380744998985"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2092073389112582499",
+    "created_at": "2026-08-25T02:15:39.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092073389112582499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076698212216516608",
+          "start": 3,
+          "username": "jikokeno4iq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AEeXQnmUsw",
+          "end": 115,
+          "expanded_url": "https://x.com/jikokeno4iq/status/2091959380744998985/photo/1",
+          "media_key": "3_2091959353507287040",
+          "start": 92,
+          "url": "https://t.co/AEeXQnmUsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092073389112582499",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2091959353507287040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 563
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091959380744998985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @jikokeno4iq: ⚠️ This is special effects makeup. It is an object—a fake. It is not real. https://t.co/AEeXQnmUsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091959353507287040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgh8sZbkAA5eaJ.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091959353507287040"
+          ],
+          "media_source_tweet_id": [
+            "2091959380744998985"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2092073389112582499",
+        "created_at": "2026-08-25T02:15:39.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092073389112582499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076698212216516608",
+              "start": 3,
+              "username": "jikokeno4iq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEeXQnmUsw",
+              "end": 115,
+              "expanded_url": "https://x.com/jikokeno4iq/status/2091959380744998985/photo/1",
+              "media_key": "3_2091959353507287040",
+              "start": 92,
+              "url": "https://t.co/AEeXQnmUsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092073389112582499",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091959353507287040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091959380744998985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @jikokeno4iq: ⚠️ This is special effects makeup. It is an object—a fake. It is not real. https://t.co/AEeXQnmUsw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091959353507287040"
+          ]
+        },
+        "author_id": "2076698212216516608",
+        "conversation_id": "2091959380744998985",
+        "created_at": "2026-08-24T18:42:37.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091959380744998985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEeXQnmUsw",
+              "end": 98,
+              "expanded_url": "https://x.com/jikokeno4iq/status/2091959380744998985/photo/1",
+              "media_key": "3_2091959353507287040",
+              "start": 75,
+              "url": "https://t.co/AEeXQnmUsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091959380744998985",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091959353507287040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 15292,
+          "like_count": 4481,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "⚠️ This is special effects makeup. It is an object—a fake. It is not real. https://t.co/AEeXQnmUsw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2092073389112582499",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 1027,
+          "like_count": 46885,
+          "listed_count": 5,
+          "media_count": 769,
+          "tweet_count": 3551
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T16:03:42.000Z",
+        "description": "リスカ/OD/不登校引きこもり/中2女子\n過敏性腸症候群/睡眠無呼吸症候群/社交不安障害\nTikTok: jikoken_o4iq\nチャットNGですごめんなさい",
+        "id": "2076698212216516608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092005945417384366",
+        "name": "自己嫌悪",
+        "pinned_tweet_id": "2091959380744998985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076698212216516608/1785987871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082277240369508352/9NCIEZMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 62,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "jikokeno4iq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1947308454445502672",
+    "created_at": "2025-07-22T17:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947706833025831380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2861347598",
+          "start": 0,
+          "username": "xuewang1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947706833025831380",
+    "in_reply_to_user_id": "2861347598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947308454445502672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuewang1997 傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1947308447730470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY6t0cXkAAFmDF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1947308447726260224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY6t0bXUAAZdrF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1947308447722029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY6t0aWwAA0yPI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1947308447738826752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwY6t0eXEAA_E8X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1947308454445502672",
+        "created_at": "2025-07-22T17:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947706833025831380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2861347598",
+              "start": 0,
+              "username": "xuewang1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947706833025831380",
+        "in_reply_to_user_id": "2861347598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947308454445502672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuewang1997 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947308447730470912",
+            "3_1947308447726260224",
+            "3_1947308447722029056",
+            "3_1947308447738826752"
+          ]
+        },
+        "author_id": "2861347598",
+        "conversation_id": "1947308454445502672",
+        "created_at": "2025-07-21T14:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947308454445502672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbN3nSeKls",
+              "end": 164,
+              "expanded_url": "https://x.com/xuewang1997/status/1947308454445502672/photo/1",
+              "media_key": "3_1947308447730470912",
+              "start": 141,
+              "url": "https://t.co/VbN3nSeKls"
+            },
+            {
+              "display_url": "pic.x.com/VbN3nSeKls",
+              "end": 164,
+              "expanded_url": "https://x.com/xuewang1997/status/1947308454445502672/photo/1",
+              "media_key": "3_1947308447726260224",
+              "start": 141,
+              "url": "https://t.co/VbN3nSeKls"
+            },
+            {
+              "display_url": "pic.x.com/VbN3nSeKls",
+              "end": 164,
+              "expanded_url": "https://x.com/xuewang1997/status/1947308454445502672/photo/1",
+              "media_key": "3_1947308447722029056",
+              "start": 141,
+              "url": "https://t.co/VbN3nSeKls"
+            },
+            {
+              "display_url": "pic.x.com/VbN3nSeKls",
+              "end": 164,
+              "expanded_url": "https://x.com/xuewang1997/status/1947308454445502672/photo/1",
+              "media_key": "3_1947308447738826752",
+              "start": 141,
+              "url": "https://t.co/VbN3nSeKls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947308454445502672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12915,
+          "like_count": 103,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "十年前出在大陆印刷的真相币，带出来几张。很遗憾当时录的四台佳能打印机同时快速打印真相币的视频，在加密硬盘里面打不开了。\n那两年每月都周转十几万面值的崭新真相币，除了换给其他人之外，都自己花了或换给北行周边的商家。那时每次买东西清一色都花真相币，多的时候十几张，绝大部分人都欣然接受 https://t.co/VbN3nSeKls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 433,
+          "like_count": 17883,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 875
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-17T22:35:02.000Z",
+        "description": "",
+        "id": "2861347598",
+        "location": "United States",
+        "name": "王允波",
+        "pinned_tweet_id": "683544708413407234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893826910527913984/m0XKVwlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5050,
+          "following_count": 157,
+          "like_count": 17875,
+          "listed_count": 12,
+          "media_count": 197,
+          "tweet_count": 8578
+        },
+        "username": "xuewang1997",
+        "verified": false
+      }
+    ]
+  }
+}

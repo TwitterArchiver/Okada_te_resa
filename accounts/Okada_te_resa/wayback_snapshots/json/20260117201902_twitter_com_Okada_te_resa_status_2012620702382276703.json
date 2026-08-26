@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2012445233145839720",
+    "created_at": "2026-01-17T20:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T21:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012620702382276703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012620702382276703",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012445233145839720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH 我草尼玛马斯克见钱眼开的家伙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2012445233145839720",
+        "created_at": "2026-01-17T20:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T21:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012620702382276703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012620702382276703",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012445233145839720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH 我草尼玛马斯克见钱眼开的家伙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279242635341729792",
+        "conversation_id": "2012445233145839720",
+        "created_at": "2026-01-17T08:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012445233145839720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012445233145839720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 70109,
+          "like_count": 220,
+          "quote_count": 2,
+          "reply_count": 196,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真得开个蓝v了妈的随手发东西都是几万几十万的浏览，这账号什么情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 696,
+          "like_count": 29664,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 1762
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 499,
+          "like_count": 24707,
+          "listed_count": 21,
+          "media_count": 1352,
+          "tweet_count": 17299
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

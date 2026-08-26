@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2005306881863188845",
+    "created_at": "2025-12-28T15:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005306881863188845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iLiFE_official…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/iLiFE_official/status/2005247529802502363",
+          "start": 13,
+          "url": "https://t.co/2aYi2c0Syv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005306881863188845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005247529802502363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "们ilife一直命途多舛 https://t.co/2aYi2c0Syv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2005306881863188845",
+        "created_at": "2025-12-28T15:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005306881863188845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iLiFE_official…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/iLiFE_official/status/2005247529802502363",
+              "start": 13,
+              "url": "https://t.co/2aYi2c0Syv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005306881863188845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005247529802502363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "们ilife一直命途多舛 https://t.co/2aYi2c0Syv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264835935838986241",
+        "conversation_id": "2005247529802502363",
+        "created_at": "2025-12-28T12:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005247529802502363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ion_idol_/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ion_idol_/status/2005247373107486768",
+              "start": 80,
+              "url": "https://t.co/uQQS3WzFti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005247529802502363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 799,
+          "impression_count": 9681167,
+          "like_count": 26226,
+          "quote_count": 3711,
+          "reply_count": 596,
+          "retweet_count": 2764
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005247373107486768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この脱退に伴いiLiFE!サポートメンバーとしての活動も本日をもって終了とさせていただきます。\n大変申し訳ございません。\nご理解の程よろしくお願いいたします。 https://t.co/uQQS3WzFti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 668,
+          "like_count": 28206,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 1670
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T08:29:35.000Z",
+        "description": "2026年8月26日Kアリーナ横浜。「私と貴方で作る、アイドルライフ！ 」◇スケジュール【https://t.co/4UXebbMoEq】◆ご依頼【ilife.idol@gmail.com】 ◇公式サイト【https://t.co/KZ0WsciVpN 】ファンネーム▶︎ #アイライファー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "アイライファー"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "timetr.ee/pc/ilife_offic…",
+                "end": 68,
+                "expanded_url": "https://timetr.ee/pc/ilife_official",
+                "start": 45,
+                "url": "https://t.co/4UXebbMoEq"
+              },
+              {
+                "display_url": "ilife-heroines.com",
+                "end": 126,
+                "expanded_url": "http://ilife-heroines.com",
+                "start": 103,
+                "url": "https://t.co/KZ0WsciVpN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChVfl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChVflUz2J_jaaqYjXqvpmQA",
+                "start": 0,
+                "url": "https://t.co/MXGeIi0Aub"
+              }
+            ]
+          }
+        },
+        "id": "1264835935838986241",
+        "location": "HEROINES【ヒロインズ】",
+        "name": "iLiFE!【あいらいふ】",
+        "pinned_tweet_id": "2000525633437536392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709214308612341760/tf7tDLo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294508,
+          "following_count": 17,
+          "like_count": 86,
+          "listed_count": 1287,
+          "media_count": 3088,
+          "tweet_count": 3639
+        },
+        "url": "https://t.co/MXGeIi0Aub",
+        "username": "iLiFE_official",
+        "verified": true
+      }
+    ]
+  }
+}

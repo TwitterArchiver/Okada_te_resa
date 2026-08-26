@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2057192587765993512",
+    "created_at": "2026-05-20T20:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057192587765993512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057192587765993512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056943634185179633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 高敏感就适合去看世界 去爬山 去看海 去追赶日落 等待日出 用自然之大衬托自己的渺小 心里面那些乱七八糟的自然不会影响到自己 你也来不及去处理那些让你内耗的任何事 外面的世界太大了 与其感受复杂的人心 不如用去和自然 辽阔天地对话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2057192587765993512",
+        "created_at": "2026-05-20T20:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057192587765993512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057192587765993512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056943634185179633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 高敏感就适合去看世界 去爬山 去看海 去追赶日落 等待日出 用自然之大衬托自己的渺小 心里面那些乱七八糟的自然不会影响到自己 你也来不及去处理那些让你内耗的任何事 外面的世界太大了 与其感受复杂的人心 不如用去和自然 辽阔天地对话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2056943634185179633",
+        "created_at": "2026-05-20T03:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056943634185179633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056943634185179633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 30850,
+          "like_count": 1471,
+          "quote_count": 12,
+          "reply_count": 72,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感就适合去看世界 去爬山 去看海 去追赶日落 等待日出 用自然之大衬托自己的渺小 心里面那些乱七八糟的自然不会影响到自己 你也来不及去处理那些让你内耗的任何事 外面的世界太大了 与其感受复杂的人心 不如用去和自然 辽阔天地对话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 855,
+          "like_count": 38858,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 2802
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9563,
+          "following_count": 5,
+          "like_count": 1163,
+          "listed_count": 29,
+          "media_count": 108,
+          "tweet_count": 2345
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

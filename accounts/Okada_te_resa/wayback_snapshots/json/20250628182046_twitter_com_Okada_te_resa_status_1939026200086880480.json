@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1939018580487770460",
+    "created_at": "2025-06-28T18:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T19:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939026200086880480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686751456228179968",
+          "start": 0,
+          "username": "purechen7214741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939026200086880480",
+    "in_reply_to_user_id": "1686751456228179968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939018580487770460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@purechen7214741 好漂亮的发色！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1939018301335584768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GujG3ygWwAAeqB0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1939018580487770460",
+        "created_at": "2025-06-28T18:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939026200086880480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686751456228179968",
+              "start": 0,
+              "username": "purechen7214741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939026200086880480",
+        "in_reply_to_user_id": "1686751456228179968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939018580487770460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@purechen7214741 好漂亮的发色！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939018301335584768"
+          ]
+        },
+        "author_id": "1686751456228179968",
+        "conversation_id": "1939018580487770460",
+        "created_at": "2025-06-28T17:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939018580487770460"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "穿搭分享"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "南京男娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "交友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q16kOuekBT",
+              "end": 58,
+              "expanded_url": "https://x.com/purechen7214741/status/1939018580487770460/photo/1",
+              "media_key": "3_1939018301335584768",
+              "start": 35,
+              "url": "https://t.co/q16kOuekBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939018580487770460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 427,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "176大只清水男娘穿搭分享\n\n#男娘 #穿搭分享 #南京男娘 #交友 https://t.co/q16kOuekBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 362,
+          "like_count": 16111,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 736
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T14:51:13.000Z",
+        "description": "主包是清水……（？）\n南京男娘，约绳，不是同，maybe 4i\n喜cos，化妆苦手\n绳师摄影同好可以加好友\nzn想聊天请过门槛50\n线下约绳子或摄影，某种打开方式会发现涩涩的报吃QAQ\n接寄拍定制\n求求互推(இдஇ; )，私聊一段时间可进小群",
+        "id": "1686751456228179968",
+        "location": "江苏南京",
+        "name": "qi",
+        "pinned_tweet_id": "1920059687841522109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932366276128894976/gujO8Huh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7228,
+          "following_count": 978,
+          "like_count": 1793,
+          "listed_count": 47,
+          "media_count": 85,
+          "tweet_count": 616
+        },
+        "username": "purechen7214741",
+        "verified": false
+      }
+    ]
+  }
+}

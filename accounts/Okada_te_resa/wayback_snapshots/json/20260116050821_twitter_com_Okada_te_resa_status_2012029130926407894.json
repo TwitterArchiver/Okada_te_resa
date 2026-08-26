@@ -1,0 +1,683 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Opera",
+          "id": "869649977676505088",
+          "name": "Opera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Opera",
+          "id": "869649977676505088",
+          "name": "Opera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Theater",
+          "id": "1047537435855319040",
+          "name": "Theater"
+        }
+      }
+    ],
+    "conversation_id": "2012029130926407894",
+    "created_at": "2026-01-16T05:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T06:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012029130926407894"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "少女☆歌劇 レヴュースタァライト",
+          "probability": 0.638,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "トレーディング Aure Glass ブロマイド",
+          "probability": 0.2197,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 90,
+          "normalized_text": "Aure Glass ライトアップアクリルスタンド",
+          "probability": 0.1867,
+          "start": 66,
+          "type": "Product"
+        },
+        {
+          "end": 114,
+          "normalized_text": "Aure Glass BIGアクリルスタンド",
+          "probability": 0.4684,
+          "start": 93,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3270846866",
+          "start": 3,
+          "username": "AMNIBUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012029130926407894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011637114719572218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMNIBUS: 【予約開始】『少女☆歌劇 レヴュースタァライト』より「トレーディング Aure Glass ブロマイド」「Aure Glass ライトアップアクリルスタンド」「Aure Glass BIGアクリルスタンド」などの予約受付を開始しました！この機会にぜひご…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2011637100932972545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rFSQIbQAE-sZn.jpg",
+        "width": 1350
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2011637105068556297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rFSfibQAkxBP8.jpg",
+        "width": 1350
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2011637108323336192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rFSrqbQAA_sLV.jpg",
+        "width": 1350
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2011637112156897281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rFS58awAElR1V.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theater",
+              "id": "1047537435855319040",
+              "name": "Theater"
+            }
+          }
+        ],
+        "conversation_id": "2012029130926407894",
+        "created_at": "2026-01-16T05:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012029130926407894"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "少女☆歌劇 レヴュースタァライト",
+              "probability": 0.638,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "トレーディング Aure Glass ブロマイド",
+              "probability": 0.2197,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "Aure Glass ライトアップアクリルスタンド",
+              "probability": 0.1867,
+              "start": 66,
+              "type": "Product"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Aure Glass BIGアクリルスタンド",
+              "probability": 0.4684,
+              "start": 93,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3270846866",
+              "start": 3,
+              "username": "AMNIBUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012029130926407894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011637114719572218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMNIBUS: 【予約開始】『少女☆歌劇 レヴュースタァライト』より「トレーディング Aure Glass ブロマイド」「Aure Glass ライトアップアクリルスタンド」「Aure Glass BIGアクリルスタンド」などの予約受付を開始しました！この機会にぜひご…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011637100932972545",
+            "3_2011637105068556297",
+            "3_2011637108323336192",
+            "3_2011637112156897281"
+          ]
+        },
+        "author_id": "3270846866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Opera",
+              "id": "869649977676505088",
+              "name": "Opera"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theater",
+              "id": "1047537435855319040",
+              "name": "Theater"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2011637096096940202",
+        "created_at": "2026-01-15T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011637114719572218"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "少女☆歌劇 レヴュースタァライト",
+              "probability": 0.6791,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "トレーディング Aure Glass ブロマイド",
+              "probability": 0.283,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Aure Glass ライトアップアクリルスタンド",
+              "probability": 0.2421,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Aure Glass BIGアクリルスタンド",
+              "probability": 0.4566,
+              "start": 80,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 165,
+              "start": 158,
+              "tag": "スタァライト"
+            }
+          ],
+          "urls": [
+            {
+              "description": "少女☆歌劇 レヴュースタァライトのコラボ商品一覧",
+              "display_url": "amnibus.com/products/title…",
+              "end": 157,
+              "expanded_url": "https://amnibus.com/products/title/192",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2011637153617551360/ukqQb6zj?format=jpg&name=orig",
+                  "width": 720
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011637153617551360/ukqQb6zj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "少女☆歌劇 レヴュースタァライトのコラボ商品一覧 | AMNIBUS(アムニバス)",
+              "unwound_url": "https://amnibus.com/products/title/192",
+              "url": "https://t.co/bSVWhnFGcm"
+            },
+            {
+              "display_url": "pic.x.com/LNLqs50dZU",
+              "end": 189,
+              "expanded_url": "https://x.com/AMNIBUS/status/2011637114719572218/photo/1",
+              "media_key": "3_2011637100932972545",
+              "start": 166,
+              "url": "https://t.co/LNLqs50dZU"
+            },
+            {
+              "display_url": "pic.x.com/LNLqs50dZU",
+              "end": 189,
+              "expanded_url": "https://x.com/AMNIBUS/status/2011637114719572218/photo/1",
+              "media_key": "3_2011637105068556297",
+              "start": 166,
+              "url": "https://t.co/LNLqs50dZU"
+            },
+            {
+              "display_url": "pic.x.com/LNLqs50dZU",
+              "end": 189,
+              "expanded_url": "https://x.com/AMNIBUS/status/2011637114719572218/photo/1",
+              "media_key": "3_2011637108323336192",
+              "start": 166,
+              "url": "https://t.co/LNLqs50dZU"
+            },
+            {
+              "display_url": "pic.x.com/LNLqs50dZU",
+              "end": 189,
+              "expanded_url": "https://x.com/AMNIBUS/status/2011637114719572218/photo/1",
+              "media_key": "3_2011637112156897281",
+              "start": 166,
+              "url": "https://t.co/LNLqs50dZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011637114719572218",
+        "in_reply_to_user_id": "3270846866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 57375,
+          "like_count": 973,
+          "quote_count": 65,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011637096096940202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【予約開始】『少女☆歌劇 レヴュースタァライト』より「トレーディング Aure Glass ブロマイド」「Aure Glass ライトアップアクリルスタンド」「Aure Glass BIGアクリルスタンド」などの予約受付を開始しました！この機会にぜひご予約ください！\nhttps://t.co/bSVWhnFGcm #スタァライト https://t.co/LNLqs50dZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 689,
+          "like_count": 29545,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1748
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-07T09:38:22.000Z",
+        "description": "アニメ漫画グッズのECサイトAMNIBUSの公式アカウントです。\n※こちらのアカウントからはご質問などはお応えしておりません。ECサイトよりお問い合わせください。\n他サービスや各種SNSアカウントはこちら→https://t.co/EH2yn5LBr7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/armabianca",
+                "end": 126,
+                "expanded_url": "http://lit.link/armabianca",
+                "start": 103,
+                "url": "https://t.co/EH2yn5LBr7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amnibus.com",
+                "end": 23,
+                "expanded_url": "https://amnibus.com",
+                "start": 0,
+                "url": "https://t.co/txYN162Rug"
+              }
+            ]
+          }
+        },
+        "id": "3270846866",
+        "name": "AMNIBUS（アムニバス）",
+        "pinned_tweet_id": "2004024300177604748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/879145716509057024/xMrwpRwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210600,
+          "following_count": 53,
+          "like_count": 1299,
+          "listed_count": 700,
+          "media_count": 95512,
+          "tweet_count": 99552
+        },
+        "url": "https://t.co/txYN162Rug",
+        "username": "AMNIBUS",
+        "verified": true
+      }
+    ]
+  }
+}

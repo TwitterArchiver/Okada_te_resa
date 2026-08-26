@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shuka Saito (斉藤朱夏)",
+          "id": "1084921803040931840",
+          "name": "Shuka Saito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1985339456510144856",
+    "created_at": "2025-11-03T13:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985339456510144856"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "まつり 沼津",
+          "probability": 0.2867,
+          "start": 25,
+          "type": "Place"
+        },
+        {
+          "end": 64,
+          "normalized_text": "海空のオーロラ",
+          "probability": 0.6443,
+          "start": 58,
+          "type": "Other"
+        },
+        {
+          "end": 111,
+          "normalized_text": "沼津",
+          "probability": 0.8751,
+          "start": 110,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3801397033",
+          "start": 3,
+          "username": "Saito_Shuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985339456510144856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 359
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985338154547863757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saito_Shuka: 1年越しの地元愛まつり\n沼津ただいまっ☺︎︎♡\n３日間全力で楽しめましたか？\n\n「海空のオーロラ」も\n初披露できてよかった\nお待たせしましたっ！\n\nただいまが言える幸せだったり\nこの曲を沼津で歌えて良かったと\n噛み締める地元愛まつりでしたっ。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985338026697113601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41WaqBbQAEu8hX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1985339456510144856",
+        "created_at": "2025-11-03T13:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985339456510144856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "まつり 沼津",
+              "probability": 0.2867,
+              "start": 25,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "海空のオーロラ",
+              "probability": 0.6443,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "沼津",
+              "probability": 0.8751,
+              "start": 110,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3801397033",
+              "start": 3,
+              "username": "Saito_Shuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985339456510144856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985338154547863757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saito_Shuka: 1年越しの地元愛まつり\n沼津ただいまっ☺︎︎♡\n３日間全力で楽しめましたか？\n\n「海空のオーロラ」も\n初披露できてよかった\nお待たせしましたっ！\n\nただいまが言える幸せだったり\nこの曲を沼津で歌えて良かったと\n噛み締める地元愛まつりでしたっ。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985338026697113601"
+          ]
+        },
+        "author_id": "3801397033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shuka Saito (斉藤朱夏)",
+              "id": "1084921803040931840",
+              "name": "Shuka Saito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1985338154547863757",
+        "created_at": "2025-11-03T13:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:27:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985338038902571329",
+          "1985338154547863757"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "まつり 沼津",
+              "probability": 0.3241,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "海空のオーロラ",
+              "probability": 0.6481,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "沼津",
+              "probability": 0.8941,
+              "start": 93,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 135,
+              "tag": "じもあい2025_Day3"
+            },
+            {
+              "end": 159,
+              "start": 150,
+              "tag": "lovelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07zhm0PTe7",
+              "end": 183,
+              "expanded_url": "https://x.com/Saito_Shuka/status/1985338154547863757/photo/1",
+              "media_key": "3_1985338026697113601",
+              "start": 160,
+              "url": "https://t.co/07zhm0PTe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985338154547863757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 135,
+                "tag": "じもあい2025_Day3"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "tag": "lovelive"
+              },
+              {
+                "end": 167,
+                "start": 160,
+                "tag": "Aqours"
+              }
+            ]
+          },
+          "text": "1年越しの地元愛まつり\n沼津ただいまっ☺︎︎♡\n３日間全力で楽しめましたか？\n\n「海空のオーロラ」も\n初披露できてよかった\nお待たせしましたっ！\n\nただいまが言える幸せだったり\nこの曲を沼津で歌えて良かったと\n噛み締める地元愛まつりでしたっ。\n\n😈🍭💮🌸🍊⛵️🐬♦️✨\n#じもあい2025_Day3\n#lovelive #Aqours"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4759,
+          "like_count": 875,
+          "quote_count": 6,
+          "reply_count": 60,
+          "retweet_count": 359
+        },
+        "reply_settings": "everyone",
+        "text": "1年越しの地元愛まつり\n沼津ただいまっ☺︎︎♡\n３日間全力で楽しめましたか？\n\n「海空のオーロラ」も\n初披露できてよかった\nお待たせしましたっ！\n\nただいまが言える幸せだったり\nこの曲を沼津で歌えて良かったと\n噛み締める地元愛まつりでしたっ。\n\n😈🍭💮🌸🍊⛵️🐬♦️✨\n#じもあい2025_Day3\n#lovelive https://t.co/07zhm0PTe7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 613,
+          "like_count": 23893,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1285
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T08:36:22.000Z",
+        "description": "斉藤朱夏 公式！声優/アーティスト◎！。#lovelive #Aqours 渡辺曜/ #俺好き サザンカ/ #ワンエグ 川井リカ/ #明日ちゃんのセーラー服 福元幹 /#草食ドラゴン 水の聖女 /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "lovelive"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aqours"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "俺好き"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "ワンエグ"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "明日ちゃんのセーラー服"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "草食ドラゴン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atashi-shuka.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://atashi-shuka.bitfan.id",
+                "start": 0,
+                "url": "https://t.co/g9g3XbxyLR"
+              }
+            ]
+          }
+        },
+        "id": "3801397033",
+        "name": "斉藤 朱夏",
+        "pinned_tweet_id": "1981556714790113388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973312468727554048/W2ASPRFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382431,
+          "following_count": 478,
+          "like_count": 6964,
+          "listed_count": 8548,
+          "media_count": 2147,
+          "tweet_count": 10822
+        },
+        "url": "https://t.co/g9g3XbxyLR",
+        "username": "Saito_Shuka",
+        "verified": true
+      }
+    ]
+  }
+}

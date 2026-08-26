@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066211177814806529"
+      ],
+      "media_source_tweet_id": [
+        "2066211209611768294"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2066506564807332259",
+    "created_at": "2026-06-15T13:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066506564807332259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1715906255749795840",
+          "start": 3,
+          "username": "44knightsky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqeVRlXzfc",
+          "end": 98,
+          "expanded_url": "https://x.com/44knightsky/status/2066211209611768294/photo/1",
+          "media_key": "3_2066211177814806529",
+          "start": 75,
+          "url": "https://t.co/tqeVRlXzfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066506564807332259",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1564
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066211209611768294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @44knightsky: something about this photo feels so vintage idk i love it https://t.co/tqeVRlXzfc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2066211177814806529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyoHnSX0AEZaYJ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066211177814806529"
+          ],
+          "media_source_tweet_id": [
+            "2066211209611768294"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2066506564807332259",
+        "created_at": "2026-06-15T13:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066506564807332259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1715906255749795840",
+              "start": 3,
+              "username": "44knightsky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqeVRlXzfc",
+              "end": 98,
+              "expanded_url": "https://x.com/44knightsky/status/2066211209611768294/photo/1",
+              "media_key": "3_2066211177814806529",
+              "start": 75,
+              "url": "https://t.co/tqeVRlXzfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066506564807332259",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1564
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066211209611768294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @44knightsky: something about this photo feels so vintage idk i love it https://t.co/tqeVRlXzfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066211177814806529"
+          ]
+        },
+        "author_id": "1715906255749795840",
+        "conversation_id": "2066211209611768294",
+        "created_at": "2026-06-14T17:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066211209611768294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqeVRlXzfc",
+              "end": 81,
+              "expanded_url": "https://x.com/44knightsky/status/2066211209611768294/photo/1",
+              "media_key": "3_2066211177814806529",
+              "start": 58,
+              "url": "https://t.co/tqeVRlXzfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066211209611768294",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 954,
+          "impression_count": 476691,
+          "like_count": 27160,
+          "quote_count": 42,
+          "reply_count": 21,
+          "retweet_count": 1564
+        },
+        "reply_settings": "everyone",
+        "text": "something about this photo feels so vintage idk i love it https://t.co/tqeVRlXzfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 910,
+          "like_count": 40556,
+          "listed_count": 4,
+          "media_count": 647,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T01:42:22.000Z",
+        "description": "the luck is ours alone 💫",
+        "id": "1715906255749795840",
+        "location": "✞",
+        "name": "ivanna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929341680609566720/WyTxcurL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 311,
+          "like_count": 25157,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 8015
+        },
+        "username": "44knightsky",
+        "verified": false
+      }
+    ]
+  }
+}

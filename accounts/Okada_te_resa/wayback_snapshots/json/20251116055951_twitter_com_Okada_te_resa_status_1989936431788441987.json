@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1012687082622410752",
+          "name": "Inazuma Eleven"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1012687082622410752",
+          "name": "Inazuma Eleven"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1989936431788441987",
+    "created_at": "2025-11-16T05:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T06:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989936431788441987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tkzwgrs/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/tkzwgrs/status/1989669501928182016",
+          "start": 4,
+          "url": "https://t.co/YYV9Exo7Ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989936431788441987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989669501928182016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要接 https://t.co/YYV9Exo7Ge"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45210,
+        "height": 1080,
+        "media_key": "7_1989669429156687872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989669429156687872/pu/img/wIIaVSDXMeZLcstb.jpg",
+        "public_metrics": {
+          "view_count": 1937736
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989669429156687872/pu/vid/avc1/640x360/jhfhqhjMVAD0xHcv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989669429156687872/pu/pl/plxj-Vjo4USj2AWo.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989669429156687872/pu/vid/avc1/1920x1080/uJyo-d6B3QIO9tlG.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989669429156687872/pu/vid/avc1/480x270/W9EccXZFvCVeIC2o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989669429156687872/pu/vid/avc1/1280x720/3djjKwzLl-EtiwfH.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012687082622410752",
+              "name": "Inazuma Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012687082622410752",
+              "name": "Inazuma Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1989936431788441987",
+        "created_at": "2025-11-16T05:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989936431788441987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tkzwgrs/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/tkzwgrs/status/1989669501928182016",
+              "start": 4,
+              "url": "https://t.co/YYV9Exo7Ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989936431788441987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989669501928182016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要接 https://t.co/YYV9Exo7Ge"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989669429156687872"
+          ]
+        },
+        "author_id": "1212617657003859968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012687082622410752",
+              "name": "Inazuma Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012687082622410752",
+              "name": "Inazuma Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1989669501928182016",
+        "created_at": "2025-11-15T12:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989669501928182016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "イナズマイレブン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2Efcjqee6",
+              "end": 79,
+              "expanded_url": "https://x.com/tkzwgrs/status/1989669501928182016/video/1",
+              "media_key": "7_1989669429156687872",
+              "start": 56,
+              "url": "https://t.co/i2Efcjqee6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989669501928182016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3511,
+          "impression_count": 4084797,
+          "like_count": 29389,
+          "quote_count": 598,
+          "reply_count": 280,
+          "retweet_count": 2703
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】パパ活女子に2万円を払い、なぜかパパ活ではなくサッカーを全力で楽しむ謎の男が出現\n\n#イナズマイレブン https://t.co/i2Efcjqee6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986939510966665216/FiteFXKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 627,
+          "like_count": 24730,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 1337
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T06:12:41.000Z",
+        "description": "Twitterの“今”がわかる！話題の事件などを1ツイートでわかりやすくまとめます。タバコ休憩にちょうどいいアカウントを目指しています。タレコミやお仕事のご依頼はDMまで。\n専属フェミニズムアドバイザー:  @minorit403 避難垢:@subgare3 削除要請はgrsakujo@Gメールドットコムまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "minorit403"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "subgare3"
+              }
+            ]
+          }
+        },
+        "id": "1212617657003859968",
+        "name": "滝沢ガレソ",
+        "pinned_tweet_id": "1989286932703285743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908133544586817536/nmB3e5q3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953805,
+          "following_count": 3939,
+          "like_count": 12812,
+          "listed_count": 7021,
+          "media_count": 13255,
+          "tweet_count": 43993
+        },
+        "username": "tkzwgrs",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009848660117602305"
+      ],
+      "media_source_tweet_id": [
+        "2009848761506509104"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2009906362382434529",
+    "created_at": "2026-01-10T08:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009906362382434529"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 52,
+          "tag": "Arknights"
+        },
+        {
+          "end": 71,
+          "start": 63,
+          "tag": "cosplay"
+        },
+        {
+          "end": 79,
+          "start": 72,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "明日方舟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1986087437672833024",
+          "start": 3,
+          "username": "LamechCasluhim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W0qLtVU7Fl",
+          "end": 109,
+          "expanded_url": "https://x.com/LamechCasluhim/status/2009848761506509104/photo/1",
+          "media_key": "3_2009848660117602305",
+          "start": 86,
+          "url": "https://t.co/W0qLtVU7Fl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009906362382434529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009848761506509104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LamechCasluhim: Lappland/ラップランド\nShall we dance?\n#Arknights #cosplay #アークナイツ #明日方舟 https://t.co/W0qLtVU7Fl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3601,
+        "media_key": "3_2009848660117602305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-RqtS6awAE6NOf.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009848660117602305"
+          ],
+          "media_source_tweet_id": [
+            "2009848761506509104"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2009906362382434529",
+        "created_at": "2026-01-10T08:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009906362382434529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "Arknights"
+            },
+            {
+              "end": 71,
+              "start": 63,
+              "tag": "cosplay"
+            },
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "明日方舟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1986087437672833024",
+              "start": 3,
+              "username": "LamechCasluhim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0qLtVU7Fl",
+              "end": 109,
+              "expanded_url": "https://x.com/LamechCasluhim/status/2009848761506509104/photo/1",
+              "media_key": "3_2009848660117602305",
+              "start": 86,
+              "url": "https://t.co/W0qLtVU7Fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009906362382434529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009848761506509104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LamechCasluhim: Lappland/ラップランド\nShall we dance?\n#Arknights #cosplay #アークナイツ #明日方舟 https://t.co/W0qLtVU7Fl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009848660117602305"
+          ]
+        },
+        "author_id": "1986087437672833024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2009848761506509104",
+        "created_at": "2026-01-10T04:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009848761506509104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "Arknights"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "cosplay"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0qLtVU7Fl",
+              "end": 89,
+              "expanded_url": "https://x.com/LamechCasluhim/status/2009848761506509104/photo/1",
+              "media_key": "3_2009848660117602305",
+              "start": 66,
+              "url": "https://t.co/W0qLtVU7Fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009848761506509104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3669,
+          "like_count": 548,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "Lappland/ラップランド\nShall we dance?\n#Arknights #cosplay #アークナイツ #明日方舟 https://t.co/W0qLtVU7Fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 678,
+          "like_count": 29031,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 1712
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T15:06:00.000Z",
+        "description": "Cosplayer, Lamech拉麦。是本人账号～Instagram/Tiktok/抖音/bilibili/Redbook id：Lamech拉麦。\n🚫AI，🚫高仿，🚫repost！请勿AI或盗图。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/eTa4ghSFLHs",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/eTa4ghSFLHs",
+                "start": 0,
+                "url": "https://t.co/qxJdzFXBX7"
+              }
+            ]
+          }
+        },
+        "id": "1986087437672833024",
+        "name": "Lamech拉麦",
+        "pinned_tweet_id": "2008660059728027786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986088203254935553/GyxYpF-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8698,
+          "following_count": 14,
+          "like_count": 209,
+          "listed_count": 28,
+          "media_count": 58,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/qxJdzFXBX7",
+        "username": "LamechCasluhim",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937927523469570048"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1937927527475122232",
+    "created_at": "2025-06-25T17:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937927527475122232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RaFnymn4fZ",
+          "end": 38,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1937927527475122232/photo/1",
+          "media_key": "3_1937927523469570048",
+          "start": 15,
+          "url": "https://t.co/RaFnymn4fZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937927527475122232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要不要再拍点照片当存货（？ https://t.co/RaFnymn4fZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1937927523469570048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTm0KTbMAA1B-Y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937927523469570048"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1937927527475122232",
+        "created_at": "2025-06-25T17:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937927527475122232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaFnymn4fZ",
+              "end": 38,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1937927527475122232/photo/1",
+              "media_key": "3_1937927523469570048",
+              "start": 15,
+              "url": "https://t.co/RaFnymn4fZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937927527475122232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要不要再拍点照片当存货（？ https://t.co/RaFnymn4fZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 354,
+          "like_count": 15744,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 716
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

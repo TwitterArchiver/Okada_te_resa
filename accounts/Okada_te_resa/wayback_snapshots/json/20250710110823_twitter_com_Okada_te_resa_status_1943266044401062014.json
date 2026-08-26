@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1943244522068029746",
+    "created_at": "2025-07-10T11:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T12:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943266044401062014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943266044401062014",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943244522068029746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 哇这个骚笔我真想一几把草死"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8205,
+        "height": 1280,
+        "media_key": "13_1943244447480745984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943244447480745984/img/QsRrMG1URIb5_r_G.jpg",
+        "public_metrics": {
+          "view_count": 5482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943244447480745984/vid/avc1/320x568/-qkP3J-59sX3zGtv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943244447480745984/vid/avc1/480x852/8Em8RTDtVGOpBv2J.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943244447480745984/vid/avc1/720x1280/jCRnUvYwPWryrzad.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943244447480745984/pl/e5Tx1TwnuMYqRvRB.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1943244522068029746",
+        "created_at": "2025-07-10T11:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943266044401062014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943266044401062014",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943244522068029746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 哇这个骚笔我真想一几把草死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943244447480745984"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1943244522068029746",
+        "created_at": "2025-07-10T09:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943244522068029746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2aKWfOT2c",
+              "end": 31,
+              "expanded_url": "https://x.com/akui1121/status/1943244522068029746/video/1",
+              "media_key": "13_1943244447480745984",
+              "start": 8,
+              "url": "https://t.co/K2aKWfOT2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943244522068029746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16856,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹们，开张了 https://t.co/K2aKWfOT2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 400,
+          "like_count": 17023,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 804
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！男娘！👻你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121 母🐶@1965chich",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "1965chich"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930435608746569730/RgFfuLcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20585,
+          "following_count": 1105,
+          "like_count": 17859,
+          "listed_count": 57,
+          "media_count": 773,
+          "tweet_count": 10299
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084979654730100736"
+      ],
+      "media_source_tweet_id": [
+        "2084979667359162463"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2085377387911577883",
+    "created_at": "2026-08-06T14:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085377387911577883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654515421025021952",
+          "start": 3,
+          "username": "puritako8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCPoa9qcRc",
+          "end": 43,
+          "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+          "media_key": "13_2084979654730100736",
+          "start": 20,
+          "url": "https://t.co/fCPoa9qcRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085377387911577883",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084979667359162463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @puritako8: ☆*。🐇 https://t.co/fCPoa9qcRc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 720,
+        "media_key": "13_2084979654730100736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084979654730100736/img/O8CEvgnMqyIrAY0Z.jpg",
+        "public_metrics": {
+          "view_count": 388413
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/480x270/ScJxjgXEZYIrgqnk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/640x360/jkG7Up5VP_efJoAx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/1280x720/uty03Yg-TAv1kz-r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/pl/e5KaHqIb3HNadHJo.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ]
+        },
+        "author_id": "1654515421025021952",
+        "conversation_id": "2084979667359162463",
+        "created_at": "2026-08-05T12:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084979667359162463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCPoa9qcRc",
+              "end": 28,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 5,
+              "url": "https://t.co/fCPoa9qcRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084979667359162463",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8664,
+          "impression_count": 669671,
+          "like_count": 81189,
+          "quote_count": 177,
+          "reply_count": 0,
+          "retweet_count": 11452
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "☆*。🐇 https://t.co/fCPoa9qcRc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ],
+          "media_source_tweet_id": [
+            "2084979667359162463"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2085377387911577883",
+        "created_at": "2026-08-06T14:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085377387911577883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654515421025021952",
+              "start": 3,
+              "username": "puritako8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCPoa9qcRc",
+              "end": 43,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 20,
+              "url": "https://t.co/fCPoa9qcRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085377387911577883",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084979667359162463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @puritako8: ☆*。🐇 https://t.co/fCPoa9qcRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 1004,
+          "like_count": 44433,
+          "listed_count": 5,
+          "media_count": 748,
+          "tweet_count": 3429
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T15:56:41.000Z",
+        "description": "oc rkgk 無断転載禁止",
+        "id": "1654515421025021952",
+        "name": "犬ポ",
+        "pinned_tweet_id": "2084679830688375080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079734517489963008/_zmQ27VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11591,
+          "following_count": 0,
+          "like_count": 2965,
+          "listed_count": 43,
+          "media_count": 997,
+          "tweet_count": 1078
+        },
+        "url": "",
+        "username": "puritako8",
+        "verified": false
+      }
+    ]
+  }
+}

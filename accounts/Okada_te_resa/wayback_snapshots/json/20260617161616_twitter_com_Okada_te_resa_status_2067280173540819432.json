@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2067261626387222911",
+    "created_at": "2026-06-17T16:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067280173540819432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025557973624573953",
+          "start": 0,
+          "username": "8w12eUmmcX52697"
+        },
+        {
+          "end": 28,
+          "id": "1510447851507261445",
+          "start": 17,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067280173540819432",
+    "in_reply_to_user_id": "2025557973624573953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067269384658452608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8w12eUmmcX52697 @LanziiLove 滞纳猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2067261626387222911",
+        "created_at": "2026-06-17T16:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067280173540819432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025557973624573953",
+              "start": 0,
+              "username": "8w12eUmmcX52697"
+            },
+            {
+              "end": 28,
+              "id": "1510447851507261445",
+              "start": 17,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067280173540819432",
+        "in_reply_to_user_id": "2025557973624573953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067269384658452608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8w12eUmmcX52697 @LanziiLove 滞纳猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025557973624573953",
+        "conversation_id": "2067261626387222911",
+        "created_at": "2026-06-17T15:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067269384658452608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269384658452608",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067261626387222911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 死人妖想得真美，天天出来恶心正常人想过正常人的感受吗，你配吗你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 911,
+          "like_count": 40578,
+          "listed_count": 4,
+          "media_count": 650,
+          "tweet_count": 3062
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T13:07:17.000Z",
+        "description": "OK啊兄弟们，我也是又又又又又又再次重生了！依旧是来自北京的儒雅随和大学生，礼貌交友\n老婆:@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "2025557973624573953",
+        "name": "速溶奶酪(不灭版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025561204266295296/ahZbzrz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 106,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 253
+        },
+        "username": "8w12eUmmcX52697",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25573,
+          "following_count": 1260,
+          "like_count": 3129,
+          "listed_count": 79,
+          "media_count": 464,
+          "tweet_count": 2797
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

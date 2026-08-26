@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2032439729279603152",
+    "created_at": "2026-03-13T12:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T13:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032441069661790599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032441069661790599",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032439729279603152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2032439729279603152",
+        "created_at": "2026-03-13T12:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032441069661790599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032441069661790599",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032439729279603152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032439729279603152",
+        "created_at": "2026-03-13T12:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032439729279603152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032439729279603152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "❄️400fo感谢一路陪伴❄️\n粉丝福利此帖评论参与抽奖！\n一等奖两盒普瑞巴林（折现39¥）\n二等奖一份dq暴风雪（折现30¥）\n三等奖两盒愈美片（折现20¥）\n        ❄️爱来自不眠雪❄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 726,
+          "like_count": 34637,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 2131
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032097446290211194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 228,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 211
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

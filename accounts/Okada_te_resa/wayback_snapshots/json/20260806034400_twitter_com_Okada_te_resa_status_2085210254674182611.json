@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2085210254674182611",
+    "created_at": "2026-08-06T03:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085210254674182611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Singe81719Gupt…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Singe81719Gupta/status/2085147534750888108",
+          "start": 15,
+          "url": "https://t.co/H6Q5LP8M9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085210254674182611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085147534750888108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽三个立石凛和一个yuno https://t.co/H6Q5LP8M9x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_2085144783765540864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_sIh2akAAzvSp.png",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2085210254674182611",
+        "created_at": "2026-08-06T03:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085210254674182611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Singe81719Gupt…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Singe81719Gupta/status/2085147534750888108",
+              "start": 15,
+              "url": "https://t.co/H6Q5LP8M9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085210254674182611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085147534750888108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽三个立石凛和一个yuno https://t.co/H6Q5LP8M9x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085144783765540864"
+          ]
+        },
+        "author_id": "1814650353184653312",
+        "conversation_id": "2085147534750888108",
+        "created_at": "2026-08-05T23:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T00:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085147534750888108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDLt7b3zF5",
+              "end": 51,
+              "expanded_url": "https://x.com/Singe81719Gupta/status/2085147534750888108/photo/1",
+              "media_key": "3_2085144783765540864",
+              "start": 28,
+              "url": "https://t.co/BDLt7b3zF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085147534750888108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1435,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "みんな彼氏いない、、、\nどれと付き合う？(私は一番右) https://t.co/BDLt7b3zF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 1002,
+          "like_count": 44397,
+          "listed_count": 5,
+          "media_count": 747,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:15:54.000Z",
+        "description": "♥︎|ω･ᐡ꒱: 萌きゅん人生\n🗝️→@EnergySWales",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "EnergySWales"
+              }
+            ]
+          }
+        },
+        "id": "1814650353184653312",
+        "name": "くろみはおれのもの❤︎",
+        "pinned_tweet_id": "2046906104387641850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044408411316686848/9to1Mg6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7308,
+          "following_count": 25,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 71,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "Singe81719Gupta",
+        "verified": false
+      }
+    ]
+  }
+}

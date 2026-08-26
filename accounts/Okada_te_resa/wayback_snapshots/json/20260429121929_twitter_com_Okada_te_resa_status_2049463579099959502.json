@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049359487371485184"
+      ],
+      "media_source_tweet_id": [
+        "2049359492446658688"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2049463579099959502",
+    "created_at": "2026-04-29T12:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049463579099959502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049186369361289216",
+          "start": 3,
+          "username": "Ayn_kitkia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGrlQmYy8H",
+          "end": 49,
+          "expanded_url": "https://x.com/Ayn_kitkia/status/2049359492446658688/photo/1",
+          "media_key": "3_2049359487371485184",
+          "start": 26,
+          "url": "https://t.co/zGrlQmYy8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049463579099959502",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049359492446658688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayn_kitkia: 陰キャ男子高校生（ https://t.co/zGrlQmYy8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2049359487371485184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDJmIXaoAAjOVF.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049359487371485184"
+          ],
+          "media_source_tweet_id": [
+            "2049359492446658688"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2049463579099959502",
+        "created_at": "2026-04-29T12:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049463579099959502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049186369361289216",
+              "start": 3,
+              "username": "Ayn_kitkia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGrlQmYy8H",
+              "end": 49,
+              "expanded_url": "https://x.com/Ayn_kitkia/status/2049359492446658688/photo/1",
+              "media_key": "3_2049359487371485184",
+              "start": 26,
+              "url": "https://t.co/zGrlQmYy8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049463579099959502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049359492446658688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayn_kitkia: 陰キャ男子高校生（ https://t.co/zGrlQmYy8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049359487371485184"
+          ]
+        },
+        "author_id": "2049186369361289216",
+        "conversation_id": "2049359492446658688",
+        "created_at": "2026-04-29T05:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049359492446658688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGrlQmYy8H",
+              "end": 33,
+              "expanded_url": "https://x.com/Ayn_kitkia/status/2049359492446658688/photo/1",
+              "media_key": "3_2049359487371485184",
+              "start": 10,
+              "url": "https://t.co/zGrlQmYy8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049359492446658688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2032,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "陰キャ男子高校生（ https://t.co/zGrlQmYy8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 796,
+          "like_count": 37514,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 2612
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "aya避難所//本垢@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "location": "東京",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2049359492446658688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049189804009771009/bhJbWDz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 36,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

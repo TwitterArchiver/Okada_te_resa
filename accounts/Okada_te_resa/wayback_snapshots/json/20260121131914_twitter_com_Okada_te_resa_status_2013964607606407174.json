@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2013864763529535978",
+    "created_at": "2026-01-21T13:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013964607606407174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011805883937013766",
+          "start": 0,
+          "username": "N552AAN552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013964607606407174",
+    "in_reply_to_user_id": "2011805883937013766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013864763529535978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AAN552AA 也够碰上也够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2013864763529535978",
+        "created_at": "2026-01-21T13:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013964607606407174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011805883937013766",
+              "start": 0,
+              "username": "N552AAN552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013964607606407174",
+        "in_reply_to_user_id": "2011805883937013766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013864763529535978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AAN552AA 也够碰上也够了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011805883937013766",
+        "conversation_id": "2013864763529535978",
+        "created_at": "2026-01-21T06:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013864763529535978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013864763529535978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3483,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我加上唐毓文微信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 648,
+          "like_count": 29951,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 1792
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:21:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/断续含糖/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/imSQNaN8M8"
+              }
+            ]
+          }
+        },
+        "id": "2011805883937013766",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（五代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011806091517313029/rq4MKgBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 62,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/imSQNaN8M8",
+        "username": "N552AAN552AA",
+        "verified": false
+      }
+    ]
+  }
+}

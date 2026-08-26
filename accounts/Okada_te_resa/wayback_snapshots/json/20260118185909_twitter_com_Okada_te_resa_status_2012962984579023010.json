@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2012895509321560155",
+    "created_at": "2026-01-18T18:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012962984579023010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1731243248205852672",
+          "start": 0,
+          "username": "1srain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012962984579023010",
+    "in_reply_to_user_id": "1731243248205852672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012895509321560155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1srain 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2012895509321560155",
+        "created_at": "2026-01-18T18:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012962984579023010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1731243248205852672",
+              "start": 0,
+              "username": "1srain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012962984579023010",
+        "in_reply_to_user_id": "1731243248205852672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012895509321560155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1srain 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731243248205852672",
+        "conversation_id": "2012895509321560155",
+        "created_at": "2026-01-18T14:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012895509321560155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012895509321560155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日s日记\n小狗➕1\n被我给调坏了，洗澡的时候腿都是软的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 699,
+          "like_count": 29771,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 1769
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T09:25:39.000Z",
+        "description": "我是浅羽見崎、门槛188/288/488。我很可爱请给我打钱",
+        "id": "1731243248205852672",
+        "location": "★狐狐",
+        "name": "浅羽叁崎",
+        "pinned_tweet_id": "2010822495708852502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945834000592898/UQRHJ-xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7321,
+          "following_count": 176,
+          "like_count": 9366,
+          "listed_count": 14,
+          "media_count": 608,
+          "tweet_count": 3294
+        },
+        "username": "1srain",
+        "verified": false
+      }
+    ]
+  }
+}

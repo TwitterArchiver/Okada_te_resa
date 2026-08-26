@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "2069549992193524019",
+    "created_at": "2026-06-24T04:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069644332584603762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069644332584603762",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069608445368799397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll 寿司郎的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2069549992193524019",
+        "created_at": "2026-06-24T04:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069644332584603762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069644332584603762",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069608445368799397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 寿司郎的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169174984389885952",
+        "conversation_id": "2069549992193524019",
+        "created_at": "2026-06-24T02:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069608445368799397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069608445368799397",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069549992193524019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 逆天了哈哈哈哈哈哈哈哈哈谁的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 920,
+          "like_count": 41054,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 3121
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 595,
+          "like_count": 14166,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 4592
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2035718458160320621",
+    "created_at": "2026-03-22T14:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035718458160320621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearemon/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/dearemon/status/2035503769740558812",
+          "start": 8,
+          "url": "https://t.co/0gl5QxWn3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035718458160320621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035503769740558812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要你不离开我 https://t.co/0gl5QxWn3v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2035503761653968896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-P4vxbMAAWgLt.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2035718458160320621",
+        "created_at": "2026-03-22T14:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035718458160320621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dearemon/status/2035503769740558812",
+              "start": 8,
+              "url": "https://t.co/0gl5QxWn3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035718458160320621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035503769740558812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要你不离开我 https://t.co/0gl5QxWn3v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035503761653968896"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2035503769740558812",
+        "created_at": "2026-03-21T23:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T00:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035503769740558812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gm4lnhz34L",
+              "end": 35,
+              "expanded_url": "https://x.com/dearemon/status/2035503769740558812/photo/1",
+              "media_key": "3_2035503761653968896",
+              "start": 12,
+              "url": "https://t.co/gm4lnhz34L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035503769740558812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5734,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "只要你不嫌弃我就行了啊 https://t.co/gm4lnhz34L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 733,
+          "like_count": 35310,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 2235
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48489,
+          "following_count": 629,
+          "like_count": 5543,
+          "listed_count": 192,
+          "media_count": 25527,
+          "tweet_count": 375145
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

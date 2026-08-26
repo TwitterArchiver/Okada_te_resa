@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2023759786496717253",
+    "created_at": "2026-02-18T10:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024063298992226727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024063298992226727",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023759786496717253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 你傻逼吧水色是n55专属吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1567,
+        "media_key": "3_2023759644225847296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXWrJDaQAAjigr.jpg",
+        "width": 1062
+      },
+      {
+        "height": 313,
+        "media_key": "3_2023759644230111232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXWrJEbUAATrea.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2023759786496717253",
+        "created_at": "2026-02-18T10:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024063298992226727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024063298992226727",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023759786496717253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 你傻逼吧水色是n55专属吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023759644225847296",
+            "3_2023759644230111232"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023759786496717253",
+        "created_at": "2026-02-17T14:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023759786496717253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "ill"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "n55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/svweGhhfDd",
+              "end": 68,
+              "expanded_url": "https://x.com/520illusion/status/2023759786496717253/photo/1",
+              "media_key": "3_2023759644225847296",
+              "start": 45,
+              "url": "https://t.co/svweGhhfDd"
+            },
+            {
+              "display_url": "pic.x.com/svweGhhfDd",
+              "end": 68,
+              "expanded_url": "https://x.com/520illusion/status/2023759786496717253/photo/1",
+              "media_key": "3_2023759644230111232",
+              "start": 45,
+              "url": "https://t.co/svweGhhfDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023759786496717253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17148,
+          "like_count": 151,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "N55总是会以各种意想不到的形式出现在我的身边 有点想笑又有点想哭\n\n#ill #n55 https://t.co/svweGhhfDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 693,
+          "like_count": 32817,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 1973
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "所有的过去都将成为背景 迎接即将破晓的黎明",
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市鄞州中学高三9班",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "2022147602737954859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3325,
+          "following_count": 304,
+          "like_count": 7155,
+          "listed_count": 5,
+          "media_count": 563,
+          "tweet_count": 4534
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1897352599185379531",
+    "created_at": "2025-12-16T12:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000900237628510269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514441033018314753",
+          "start": 0,
+          "username": "shiqi050201107"
+        },
+        {
+          "end": 30,
+          "id": "1996509433803976704",
+          "start": 16,
+          "username": "wenxin1184165"
+        },
+        {
+          "end": 43,
+          "id": "1985558429566713857",
+          "start": 31,
+          "username": "qihaolanmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000900237628510269",
+    "in_reply_to_user_id": "1514441033018314753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000825907007906015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiqi050201107 @wenxin1184165 @qihaolanmao bro户口本自己单走的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1897352599185379531",
+        "created_at": "2025-12-16T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000900237628510269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514441033018314753",
+              "start": 0,
+              "username": "shiqi050201107"
+            },
+            {
+              "end": 30,
+              "id": "1996509433803976704",
+              "start": 16,
+              "username": "wenxin1184165"
+            },
+            {
+              "end": 43,
+              "id": "1985558429566713857",
+              "start": 31,
+              "username": "qihaolanmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000900237628510269",
+        "in_reply_to_user_id": "1514441033018314753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000825907007906015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiqi050201107 @wenxin1184165 @qihaolanmao bro户口本自己单走的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514441033018314753",
+        "conversation_id": "1897352599185379531",
+        "created_at": "2025-12-16T07:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000825907007906015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996509433803976704",
+              "start": 0,
+              "username": "wenxin1184165"
+            },
+            {
+              "end": 27,
+              "id": "1985558429566713857",
+              "start": 15,
+              "username": "qihaolanmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000825907007906015",
+        "in_reply_to_user_id": "1996509433803976704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000817142711902396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenxin1184165 @qihaolanmao 我要是看一个福利视频你全家都死的你敢不敢保证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 654,
+          "like_count": 27286,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1616
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T03:11:04.000Z",
+        "description": "可以涩涩｜也可以当心理导师｜蓝V认证\n解答情感心理和其他问题过🚪（可商量没固定），不满意可退款   专业鉴别骗子女S女M，是骗子会发到主页希望友友们避雷这些下贱胚子    匿名信在下方👇\n认证过的女推在我的亮点里，还请见谅\n接陪聊🚪陪玩🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shiqi050201107",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shiqi050201107",
+                "start": 0,
+                "url": "https://t.co/msbG1i4CXv"
+              }
+            ]
+          }
+        },
+        "id": "1514441033018314753",
+        "location": "有任何问题或需要，欢迎私信🫰",
+        "name": "拾柒（鉴别骗子版）",
+        "pinned_tweet_id": "1897352599185379531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897329048709210112/qrAreslm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 64,
+          "like_count": 692,
+          "listed_count": 8,
+          "media_count": 399,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/msbG1i4CXv",
+        "username": "shiqi050201107",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-04T09:20:25.000Z",
+        "description": "不约。请我喝奶茶呢我会好开心！\n清纯女大在实习，嘴臭拉黑。不感兴趣的聊天不回。回表情就是私信上限啦，聊天一半不回消息就是摸鱼被抓到啦",
+        "id": "1996509433803976704",
+        "name": "小欣睡懒觉",
+        "pinned_tweet_id": "1997347225002000813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997255978560237568/XB7WazZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 37,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 96
+        },
+        "username": "wenxin1184165",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T04:03:37.000Z",
+        "description": "",
+        "id": "1985558429566713857",
+        "name": "七号懒猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985558529202405376/DGTn7wl0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "qihaolanmao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027091495267024896"
+      ],
+      "media_source_tweet_id": [
+        "2027091504607756592"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2027122696556003604",
+    "created_at": "2026-02-26T20:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T21:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027122696556003604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414269095416012806",
+          "start": 3,
+          "username": "Coconut_QuQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8eElfDFrVW",
+          "end": 40,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2027091504607756592/photo/1",
+          "media_key": "3_2027091495267024896",
+          "start": 17,
+          "url": "https://t.co/8eElfDFrVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027122696556003604",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027091504607756592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coconut_QuQ: https://t.co/8eElfDFrVW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2027091495267024896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGs-ZabQAASdtc.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027091495267024896"
+          ],
+          "media_source_tweet_id": [
+            "2027091504607756592"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2027122696556003604",
+        "created_at": "2026-02-26T20:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027122696556003604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414269095416012806",
+              "start": 3,
+              "username": "Coconut_QuQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eElfDFrVW",
+              "end": 40,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2027091504607756592/photo/1",
+              "media_key": "3_2027091495267024896",
+              "start": 17,
+              "url": "https://t.co/8eElfDFrVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027122696556003604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027091504607756592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coconut_QuQ: https://t.co/8eElfDFrVW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027091495267024896"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2027091504607756592",
+        "created_at": "2026-02-26T18:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027091504607756592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eElfDFrVW",
+              "end": 23,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2027091504607756592/photo/1",
+              "media_key": "3_2027091495267024896",
+              "start": 0,
+              "url": "https://t.co/8eElfDFrVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027091504607756592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1477,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8eElfDFrVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 704,
+          "like_count": 33473,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2021
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 14,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 17
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2031074395859595564",
+    "created_at": "2026-03-09T18:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T19:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031075059251732576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1504358451513679874",
+          "start": 0,
+          "username": "UsamiAsteria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031075059251732576",
+    "in_reply_to_user_id": "1504358451513679874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031074395859595564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UsamiAsteria 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031074392864862211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_TZjMaMAMuPVa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031074382634942464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_TY9FaAAAGVnN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2031074395859595564",
+        "created_at": "2026-03-09T18:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031075059251732576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1504358451513679874",
+              "start": 0,
+              "username": "UsamiAsteria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031075059251732576",
+        "in_reply_to_user_id": "1504358451513679874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031074395859595564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UsamiAsteria 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031074392864862211",
+            "3_2031074382634942464"
+          ]
+        },
+        "author_id": "1504358451513679874",
+        "conversation_id": "2031074395859595564",
+        "created_at": "2026-03-09T18:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031074395859595564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1767107094313160704",
+              "start": 9,
+              "username": "Okada_te_resa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWRH9UMdQ6",
+              "end": 68,
+              "expanded_url": "https://x.com/UsamiAsteria/status/2031074395859595564/photo/1",
+              "media_key": "3_2031074392864862211",
+              "start": 45,
+              "url": "https://t.co/SWRH9UMdQ6"
+            },
+            {
+              "display_url": "pic.x.com/SWRH9UMdQ6",
+              "end": 68,
+              "expanded_url": "https://x.com/UsamiAsteria/status/2031074395859595564/photo/1",
+              "media_key": "3_2031074382634942464",
+              "start": 45,
+              "url": "https://t.co/SWRH9UMdQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031074395859595564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级万分感谢谭老师@Okada_te_resa的高超技术力的妆容！！！\n也是美美拍上了！ https://t.co/SWRH9UMdQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 715,
+          "like_count": 34148,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2066
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T07:26:24.000Z",
+        "description": "//愿温柔永相伴//📷//有你在，我们会越来越幸福的@yourmaodie//",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "yourmaodie"
+              }
+            ]
+          }
+        },
+        "id": "1504358451513679874",
+        "location": "海雾村",
+        "name": "未得到寬恕的芒",
+        "pinned_tweet_id": "2021274505218531600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974753948256059393/cVixobAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 656,
+          "like_count": 6461,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 857
+        },
+        "username": "UsamiAsteria",
+        "verified": false
+      }
+    ]
+  }
+}

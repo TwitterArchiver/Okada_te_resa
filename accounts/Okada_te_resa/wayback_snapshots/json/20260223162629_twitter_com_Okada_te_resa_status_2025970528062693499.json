@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2025934484638679438",
+    "created_at": "2026-02-23T16:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025970528062693499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372954864418889731",
+          "start": 0,
+          "username": "shirleykazusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025970528062693499",
+    "in_reply_to_user_id": "1372954864418889731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025934484638679438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirleykazusa 玩这么大"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48106,
+        "height": 960,
+        "media_key": "7_2025934413079707648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025934413079707648/pu/img/jpvo_7HHiiqYmqnH.jpg",
+        "public_metrics": {
+          "view_count": 846
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025934413079707648/pu/vid/avc1/320x426/U6Dh3-5Ddb4gKJAy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025934413079707648/pu/vid/avc1/480x640/UgzpUqn7Jq2fNUNs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025934413079707648/pu/vid/avc1/720x960/1laryAPhuybSpIS4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025934413079707648/pu/pl/E_SdutmABdBqDxYX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2025934484638679438",
+        "created_at": "2026-02-23T16:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025970528062693499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372954864418889731",
+              "start": 0,
+              "username": "shirleykazusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025970528062693499",
+        "in_reply_to_user_id": "1372954864418889731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025934484638679438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirleykazusa 玩这么大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025934413079707648"
+          ]
+        },
+        "author_id": "1372954864418889731",
+        "conversation_id": "2025934484638679438",
+        "created_at": "2026-02-23T14:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025934484638679438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3RjygOCFF",
+              "end": 50,
+              "expanded_url": "https://x.com/shirleykazusa/status/2025934484638679438/video/1",
+              "media_key": "7_2025934413079707648",
+              "start": 27,
+              "url": "https://t.co/I3RjygOCFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025934484638679438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2140,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "勾引外卖小哥口射 满嘴流精 事后把点的咖啡请他喝了🤤 https://t.co/I3RjygOCFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 699,
+          "like_count": 33164,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 1996
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-19T16:55:38.000Z",
+        "description": "",
+        "id": "1372954864418889731",
+        "name": "Shirley",
+        "pinned_tweet_id": "1936313056558301656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904402407658049536/FzNBPXrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5120,
+          "following_count": 2303,
+          "like_count": 20309,
+          "listed_count": 38,
+          "media_count": 262,
+          "tweet_count": 3042
+        },
+        "username": "shirleykazusa",
+        "verified": false
+      }
+    ]
+  }
+}

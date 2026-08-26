@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041832258609541121"
+      ],
+      "media_source_tweet_id": [
+        "2041832264317988930"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2041862727736684990",
+    "created_at": "2026-04-08T12:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041862727736684990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667380334701457409",
+          "start": 3,
+          "username": "2olv0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ge1GSL0Kys",
+          "end": 41,
+          "expanded_url": "https://x.com/2olv0/status/2041832264317988930/photo/1",
+          "media_key": "3_2041832258609541121",
+          "start": 18,
+          "url": "https://t.co/Ge1GSL0Kys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041862727736684990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041832264317988930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2olv0: 事前風呂⏦ﾟ https://t.co/Ge1GSL0Kys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2041832258609541121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYLnwFa8AEWGlU.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041832258609541121"
+          ],
+          "media_source_tweet_id": [
+            "2041832264317988930"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2041862727736684990",
+        "created_at": "2026-04-08T12:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041862727736684990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667380334701457409",
+              "start": 3,
+              "username": "2olv0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ge1GSL0Kys",
+              "end": 41,
+              "expanded_url": "https://x.com/2olv0/status/2041832264317988930/photo/1",
+              "media_key": "3_2041832258609541121",
+              "start": 18,
+              "url": "https://t.co/Ge1GSL0Kys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041862727736684990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041832264317988930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2olv0: 事前風呂⏦ﾟ https://t.co/Ge1GSL0Kys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041832258609541121"
+          ]
+        },
+        "author_id": "1667380334701457409",
+        "conversation_id": "2041832264317988930",
+        "created_at": "2026-04-08T10:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041832264317988930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ge1GSL0Kys",
+              "end": 30,
+              "expanded_url": "https://x.com/2olv0/status/2041832264317988930/photo/1",
+              "media_key": "3_2041832258609541121",
+              "start": 7,
+              "url": "https://t.co/Ge1GSL0Kys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041832264317988930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 12120,
+          "like_count": 1010,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "事前風呂⏦ﾟ https://t.co/Ge1GSL0Kys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 757,
+          "like_count": 36372,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 2415
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T03:57:16.000Z",
+        "description": "有料 @x_lkoo 𓏲𑁘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "x_lkoo"
+              }
+            ]
+          }
+        },
+        "id": "1667380334701457409",
+        "name": "死u",
+        "pinned_tweet_id": "2013921363019636790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041458263557103616/y8Vai1pE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33865,
+          "following_count": 198,
+          "like_count": 20989,
+          "listed_count": 57,
+          "media_count": 20,
+          "tweet_count": 75
+        },
+        "username": "2olv0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943061999153238016"
+      ],
+      "media_source_tweet_id": [
+        "1943062009605689445"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1943300076723671497",
+    "created_at": "2025-07-10T13:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943300076723671497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "Citrus"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582889727694295041",
+          "start": 3,
+          "username": "xwivivi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/egSYVw6JkT",
+          "end": 44,
+          "expanded_url": "https://x.com/xwivivi/status/1943062009605689445/photo/1",
+          "media_key": "3_1943061999153238016",
+          "start": 21,
+          "url": "https://t.co/egSYVw6JkT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943300076723671497",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943062009605689445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xwivivi: #Citrus https://t.co/egSYVw6JkT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_1943061999153238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvckl-wW0AANzuh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943061999153238016"
+          ],
+          "media_source_tweet_id": [
+            "1943062009605689445"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1943300076723671497",
+        "created_at": "2025-07-10T13:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943300076723671497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "Citrus"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582889727694295041",
+              "start": 3,
+              "username": "xwivivi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/egSYVw6JkT",
+              "end": 44,
+              "expanded_url": "https://x.com/xwivivi/status/1943062009605689445/photo/1",
+              "media_key": "3_1943061999153238016",
+              "start": 21,
+              "url": "https://t.co/egSYVw6JkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943300076723671497",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943062009605689445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xwivivi: #Citrus https://t.co/egSYVw6JkT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943061999153238016"
+          ]
+        },
+        "author_id": "1582889727694295041",
+        "conversation_id": "1943062009605689445",
+        "created_at": "2025-07-09T21:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T22:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943062009605689445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Citrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/egSYVw6JkT",
+              "end": 31,
+              "expanded_url": "https://x.com/xwivivi/status/1943062009605689445/photo/1",
+              "media_key": "3_1943061999153238016",
+              "start": 8,
+              "url": "https://t.co/egSYVw6JkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943062009605689445",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 11952,
+          "like_count": 368,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#Citrus https://t.co/egSYVw6JkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 🚪68解锁陪聊",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 400,
+          "like_count": 17041,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 807
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T00:23:01.000Z",
+        "description": "小包包一枚🫶是本人 感觉不会经常更新啊..",
+        "id": "1582889727694295041",
+        "name": "小包包一枚",
+        "pinned_tweet_id": "1923761669588820155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892525705927299072/yEGOGu05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4691,
+          "following_count": 117,
+          "like_count": 1671,
+          "listed_count": 16,
+          "media_count": 58,
+          "tweet_count": 103
+        },
+        "username": "xwivivi",
+        "verified": false
+      }
+    ]
+  }
+}

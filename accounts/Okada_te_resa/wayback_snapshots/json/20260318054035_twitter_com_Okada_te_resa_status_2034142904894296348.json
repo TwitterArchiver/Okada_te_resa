@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2034142904894296348",
+    "created_at": "2026-03-18T05:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034142904894296348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaneY_banu/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/AkaneY_banu/status/2034077287428272428",
+          "start": 5,
+          "url": "https://t.co/b15fEEbHD1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034142904894296348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034077287428272428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈踩我 https://t.co/b15fEEbHD1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034077283112390658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp-gxGbEAITbEJ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2034142904894296348",
+        "created_at": "2026-03-18T05:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034142904894296348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaneY_banu/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AkaneY_banu/status/2034077287428272428",
+              "start": 5,
+              "url": "https://t.co/b15fEEbHD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034142904894296348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034077287428272428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈踩我 https://t.co/b15fEEbHD1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034077283112390658"
+          ]
+        },
+        "author_id": "1531145919722188803",
+        "conversation_id": "2034077287428272428",
+        "created_at": "2026-03-18T01:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034077287428272428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "293 likes, 5 comments - akaneyonezawa.banu on March 17, 2026: \". ドラム・マガジン4月号 特集『the ICONIC HEAVY DRUMMER 2026』 最強にクールなドラマーの方々と表紙を飾らせていただきました！発売中です🤘🏻🔥 #AveMujica\".",
+              "display_url": "instagram.com/p/DWAckhrEyPs/…",
+              "end": 37,
+              "expanded_url": "https://www.instagram.com/p/DWAckhrEyPs/?igsh=MWF5bTVvejJsNnY3eg==",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2034077292079812613/E6UBKWHj?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034077292079812613/E6UBKWHj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "米澤 茜 (@akaneyonezawa.banu) • Instagram photos and videos",
+              "unwound_url": "https://www.instagram.com/p/DWAckhrEyPs/",
+              "url": "https://t.co/z75M3AUyWI"
+            },
+            {
+              "display_url": "pic.x.com/Gpmdwkinso",
+              "end": 61,
+              "expanded_url": "https://x.com/AkaneY_banu/status/2034077287428272428/photo/1",
+              "media_key": "3_2034077283112390658",
+              "start": 38,
+              "url": "https://t.co/Gpmdwkinso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034077287428272428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 16963,
+          "like_count": 2219,
+          "quote_count": 8,
+          "reply_count": 14,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "Instagram更新🆙\n\nhttps://t.co/z75M3AUyWI https://t.co/Gpmdwkinso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 728,
+          "like_count": 35057,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 2191
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "2033550613636956326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945040610672476160/d56HMG_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117434,
+          "following_count": 106,
+          "like_count": 13309,
+          "listed_count": 603,
+          "media_count": 963,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": true
+      }
+    ]
+  }
+}

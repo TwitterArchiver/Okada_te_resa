@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001223363554082816"
+      ],
+      "media_source_tweet_id": [
+        "2001223474019459113"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2001314745823973770",
+    "created_at": "2025-12-17T15:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001314745823973770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431170928713494535",
+          "start": 3,
+          "username": "vega_teu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CJwCECs4Jm",
+          "end": 49,
+          "expanded_url": "https://x.com/vega_teu/status/2001223474019459113/video/1",
+          "media_key": "13_2001223363554082816",
+          "start": 26,
+          "url": "https://t.co/CJwCECs4Jm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001314745823973770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001223474019459113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vega_teu: だんだん近づいてくる〜 https://t.co/CJwCECs4Jm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001314745823973770].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001314745823973770",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001314745823973770"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13433,
+        "height": 2038,
+        "media_key": "13_2001223363554082816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001223363554082816/img/OSSP6YCyHhcm4zbZ.jpg",
+        "public_metrics": {
+          "view_count": 2518
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001223363554082816/vid/avc1/720x1216/PgOiE6p1rn1SYmYi.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001223363554082816/vid/avc1/320x540/TOeP0dJ9Z6azP2Gg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001223363554082816/pl/56GntH_6yqEcMNnJ.m3u8?v=2d9"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001223363554082816/vid/avc1/1206x2038/1MkzROqujWA53FY_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001223363554082816/vid/avc1/480x810/gMTmoouvfbM-3VJW.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001223363554082816"
+          ]
+        },
+        "author_id": "1431170928713494535",
+        "conversation_id": "2001223474019459113",
+        "created_at": "2025-12-17T09:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001223474019459113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJwCECs4Jm",
+              "end": 35,
+              "expanded_url": "https://x.com/vega_teu/status/2001223474019459113/video/1",
+              "media_key": "13_2001223363554082816",
+              "start": 12,
+              "url": "https://t.co/CJwCECs4Jm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001223474019459113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 5822,
+          "like_count": 930,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "だんだん近づいてくる〜 https://t.co/CJwCECs4Jm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 656,
+          "like_count": 27352,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1624
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T08:25:25.000Z",
+        "description": "Hello World. (@vega_teu_Lv2) | (@neonhype_zzz）| #ヴァーチャル中毒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "ヴァーチャル中毒"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "vega_teu_Lv2"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "neonhype_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@vega_teu",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@vega_teu",
+                "start": 0,
+                "url": "https://t.co/2iKRiZJuIN"
+              }
+            ]
+          }
+        },
+        "id": "1431170928713494535",
+        "location": "インターネット・エクスプローラー",
+        "name": "vega.",
+        "pinned_tweet_id": "1673987114495795202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650018237046992896/Ys6tiSBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64644,
+          "following_count": 25,
+          "like_count": 8593,
+          "listed_count": 218,
+          "media_count": 1747,
+          "tweet_count": 12730
+        },
+        "url": "https://t.co/2iKRiZJuIN",
+        "username": "vega_teu",
+        "verified": true
+      }
+    ]
+  }
+}

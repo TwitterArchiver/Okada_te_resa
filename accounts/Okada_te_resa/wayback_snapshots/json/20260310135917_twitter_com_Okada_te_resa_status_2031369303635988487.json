@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2031344972876886188",
+    "created_at": "2026-03-10T13:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031369303635988487"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "恭喜",
+          "probability": 0.5125,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031369303635988487",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031344972876886188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_2031344835840585736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDJXZyaMAg5qXF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2031344972876886188",
+        "created_at": "2026-03-10T13:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031369303635988487"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "恭喜",
+              "probability": 0.5125,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031369303635988487",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031344972876886188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031344835840585736"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2031344972876886188",
+        "created_at": "2026-03-10T12:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031344972876886188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jycg6WYSmy",
+              "end": 49,
+              "expanded_url": "https://x.com/nothousand/status/2031344972876886188/photo/1",
+              "media_key": "3_2031344835840585736",
+              "start": 26,
+              "url": "https://t.co/Jycg6WYSmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031344972876886188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暂定这个时间了。\n或许还会有变动。\n但是争取今年内 https://t.co/Jycg6WYSmy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 720,
+          "like_count": 34226,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 2074
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022925457822486528/PFJoTs_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 121,
+          "like_count": 7733,
+          "listed_count": 5,
+          "media_count": 463,
+          "tweet_count": 5143
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994025621845102594"
+      ],
+      "media_source_tweet_id": [
+        "1994025627725242516"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1994115460640526345",
+    "created_at": "2025-11-27T18:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994115460640526345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "366575671",
+          "start": 3,
+          "username": "colts_blue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6nsakwETuk",
+          "end": 46,
+          "expanded_url": "https://x.com/colts_blue/status/1994025627725242516/photo/1",
+          "media_key": "3_1994025621845102594",
+          "start": 23,
+          "url": "https://t.co/6nsakwETuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994115460640526345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994025627725242516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @colts_blue: 2人できる？ https://t.co/6nsakwETuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_1994025621845102594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wzvP8a0AI-uP2.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994025621845102594"
+          ],
+          "media_source_tweet_id": [
+            "1994025627725242516"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1994115460640526345",
+        "created_at": "2025-11-27T18:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994115460640526345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "366575671",
+              "start": 3,
+              "username": "colts_blue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nsakwETuk",
+              "end": 46,
+              "expanded_url": "https://x.com/colts_blue/status/1994025627725242516/photo/1",
+              "media_key": "3_1994025621845102594",
+              "start": 23,
+              "url": "https://t.co/6nsakwETuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994115460640526345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994025627725242516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @colts_blue: 2人できる？ https://t.co/6nsakwETuk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994025621845102594"
+          ]
+        },
+        "author_id": "366575671",
+        "conversation_id": "1994025627725242516",
+        "created_at": "2025-11-27T12:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994025627725242516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nsakwETuk",
+              "end": 30,
+              "expanded_url": "https://x.com/colts_blue/status/1994025627725242516/photo/1",
+              "media_key": "3_1994025621845102594",
+              "start": 7,
+              "url": "https://t.co/6nsakwETuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994025627725242516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 30673,
+          "like_count": 1974,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "2人できる？ https://t.co/6nsakwETuk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 651,
+          "like_count": 25873,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1481
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-02T12:35:59.000Z",
+        "description": "いつもふわふわの天然女子🫧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lin.ee/5jUMWJq",
+                "end": 23,
+                "expanded_url": "https://lin.ee/5jUMWJq",
+                "start": 0,
+                "url": "https://t.co/pMBYeWA07S"
+              }
+            ]
+          }
+        },
+        "id": "366575671",
+        "location": "癒やして？？→",
+        "name": "Kumi🧸",
+        "pinned_tweet_id": "1994025627725242516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951162799637536769/20zBz7i4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/pMBYeWA07S",
+        "username": "colts_blue",
+        "verified": false
+      }
+    ]
+  }
+}

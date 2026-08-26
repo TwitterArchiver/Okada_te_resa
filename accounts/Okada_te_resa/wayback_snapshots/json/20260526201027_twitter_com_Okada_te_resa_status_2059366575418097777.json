@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059263754299375617",
+        "3_2059263754412736512",
+        "3_2059263754328748032",
+        "3_2059263754303594496"
+      ],
+      "media_source_tweet_id": [
+        "2059263769042395597",
+        "2059263769042395597",
+        "2059263769042395597",
+        "2059263769042395597"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2059366575418097777",
+    "created_at": "2026-05-26T20:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T21:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059366575418097777"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 48,
+          "tag": "あいすを愛す"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025918214589595648",
+          "start": 3,
+          "username": "kaoilifer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s2tkCbQ3Xt",
+          "end": 79,
+          "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+          "media_key": "3_2059263754299375617",
+          "start": 56,
+          "url": "https://t.co/s2tkCbQ3Xt"
+        },
+        {
+          "display_url": "pic.x.com/s2tkCbQ3Xt",
+          "end": 79,
+          "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+          "media_key": "3_2059263754412736512",
+          "start": 56,
+          "url": "https://t.co/s2tkCbQ3Xt"
+        },
+        {
+          "display_url": "pic.x.com/s2tkCbQ3Xt",
+          "end": 79,
+          "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+          "media_key": "3_2059263754328748032",
+          "start": 56,
+          "url": "https://t.co/s2tkCbQ3Xt"
+        },
+        {
+          "display_url": "pic.x.com/s2tkCbQ3Xt",
+          "end": 79,
+          "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+          "media_key": "3_2059263754303594496",
+          "start": 56,
+          "url": "https://t.co/s2tkCbQ3Xt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059366575418097777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059263769042395597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaoilifer: プリキュアみたいできゃわいすぎる！！\nきゃわいいの秘密教えてー🤍\n#あいすを愛す https://t.co/s2tkCbQ3Xt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059263754299375617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP5eV3aAAE1O6t.jpg",
+        "width": 1128
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059263754412736512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP5eWSbwAAzdbA.jpg",
+        "width": 1122
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059263754328748032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP5eV-aMAATrbU.jpg",
+        "width": 1126
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059263754303594496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP5eV4aYAAqu4P.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059263754299375617",
+            "3_2059263754412736512",
+            "3_2059263754328748032",
+            "3_2059263754303594496"
+          ],
+          "media_source_tweet_id": [
+            "2059263769042395597",
+            "2059263769042395597",
+            "2059263769042395597",
+            "2059263769042395597"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2059366575418097777",
+        "created_at": "2026-05-26T20:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059366575418097777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025918214589595648",
+              "start": 3,
+              "username": "kaoilifer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 79,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754299375617",
+              "start": 56,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            },
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 79,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754412736512",
+              "start": 56,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            },
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 79,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754328748032",
+              "start": 56,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            },
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 79,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754303594496",
+              "start": 56,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059366575418097777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059263769042395597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaoilifer: プリキュアみたいできゃわいすぎる！！\nきゃわいいの秘密教えてー🤍\n#あいすを愛す https://t.co/s2tkCbQ3Xt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059263754299375617",
+            "3_2059263754412736512",
+            "3_2059263754328748032",
+            "3_2059263754303594496"
+          ]
+        },
+        "author_id": "2025918214589595648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2059263769042395597",
+        "created_at": "2026-05-26T13:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059263769042395597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "あいすを愛す"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 64,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754299375617",
+              "start": 41,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            },
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 64,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754412736512",
+              "start": 41,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            },
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 64,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754328748032",
+              "start": 41,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            },
+            {
+              "display_url": "pic.x.com/s2tkCbQ3Xt",
+              "end": 64,
+              "expanded_url": "https://x.com/kaoilifer/status/2059263769042395597/photo/1",
+              "media_key": "3_2059263754303594496",
+              "start": 41,
+              "url": "https://t.co/s2tkCbQ3Xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059263769042395597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5947,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "プリキュアみたいできゃわいすぎる！！\nきゃわいいの秘密教えてー🤍\n#あいすを愛す https://t.co/s2tkCbQ3Xt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 882,
+          "like_count": 39281,
+          "listed_count": 4,
+          "media_count": 597,
+          "tweet_count": 2898
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:59:13.000Z",
+        "description": "🍨🤍@ice_icol 新規のあいすちゃん推しのアイライファーです！ あまりSNSに慣れていないのでよろしくお願いします。#あいすを愛す #あいらいふぁーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "あいすを愛す"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "tag": "あいらいふぁーさんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "ice_icol"
+              }
+            ]
+          }
+        },
+        "id": "2025918214589595648",
+        "name": "かお🤍🍨",
+        "pinned_tweet_id": "2055974554166854101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040404831995834368/5BMpxTSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 1088,
+          "like_count": 19656,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 3150
+        },
+        "username": "kaoilifer",
+        "verified": false
+      }
+    ]
+  }
+}

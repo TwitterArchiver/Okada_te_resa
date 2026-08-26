@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2071760485222171092",
+    "created_at": "2026-06-30T00:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071760485222171092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "130429386",
+          "start": 3,
+          "username": "Tsiberia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071760485222171092",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071481377271517577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsiberia: 주말동안 X를 보면서 느낀 점. 한국, 중국, 일본이 사이좋게 협력하면 많은 것을 이룰수 있을 것 같은데 참 쉽지 않을 것 같다😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2071760485222171092",
+        "created_at": "2026-06-30T00:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071760485222171092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "130429386",
+              "start": 3,
+              "username": "Tsiberia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071760485222171092",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071481377271517577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsiberia: 주말동안 X를 보면서 느낀 점. 한국, 중국, 일본이 사이좋게 협력하면 많은 것을 이룰수 있을 것 같은데 참 쉽지 않을 것 같다😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "130429386",
+        "conversation_id": "2071481377271517577",
+        "created_at": "2026-06-29T06:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071481377271517577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071481377271517577",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 248444,
+          "like_count": 4288,
+          "quote_count": 67,
+          "reply_count": 688,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "주말동안 X를 보면서 느낀 점. 한국, 중국, 일본이 사이좋게 협력하면 많은 것을 이룰수 있을 것 같은데 참 쉽지 않을 것 같다😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 934,
+          "like_count": 41476,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 3177
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-07T07:58:40.000Z",
+        "description": "관심사 : 여행/ 영화/ 책읽기/ 외국어배우기/세상관찰  \n일본에 살고 있어요/ 한국어, 일본어, 영어로 글을 써요.\n\n旅行/ 映画/ 読書/ 外国語勉強/ 世界観察\n日本に居住(現)/ 韓国語、日本語、英語で投稿します",
+        "id": "130429386",
+        "name": "파란달(Bluemoon)",
+        "pinned_tweet_id": "2056717971738054988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263405965136719873/VvSQmeOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7357,
+          "following_count": 2612,
+          "like_count": 113133,
+          "listed_count": 23,
+          "media_count": 1988,
+          "tweet_count": 45890
+        },
+        "url": "",
+        "username": "Tsiberia",
+        "verified": true
+      }
+    ]
+  }
+}

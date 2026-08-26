@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2056473324616929371",
+    "created_at": "2026-05-18T20:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T21:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056473324616929371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858392178739068928",
+          "start": 3,
+          "username": "Ao8Kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056473324616929371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056142885029064842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ao8Kj: 回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2056473324616929371",
+        "created_at": "2026-05-18T20:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056473324616929371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858392178739068928",
+              "start": 3,
+              "username": "Ao8Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056473324616929371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056142885029064842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ao8Kj: 回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858392178739068928",
+        "conversation_id": "2056142885029064842",
+        "created_at": "2026-05-17T22:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056142885029064842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056142885029064842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 38103,
+          "like_count": 734,
+          "quote_count": 22,
+          "reply_count": 68,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2056455953919406168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 844,
+          "like_count": 38719,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 2790
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:10:10.000Z",
+        "description": "^_^。🚪 纯绿188/想发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkun6661",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kunkun6661",
+                "start": 0,
+                "url": "https://t.co/SkuMOBF49z"
+              }
+            ]
+          }
+        },
+        "id": "1858392178739068928",
+        "name": "困困",
+        "pinned_tweet_id": "1888356593647149334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005403869484900352/wPDtDCaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15121,
+          "following_count": 75,
+          "like_count": 2240,
+          "listed_count": 58,
+          "media_count": 169,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/SkuMOBF49z",
+        "username": "Ao8Kj",
+        "verified": false
+      }
+    ]
+  }
+}

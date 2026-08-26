@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1993018596365418597",
+    "created_at": "2025-11-25T13:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993318675814985856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1326431681167974400",
+          "start": 0,
+          "username": "Funstorytellin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993318675814985856",
+    "in_reply_to_user_id": "1326431681167974400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993018596365418597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Funstorytellin1 感觉不如the fallen area of Ming dynasty👌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1662,
+        "media_key": "3_1993018421085413377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ifscubIAEzZ3p.jpg",
+        "width": 1283
+      },
+      {
+        "height": 1633,
+        "media_key": "3_1993018421089648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ifscvbwAAiIUB.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1993018596365418597",
+        "created_at": "2025-11-25T13:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993318675814985856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1326431681167974400",
+              "start": 0,
+              "username": "Funstorytellin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993318675814985856",
+        "in_reply_to_user_id": "1326431681167974400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993018596365418597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Funstorytellin1 感觉不如the fallen area of Ming dynasty👌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993018421085413377",
+            "3_1993018421089648640"
+          ]
+        },
+        "author_id": "1326431681167974400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1993018596365418597",
+        "created_at": "2025-11-24T18:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T19:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993018596365418597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToRx9imJy6",
+              "end": 177,
+              "expanded_url": "https://x.com/Funstorytellin1/status/1993018596365418597/photo/1",
+              "media_key": "3_1993018421085413377",
+              "start": 154,
+              "url": "https://t.co/ToRx9imJy6"
+            },
+            {
+              "display_url": "pic.x.com/ToRx9imJy6",
+              "end": 177,
+              "expanded_url": "https://x.com/Funstorytellin1/status/1993018596365418597/photo/1",
+              "media_key": "3_1993018421089648640",
+              "start": 154,
+              "url": "https://t.co/ToRx9imJy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993018596365418597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3088,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "淪陷中國Fallen China\n中華民國淪陷區The fallen area of republic of China\n此翻譯為在下首用！\n沒想到現在居然被谷歌採用，甚是欣慰！\n我在美國多年給數千人講過一個🇹🇼中國就是中華民國，大陸台灣都屬於中華民國，台灣只是中華民國的一個省。大陸又稱為中華民國淪陷區。 https://t.co/ToRx9imJy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993298692238196746/e9Q6RQJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 648,
+          "like_count": 25644,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1426
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-11T07:49:09.000Z",
+        "description": "",
+        "id": "1326431681167974400",
+        "name": "EVERY LIFE MATTERS",
+        "pinned_tweet_id": "1384722302563020800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1340097930535944192/o5L-O0fJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 17,
+          "like_count": 16558,
+          "listed_count": 6,
+          "media_count": 89,
+          "tweet_count": 2768
+        },
+        "username": "Funstorytellin1",
+        "verified": false
+      }
+    ]
+  }
+}

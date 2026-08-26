@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2013151006650196052",
+    "created_at": "2026-01-27T20:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016242631118864604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016242631118864604",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013151006650196052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 好看在哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013150923447537664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AmGUdXEAAGJfY.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013150966531444736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AmI09XUAA6iuM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2013151006650196052",
+        "created_at": "2026-01-27T20:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016242631118864604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016242631118864604",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013151006650196052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 好看在哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013150923447537664",
+            "3_2013150966531444736"
+          ]
+        },
+        "author_id": "1697580552793051136",
+        "conversation_id": "2013151006650196052",
+        "created_at": "2026-01-19T07:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013151006650196052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOJpS4I4eq",
+              "end": 31,
+              "expanded_url": "https://x.com/yyc20090/status/2013151006650196052/photo/1",
+              "media_key": "3_2013150923447537664",
+              "start": 8,
+              "url": "https://t.co/pOJpS4I4eq"
+            },
+            {
+              "display_url": "pic.x.com/pOJpS4I4eq",
+              "end": 31,
+              "expanded_url": "https://x.com/yyc20090/status/2013151006650196052/photo/1",
+              "media_key": "3_2013150966531444736",
+              "start": 8,
+              "url": "https://t.co/pOJpS4I4eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013151006650196052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8886,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很丑嘛😭 https://t.co/pOJpS4I4eq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 660,
+          "like_count": 30522,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1842
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "",
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥（思念晚安版）",
+        "pinned_tweet_id": "2015226332314300888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004799068204400643/jaUwPByl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 820,
+          "like_count": 2791,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 1692
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

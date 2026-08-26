@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965092595484545025"
+      ],
+      "media_source_tweet_id": [
+        "1965092605764796535"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1965360583005630593",
+    "created_at": "2025-09-09T10:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965360583005630593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1726835477947482112",
+          "start": 3,
+          "username": "yellowsoap4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hw2LtsR6qI",
+          "end": 42,
+          "expanded_url": "https://x.com/yellowsoap4/status/1965092605764796535/photo/1",
+          "media_key": "3_1965092595484545025",
+          "start": 19,
+          "url": "https://t.co/hw2LtsR6qI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965360583005630593",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965092605764796535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yellowsoap4: 😌 https://t.co/hw2LtsR6qI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1965092595484545025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0VpTdibUAEJFCJ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965092595484545025"
+          ],
+          "media_source_tweet_id": [
+            "1965092605764796535"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1965360583005630593",
+        "created_at": "2025-09-09T10:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965360583005630593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1726835477947482112",
+              "start": 3,
+              "username": "yellowsoap4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hw2LtsR6qI",
+              "end": 42,
+              "expanded_url": "https://x.com/yellowsoap4/status/1965092605764796535/photo/1",
+              "media_key": "3_1965092595484545025",
+              "start": 19,
+              "url": "https://t.co/hw2LtsR6qI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965360583005630593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965092605764796535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yellowsoap4: 😌 https://t.co/hw2LtsR6qI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965092595484545025"
+          ]
+        },
+        "author_id": "1726835477947482112",
+        "conversation_id": "1965092605764796535",
+        "created_at": "2025-09-08T16:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965092605764796535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hw2LtsR6qI",
+              "end": 25,
+              "expanded_url": "https://x.com/yellowsoap4/status/1965092605764796535/photo/1",
+              "media_key": "3_1965092595484545025",
+              "start": 2,
+              "url": "https://t.co/hw2LtsR6qI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965092605764796535",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 41111,
+          "like_count": 871,
+          "quote_count": 18,
+          "reply_count": 20,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "😌 https://t.co/hw2LtsR6qI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 118,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 95,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 496,
+          "like_count": 20788,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 1111
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T05:30:46.000Z",
+        "description": "我就想想 ✉️ https://t.co/nTRusx0vTd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yellowsoap",
+                "end": 31,
+                "expanded_url": "https://ngl.link/yellowsoap",
+                "start": 8,
+                "url": "https://t.co/nTRusx0vTd"
+              }
+            ]
+          }
+        },
+        "id": "1726835477947482112",
+        "name": "yellowsoap",
+        "pinned_tweet_id": "1962172706604089486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938129011659706368/9tgRFIZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 17,
+          "like_count": 82,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 128
+        },
+        "username": "yellowsoap4",
+        "verified": false
+      }
+    ]
+  }
+}
