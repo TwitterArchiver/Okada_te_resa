@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T19:59:36",
+  "last_updated": "2026-08-26T20:03:23",
   "html": {
     "https://web.archive.org/web/20250515184433if_/https://twitter.com/Okada_te_resa/status/1923087121524379913": {
       "status": "done",
@@ -29632,9 +29632,9 @@
       "referenced_by": [
         "20250627171112_twitter_com_Okada_te_resa_status_1938646306546971041.json"
       ],
-      "last_updated": "2026-08-26T18:59:56",
+      "last_updated": "2026-08-26T20:00:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250627171112/https://video.twimg.com/ext_tw_video/1938640422391422980/pu/vid/avc1/720x1280/0lLJz4tXRiW4yVux.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1939983451425239040/vid/avc1/1080x1920/YvuuqwpKvQ2IIK4h.mp4?tag=16": {
       "status": "done",
@@ -29672,20 +29672,20 @@
       "last_updated": "2026-08-26T18:59:54"
     },
     "https://video.twimg.com/amplify_video/1953049891019866113/vid/avc1/720x1280/LDyWzvxYAXrsu7lp.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250806164826_twitter_com_Okada_te_resa_status_1953136091525263675.json"
       ],
-      "last_updated": "2026-08-26T19:00:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250806164826im_/https://video.twimg.com/amplify_video/1953049891019866113/vid/avc1/720x1280/LDyWzvxYAXrsu7lp.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6e6c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:00:37",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250806164826/https://video.twimg.com/amplify_video/1953049891019866113/vid/avc1/720x1280/LDyWzvxYAXrsu7lp.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1953049891011440640/vid/avc1/720x1280/v7GSqO8Mq5lXRTTd.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20250806164826_twitter_com_Okada_te_resa_status_1953136091525263675.json"
       ],
-      "last_updated": "2026-08-26T19:01:01",
+      "last_updated": "2026-08-26T20:01:03",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250806164826im_/https://video.twimg.com/amplify_video/1953049891011440640/vid/avc1/720x1280/v7GSqO8Mq5lXRTTd.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6dc70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
       "miss_count": 3
     },
@@ -29743,9 +29743,9 @@
       "referenced_by": [
         "20250928091107_twitter_com_Okada_te_resa_status_1972227562895282358.json"
       ],
-      "last_updated": "2026-08-26T19:01:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250928091107/https://video.twimg.com/ext_tw_video/1972145112865296390/pu/vid/avc1/1280x720/Yze88LwBrGpzChX_.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2d8e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250928091107im_/https://video.twimg.com/ext_tw_video/1972145112865296390/pu/vid/avc1/1280x720/Yze88LwBrGpzChX_.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678436f0b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1979475166452158464/vid/avc1/720x978/yUUZwJCCtwx2QwHz.mp4": {
       "status": "done",
@@ -29832,18 +29832,18 @@
         "20251112072215_twitter_com_Okada_te_resa_status_1988507619401887938.json",
         "20251112072436_twitter_com_Okada_te_resa_status_1988508208609325393.json"
       ],
-      "last_updated": "2026-08-26T19:01:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112072215im_/https://video.twimg.com/amplify_video/1987893516522119168/vid/avc1/1080x1920/BKpuWSryGAoCflwG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2e750>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-26T20:01:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112072215im_/https://video.twimg.com/amplify_video/1987893516522119168/vid/avc1/1080x1920/BKpuWSryGAoCflwG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431ff20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/1989639084231593984/pu/vid/avc1/720x960/CqQGlHfpa1K40Qcu.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251115171439_twitter_com_Okada_te_resa_status_1989743865381970348.json"
       ],
-      "last_updated": "2026-08-26T19:01:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251115171439im_/https://video.twimg.com/ext_tw_video/1989639084231593984/pu/vid/avc1/720x960/CqQGlHfpa1K40Qcu.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2d1c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251115171439im_/https://video.twimg.com/ext_tw_video/1989639084231593984/pu/vid/avc1/720x960/CqQGlHfpa1K40Qcu.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431c4d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989669429156687872/pu/vid/avc1/1920x1080/uJyo-d6B3QIO9tlG.mp4": {
       "status": "done",
@@ -29892,27 +29892,27 @@
       "referenced_by": [
         "20251126071653_twitter_com_Okada_te_resa_status_1993579698845368713.json"
       ],
-      "last_updated": "2026-08-26T19:01:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126071653im_/https://video.twimg.com/amplify_video/1993528992557940737/vid/avc1/1280x720/NncE6cLVySVCXEPO.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2c470>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126071653im_/https://video.twimg.com/amplify_video/1993528992557940737/vid/avc1/1280x720/NncE6cLVySVCXEPO.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e57f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1993623239495737344/vid/avc1/576x1024/DSMzdBg5-yx7TCoz.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251126153218_twitter_com_Okada_te_resa_status_1993704372912726263.json"
       ],
-      "last_updated": "2026-08-26T19:01:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126153218im_/https://video.twimg.com/amplify_video/1993623239495737344/vid/avc1/576x1024/DSMzdBg5-yx7TCoz.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2fd40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126153218im_/https://video.twimg.com/amplify_video/1993623239495737344/vid/avc1/576x1024/DSMzdBg5-yx7TCoz.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431d190>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1993517738321756164/vid/avc1/720x1280/7kMpEwy8ZiwkOeDB.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20251126155333_twitter_com_Okada_te_resa_status_1993709719064920528.json"
       ],
-      "last_updated": "2026-08-26T19:01:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126155333im_/https://video.twimg.com/amplify_video/1993517738321756164/vid/avc1/720x1280/7kMpEwy8ZiwkOeDB.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed598e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126155333im_/https://video.twimg.com/amplify_video/1993517738321756164/vid/avc1/720x1280/7kMpEwy8ZiwkOeDB.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431e930>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/Gt4CraLXsAEw515.mp4": {
       "status": "done",
@@ -30025,9 +30025,9 @@
       "referenced_by": [
         "20260116040956_twitter_com_Okada_te_resa_status_2012014430595531054.json"
       ],
-      "last_updated": "2026-08-26T19:01:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116040956/https://video.twimg.com/ext_tw_video/2012013634826960896/pu/vid/avc1/1082x720/YuZN6BG0J9g45E36.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6eab0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260116040956im_/https://video.twimg.com/ext_tw_video/2012013634826960896/pu/vid/avc1/1082x720/YuZN6BG0J9g45E36.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678436fbc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2012738742469971968/pu/vid/avc1/720x1280/tb_7oS2F5wYXrO7F.mp4": {
       "status": "done",
@@ -30069,9 +30069,9 @@
       "referenced_by": [
         "20260123195724_twitter_com_Okada_te_resa_status_2014789583280734255.json"
       ],
-      "last_updated": "2026-08-26T19:01:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260123195724im_/https://video.twimg.com/amplify_video/2014786436458020864/vid/avc1/720x978/WRPu3-1ApzDVwYpk.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed59d00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260123195724im_/https://video.twimg.com/amplify_video/2014786436458020864/vid/avc1/720x978/WRPu3-1ApzDVwYpk.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678436ed50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/FhWVgNyWIAAwib2.mp4": {
       "status": "done",
@@ -30122,9 +30122,9 @@
       "referenced_by": [
         "20260210141607_twitter_com_Okada_te_resa_status_2021226676898627958.json"
       ],
-      "last_updated": "2026-08-26T19:02:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260210141607im_/https://video.twimg.com/amplify_video/2021199503785934848/vid/avc1/590x1280/un8zbJX4SPiTbOgH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2c710>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260210141607im_/https://video.twimg.com/amplify_video/2021199503785934848/vid/avc1/590x1280/un8zbJX4SPiTbOgH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431c620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/FxviK3iXwAQhIjX.mp4": {
       "status": "done",
@@ -30152,9 +30152,9 @@
       "referenced_by": [
         "20260220063525_twitter_com_Okada_te_resa_status_2024734618503827576.json"
       ],
-      "last_updated": "2026-08-26T19:02:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260220063525im_/https://video.twimg.com/amplify_video/2024688448087703552/vid/avc1/720x1280/Nt495P7Lge-DxRcv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2eba0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:01:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260220063525im_/https://video.twimg.com/amplify_video/2024688448087703552/vid/avc1/720x1280/Nt495P7Lge-DxRcv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e5610>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2025542741409837056/vid/avc1/720x1280/_DrOwbRa6TE0r2Q9.mp4": {
       "status": "done",
@@ -30322,9 +30322,9 @@
       "referenced_by": [
         "20260328182504_twitter_com_Okada_te_resa_status_2037959170314682472.json"
       ],
-      "last_updated": "2026-08-26T19:02:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328182504/https://video.twimg.com/amplify_video/2037933907212161024/vid/avc1/720x1280/ILm6VDzGY_NOCYu6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2c6e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328182504im_/https://video.twimg.com/amplify_video/2037933907212161024/vid/avc1/720x1280/ILm6VDzGY_NOCYu6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e5f70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2038191730865184768/vid/avc1/1080x1920/5oMXZwJhkhjq4FIZ.mp4": {
       "status": "done",
@@ -30367,9 +30367,9 @@
         "20260413165706_twitter_com_Okada_te_resa_status_2043735237356859793.json",
         "20260413165851_twitter_com_Okada_te_resa_status_2043735681634316570.json"
       ],
-      "last_updated": "2026-08-26T19:02:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413165706im_/https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/720x1280/VuWwNCnZkvAiiSYE.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2d430>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-26T20:02:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413165706im_/https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/720x1280/VuWwNCnZkvAiiSYE.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431cf20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/2043965103650025472/pu/vid/avc1/960x720/rW-lxVSa7JY91XDI.mp4?tag=12": {
       "status": "done",
@@ -30460,9 +30460,9 @@
       "referenced_by": [
         "20260506154611_twitter_com_Okada_te_resa_status_2052052315511882066.json"
       ],
-      "last_updated": "2026-08-26T19:02:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506154611im_/https://video.twimg.com/amplify_video/2052037899210883072/vid/avc1/720x1280/6h7bXbX-c3zHdsJ2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6ee70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506154611im_/https://video.twimg.com/amplify_video/2052037899210883072/vid/avc1/720x1280/6h7bXbX-c3zHdsJ2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431f680>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2052070896312160256/pu/vid/avc1/960x720/kYoA03lR1w9Mo7Ry.mp4?tag=12": {
       "status": "done",
@@ -30476,9 +30476,9 @@
       "referenced_by": [
         "20260508000608_twitter_com_Okada_te_resa_status_2052540516366205174.json"
       ],
-      "last_updated": "2026-08-26T19:02:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508000608im_/https://video.twimg.com/amplify_video/2051819754663350276/vid/avc1/720x1280/b2Qz0WJM5VcXYqiP.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed59970>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508000608im_/https://video.twimg.com/amplify_video/2051819754663350276/vid/avc1/720x1280/b2Qz0WJM5VcXYqiP.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678436d040>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2053587705997721600/pu/vid/avc1/960x720/kkXr8zVDrAdDZM1u.mp4?tag=12": {
       "status": "done",
@@ -30569,9 +30569,9 @@
       "referenced_by": [
         "20260529181232_twitter_com_Okada_te_resa_status_2060424063596769660.json"
       ],
-      "last_updated": "2026-08-26T19:02:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529181232im_/https://video.twimg.com/amplify_video/2060326202720894976/vid/avc1/1920x1080/-XqIexJd8jPF-p7N.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed5b170>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529181232im_/https://video.twimg.com/amplify_video/2060326202720894976/vid/avc1/1920x1080/-XqIexJd8jPF-p7N.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e7230>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2060392919601958912/vid/avc1/1080x1440/rPBOquU2crIOdpV3.mp4": {
       "status": "done",
@@ -30615,9 +30615,9 @@
       "referenced_by": [
         "20260531170939_twitter_com_Okada_te_resa_status_2061133014546210882.json"
       ],
-      "last_updated": "2026-08-26T19:02:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531170939im_/https://video.twimg.com/amplify_video/2061120177228677120/vid/avc1/1080x1920/kInbGP7geY5ve6S6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6c2f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531170939im_/https://video.twimg.com/amplify_video/2061120177228677120/vid/avc1/1080x1920/kInbGP7geY5ve6S6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e7c80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2061307357356060672/vid/avc1/2160x3840/T9qoEy7DZzwE__-w.mp4": {
       "status": "done",
@@ -30638,45 +30638,45 @@
       "referenced_by": [
         "20260603143327_twitter_com_Okada_te_resa_status_2062180868022780005.json"
       ],
-      "last_updated": "2026-08-26T19:02:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603143327if_/https://video.twimg.com/ext_tw_video/2062130518146375680/pu/vid/avc1/720x1210/hx8LYPKNuSdnixUv.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed5b8f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603143327im_/https://video.twimg.com/ext_tw_video/2062130518146375680/pu/vid/avc1/720x1210/hx8LYPKNuSdnixUv.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e7c20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2062206071964573696/pu/vid/avc1/1280x720/3Il0eZZIOJ0MzezF.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260604113534_twitter_com_Okada_te_resa_status_2062498493453963712.json"
       ],
-      "last_updated": "2026-08-26T19:02:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604113534im_/https://video.twimg.com/ext_tw_video/2062206071964573696/pu/vid/avc1/1280x720/3Il0eZZIOJ0MzezF.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571edb8050>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604113534/https://video.twimg.com/ext_tw_video/2062206071964573696/pu/vid/avc1/1280x720/3Il0eZZIOJ0MzezF.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431ee70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2061791767054393345/vid/avc1/720x1280/WPpKIyjK0mF3dP1S.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260604145956_twitter_com_Okada_te_resa_status_2062549924265521216.json"
       ],
-      "last_updated": "2026-08-26T19:03:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604145956if_/https://video.twimg.com/amplify_video/2061791767054393345/vid/avc1/720x1280/WPpKIyjK0mF3dP1S.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2f830>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604145956im_/https://video.twimg.com/amplify_video/2061791767054393345/vid/avc1/720x1280/WPpKIyjK0mF3dP1S.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431fef0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2066507341814693888/vid/avc1/720x1280/P4an7gZR7hxKJW-8.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260616014806_twitter_com_Okada_te_resa_status_2066699305453523325.json"
       ],
-      "last_updated": "2026-08-26T19:03:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616014806im_/https://video.twimg.com/amplify_video/2066507341814693888/vid/avc1/720x1280/P4an7gZR7hxKJW-8.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed58440>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616014806im_/https://video.twimg.com/amplify_video/2066507341814693888/vid/avc1/720x1280/P4an7gZR7hxKJW-8.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431ec00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2066488513206562816/vid/avc1/1280x720/7YE1CMNpXZ4vNYWz.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260616065342_twitter_com_Okada_te_resa_status_2066776213621006699.json"
       ],
-      "last_updated": "2026-08-26T19:03:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616065342im_/https://video.twimg.com/amplify_video/2066488513206562816/vid/avc1/1280x720/7YE1CMNpXZ4vNYWz.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6e390>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616065342im_/https://video.twimg.com/amplify_video/2066488513206562816/vid/avc1/1280x720/7YE1CMNpXZ4vNYWz.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e4380>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2066721300098506752/vid/avc1/642x480/3KXFnU_4_HXZy1E8.mp4": {
       "status": "done",
@@ -30690,9 +30690,9 @@
       "referenced_by": [
         "20260621033958_twitter_com_Okada_te_resa_status_2068539397386260561.json"
       ],
-      "last_updated": "2026-08-26T19:03:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621033958im_/https://video.twimg.com/tweet_video/HLSHj3SWIAIgiv1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571edb9400>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:02:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621033958im_/https://video.twimg.com/tweet_video/HLSHj3SWIAIgiv1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e5610>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2068458982323163136/vid/avc1/1180x1576/I_FJ5PWbvxQi_OQj.mp4": {
       "status": "done",
@@ -30781,9 +30781,9 @@
       "referenced_by": [
         "20260711172455_twitter_com_Okada_te_resa_status_2075994758007414837.json"
       ],
-      "last_updated": "2026-08-26T19:03:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711172455/https://video.twimg.com/amplify_video/2075906672833495041/vid/avc1/1280x720/Pfz17BUBl0xdGVaG.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f571edb80b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:03:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711172455im_/https://video.twimg.com/amplify_video/2075906672833495041/vid/avc1/1280x720/Pfz17BUBl0xdGVaG.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6784210f80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1310799720810307584/pu/vid/640x360/YIdwGr_QmXqo5U-t.mp4?tag=10": {
       "status": "done",
@@ -30797,9 +30797,9 @@
       "referenced_by": [
         "20260711182648_twitter_com_Okada_te_resa_status_2076010331391115420.json"
       ],
-      "last_updated": "2026-08-26T19:04:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711182648if_/https://video.twimg.com/amplify_video/2075919107212603392/vid/avc1/1280x720/_VWH3D6PJXD3BPKc.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed5ac00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:03:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711182648im_/https://video.twimg.com/amplify_video/2075919107212603392/vid/avc1/1280x720/_VWH3D6PJXD3BPKc.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e7a40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2076574084167761920/pu/vid/avc1/576x788/Y4avqhfSKAfFYs3a.mp4": {
       "status": "done",
@@ -30820,18 +30820,18 @@
       "referenced_by": [
         "20260718080513_twitter_com_Okada_te_resa_status_2078390620226478262.json"
       ],
-      "last_updated": "2026-08-26T19:04:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718080513im_/https://video.twimg.com/tweet_video/HNbphZmaQAAJMim.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed59340>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:03:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718080513im_/https://video.twimg.com/tweet_video/HNbphZmaQAAJMim.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431f050>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2078775073302073344/pu/vid/avc1/720x1280/ck_Snv1Y9fupq20Y.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260719142707_twitter_com_Okada_te_resa_status_2078849117242212754.json"
       ],
-      "last_updated": "2026-08-26T19:04:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719142707im_/https://video.twimg.com/ext_tw_video/2078775073302073344/pu/vid/avc1/720x1280/ck_Snv1Y9fupq20Y.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed588f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:03:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719142707im_/https://video.twimg.com/ext_tw_video/2078775073302073344/pu/vid/avc1/720x1280/ck_Snv1Y9fupq20Y.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431c380>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2078194546744360960/pu/vid/avc1/1080x1920/oj29G8wXnPjGUR1v.mp4": {
       "status": "done",
@@ -30866,9 +30866,9 @@
       "referenced_by": [
         "20260724131000_twitter_com_Okada_te_resa_status_2080641648120500280.json"
       ],
-      "last_updated": "2026-08-26T19:04:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724131000if_/https://video.twimg.com/amplify_video/2071599460438704128/vid/avc1/480x848/Zp3JnYjoU0oFgMTL.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571edb8ce0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:03:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724131000im_/https://video.twimg.com/amplify_video/2071599460438704128/vid/avc1/480x848/Zp3JnYjoU0oFgMTL.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6784212270>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2083085156605403136/vid/avc1/1280x720/3HCiyLpe0ci6MOpb.mp4": {
       "status": "done",
@@ -30988,9 +30988,9 @@
       "referenced_by": [
         "20260824155414_twitter_com_Okada_te_resa_status_2091917003233853907.json"
       ],
-      "last_updated": "2026-08-26T19:04:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260824155414im_/https://video.twimg.com/tweet_video/HQeDZuRWMAAk8T4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571f179880>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T20:03:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260824155414im_/https://video.twimg.com/tweet_video/HQeDZuRWMAAk8T4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678436c560>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HQg_sOqWIAAuu5v.mp4": {
       "status": "done",
@@ -31000,13 +31000,13 @@
       "last_updated": "2026-08-26T17:47:22"
     },
     "https://video.twimg.com/amplify_video/1954247288974712832/vid/avc1/720x1280/UJJ983aXmjuG-hMq.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250810185347_twitter_com_Okada_te_resa_status_1954617188960317595.json"
       ],
-      "last_updated": "2026-08-26T19:01:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250810185347if_/https://video.twimg.com/amplify_video/1954247288974712832/vid/avc1/720x1280/UJJ983aXmjuG-hMq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed6eff0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-26T20:01:08",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250810185347/https://video.twimg.com/amplify_video/1954247288974712832/vid/avc1/720x1280/UJJ983aXmjuG-hMq.mp4",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1984261223597453312/pu/vid/avc1/1280x720/CY5ODh5UZPMUnb_V.mp4?tag=12": {
       "status": "done",
@@ -31048,9 +31048,9 @@
       "referenced_by": [
         "20260121081840_twitter_com_Okada_te_resa_status_2013888965208936909.json"
       ],
-      "last_updated": "2026-08-26T19:01:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260121081840im_/https://video.twimg.com/amplify_video/2013625495900864513/vid/avc1/844x720/0Wy5XLBrdl4OAUae.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed59c10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-26T20:01:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260121081840im_/https://video.twimg.com/amplify_video/2013625495900864513/vid/avc1/844x720/0Wy5XLBrdl4OAUae.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f67843e5fd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2014988875941457920/vid/avc1/1080x1920/VRypXrGTMXlesPzj.mp4": {
       "status": "done",
@@ -31064,9 +31064,9 @@
       "referenced_by": [
         "20260124211134_twitter_com_Okada_te_resa_status_2015170638294733187.json"
       ],
-      "last_updated": "2026-08-26T19:02:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124211134im_/https://video.twimg.com/amplify_video/1991800796481282048/vid/avc1/720x1280/11McH1X5KmlH9_Yj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f571ed2deb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-26T20:01:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124211134im_/https://video.twimg.com/amplify_video/1991800796481282048/vid/avc1/720x1280/11McH1X5KmlH9_Yj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f678431f950>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2023362419855347712/pu/vid/avc1/720x960/98o4VbASR-BmuVyh.mp4?tag=12": {
       "status": "done",
@@ -48183,7 +48183,7 @@
       "miss_count": 2
     },
     "20250806164826_twitter_com_Okada_te_resa_status_1953136091525263675.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -48195,7 +48195,7 @@
           "https://pbs.twimg.com/profile_images/1865571792951394304/DLwnGhVp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T19:00:11",
+      "last_updated": "2026-08-26T20:01:03",
       "miss_count": 2
     },
     "20250806221059_twitter_com_Okada_te_resa_status_1953217265048170567.json": {
