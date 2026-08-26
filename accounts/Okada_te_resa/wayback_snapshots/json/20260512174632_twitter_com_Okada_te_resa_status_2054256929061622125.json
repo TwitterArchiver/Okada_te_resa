@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2054256929061622125",
+    "created_at": "2026-05-12T17:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T18:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054256929061622125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miokawa0701/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/miokawa0701/status/2054232822953456057",
+          "start": 6,
+          "url": "https://t.co/rsWRtPmUpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054256929061622125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054232822953456057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接这个身材 https://t.co/rsWRtPmUpW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054232818524340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIZ3VoXwAAcUCQ.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2054256929061622125",
+        "created_at": "2026-05-12T17:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054256929061622125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miokawa0701/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/miokawa0701/status/2054232822953456057",
+              "start": 6,
+              "url": "https://t.co/rsWRtPmUpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054256929061622125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054232822953456057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接这个身材 https://t.co/rsWRtPmUpW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054232818524340224"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054232822953456057",
+        "created_at": "2026-05-12T16:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054232822953456057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QvdQuW0AM",
+              "end": 29,
+              "expanded_url": "https://x.com/miokawa0701/status/2054232822953456057/photo/1",
+              "media_key": "3_2054232818524340224",
+              "start": 6,
+              "url": "https://t.co/6QvdQuW0AM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054232822953456057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2989,
+          "like_count": 190,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "丫够燥的！ https://t.co/6QvdQuW0AM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 819,
+          "like_count": 38300,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 2726
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "全平台仅此账号 圣地巡礼直达→https://t.co/N4PNMr91Ur .‖💜ネオンに瞬く神に、美貌を代償として捧げる價💜‖E杯赛博魅魔👿‖可爱老婆@sanwwww04‖里账号：@_GouFan_ ‖不➕联系方式不盈利‖提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "sanwwww04"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "_GouFan_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/miokawa0701/st…",
+                "end": 38,
+                "expanded_url": "https://x.com/miokawa0701/status/2040751849771237586?s=46",
+                "start": 15,
+                "url": "https://t.co/N4PNMr91Ur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_miokawa_1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/_miokawa_1",
+                "start": 0,
+                "url": "https://t.co/ToIRj75vcH"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "location": "距离你 5 m",
+        "name": "neko今天🐱什么（番茄炒蛋版）",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039385871192100864/MoL_KDsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88526,
+          "following_count": 508,
+          "like_count": 14334,
+          "listed_count": 103,
+          "media_count": 737,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/ToIRj75vcH",
+        "username": "miokawa0701",
+        "verified": true
+      }
+    ]
+  }
+}

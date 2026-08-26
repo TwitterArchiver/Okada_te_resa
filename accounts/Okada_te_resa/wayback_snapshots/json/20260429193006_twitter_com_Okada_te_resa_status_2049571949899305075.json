@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2049571690926194974",
+    "created_at": "2026-04-29T19:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T20:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049571949899305075"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049571949899305075",
+    "in_reply_to_user_id": "1767107094313160704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049571690926194974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额啊啊我拍的好呆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2049571688636190720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGKl3rbkAA4V9r.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2049571687902146560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGKl08a8AAgSMo.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2049571690926194974",
+        "created_at": "2026-04-29T19:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049571949899305075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049571949899305075",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049571690926194974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额啊啊我拍的好呆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049571688636190720",
+            "3_2049571687902146560"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049571690926194974",
+        "created_at": "2026-04-29T19:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049571690926194974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/opOPBUWhwK",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2049571690926194974/photo/1",
+              "media_key": "3_2049571688636190720",
+              "start": 8,
+              "url": "https://t.co/opOPBUWhwK"
+            },
+            {
+              "display_url": "pic.x.com/opOPBUWhwK",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2049571690926194974/photo/1",
+              "media_key": "3_2049571687902146560",
+              "start": 8,
+              "url": "https://t.co/opOPBUWhwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049571690926194974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们天下第一好 https://t.co/opOPBUWhwK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 131,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 108,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2046929423354786196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 796,
+          "like_count": 37525,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 2619
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

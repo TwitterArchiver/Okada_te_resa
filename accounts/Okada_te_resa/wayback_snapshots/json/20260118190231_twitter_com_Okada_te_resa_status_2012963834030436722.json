@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2012914157843059174",
+    "created_at": "2026-01-18T19:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T20:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012963834030436722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001720933388800000",
+          "start": 0,
+          "username": "pmshn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012963834030436722",
+    "in_reply_to_user_id": "2001720933388800000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012914157843059174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pmshn9 李发卡给自己唱出走马灯了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2012914157843059174",
+        "created_at": "2026-01-18T19:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012963834030436722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001720933388800000",
+              "start": 0,
+              "username": "pmshn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012963834030436722",
+        "in_reply_to_user_id": "2001720933388800000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012914157843059174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pmshn9 李发卡给自己唱出走马灯了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001720933388800000",
+        "conversation_id": "2012914157843059174",
+        "created_at": "2026-01-18T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012914157843059174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012914157843059174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 840,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发卡直播唱夜蝶那段给我看崩溃了  我和她性格太像了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 700,
+          "like_count": 29781,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 1771
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:27:42.000Z",
+        "description": "自残｜垃圾话｜碎碎念｜女孩子互fo大欢迎˃ 𖥦 ˂    @Gshyovo  @FuyuAsuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "Gshyovo"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "FuyuAsuku"
+              }
+            ]
+          }
+        },
+        "id": "2001720933388800000",
+        "location": "床上",
+        "name": "LIN",
+        "pinned_tweet_id": "2001750029258887460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001730224007057410/1nCgxPE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 138,
+          "like_count": 2459,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 238
+        },
+        "username": "pmshn9",
+        "verified": false
+      }
+    ]
+  }
+}

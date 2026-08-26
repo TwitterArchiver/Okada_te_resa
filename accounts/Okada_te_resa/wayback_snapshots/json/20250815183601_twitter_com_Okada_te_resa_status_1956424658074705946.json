@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1955856626847724020",
+    "created_at": "2025-08-15T18:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T19:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956424658074705946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2207890502",
+          "start": 0,
+          "username": "Alexjandro990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956424658074705946",
+    "in_reply_to_user_id": "2207890502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955856626847724020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexjandro990 克莱登大学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1955856621852332032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySZPCkakAAwzX2.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1955856626847724020",
+        "created_at": "2025-08-15T18:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956424658074705946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2207890502",
+              "start": 0,
+              "username": "Alexjandro990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956424658074705946",
+        "in_reply_to_user_id": "2207890502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955856626847724020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexjandro990 克莱登大学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955856621852332032"
+          ]
+        },
+        "author_id": "2207890502",
+        "conversation_id": "1955856626847724020",
+        "created_at": "2025-08-14T04:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955856626847724020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NR1aYWmj4w",
+              "end": 144,
+              "expanded_url": "https://x.com/Alexjandro990/status/1955856626847724020/photo/1",
+              "media_key": "3_1955856621852332032",
+              "start": 121,
+              "url": "https://t.co/NR1aYWmj4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955856626847724020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他妈的一天天在推特尽看见的都是一帮子历史盲➕超级弱智，智商仿佛草履虫投胎转世，尼玛的还天天要教育我。\n我踏马QS  top 15的经济类研究生，看的历史书汗牛充栋，从欧洲史到日本史到中亚史，当然最看的多的就是中国史。\n我尼玛需要你们来教育？\n看完资治通鉴并全文理解只是见我的门槛好么？收起你们那明显欠费的智商和明显说不通的狗屎逻辑。\n有多远滚多远。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 141664,
+          "like_count": 454,
+          "quote_count": 12,
+          "reply_count": 143,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的一天天在推特尽看见的都是一帮子历史盲➕超级弱智，智商仿佛草履虫投胎转世，尼玛的还天天要教育我。\n我踏马QS  top 15的经济类研究生，看的历史书汗牛充栋，从欧洲史到日本史到中亚史，当然最看的多的就是中国史。\n我尼玛需要你们来教育？ https://t.co/NR1aYWmj4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 462,
+          "like_count": 19189,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1007
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-21T21:56:28.000Z",
+        "description": "Release the kraken",
+        "id": "2207890502",
+        "location": "Georgetown, TX",
+        "name": "Alejandro Bernard",
+        "pinned_tweet_id": "1473672464572071940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780742923375800320/3Mn1TYUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34031,
+          "following_count": 689,
+          "like_count": 40681,
+          "listed_count": 246,
+          "media_count": 1902,
+          "tweet_count": 20315
+        },
+        "username": "Alexjandro990",
+        "verified": true
+      }
+    ]
+  }
+}

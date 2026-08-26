@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928696397702057984"
+      ],
+      "media_source_tweet_id": [
+        "1928698747371892761"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026396421",
+          "name": "Mazda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026396421",
+          "name": "Mazda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "1987211990524436767",
+    "created_at": "2025-11-08T17:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987211990524436767"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Mazda 787B",
+          "probability": 0.5585,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "177101260",
+          "start": 3,
+          "username": "Rainmaker1973"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nAJq2uDsTx",
+          "end": 115,
+          "expanded_url": "https://x.com/epicpostsdaily/status/1928698747371892761/video/1",
+          "media_key": "13_1928696397702057984",
+          "start": 92,
+          "url": "https://t.co/nAJq2uDsTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987211990524436767",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2045
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986961870968758333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainmaker1973: This Mazda 787B has the most insane rotary engine sound you'll ever hear\nhttps://t.co/nAJq2uDsTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30023,
+        "height": 484,
+        "media_key": "13_1928696397702057984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928696397702057984/img/7S8e_6diFDrfmtUe.jpg",
+        "public_metrics": {
+          "view_count": 881521
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/vid/avc1/400x270/EmCQA-wYuHOKyL9S.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/vid/avc1/534x360/_kiNr6cbPIGxDsq1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/vid/avc1/718x484/5eXuk2QPfpJepkhi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/pl/mU_74Fs8CUDVKQWh.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 718
+      },
+      {
+        "duration_ms": 30023,
+        "height": 484,
+        "media_key": "13_1928696397702057984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928696397702057984/img/7S8e_6diFDrfmtUe.jpg",
+        "public_metrics": {
+          "view_count": 877106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/vid/avc1/400x270/EmCQA-wYuHOKyL9S.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/vid/avc1/534x360/_kiNr6cbPIGxDsq1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/vid/avc1/718x484/5eXuk2QPfpJepkhi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928696397702057984/pl/mU_74Fs8CUDVKQWh.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928696397702057984"
+          ],
+          "media_source_tweet_id": [
+            "1928698747371892761"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026396421",
+              "name": "Mazda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026396421",
+              "name": "Mazda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1987211990524436767",
+        "created_at": "2025-11-08T17:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987211990524436767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Mazda 787B",
+              "probability": 0.5585,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "177101260",
+              "start": 3,
+              "username": "Rainmaker1973"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAJq2uDsTx",
+              "end": 115,
+              "expanded_url": "https://x.com/epicpostsdaily/status/1928698747371892761/video/1",
+              "media_key": "13_1928696397702057984",
+              "start": 92,
+              "url": "https://t.co/nAJq2uDsTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987211990524436767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2045
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986961870968758333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainmaker1973: This Mazda 787B has the most insane rotary engine sound you'll ever hear\nhttps://t.co/nAJq2uDsTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928696397702057984"
+          ],
+          "media_source_tweet_id": [
+            "1928698747371892761"
+          ]
+        },
+        "author_id": "177101260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026396421",
+              "name": "Mazda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026396421",
+              "name": "Mazda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1986961870968758333",
+        "created_at": "2025-11-08T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986961870968758333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Mazda 787B",
+              "probability": 0.5769,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAJq2uDsTx",
+              "end": 96,
+              "expanded_url": "https://x.com/epicpostsdaily/status/1928698747371892761/video/1",
+              "media_key": "13_1928696397702057984",
+              "start": 73,
+              "url": "https://t.co/nAJq2uDsTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986961870968758333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2870,
+          "impression_count": 785932,
+          "like_count": 19912,
+          "quote_count": 109,
+          "reply_count": 109,
+          "retweet_count": 2045
+        },
+        "reply_settings": "everyone",
+        "text": "This Mazda 787B has the most insane rotary engine sound you'll ever hear\nhttps://t.co/nAJq2uDsTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986939510966665216/FiteFXKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 623,
+          "like_count": 24228,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1304
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to awaken your sense of wonder. Science, tech, art, weather, space, the unusual around us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/gbBU9j08Hh"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "location": "Italy, North by Northwest",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505524,
+          "following_count": 150,
+          "like_count": 10169,
+          "listed_count": 16687,
+          "media_count": 222893,
+          "tweet_count": 402249
+        },
+        "url": "https://t.co/gbBU9j08Hh",
+        "username": "Rainmaker1973",
+        "verified": true
+      }
+    ]
+  }
+}

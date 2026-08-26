@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955928770797559814",
+        "3_1955928770747228165",
+        "3_1955928770755616771",
+        "3_1955928770759811075"
+      ],
+      "media_source_tweet_id": [
+        "1955928980101718266",
+        "1955928980101718266",
+        "1955928980101718266",
+        "1955928980101718266"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416145908090081282",
+          "name": "Four panel manga"
+        }
+      }
+    ],
+    "conversation_id": "1956048192451326334",
+    "created_at": "2025-08-14T17:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T18:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956048192451326334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511409932591321093",
+          "start": 3,
+          "username": "ox_uo__ou_xo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFzod3EdgD",
+          "end": 61,
+          "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+          "media_key": "3_1955928770797559814",
+          "start": 38,
+          "url": "https://t.co/nFzod3EdgD"
+        },
+        {
+          "display_url": "pic.x.com/nFzod3EdgD",
+          "end": 61,
+          "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+          "media_key": "3_1955928770747228165",
+          "start": 38,
+          "url": "https://t.co/nFzod3EdgD"
+        },
+        {
+          "display_url": "pic.x.com/nFzod3EdgD",
+          "end": 61,
+          "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+          "media_key": "3_1955928770755616771",
+          "start": 38,
+          "url": "https://t.co/nFzod3EdgD"
+        },
+        {
+          "display_url": "pic.x.com/nFzod3EdgD",
+          "end": 61,
+          "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+          "media_key": "3_1955928770759811075",
+          "start": 38,
+          "url": "https://t.co/nFzod3EdgD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956048192451326334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955928980101718266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ox_uo__ou_xo: 喫煙で元気になっていくアイドルの4コマ https://t.co/nFzod3EdgD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1297,
+        "media_key": "3_1955928770797559814",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTa2qVa4AY9VbK.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1297,
+        "media_key": "3_1955928770747228165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTa2qJa4AUhXit.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1290,
+        "media_key": "3_1955928770755616771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTa2qLa4AMMtIY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1283,
+        "media_key": "3_1955928770759811075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTa2qMa4AMc0tV.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955928770797559814",
+            "3_1955928770747228165",
+            "3_1955928770755616771",
+            "3_1955928770759811075"
+          ],
+          "media_source_tweet_id": [
+            "1955928980101718266",
+            "1955928980101718266",
+            "1955928980101718266",
+            "1955928980101718266"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416145908090081282",
+              "name": "Four panel manga"
+            }
+          }
+        ],
+        "conversation_id": "1956048192451326334",
+        "created_at": "2025-08-14T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956048192451326334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511409932591321093",
+              "start": 3,
+              "username": "ox_uo__ou_xo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 61,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770797559814",
+              "start": 38,
+              "url": "https://t.co/nFzod3EdgD"
+            },
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 61,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770747228165",
+              "start": 38,
+              "url": "https://t.co/nFzod3EdgD"
+            },
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 61,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770755616771",
+              "start": 38,
+              "url": "https://t.co/nFzod3EdgD"
+            },
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 61,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770759811075",
+              "start": 38,
+              "url": "https://t.co/nFzod3EdgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956048192451326334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955928980101718266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ox_uo__ou_xo: 喫煙で元気になっていくアイドルの4コマ https://t.co/nFzod3EdgD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955928770797559814",
+            "3_1955928770747228165",
+            "3_1955928770755616771",
+            "3_1955928770759811075"
+          ]
+        },
+        "author_id": "1511409932591321093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416145908090081282",
+              "name": "Four panel manga"
+            }
+          }
+        ],
+        "conversation_id": "1955928980101718266",
+        "created_at": "2025-08-14T09:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955928980101718266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 43,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770797559814",
+              "start": 20,
+              "url": "https://t.co/nFzod3EdgD"
+            },
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 43,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770747228165",
+              "start": 20,
+              "url": "https://t.co/nFzod3EdgD"
+            },
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 43,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770755616771",
+              "start": 20,
+              "url": "https://t.co/nFzod3EdgD"
+            },
+            {
+              "display_url": "pic.x.com/nFzod3EdgD",
+              "end": 43,
+              "expanded_url": "https://x.com/ox_uo__ou_xo/status/1955928980101718266/photo/1",
+              "media_key": "3_1955928770759811075",
+              "start": 20,
+              "url": "https://t.co/nFzod3EdgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955928980101718266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 57682,
+          "like_count": 1799,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "喫煙で元気になっていくアイドルの4コマ https://t.co/nFzod3EdgD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 461,
+          "like_count": 19137,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 995
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T18:27:04.000Z",
+        "description": "にゃんすきっ♡？限界自堕落ぴんく@__nyan_suki （ののよみいのりです、🧠 ）秋葉原@nijigenkanojo シフトは固定してます⬇️ DMは来店や遠隔の相談のみお返事できます✌🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "__nyan_suki"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "nijigenkanojo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pokepara.jp/tokyo/m9/a1003…",
+                "end": 23,
+                "expanded_url": "https://www.pokepara.jp/tokyo/m9/a10034/shop13877/gal/540650/",
+                "start": 0,
+                "url": "https://t.co/e3ftW6dsw6"
+              }
+            ]
+          }
+        },
+        "id": "1511409932591321093",
+        "name": "音々暦いのり",
+        "pinned_tweet_id": "1952005163440586803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927044085900046337/TWegy_4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6986,
+          "following_count": 289,
+          "like_count": 24463,
+          "listed_count": 56,
+          "media_count": 201,
+          "tweet_count": 2984
+        },
+        "url": "https://t.co/e3ftW6dsw6",
+        "username": "ox_uo__ou_xo",
+        "verified": false
+      }
+    ]
+  }
+}

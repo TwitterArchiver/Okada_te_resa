@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043396319692414977",
+        "3_2043396313661026304",
+        "3_2043396310833987584",
+        "3_2043396315808456704"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043396328211054796",
+    "created_at": "2026-04-12T18:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043396328211054796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896604741821726720",
+          "start": 2,
+          "username": "_yonayonaka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lTF6p4TLo",
+          "end": 52,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+          "media_key": "3_2043396319692414977",
+          "start": 29,
+          "url": "https://t.co/6lTF6p4TLo"
+        },
+        {
+          "display_url": "pic.x.com/6lTF6p4TLo",
+          "end": 52,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+          "media_key": "3_2043396313661026304",
+          "start": 29,
+          "url": "https://t.co/6lTF6p4TLo"
+        },
+        {
+          "display_url": "pic.x.com/6lTF6p4TLo",
+          "end": 52,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+          "media_key": "3_2043396310833987584",
+          "start": 29,
+          "url": "https://t.co/6lTF6p4TLo"
+        },
+        {
+          "display_url": "pic.x.com/6lTF6p4TLo",
+          "end": 52,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+          "media_key": "3_2043396315808456704",
+          "start": 29,
+          "url": "https://t.co/6lTF6p4TLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043396328211054796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和 @_yonayonaka_ 见面了！萌萌的小女孩（（ https://t.co/6lTF6p4TLo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2043396319692414977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuaIFqbYAEZXfI.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043396313661026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuaHvMbsAAoYLU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043396310833987584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuaHkqagAAlPP_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2043396315808456704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuaH3Ma4AAIMC-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043396319692414977",
+            "3_2043396313661026304",
+            "3_2043396310833987584",
+            "3_2043396315808456704"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043396328211054796",
+        "created_at": "2026-04-12T18:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043396328211054796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896604741821726720",
+              "start": 2,
+              "username": "_yonayonaka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lTF6p4TLo",
+              "end": 52,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+              "media_key": "3_2043396319692414977",
+              "start": 29,
+              "url": "https://t.co/6lTF6p4TLo"
+            },
+            {
+              "display_url": "pic.x.com/6lTF6p4TLo",
+              "end": 52,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+              "media_key": "3_2043396313661026304",
+              "start": 29,
+              "url": "https://t.co/6lTF6p4TLo"
+            },
+            {
+              "display_url": "pic.x.com/6lTF6p4TLo",
+              "end": 52,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+              "media_key": "3_2043396310833987584",
+              "start": 29,
+              "url": "https://t.co/6lTF6p4TLo"
+            },
+            {
+              "display_url": "pic.x.com/6lTF6p4TLo",
+              "end": 52,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2043396328211054796/photo/1",
+              "media_key": "3_2043396315808456704",
+              "start": 29,
+              "url": "https://t.co/6lTF6p4TLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043396328211054796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和 @_yonayonaka_ 见面了！萌萌的小女孩（（ https://t.co/6lTF6p4TLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 755,
+          "like_count": 36525,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 2438
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。",
+        "id": "1896604741821726720",
+        "location": "🥯私信只回口令 🚪288/520 提问88可抵門",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "2035383225447764369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 256,
+          "like_count": 1121,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1058
+        },
+        "username": "_yonayonaka_",
+        "verified": true
+      }
+    ]
+  }
+}

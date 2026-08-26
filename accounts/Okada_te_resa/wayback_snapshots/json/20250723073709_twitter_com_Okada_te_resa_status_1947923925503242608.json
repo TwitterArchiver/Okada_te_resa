@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1947187054875705531",
+    "created_at": "2025-07-23T07:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T08:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947923925503242608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947923925503242608",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947187054875705531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 沙币"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1947186881956872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXMJwpXAAAXnaN.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1472,
+        "media_key": "3_1947186881969401856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXMJwsWMAAvhVg.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1947187054875705531",
+        "created_at": "2025-07-23T07:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947923925503242608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947923925503242608",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947187054875705531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 沙币"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947186881956872192",
+            "3_1947186881969401856"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947187054875705531",
+        "created_at": "2025-07-21T06:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947187054875705531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1624dAH61y",
+              "end": 49,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1947187054875705531/photo/1",
+              "media_key": "3_1947186881956872192",
+              "start": 26,
+              "url": "https://t.co/1624dAH61y"
+            },
+            {
+              "display_url": "pic.x.com/1624dAH61y",
+              "end": 49,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1947187054875705531/photo/1",
+              "media_key": "3_1947186881969401856",
+              "start": 26,
+              "url": "https://t.co/1624dAH61y"
+            },
+            {
+              "display_url": "x.com/KenJoeyJFK1963…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/KenJoeyJFK1963/status/1947184605326631175",
+              "start": 50,
+              "url": "https://t.co/PXdMM5SbAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947187054875705531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "…25-fg1hqcw19w3ocyroin9d6i9b.09.…n--07",
+                "end": 692,
+                "expanded_url": "http://2025-fg1hqcw19w3ocyroin9d6i9b.09.xn--07",
+                "start": 669,
+                "url": "https://t.co/ltdCTTFNI9"
+              }
+            ]
+          },
+          "text": "既然都用Ai那没意思了直接放答案吧\n\n转编码得到：\n51554731e4b894e4b8814b444f414335e4b896573057e4b8914c423051323447e4b88fe4b8844b4a73323943e4b8864d3442e4b88ee4b8854d70e4b886573045e4b8835a563551325332e4b88f564b49e4b8824f503148e4b8803043e4b88b32e4b8843377e4b8843554e4b894e4b88a34334d4b494847e4b8883d3d\n\nHEX解码得到：\nQUG1且丁KDOAC5世W0W丑LB0Q24G丏丄KJs29C丆M4B与丅Mp丆W0E七ZV5Q2S2丏VKI丂OP1H一0C下2丄3w丄5T且上43MKIHG丈==\n\n维吉尼亚解码 密钥Chiyuyu得到：\noNy1WHmjmtu5YC0yXju0I24iVGqhl29uIs4dUDFhIC0gJxO5I2u2VxqgVGr1nC0iJ2X3oG5zWQ43kDAjmK==\n\n凯撒偏移10解码得到：\neDo1MXczcjk5OS0oNzk0Y24yLWgxb29kYi4tKTVxYS0wZnE5Y2k2LngwLWh1dS0yZ2N3eW5pMG43aTQzcA==\n\nbase64解码得到：\nx:51w3r999-(794cn2-h1oodb.-)5qa-0fq9ci6.x0-huu-2gcwyni0n7i43p\n\n栅栏加密 栏数4解码得到：\nxn--:https://t.co/ltdCTTFNI9()-i75h49qu34aupc\n\nPunycode解码后就是结果：\n下一次自杀时间：2025.09.07（我的生日）\n\n至于炒作什么的\n1.我刚自杀未遂完回来，没啥意思\n2.生日要自杀我很早之前就跟朋友说过了，所以也算意料之中吧\n6/26就有这种想法了，所以说炒作的话您开心就好"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13657,
+          "like_count": 90,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947184605326631175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然都用Ai那没意思了直接放答案吧\n\n转编码得到： https://t.co/1624dAH61y https://t.co/PXdMM5SbAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 53,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 437,
+          "like_count": 17907,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 879
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰再见世界 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947726595684503627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 1248,
+          "like_count": 3791,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1990341948792799727",
+    "created_at": "2025-11-17T10:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990364186858434771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1789902099838558209",
+          "start": 0,
+          "username": "xiaotianTogata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990364186858434771",
+    "in_reply_to_user_id": "1789902099838558209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990341948792799727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotianTogata 报名了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990341943763816449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58dc9uaUAERh3b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1990341948792799727",
+        "created_at": "2025-11-17T10:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990364186858434771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1789902099838558209",
+              "start": 0,
+              "username": "xiaotianTogata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990364186858434771",
+        "in_reply_to_user_id": "1789902099838558209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990341948792799727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotianTogata 报名了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990341943763816449"
+          ]
+        },
+        "author_id": "1789902099838558209",
+        "conversation_id": "1990341948792799727",
+        "created_at": "2025-11-17T08:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990341948792799727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQeBXX0B8I",
+              "end": 41,
+              "expanded_url": "https://x.com/xiaotianTogata/status/1990341948792799727/photo/1",
+              "media_key": "3_1990341943763816449",
+              "start": 18,
+              "url": "https://t.co/WQeBXX0B8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990341948792799727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1574,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "自用老公 比它大的 dm我报名顶替 https://t.co/WQeBXX0B8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990112055593242624/fMUPXFR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 634,
+          "like_count": 24863,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1356
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T06:14:58.000Z",
+        "description": "｜169/64｜能像花一样短暂绽放在我的花期吗💐？｜坐标San Jose｜A devil wanna be a Angle😇@ArtistAckerman1｜喜欢电影🎬游戏🎮还有你💗💗｜🚪128口令🧧防骚扰｜不线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "ArtistAckerman1"
+              }
+            ]
+          }
+        },
+        "id": "1789902099838558209",
+        "location": "California Cyber Space",
+        "name": "Ackerman💤",
+        "pinned_tweet_id": "1969255864943984752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953701570702716928/S_NHZkLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27505,
+          "following_count": 684,
+          "like_count": 4197,
+          "listed_count": 156,
+          "media_count": 115,
+          "tweet_count": 2069
+        },
+        "username": "xiaotianTogata",
+        "verified": true
+      }
+    ]
+  }
+}

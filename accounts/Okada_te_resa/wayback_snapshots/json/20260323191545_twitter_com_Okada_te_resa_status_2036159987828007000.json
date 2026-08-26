@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036159956270108672",
+        "3_2036159954617507840",
+        "3_2036159956328783875"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2036159987828007000",
+    "created_at": "2026-03-23T19:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T20:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036159987828007000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGAPJvZClU",
+          "end": 40,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2036159987828007000/photo/1",
+          "media_key": "3_2036159956270108672",
+          "start": 17,
+          "url": "https://t.co/JGAPJvZClU"
+        },
+        {
+          "display_url": "pic.x.com/JGAPJvZClU",
+          "end": 40,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2036159987828007000/photo/1",
+          "media_key": "3_2036159954617507840",
+          "start": 17,
+          "url": "https://t.co/JGAPJvZClU"
+        },
+        {
+          "display_url": "pic.x.com/JGAPJvZClU",
+          "end": 40,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2036159987828007000/photo/1",
+          "media_key": "3_2036159956328783875",
+          "start": 17,
+          "url": "https://t.co/JGAPJvZClU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036159987828007000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眼睛瞎在卫戍上！人也毁在卫戍上！ https://t.co/JGAPJvZClU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2036159956270108672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHksTNa0AAok1A.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2036159954617507840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHksNDaIAARBCl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2036159956328783875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHksTbaIAMUnkL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036159956270108672",
+            "3_2036159954617507840",
+            "3_2036159956328783875"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036159987828007000",
+        "created_at": "2026-03-23T19:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036159987828007000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGAPJvZClU",
+              "end": 40,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2036159987828007000/photo/1",
+              "media_key": "3_2036159956270108672",
+              "start": 17,
+              "url": "https://t.co/JGAPJvZClU"
+            },
+            {
+              "display_url": "pic.x.com/JGAPJvZClU",
+              "end": 40,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2036159987828007000/photo/1",
+              "media_key": "3_2036159954617507840",
+              "start": 17,
+              "url": "https://t.co/JGAPJvZClU"
+            },
+            {
+              "display_url": "pic.x.com/JGAPJvZClU",
+              "end": 40,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2036159987828007000/photo/1",
+              "media_key": "3_2036159956328783875",
+              "start": 17,
+              "url": "https://t.co/JGAPJvZClU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036159987828007000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛瞎在卫戍上！人也毁在卫戍上！ https://t.co/JGAPJvZClU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 736,
+          "like_count": 35434,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 2256
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

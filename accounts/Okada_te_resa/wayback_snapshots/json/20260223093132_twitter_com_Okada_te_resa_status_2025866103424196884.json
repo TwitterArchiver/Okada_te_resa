@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2025839336676319533",
+    "created_at": "2026-02-23T09:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025866103424196884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824428396258234368",
+          "start": 0,
+          "username": "wingsing355236"
+        },
+        {
+          "end": 23,
+          "id": "1723532985679704064",
+          "start": 16,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025866103424196884",
+    "in_reply_to_user_id": "1824428396258234368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025856507540353233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingsing355236 @HFLMTF 纯活该"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025856502637211648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1JwXWbMAAd8Gm.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2025839336676319533",
+        "created_at": "2026-02-23T09:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025866103424196884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            },
+            {
+              "end": 23,
+              "id": "1723532985679704064",
+              "start": 16,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025866103424196884",
+        "in_reply_to_user_id": "1824428396258234368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025856507540353233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 @HFLMTF 纯活该"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025856502637211648"
+          ]
+        },
+        "author_id": "1824428396258234368",
+        "conversation_id": "2025839336676319533",
+        "created_at": "2026-02-23T08:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025856507540353233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1ax1VvJCt",
+              "end": 116,
+              "expanded_url": "https://x.com/wingsing355236/status/2025856507540353233/photo/1",
+              "media_key": "3_2025856502637211648",
+              "start": 93,
+              "url": "https://t.co/F1ax1VvJCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025856507540353233",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025839336676319533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 好的聽完錄音，還原出事情的經過，就是在中國開酒店要拿身份證登記，結果N55不肯，還出於不明原因(maybe藥物影響)攻擊酒店工作人員，結果被懷疑有暴力傾向送往精神病院。 https://t.co/F1ax1VvJCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 698,
+          "like_count": 33156,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 1994
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 目前專注於鐵路／航空／賽馬，个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shkp.com/zh-HK",
+                "end": 23,
+                "expanded_url": "https://www.shkp.com/zh-HK",
+                "start": 0,
+                "url": "https://t.co/qiEvdTcl9Q"
+              }
+            ]
+          }
+        },
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "Voyage Manbo{Alnilam}(E486)🇨🇳🇹🇼🇭🇰🇲🇴",
+        "pinned_tweet_id": "2012097093511659874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022978501109022720/paW83D6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1035,
+          "like_count": 121581,
+          "listed_count": 16,
+          "media_count": 5259,
+          "tweet_count": 17343
+        },
+        "url": "https://t.co/qiEvdTcl9Q",
+        "username": "wingsing355236",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/欢迎扩列(记得私信)喵~/🚪52？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgcDlZ"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968042296778752/utd9W8jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 201,
+          "like_count": 2011,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/N9WRdgcDlZ",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

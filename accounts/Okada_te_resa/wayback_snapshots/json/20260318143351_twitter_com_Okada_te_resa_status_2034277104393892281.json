@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      }
+    ],
+    "conversation_id": "2034277104393892281",
+    "created_at": "2026-03-18T14:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034277104393892281"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "クロミ"
+        },
+        {
+          "end": 62,
+          "start": 51,
+          "tag": "DearMyLove"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1196968535311835137",
+          "start": 3,
+          "username": "dearmylove_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034277104393892281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034223372817817988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearmylove_yume: ✦ . ⁺ ♱ ⫘⫘⫘⫘⫘⫘ ♱ ⁺ . ✦\n#クロミ × #DearMyLove\n✦ . ⁺ ♱ ⫘⫘⫘⫘⫘⫘ ♱ ⁺ . ✦\n\n🖤かわいいだけじゃない私🖤\n\n⛓3/24(火)お昼12:00発売⛓\n毎回即完売なのでお見逃しなく✦\n🔗h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2034223368522858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsDYDqagAA_p_M.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          }
+        ],
+        "conversation_id": "2034277104393892281",
+        "created_at": "2026-03-18T14:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034277104393892281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "クロミ"
+            },
+            {
+              "end": 62,
+              "start": 51,
+              "tag": "DearMyLove"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1196968535311835137",
+              "start": 3,
+              "username": "dearmylove_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034277104393892281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034223372817817988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearmylove_yume: ✦ . ⁺ ♱ ⫘⫘⫘⫘⫘⫘ ♱ ⁺ . ✦\n#クロミ × #DearMyLove\n✦ . ⁺ ♱ ⫘⫘⫘⫘⫘⫘ ♱ ⁺ . ✦\n\n🖤かわいいだけじゃない私🖤\n\n⛓3/24(火)お昼12:00発売⛓\n毎回即完売なのでお見逃しなく✦\n🔗h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034223368522858496"
+          ]
+        },
+        "author_id": "1196968535311835137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          }
+        ],
+        "conversation_id": "2034223372817817988",
+        "created_at": "2026-03-18T11:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034223372817817988"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "クロミ"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "DearMyLove"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "サンリオ"
+            },
+            {
+              "end": 156,
+              "start": 148,
+              "tag": "ディアマイラブ"
+            },
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "夢展望"
+            }
+          ],
+          "urls": [
+            {
+              "description": "3/24tue 12:00発売START♥ みんな一緒に #世界クロミ化計画小悪魔的にかわいいコラボが登場♥ 媚びないクロミの魅力とDearMyLoveの世界観がリンク✦甘いだけじゃない新しい私をみて♥ 購入時のご注意 今回の発売分は受注生産ではありません。数量限定の販売となります。 発売スタートと同時にアクセスが集中する場合があります。ご購入前に以下、必ずご確認をお願いいたします。 商品をカートに入れても在庫確保とはなりません。カートに入れたあとは速やかにご購入手続きをお願いいたします。 ご購入の際には、会員ログインを推奨いたします。 ※ログインから120分が経過しますと自動でログアウト状態になりますのでご注意ください。 ※パスワードをお忘れの場合は、事前にパスワードの再設定をお願いいたします。 ※住所入力等の手間を省ける、事前の会員登録をおすすめいたします。 ご注文完了後のキャンセル・変更は承っておりません。 注文完了後、自動的に発送準備が開始されます為、ご注文内容の変更・キャンセルは、申し訳ございませんがお受けすることができません。 ご購入時に備考欄(コメント欄)に変更や配送のご希望を記入いただきましても、お受けすることが出来ません。 用意している在庫よりも多いご注文が入った場合、ご注文をキャンセルさせていただく可能性があります キャンセルの場合は個別にご連絡させていただきますのでご了承ください。 ※キャンセルが発生した場合、自動で商品が補充される場合がございます。 アクセス殺到によりページが表示されない場合は、一定時間を置いてから再アクセスをお願いいたします。 【完売後の受注生産について】 発売日に完売するなど、大変ご好評の場合、受注生産を検討する可能性がございます。発売後、改めて発信いたしますので高額転売の購入をお控えください。 【高額転売について】 マナーを守ってくださる方ばかりの中、このような注意喚起を行うのは本意ではございませんが、前回、多くのお客様からコラボ商品の高額転売の情報が寄せられました。ご購入時のご注意にも記載しております通り、営利目的での転売は禁止しております。転売目的の購入だと判断した場合、ご注文のキャンセル、今後のご購入の制限等を予告なくさせていただく場合がございます。あらかじめご了承ください。ルールを守ってくださっている方がほとんど",
+              "display_url": "x.gd/mhd0o",
+              "end": 140,
+              "expanded_url": "https://x.gd/mhd0o",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2034155918301298688/XKQ4rDUh?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034155918301298688/XKQ4rDUh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "DearMyLove × Kuromi",
+              "unwound_url": "https://dreamvs.jp/blogs/topic/dml-kuromi?s=21",
+              "url": "https://t.co/TOv9nr71rl"
+            },
+            {
+              "display_url": "pic.x.com/aX3xXKfNGF",
+              "end": 185,
+              "expanded_url": "https://x.com/dearmylove_yume/status/2034223372817817988/photo/1",
+              "media_key": "3_2034223368522858496",
+              "start": 162,
+              "url": "https://t.co/aX3xXKfNGF"
+            },
+            {
+              "display_url": "x.com/dearmylove_yum…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/dearmylove_yume/status/2034155914052440089",
+              "start": 186,
+              "url": "https://t.co/kbGRMt20T7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034223372817817988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6945,
+          "like_count": 158,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034155914052440089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✦ . ⁺ ♱ ⫘⫘⫘⫘⫘⫘ ♱ ⁺ . ✦\n#クロミ × #DearMyLove\n✦ . ⁺ ♱ ⫘⫘⫘⫘⫘⫘ ♱ ⁺ . ✦\n\n🖤かわいいだけじゃない私🖤\n\n⛓3/24(火)お昼12:00発売⛓\n毎回即完売なのでお見逃しなく✦\n🔗https://t.co/TOv9nr71rl\n\n#サンリオ #ディアマイラブ #夢展望 https://t.co/aX3xXKfNGF https://t.co/kbGRMt20T7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 728,
+          "like_count": 35093,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2200
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-20T01:48:50.000Z",
+        "description": "𓊆S~6Lサイズまで展開𓊇 ONLINE限定ブランド 「DEARMYLOVE」の公式アカウントです🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yumetenbo",
+                "end": 23,
+                "expanded_url": "https://lit.link/yumetenbo",
+                "start": 0,
+                "url": "https://t.co/B9MVbzklwJ"
+              }
+            ]
+          }
+        },
+        "id": "1196968535311835137",
+        "name": "DearMyLove All Sister Brands",
+        "pinned_tweet_id": "2034155914052440089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348898799603785728/6WZuNrWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38313,
+          "following_count": 4,
+          "like_count": 2452,
+          "listed_count": 576,
+          "media_count": 4033,
+          "tweet_count": 5362
+        },
+        "url": "https://t.co/B9MVbzklwJ",
+        "username": "dearmylove_yume",
+        "verified": true
+      }
+    ]
+  }
+}

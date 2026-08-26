@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1962171501735797228",
+    "created_at": "2025-08-31T15:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T16:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962171826865606733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962171826865606733",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962171501735797228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 插入"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1962171486279753728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsIkhwa4AAYv9u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962171486325833728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsIkh7aAAATRpT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962171486288134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsIkhyawAAwDaj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1962171501735797228",
+        "created_at": "2025-08-31T15:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962171826865606733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962171826865606733",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962171501735797228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 插入"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962171486279753728",
+            "3_1962171486325833728",
+            "3_1962171486288134144"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962171501735797228",
+        "created_at": "2025-08-31T15:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962171501735797228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPUb09hfGB",
+              "end": 28,
+              "expanded_url": "https://x.com/MozaikRR/status/1962171501735797228/photo/1",
+              "media_key": "3_1962171486279753728",
+              "start": 5,
+              "url": "https://t.co/zPUb09hfGB"
+            },
+            {
+              "display_url": "pic.x.com/zPUb09hfGB",
+              "end": 28,
+              "expanded_url": "https://x.com/MozaikRR/status/1962171501735797228/photo/1",
+              "media_key": "3_1962171486325833728",
+              "start": 5,
+              "url": "https://t.co/zPUb09hfGB"
+            },
+            {
+              "display_url": "pic.x.com/zPUb09hfGB",
+              "end": 28,
+              "expanded_url": "https://x.com/MozaikRR/status/1962171501735797228/photo/1",
+              "media_key": "3_1962171486288134144",
+              "start": 5,
+              "url": "https://t.co/zPUb09hfGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962171501735797228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌好玩 https://t.co/zPUb09hfGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1959298016051069122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 486,
+          "like_count": 20259,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1082
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "放假在重庆上学在南京 我玩舞萌第五pjskd4dj 177/60 喜欢量产系地雷系😆 🚪15因为我喜欢吃二两干溜豌杂面",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952306352854097920/WMElfmq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 278,
+          "like_count": 112,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 162
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

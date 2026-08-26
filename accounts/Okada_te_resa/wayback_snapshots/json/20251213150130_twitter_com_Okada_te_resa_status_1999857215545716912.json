@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999857210722299904",
+        "3_1999857210894286848"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999857215545716912",
+    "created_at": "2025-12-13T15:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999857215545716912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dB4ykbPrMy",
+          "end": 30,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1999857215545716912/photo/1",
+          "media_key": "3_1999857210722299904",
+          "start": 7,
+          "url": "https://t.co/dB4ykbPrMy"
+        },
+        {
+          "display_url": "pic.x.com/dB4ykbPrMy",
+          "end": 30,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1999857215545716912/photo/1",
+          "media_key": "3_1999857210894286848",
+          "start": 7,
+          "url": "https://t.co/dB4ykbPrMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999857215545716912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摄入了担担面 https://t.co/dB4ykbPrMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999857210722299904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DriZabMAAiCxn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1999857210894286848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DriaDbgAA8wRP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999857210722299904",
+            "3_1999857210894286848"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999857215545716912",
+        "created_at": "2025-12-13T15:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999857215545716912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dB4ykbPrMy",
+              "end": 30,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1999857215545716912/photo/1",
+              "media_key": "3_1999857210722299904",
+              "start": 7,
+              "url": "https://t.co/dB4ykbPrMy"
+            },
+            {
+              "display_url": "pic.x.com/dB4ykbPrMy",
+              "end": 30,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1999857215545716912/photo/1",
+              "media_key": "3_1999857210894286848",
+              "start": 7,
+              "url": "https://t.co/dB4ykbPrMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999857215545716912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摄入了担担面 https://t.co/dB4ykbPrMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 107,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 84,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993964665798529024/QbV2ICXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 658,
+          "like_count": 27054,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1593
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

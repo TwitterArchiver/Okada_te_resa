@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1993521592995815770",
+    "created_at": "2025-11-26T05:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T06:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993554669243974036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993554669243974036",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993521592995815770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 昨天提了一句被晶了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_1993518915847438336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pm5FAbwAAYwlc.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1993521592995815770",
+        "created_at": "2025-11-26T05:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993554669243974036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993554669243974036",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993521592995815770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 昨天提了一句被晶了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993518915847438336"
+          ]
+        },
+        "author_id": "1164467672819499008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1993521592995815770",
+        "created_at": "2025-11-26T03:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993521592995815770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YZxOilJMw",
+              "end": 166,
+              "expanded_url": "https://x.com/whitelate0001/status/1993521592995815770/photo/1",
+              "media_key": "3_1993518915847438336",
+              "start": 143,
+              "url": "https://t.co/5YZxOilJMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993521592995815770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 314,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "『歷史上的今天』\n\n|2022年11月26日|\n\n2022年11月26日晚間，南京傳媒學院學生在校內哀悼新疆烏魯木齊火災遇難者，其中一名學生舉起白紙站立，隨後更多學生聚集。\n\n這起事件在之後形成了巨大的全國性抗議示威浪潮，開啟了一輪中國多地表達對過度防疫和社會管制不滿的「白紙運動」。 https://t.co/5YZxOilJMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKbz66",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 103,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 80,
+                "url": "https://t.co/JpusVKbz66"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993298692238196746/e9Q6RQJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 650,
+          "like_count": 25671,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 1438
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "來自台灣的中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/中華民國派/泛藍/左翼/人道主義/科學主義的支持者 | Glory to China | \n\n賽博搬史王|偶爾發抽象tv｜\n\n沒有義務的權利必將導致濫用，沒有權利的義務必將導致壓迫|\n\n鍵政勉強中。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1041,
+          "like_count": 9191,
+          "listed_count": 6,
+          "media_count": 828,
+          "tweet_count": 8974
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

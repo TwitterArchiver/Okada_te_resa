@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068796638525886464",
+        "3_2068796639444455424",
+        "3_2068796639486304256"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2068796642720116884",
+    "created_at": "2026-06-21T20:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068796642720116884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mufxBtTdh",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2068796642720116884/photo/1",
+          "media_key": "3_2068796638525886464",
+          "start": 8,
+          "url": "https://t.co/4mufxBtTdh"
+        },
+        {
+          "display_url": "pic.x.com/4mufxBtTdh",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2068796642720116884/photo/1",
+          "media_key": "3_2068796639444455424",
+          "start": 8,
+          "url": "https://t.co/4mufxBtTdh"
+        },
+        {
+          "display_url": "pic.x.com/4mufxBtTdh",
+          "end": 31,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2068796642720116884/photo/1",
+          "media_key": "3_2068796639486304256",
+          "start": 8,
+          "url": "https://t.co/4mufxBtTdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068796642720116884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚睡有担担面看 https://t.co/4mufxBtTdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2068796638525886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXXlO_bkAAlR0B.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068796639444455424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXXlSab0AAA4M6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2068796639486304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXXlSkaYAA6dyL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068796638525886464",
+            "3_2068796639444455424",
+            "3_2068796639486304256"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2068796642720116884",
+        "created_at": "2026-06-21T20:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068796642720116884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mufxBtTdh",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2068796642720116884/photo/1",
+              "media_key": "3_2068796638525886464",
+              "start": 8,
+              "url": "https://t.co/4mufxBtTdh"
+            },
+            {
+              "display_url": "pic.x.com/4mufxBtTdh",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2068796642720116884/photo/1",
+              "media_key": "3_2068796639444455424",
+              "start": 8,
+              "url": "https://t.co/4mufxBtTdh"
+            },
+            {
+              "display_url": "pic.x.com/4mufxBtTdh",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2068796642720116884/photo/1",
+              "media_key": "3_2068796639486304256",
+              "start": 8,
+              "url": "https://t.co/4mufxBtTdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068796642720116884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚睡有担担面看 https://t.co/4mufxBtTdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 916,
+          "like_count": 40874,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

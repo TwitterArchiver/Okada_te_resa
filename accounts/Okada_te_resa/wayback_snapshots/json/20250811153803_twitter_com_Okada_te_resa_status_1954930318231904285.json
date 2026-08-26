@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1954863734226317467",
+    "created_at": "2025-08-11T15:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T16:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954930318231904285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954930318231904285",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954863734226317467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 我试过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1954863726940864512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyESM8ybQAAPvsh.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1954863734226317467",
+        "created_at": "2025-08-11T15:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954930318231904285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954930318231904285",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954863734226317467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 我试过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954863726940864512"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1954863734226317467",
+        "created_at": "2025-08-11T11:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954863734226317467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBOcPupwbf",
+              "end": 45,
+              "expanded_url": "https://x.com/akui1121/status/1954863734226317467/photo/1",
+              "media_key": "3_1954863726940864512",
+              "start": 22,
+              "url": "https://t.co/oBOcPupwbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954863734226317467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1743,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺想骑摩托到那种荒村废镇探险的，越阴森越好 https://t.co/oBOcPupwbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 454,
+          "like_count": 18812,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 959
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！男娘！👻你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121  互炒闺蜜@1965chich",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "1965chich"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1943261520902951277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944206812791865345/VxoTQON3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26441,
+          "following_count": 1176,
+          "like_count": 18495,
+          "listed_count": 69,
+          "media_count": 869,
+          "tweet_count": 11333
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

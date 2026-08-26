@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "1876912196371820688",
+    "created_at": "2025-08-07T16:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T17:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953488481608462375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "718654922749652992",
+          "start": 0,
+          "username": "jimmy_JJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953488481608462375",
+    "in_reply_to_user_id": "718654922749652992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876912196371820688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimmy_JJN 一粉顶十黑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876912188772020226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsP5bcAIvzLw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876912188583251969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsPMbEAEkUV_.jpg",
+        "width": 804
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1876912188583243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsPMa8AAQ5aV.jpg",
+        "width": 942
+      },
+      {
+        "height": 1382,
+        "media_key": "3_1876912188771926016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwhsP5aAAAHD7j.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "1876912196371820688",
+        "created_at": "2025-08-07T16:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953488481608462375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "718654922749652992",
+              "start": 0,
+              "username": "jimmy_JJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953488481608462375",
+        "in_reply_to_user_id": "718654922749652992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876912196371820688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimmy_JJN 一粉顶十黑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876912188772020226",
+            "3_1876912188583251969",
+            "3_1876912188583243776",
+            "3_1876912188771926016"
+          ]
+        },
+        "author_id": "718654922749652992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876912196371820688",
+        "created_at": "2025-01-08T08:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876912196371820688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188772020226",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188583251969",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188583243776",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            },
+            {
+              "display_url": "pic.x.com/PP1jRl34a5",
+              "end": 142,
+              "expanded_url": "https://x.com/jimmy_JJN/status/1876912196371820688/photo/1",
+              "media_key": "3_1876912188771926016",
+              "start": 119,
+              "url": "https://t.co/PP1jRl34a5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876912196371820688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24049,
+          "like_count": 8,
+          "quote_count": 11,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天请朋友吃饭花了7000多，没点酒，贵的菜品点不起，都是些基本菜。\n作为中国的普通小透明，感谢祖国给我的美好生活。\nx上反贼和🐸最爱看国内普通人过上好日子了。\n我朋友圈不发个人生活，太low，但可以发到x上给这些狗东西看，共襄盛举啊。 https://t.co/PP1jRl34a5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  🚪68解锁陪聊 #地雷系さんと繋がりたい#想要成为机修仙人",
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面",
+        "pinned_tweet_id": "1901219807317348814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917104685607178240/HJ9pfN0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 450,
+          "like_count": 18664,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 940
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-09T04:21:00.000Z",
+        "description": "🇨🇳",
+        "id": "718654922749652992",
+        "name": "Vec_Lo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930571995911225344/OzD76Hbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 292,
+          "like_count": 5698,
+          "listed_count": 8,
+          "media_count": 191,
+          "tweet_count": 5660
+        },
+        "username": "jimmy_JJN",
+        "verified": true
+      }
+    ]
+  }
+}

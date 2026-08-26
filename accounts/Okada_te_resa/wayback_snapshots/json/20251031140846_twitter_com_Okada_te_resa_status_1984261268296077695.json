@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1984261223597453312"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "1984261268296077695",
+    "created_at": "2025-10-31T14:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T15:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984261268296077695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8gHbzk7A4j",
+          "end": 27,
+          "expanded_url": "https://x.com/Okada_te_resa/status/1984261268296077695/video/1",
+          "media_key": "7_1984261223597453312",
+          "start": 4,
+          "url": "https://t.co/8gHbzk7A4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984261268296077695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大人的 https://t.co/8gHbzk7A4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13226,
+        "height": 720,
+        "media_key": "7_1984261223597453312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1984261223597453312/pu/img/ZfWwCx3lIM2Z-TQk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1984261223597453312/pu/vid/avc1/480x270/PmAtUHOJUvKdmuZF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1984261223597453312/pu/vid/avc1/640x360/3enF_fyno-Oseo0T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1984261223597453312/pu/vid/avc1/1280x720/CY5ODh5UZPMUnb_V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1984261223597453312/pu/pl/TmAdFafYwCOfUfNG.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1984261223597453312"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "1984261268296077695",
+        "created_at": "2025-10-31T14:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984261268296077695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gHbzk7A4j",
+              "end": 27,
+              "expanded_url": "https://x.com/Okada_te_resa/status/1984261268296077695/video/1",
+              "media_key": "7_1984261223597453312",
+              "start": 4,
+              "url": "https://t.co/8gHbzk7A4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984261268296077695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大人的 https://t.co/8gHbzk7A4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男190/67kg黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/摩的重度依赖  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 110,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 87,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1964412127491608939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974183437763526656/GhOr1cqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 609,
+          "like_count": 23735,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 1269
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      }
+    ]
+  }
+}

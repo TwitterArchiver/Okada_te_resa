@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025502310991028224"
+      ],
+      "media_source_tweet_id": [
+        "2025502314023498089"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2025634513192173879",
+    "created_at": "2026-02-22T18:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T19:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025634513192173879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3979405700",
+          "start": 3,
+          "username": "KarinrinSusei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aXcErKQfWS",
+          "end": 76,
+          "expanded_url": "https://x.com/KarinrinSusei/status/2025502314023498089/photo/1",
+          "media_key": "3_2025502310991028224",
+          "start": 53,
+          "url": "https://t.co/aXcErKQfWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025634513192173879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025502314023498089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KarinrinSusei: 我回來就是要毀滅這個全是臭腳糊臉的世界，創造一個全是肉腿的世界😡😡 https://t.co/aXcErKQfWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025502310991028224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwHnspaYAAxoQE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025502310991028224"
+          ],
+          "media_source_tweet_id": [
+            "2025502314023498089"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2025634513192173879",
+        "created_at": "2026-02-22T18:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025634513192173879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3979405700",
+              "start": 3,
+              "username": "KarinrinSusei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXcErKQfWS",
+              "end": 76,
+              "expanded_url": "https://x.com/KarinrinSusei/status/2025502314023498089/photo/1",
+              "media_key": "3_2025502310991028224",
+              "start": 53,
+              "url": "https://t.co/aXcErKQfWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025634513192173879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025502314023498089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KarinrinSusei: 我回來就是要毀滅這個全是臭腳糊臉的世界，創造一個全是肉腿的世界😡😡 https://t.co/aXcErKQfWS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025502310991028224"
+          ]
+        },
+        "author_id": "3979405700",
+        "conversation_id": "2025502314023498089",
+        "created_at": "2026-02-22T09:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025502314023498089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXcErKQfWS",
+              "end": 57,
+              "expanded_url": "https://x.com/KarinrinSusei/status/2025502314023498089/photo/1",
+              "media_key": "3_2025502310991028224",
+              "start": 34,
+              "url": "https://t.co/aXcErKQfWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025502314023498089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5188,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我回來就是要毀滅這個全是臭腳糊臉的世界，創造一個全是肉腿的世界😡😡 https://t.co/aXcErKQfWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 698,
+          "like_count": 33131,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 1990
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-22T11:00:35.000Z",
+        "description": "可愛又迷人的反派角色花凜凜喲✨@Mdrchyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Mdrchyan"
+              }
+            ]
+          }
+        },
+        "id": "3979405700",
+        "location": "水星",
+        "name": "失眠魔女花凜凜.🌙",
+        "pinned_tweet_id": "1837781453834219795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579787100203126784/6NdgOFjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117582,
+          "following_count": 883,
+          "like_count": 47503,
+          "listed_count": 367,
+          "media_count": 98,
+          "tweet_count": 4360
+        },
+        "username": "KarinrinSusei",
+        "verified": false
+      }
+    ]
+  }
+}

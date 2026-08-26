@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2036669781944971306",
+    "created_at": "2026-03-25T05:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036669781944971306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/entangled_pair…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/entangled_pair/status/2036369730123247663",
+          "start": 7,
+          "url": "https://t.co/t9CiyaXjwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036669781944971306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036369730123247663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还没玩够呢 https://t.co/t9CiyaXjwr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036369725098500096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKjec_bIAABElo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2036669781944971306",
+        "created_at": "2026-03-25T05:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036669781944971306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/entangled_pair…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/entangled_pair/status/2036369730123247663",
+              "start": 7,
+              "url": "https://t.co/t9CiyaXjwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036669781944971306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036369730123247663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还没玩够呢 https://t.co/t9CiyaXjwr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036369725098500096"
+          ]
+        },
+        "author_id": "982460989005287424",
+        "conversation_id": "2036369730123247663",
+        "created_at": "2026-03-24T09:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036369730123247663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6Ltk7qr1H",
+              "end": 166,
+              "expanded_url": "https://x.com/entangled_pair/status/2036369730123247663/photo/1",
+              "media_key": "3_2036369725098500096",
+              "start": 143,
+              "url": "https://t.co/X6Ltk7qr1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036369730123247663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6482,
+          "like_count": 108,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一条小红书，一个很漂亮的男生发的\n看到后面他说“我会在某个时候修剪自己成为最被主流接受的那种男生吗？很有可能在我二十八岁后？”\n我忽然再一次很后悔自己没有死在phd答辩结束的那天，仿佛一个电影没有在最棒的一刻结束，后面都是狗尾续貂\n（当然没有那么夸张，我对现在的生活大体是满意的） https://t.co/X6Ltk7qr1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "皮下男 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/JpusVKc6VE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/okada_te_resa",
+                "end": 124,
+                "expanded_url": "https://ngl.link/okada_te_resa",
+                "start": 101,
+                "url": "https://t.co/JpusVKc6VE"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "1996969043513766084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 735,
+          "like_count": 35330,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 2268
+        },
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "即时退出当代生活 ✉️: entangledpair(AT)pm(DOT)me",
+        "id": "982460989005287424",
+        "location": "Shenzhen",
+        "name": "𝙅𝙆.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924644713724051458/jCG1pD7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 312,
+          "like_count": 6682,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 934
+        },
+        "username": "entangled_pair",
+        "verified": false
+      }
+    ]
+  }
+}

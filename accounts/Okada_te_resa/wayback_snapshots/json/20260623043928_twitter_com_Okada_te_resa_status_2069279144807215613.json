@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2069279144807215613",
+    "created_at": "2026-06-23T04:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069279144807215613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896604741821726720",
+          "start": 3,
+          "username": "_yonayonaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069279144807215613",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069155527549157879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yonayonaka_: 6月底了 这条时隔不知道多久的\nଘ*⑅┈┈⋆°˖ ┈┈ ୨୧┈┈°⋆┈┈⑅*ଓ\n                        新置顶\n\n它终于出生了 （パチパチ👏\n\n药箱的骨折基本已经恢复正常了\n又可以回来继续接活了\n现在努力攒钱还手术费中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2069155214503157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcdtGmboAALtJN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069155214486331392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcdtGia4AAUTDM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069155214683430912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcdtHRaYAA6rnH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069155214486278144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcdtGiaEAAr5C2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2069279144807215613",
+        "created_at": "2026-06-23T04:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069279144807215613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896604741821726720",
+              "start": 3,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069279144807215613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069155527549157879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yonayonaka_: 6月底了 这条时隔不知道多久的\nଘ*⑅┈┈⋆°˖ ┈┈ ୨୧┈┈°⋆┈┈⑅*ଓ\n                        新置顶\n\n它终于出生了 （パチパチ👏\n\n药箱的骨折基本已经恢复正常了\n又可以回来继续接活了\n现在努力攒钱还手术费中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069155214503157760",
+            "3_2069155214486331392",
+            "3_2069155214683430912",
+            "3_2069155214486278144"
+          ]
+        },
+        "author_id": "1896604741821726720",
+        "conversation_id": "2069155527549157879",
+        "created_at": "2026-06-22T20:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:27:03.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069155227383849332",
+          "2069155451640664416",
+          "2069155527549157879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9m3eNULz8",
+              "end": 190,
+              "expanded_url": "https://x.com/_yonayonaka_/status/2069155527549157879/photo/1",
+              "media_key": "3_2069155214503157760",
+              "start": 167,
+              "url": "https://t.co/X9m3eNULz8"
+            },
+            {
+              "display_url": "pic.x.com/X9m3eNULz8",
+              "end": 190,
+              "expanded_url": "https://x.com/_yonayonaka_/status/2069155527549157879/photo/1",
+              "media_key": "3_2069155214486331392",
+              "start": 167,
+              "url": "https://t.co/X9m3eNULz8"
+            },
+            {
+              "display_url": "pic.x.com/X9m3eNULz8",
+              "end": 190,
+              "expanded_url": "https://x.com/_yonayonaka_/status/2069155527549157879/photo/1",
+              "media_key": "3_2069155214683430912",
+              "start": 167,
+              "url": "https://t.co/X9m3eNULz8"
+            },
+            {
+              "display_url": "pic.x.com/X9m3eNULz8",
+              "end": 190,
+              "expanded_url": "https://x.com/_yonayonaka_/status/2069155527549157879/photo/1",
+              "media_key": "3_2069155214486278144",
+              "start": 167,
+              "url": "https://t.co/X9m3eNULz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069155527549157879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月底了 这条时隔不知道多久的\nଘ*⑅┈┈⋆°˖ ┈┈ ୨୧┈┈°⋆┈┈⑅*ଓ\n                        新置顶\n\n它终于出生了 （パチパチ👏\n\n药箱的骨折基本已经恢复正常了\n又可以回来继续接活了\n现在努力攒钱还手术费中\n还是88加好友咨询 具体看图\n注意‼️私信只回复口令‼️\n\n门哥你什么时候来我真的好想你\n\n🩶转发关注领鸡蛋🩶\n\n1.一盒愈米 抽两人 \n2.神秘飞行员体验券  抽一人\n3.一盒pro80 抽两人\n4.抽3人每人52元\n5.没有了因为我太穷了\n\n天使女孩们求互fo互转.🥺"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 218,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "6月底了 这条时隔不知道多久的\nଘ*⑅┈┈⋆°˖ ┈┈ ୨୧┈┈°⋆┈┈⑅*ଓ\n                        新置顶\n\n它终于出生了 （パチパチ👏\n\n药箱的骨折基本已经恢复正常了\n又可以回来继续接活了\n现在努力攒钱还手术费中\n还是88加好友咨询 具体看图\n注意‼️私信只回复口令‼️\n\n门哥你什么时候来我真的好想你 https://t.co/X9m3eNULz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 131,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 108,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "location": "白下區",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 917,
+          "like_count": 40952,
+          "listed_count": 4,
+          "media_count": 671,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。\n里人格：@shi6w6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "shi6w6"
+              }
+            ]
+          }
+        },
+        "id": "1896604741821726720",
+        "location": "🚪288/520 88好友位可抵线下門",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "2069155527549157879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 281,
+          "like_count": 1300,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 1275
+        },
+        "url": "",
+        "username": "_yonayonaka_",
+        "verified": true
+      }
+    ]
+  }
+}
