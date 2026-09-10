@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2093044889483436477",
+    "created_at": "2026-08-27T18:55:49.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093049866926821689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093049866926821689",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093044889483436477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 第一个眼睛偷偷看好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093044876065808388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv9ObDaoAQ4jpt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093044876078358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv9ObGaIAAi3Bz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2093044889483436477",
+        "created_at": "2026-08-27T18:55:49.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093049866926821689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093049866926821689",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093044889483436477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 第一个眼睛偷偷看好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093044876065808388",
+            "3_2093044876078358528"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2093044889483436477",
+        "created_at": "2026-08-27T18:36:03.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093044889483436477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgQYsW1FcE",
+              "end": 44,
+              "expanded_url": "https://x.com/AMadelaina/status/2093044889483436477/photo/1",
+              "media_key": "3_2093044876065808388",
+              "start": 21,
+              "url": "https://t.co/EgQYsW1FcE"
+            },
+            {
+              "display_url": "pic.x.com/EgQYsW1FcE",
+              "end": 44,
+              "expanded_url": "https://x.com/AMadelaina/status/2093044889483436477/photo/1",
+              "media_key": "3_2093044876078358528",
+              "start": 21,
+              "url": "https://t.co/EgQYsW1FcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093044889483436477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093044876065808388"
+          },
+          {
+            "media_key": "3_2093044876078358528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0q比她好看的没她骚jp比她骚的没她好看 https://t.co/EgQYsW1FcE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2093049866926821689",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 1031,
+          "like_count": 47150,
+          "listed_count": 5,
+          "media_count": 772,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "反对恶意出生，支持正义自杀",
+        "id": "1982429504225349632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093047605945340031",
+        "name": "性感国男",
+        "pinned_tweet_id": "2020467357831897184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982429504225349632/1786296983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092790849017102336/CRHqUY8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 321,
+          "like_count": 2396,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 805
+        },
+        "url": "",
+        "username": "AMadelaina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

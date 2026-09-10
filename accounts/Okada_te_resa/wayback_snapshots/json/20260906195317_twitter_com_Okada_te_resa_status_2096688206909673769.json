@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096606495773544448"
+      ],
+      "media_source_tweet_id": [
+        "2096606575729467667"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      }
+    ],
+    "conversation_id": "2096688206909673769",
+    "created_at": "2026-09-06T19:53:17.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T20:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096688206909673769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "986275202030907392",
+          "start": 3,
+          "username": "zutomayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qx6sBeae0U",
+          "end": 94,
+          "expanded_url": "https://x.com/zutomayo/status/2096606575729467667/video/1",
+          "media_key": "13_2096606495773544448",
+          "start": 71,
+          "url": "https://t.co/qx6sBeae0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096688206909673769",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2096606495773544448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 890
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096606575729467667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zutomayo: 야호~~~ ✌︎↓\n라이브 끝나고 인생네컷 찍었어\n바람이 기분 좋았던 날\n소리도 기분 좋았어요　고마워요 https://t.co/qx6sBeae0U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5411,
+        "height": 640,
+        "media_key": "13_2096606495773544448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096606495773544448/img/NKm-ogiS057opwaS.jpg",
+        "public_metrics": {
+          "view_count": 60435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606495773544448/vid/avc1/404x270/cNXhKOaQLHP0sXXy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606495773544448/vid/avc1/540x360/yEwqfAudPozScUEx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606495773544448/vid/avc1/960x640/SN7Xa_Z84cnFBkVm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096606495773544448/pl/YYJ0ZDSm1r4o-rno.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096606495773544448"
+          ],
+          "media_source_tweet_id": [
+            "2096606575729467667"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2096688206909673769",
+        "created_at": "2026-09-06T19:53:17.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096688206909673769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "986275202030907392",
+              "start": 3,
+              "username": "zutomayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qx6sBeae0U",
+              "end": 94,
+              "expanded_url": "https://x.com/zutomayo/status/2096606575729467667/video/1",
+              "media_key": "13_2096606495773544448",
+              "start": 71,
+              "url": "https://t.co/qx6sBeae0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096688206909673769",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2096606495773544448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 890
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096606575729467667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zutomayo: 야호~~~ ✌︎↓\n라이브 끝나고 인생네컷 찍었어\n바람이 기분 좋았던 날\n소리도 기분 좋았어요　고마워요 https://t.co/qx6sBeae0U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096606495773544448"
+          ]
+        },
+        "author_id": "986275202030907392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2096606575729467667",
+        "created_at": "2026-09-06T14:28:55.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096606575729467667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qx6sBeae0U",
+              "end": 80,
+              "expanded_url": "https://x.com/zutomayo/status/2096606575729467667/video/1",
+              "media_key": "13_2096606495773544448",
+              "start": 57,
+              "url": "https://t.co/qx6sBeae0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096606575729467667",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2096606495773544448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 176063,
+          "like_count": 7026,
+          "quote_count": 178,
+          "reply_count": 102,
+          "retweet_count": 890
+        },
+        "reply_settings": "everyone",
+        "text": "야호~~~ ✌︎↓\n라이브 끝나고 인생네컷 찍었어\n바람이 기분 좋았던 날\n소리도 기분 좋았어요　고마워요 https://t.co/qx6sBeae0U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2096688206909673769",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 1044,
+          "like_count": 48170,
+          "listed_count": 7,
+          "media_count": 786,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-17T16:08:27.000Z",
+        "description": "https://t.co/9MiAS9i79m ううううう 人工甘味料に溺れた地球のレスキュー隊としてやってきました\nスパイシーズ/アカネーンです",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.to/ZUTOMAYO_YT",
+                "end": 23,
+                "expanded_url": "https://lnk.to/ZUTOMAYO_YT",
+                "start": 0,
+                "url": "https://t.co/9MiAS9i79m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/zutomayo/",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/zutomayo/",
+                "start": 0,
+                "url": "https://t.co/ZMjuEbK5Xz"
+              }
+            ]
+          }
+        },
+        "id": "986275202030907392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096606575729467667",
+        "name": "ACAねこスキル (ずっと真夜中でいいのに。)",
+        "pinned_tweet_id": "2074102778914607422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986275202030907392/1676790018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409459829316284419/nrIiFKWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683083,
+          "following_count": 6,
+          "like_count": 8459,
+          "listed_count": 2918,
+          "media_count": 1823,
+          "tweet_count": 8530
+        },
+        "url": "https://t.co/ZMjuEbK5Xz",
+        "username": "zutomayo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2094765387816845673",
+    "created_at": "2026-09-01T13:55:38.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094786261940924806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277135438302441472",
+          "start": 0,
+          "username": "TakahashiYua9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094786261940924806",
+    "in_reply_to_user_id": "1277135438302441472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094765387816845673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakahashiYua9 宝宝稀饭你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2094765362562949120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIZ_6tbYAAyVJz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2094765387816845673",
+        "created_at": "2026-09-01T13:55:38.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094786261940924806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277135438302441472",
+              "start": 0,
+              "username": "TakahashiYua9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094786261940924806",
+        "in_reply_to_user_id": "1277135438302441472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094765387816845673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakahashiYua9 宝宝稀饭你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094765362562949120"
+          ]
+        },
+        "author_id": "1277135438302441472",
+        "conversation_id": "2094765387816845673",
+        "created_at": "2026-09-01T12:32:41.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094765387816845673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSCQRQHTAy",
+              "end": 27,
+              "expanded_url": "https://x.com/TakahashiYua9/status/2094765387816845673/photo/1",
+              "media_key": "3_2094765362562949120",
+              "start": 4,
+              "url": "https://t.co/xSCQRQHTAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094765387816845673",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094765362562949120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 https://t.co/xSCQRQHTAy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2094786261940924806",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 1039,
+          "like_count": 47819,
+          "listed_count": 6,
+          "media_count": 776,
+          "tweet_count": 3587
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-28T07:03:25.000Z",
+        "description": "🏩🚗偶尔🛁/暂无担当",
+        "id": "1277135438302441472",
+        "is_identity_verified": false,
+        "location": "歌舞伎",
+        "most_recent_tweet_id": "2094778993610567775",
+        "name": "あちや🌸🍋",
+        "pinned_tweet_id": "2089124002510024823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277135438302441472/1785782898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084351551519535104/AZPLGMx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 389,
+          "like_count": 3612,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "TakahashiYua9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

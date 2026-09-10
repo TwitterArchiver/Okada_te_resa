@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095249436352090112"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2094877038209585265",
+    "created_at": "2026-09-02T20:36:09.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095249442324795890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417691846529060866",
+          "start": 0,
+          "username": "Jfnj8HeEt4dxvkY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ER4IHjiFuz",
+          "end": 45,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2095249442324795890/photo/1",
+          "media_key": "3_2095249436352090112",
+          "start": 22,
+          "url": "https://t.co/ER4IHjiFuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095249442324795890",
+    "in_reply_to_user_id": "1417691846529060866",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095249436352090112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095197913958019299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jfnj8HeEt4dxvkY 山东的大 https://t.co/ER4IHjiFuz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2095249436352090112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPSQuGakAAMduB.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095249436352090112"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2094877038209585265",
+        "created_at": "2026-09-02T20:36:09.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095249442324795890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417691846529060866",
+              "start": 0,
+              "username": "Jfnj8HeEt4dxvkY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ER4IHjiFuz",
+              "end": 45,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2095249442324795890/photo/1",
+              "media_key": "3_2095249436352090112",
+              "start": 22,
+              "url": "https://t.co/ER4IHjiFuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095249442324795890",
+        "in_reply_to_user_id": "1417691846529060866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095249436352090112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095197913958019299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jfnj8HeEt4dxvkY 山东的大 https://t.co/ER4IHjiFuz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417691846529060866",
+        "conversation_id": "2094877038209585265",
+        "created_at": "2026-09-02T17:11:24.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095197913958019299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095197913958019299",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095048654512181617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 死人妖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2095249442324795890",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 1041,
+          "like_count": 47891,
+          "listed_count": 7,
+          "media_count": 785,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-21T03:44:23.000Z",
+        "description": "",
+        "id": "1417691846529060866",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095197913958019299",
+        "name": "明月清风",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417955504769359872/sRq1tkXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 116,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "Jfnj8HeEt4dxvkY",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2093986544634012048",
+    "created_at": "2026-08-30T09:19:52.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093992086223905159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277135438302441472",
+          "start": 0,
+          "username": "TakahashiYua9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093992086223905159",
+    "in_reply_to_user_id": "1277135438302441472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093986544634012048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakahashiYua9 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093986516490240000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9VpG_bwAAPT30.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2093986544634012048",
+        "created_at": "2026-08-30T09:19:52.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093992086223905159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277135438302441472",
+              "start": 0,
+              "username": "TakahashiYua9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093992086223905159",
+        "in_reply_to_user_id": "1277135438302441472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093986544634012048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakahashiYua9 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093986516490240000"
+          ]
+        },
+        "author_id": "1277135438302441472",
+        "conversation_id": "2093986544634012048",
+        "created_at": "2026-08-30T08:57:51.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093986544634012048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mn6QDezn5J",
+              "end": 25,
+              "expanded_url": "https://x.com/TakahashiYua9/status/2093986544634012048/photo/1",
+              "media_key": "3_2093986516490240000",
+              "start": 2,
+              "url": "https://t.co/Mn6QDezn5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093986544634012048",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093986516490240000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あ https://t.co/Mn6QDezn5J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2093992086223905159",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 1037,
+          "like_count": 47388,
+          "listed_count": 5,
+          "media_count": 774,
+          "tweet_count": 3574
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-28T07:03:25.000Z",
+        "description": "🏩🚗偶尔🛁/暂无担当",
+        "id": "1277135438302441472",
+        "is_identity_verified": false,
+        "location": "歌舞伎",
+        "most_recent_tweet_id": "2093986544634012048",
+        "name": "あちや🌸🍋",
+        "pinned_tweet_id": "2089124002510024823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277135438302441472/1785782898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084351551519535104/AZPLGMx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 385,
+          "like_count": 3392,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "TakahashiYua9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

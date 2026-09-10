@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      }
+    ],
+    "conversation_id": "2094111379938824533",
+    "created_at": "2026-08-30T17:13:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094111379938824533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2069732700974702592",
+          "start": 3,
+          "username": "kumadanko_002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/tUE6es",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/tUE6es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094111379938824533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094070360413237452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumadanko_002: これは痛い過ぎる\nチベット辺境検査総隊の入国審査警官も救援へ向かう。画面中の若い警察官が「あちらで埋まれたのは私たちの人民同胞で、迎えしなくちゃ」と言った後、同僚が記者へ「彼の彼女さんはあそこで…」と https://t.co/tUE6es…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1659,
+        "media_key": "3_2094070282764103680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-h08rbMAAS-kT.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2094111379938824533",
+        "created_at": "2026-08-30T17:13:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094111379938824533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2069732700974702592",
+              "start": 3,
+              "username": "kumadanko_002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/tUE6es",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/tUE6es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094111379938824533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094070360413237452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumadanko_002: これは痛い過ぎる\nチベット辺境検査総隊の入国審査警官も救援へ向かう。画面中の若い警察官が「あちらで埋まれたのは私たちの人民同胞で、迎えしなくちゃ」と言った後、同僚が記者へ「彼の彼女さんはあそこで…」と https://t.co/tUE6es…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094070282764103680"
+          ]
+        },
+        "author_id": "2069732700974702592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2094070360413237452",
+        "created_at": "2026-08-30T14:30:54.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094070360413237452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUE6es7gdV",
+              "end": 124,
+              "expanded_url": "https://x.com/kumadanko_002/status/2094070360413237452/photo/1",
+              "media_key": "3_2094070282764103680",
+              "start": 101,
+              "url": "https://t.co/tUE6es7gdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094070360413237452",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094070282764103680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 21325,
+          "like_count": 333,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "これは痛い過ぎる\nチベット辺境検査総隊の入国審査警官も救援へ向かう。画面中の若い警察官が「あちらで埋まれたのは私たちの人民同胞で、迎えしなくちゃ」と言った後、同僚が記者へ「彼の彼女さんはあそこで…」と https://t.co/tUE6es7gdV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2094111379938824533",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1038,
+          "like_count": 47457,
+          "listed_count": 5,
+          "media_count": 775,
+          "tweet_count": 3579
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T10:42:32.000Z",
+        "description": "30MMやウォーハンマーを楽しめる赤い中国オタ。ホビーをやらない時は政治の話も多い奴です",
+        "id": "2069732700974702592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094107861987299389",
+        "name": "圓滾滾団子-文化と趣味を語る中国羆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069732700974702592/1782327490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069766539801161728/8BWeFR-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 673,
+          "like_count": 7363,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 3669
+        },
+        "url": "",
+        "username": "kumadanko_002",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091846830082359296"
+      ],
+      "media_source_tweet_id": [
+        "2093670009033629701"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094140790318706730",
+    "created_at": "2026-08-30T19:10:46.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T20:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094140790318706730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1097158645446516736",
+          "start": 3,
+          "username": "tvchany_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WKVfuuSFmc",
+          "end": 72,
+          "expanded_url": "https://x.com/tvchany_/status/2093670009033629701/photo/1",
+          "media_key": "3_2091846830082359296",
+          "start": 49,
+          "url": "https://t.co/WKVfuuSFmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094140790318706730",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091846830082359296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093670009033629701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tvchany_: Good Evening 🌙\n海馬成長痛2周年おめでとうございます🪐 https://t.co/WKVfuuSFmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2085,
+        "media_key": "3_2091846830082359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQe7m9-WAAAi8A5.png",
+        "width": 1485
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091846830082359296"
+          ],
+          "media_source_tweet_id": [
+            "2093670009033629701"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094140790318706730",
+        "created_at": "2026-08-30T19:10:46.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094140790318706730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1097158645446516736",
+              "start": 3,
+              "username": "tvchany_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKVfuuSFmc",
+              "end": 72,
+              "expanded_url": "https://x.com/tvchany_/status/2093670009033629701/photo/1",
+              "media_key": "3_2091846830082359296",
+              "start": 49,
+              "url": "https://t.co/WKVfuuSFmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094140790318706730",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091846830082359296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093670009033629701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tvchany_: Good Evening 🌙\n海馬成長痛2周年おめでとうございます🪐 https://t.co/WKVfuuSFmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091846830082359296"
+          ]
+        },
+        "author_id": "1097158645446516736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093670009033629701",
+        "created_at": "2026-08-29T12:00:03.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093670009033629701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKVfuuSFmc",
+              "end": 58,
+              "expanded_url": "https://x.com/tvchany_/status/2093670009033629701/photo/1",
+              "media_key": "3_2091846830082359296",
+              "start": 35,
+              "url": "https://t.co/WKVfuuSFmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093670009033629701",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091846830082359296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 443,
+          "impression_count": 128133,
+          "like_count": 7484,
+          "quote_count": 46,
+          "reply_count": 4,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "Good Evening 🌙\n海馬成長痛2周年おめでとうございます🪐 https://t.co/WKVfuuSFmc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2094140790318706730",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1038,
+          "like_count": 47503,
+          "listed_count": 5,
+          "media_count": 775,
+          "tweet_count": 3580
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-17T15:39:40.000Z",
+        "description": "illustration/animation \n✉ contact@tvchany.com\n🌍 https://t.co/kmqDHBzC6g\n📺 https://t.co/yoVx3I6app\n#tvchany_FA // #tvchany_card",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 98,
+                "tag": "tvchany_FA"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "tag": "tvchany_card"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tvchany.com/hub",
+                "end": 71,
+                "expanded_url": "http://tvchany.com/hub",
+                "start": 48,
+                "url": "https://t.co/kmqDHBzC6g"
+              },
+              {
+                "display_url": "youtube.com/@TVCHANY",
+                "end": 97,
+                "expanded_url": "http://youtube.com/@TVCHANY",
+                "start": 74,
+                "url": "https://t.co/yoVx3I6app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tvchany.store",
+                "end": 23,
+                "expanded_url": "http://tvchany.store",
+                "start": 0,
+                "url": "https://t.co/OOinaIq2Zh"
+              }
+            ]
+          }
+        },
+        "id": "1097158645446516736",
+        "is_identity_verified": false,
+        "location": "switzerland ",
+        "most_recent_tweet_id": "2094087701523788246",
+        "name": "TV♡CHANY",
+        "pinned_tweet_id": "2016846206203211895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097158645446516736/1639613680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598696386333229058/HO6g6qNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190460,
+          "following_count": 789,
+          "like_count": 4008,
+          "listed_count": 1348,
+          "media_count": 371,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/OOinaIq2Zh",
+        "username": "tvchany_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

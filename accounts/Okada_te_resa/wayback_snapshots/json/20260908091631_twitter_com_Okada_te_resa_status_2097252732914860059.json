@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096978007621873664"
+      ],
+      "media_source_tweet_id": [
+        "2096978256692236544"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097252732914860059",
+    "created_at": "2026-09-08T09:16:31.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097252732914860059"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "GT7"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "779856676287451136",
+          "start": 3,
+          "username": "SaJI_SRSG_LiSA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ec2GIT4Rzg",
+          "end": 111,
+          "expanded_url": "https://x.com/SaJI_SRSG_LiSA/status/2096978256692236544/video/1",
+          "media_key": "13_2096978007621873664",
+          "start": 88,
+          "url": "https://t.co/Ec2GIT4Rzg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097252732914860059",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2096978007621873664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096978256692236544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaJI_SRSG_LiSA: #GT7 \n絶   対   な   る   横   揺   れ   界   隈   の   板   金   王   中   里   毅 https://t.co/Ec2GIT4Rzg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 117750,
+        "height": 720,
+        "media_key": "13_2096978007621873664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096978007621873664/img/ArJBuRhfp5VSgZml.jpg",
+        "public_metrics": {
+          "view_count": 385227
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096978007621873664/vid/avc1/480x270/ZKP6DRpA3eboHXC6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096978007621873664/vid/avc1/640x360/KgiYUShJ3GLP3V0N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096978007621873664/vid/avc1/1280x720/rbrDxoglxQQqKy8x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096978007621873664/pl/eShhOI2HTxn2gALH.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096978007621873664"
+          ],
+          "media_source_tweet_id": [
+            "2096978256692236544"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097252732914860059",
+        "created_at": "2026-09-08T09:16:31.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097252732914860059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "GT7"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "779856676287451136",
+              "start": 3,
+              "username": "SaJI_SRSG_LiSA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ec2GIT4Rzg",
+              "end": 111,
+              "expanded_url": "https://x.com/SaJI_SRSG_LiSA/status/2096978256692236544/video/1",
+              "media_key": "13_2096978007621873664",
+              "start": 88,
+              "url": "https://t.co/Ec2GIT4Rzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097252732914860059",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096978007621873664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096978256692236544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaJI_SRSG_LiSA: #GT7 \n絶   対   な   る   横   揺   れ   界   隈   の   板   金   王   中   里   毅 https://t.co/Ec2GIT4Rzg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096978007621873664"
+          ]
+        },
+        "author_id": "779856676287451136",
+        "conversation_id": "2096978256692236544",
+        "created_at": "2026-09-07T15:05:51.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096978256692236544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "GT7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ec2GIT4Rzg",
+              "end": 91,
+              "expanded_url": "https://x.com/SaJI_SRSG_LiSA/status/2096978256692236544/video/1",
+              "media_key": "13_2096978007621873664",
+              "start": 68,
+              "url": "https://t.co/Ec2GIT4Rzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096978256692236544",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096978007621873664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2543,
+          "impression_count": 784963,
+          "like_count": 14052,
+          "quote_count": 144,
+          "reply_count": 62,
+          "retweet_count": 2148
+        },
+        "reply_settings": "everyone",
+        "text": "#GT7 \n絶   対   な   る   横   揺   れ   界   隈   の   板   金   王   中   里   毅 https://t.co/Ec2GIT4Rzg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2097252732914860059",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 1043,
+          "like_count": 48146,
+          "listed_count": 7,
+          "media_count": 786,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-25T01:34:55.000Z",
+        "description": "病気みたいなものしか上げれないジャガノリスキルで感覚麻痺したスナ好きの雑魚CoD民です。基本ソロのクルマ好き。あとFortniteに禪院真希追加してくれ。（1期のデザインを願望）\nrespect→@AlexDynius @RAB_CREW @03_Bara_ @j9669669 @bboy_shigekix等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "AlexDynius"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "RAB_CREW"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "03_Bara_"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "j9669669"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "bboy_shigekix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sajinon_wraith…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/sajinon_wraithreaper0305?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/2aHvCm0aBS"
+              }
+            ]
+          }
+        },
+        "id": "779856676287451136",
+        "is_identity_verified": false,
+        "location": "「今日もいい日だっ」ミニガン、スナイパー好きな永久のルーキー",
+        "most_recent_tweet_id": "2097251735710711982",
+        "name": "🕺👟🕺SaJInon_LiSAっ子_Nowar@一刻も早くブレイキン始めたい",
+        "pinned_tweet_id": "2090105734088528219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/779856676287451136/1663685103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964631637318328320/E80N8RfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 3814,
+          "like_count": 390112,
+          "listed_count": 9,
+          "media_count": 3152,
+          "tweet_count": 86868
+        },
+        "url": "https://t.co/2aHvCm0aBS",
+        "username": "SaJI_SRSG_LiSA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

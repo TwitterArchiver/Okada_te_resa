@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2093666378763186176"
+      ],
+      "media_source_tweet_id": [
+        "2093666408203010227"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2093689330237644833",
+    "created_at": "2026-08-29T13:16:49.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093689330237644833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969421064167178245",
+          "start": 3,
+          "username": "nn__klou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yt6UnBkprO",
+          "end": 42,
+          "expanded_url": "https://x.com/nn__klou/status/2093666408203010227/photo/1",
+          "media_key": "16_2093666378763186176",
+          "start": 19,
+          "url": "https://t.co/yt6UnBkprO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093689330237644833",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "16_2093666378763186176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093666408203010227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @nn__klou: 어죽을게 https://t.co/yt6UnBkprO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2093666378763186176",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQ4yepBbsAAR5NQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQ4yepBbsAAR5NQ.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093666378763186176"
+          ],
+          "media_source_tweet_id": [
+            "2093666408203010227"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2093689330237644833",
+        "created_at": "2026-08-29T13:16:49.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093689330237644833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969421064167178245",
+              "start": 3,
+              "username": "nn__klou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yt6UnBkprO",
+              "end": 42,
+              "expanded_url": "https://x.com/nn__klou/status/2093666408203010227/photo/1",
+              "media_key": "16_2093666378763186176",
+              "start": 19,
+              "url": "https://t.co/yt6UnBkprO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093689330237644833",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "16_2093666378763186176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093666408203010227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @nn__klou: 어죽을게 https://t.co/yt6UnBkprO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093666378763186176"
+          ]
+        },
+        "author_id": "1969421064167178245",
+        "conversation_id": "2093666408203010227",
+        "created_at": "2026-08-29T11:45:44.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093666408203010227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yt6UnBkprO",
+              "end": 28,
+              "expanded_url": "https://x.com/nn__klou/status/2093666408203010227/photo/1",
+              "media_key": "16_2093666378763186176",
+              "start": 5,
+              "url": "https://t.co/yt6UnBkprO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093666408203010227",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "16_2093666378763186176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 15121,
+          "like_count": 787,
+          "quote_count": 62,
+          "reply_count": 2,
+          "retweet_count": 247
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "어죽을게 https://t.co/yt6UnBkprO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2093689330237644833",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 1038,
+          "like_count": 47295,
+          "listed_count": 5,
+          "media_count": 773,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-20T15:19:18.000Z",
+        "description": "진심으로심각하게고민하는건데요투디에들어가고싶어요그곳에제여친미타케란이절기다리고 있어요....저도얼른투디에들어가서하네오카여학원에 당당히합격하여친구사이로지내다가친구사이그이상이되고싶은데방법좀알려주세요... 얼른들어가야합니다.... 더이상시간이 없어요......",
+        "id": "1969421064167178245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093666408203010227",
+        "name": "둥이..",
+        "pinned_tweet_id": "2090617404120613315",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969421064167178245/1778263148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062602055454449664/AAF3M0_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 95,
+          "like_count": 5669,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 3719
+        },
+        "url": "",
+        "username": "nn__klou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

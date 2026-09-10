@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2092249762552828057",
+    "created_at": "2026-08-25T13:56:30.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092249762552828057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NANIMONO_purin…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/NANIMONO_purin/status/2092231661945790694",
+          "start": 8,
+          "url": "https://t.co/XrNfA9wRbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092249762552828057",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092231661945790694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yosoro！ https://t.co/XrNfA9wRbd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2949,
+        "media_key": "3_2092231651229343745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkZmgdaoAE5WHo.jpg",
+        "width": 3931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2092249762552828057",
+        "created_at": "2026-08-25T13:56:30.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092249762552828057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NANIMONO_purin…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/NANIMONO_purin/status/2092231661945790694",
+              "start": 8,
+              "url": "https://t.co/XrNfA9wRbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092249762552828057",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092231661945790694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yosoro！ https://t.co/XrNfA9wRbd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092231651229343745"
+          ]
+        },
+        "author_id": "1178342689206493185",
+        "conversation_id": "2092231661945790694",
+        "created_at": "2026-08-25T12:44:34.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092231661945790694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFh1cS59UE",
+              "end": 35,
+              "expanded_url": "https://x.com/NANIMONO_purin/status/2092231661945790694/photo/1",
+              "media_key": "3_2092231651229343745",
+              "start": 12,
+              "url": "https://t.co/yFh1cS59UE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092231661945790694",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092231651229343745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10856,
+          "like_count": 977,
+          "quote_count": 23,
+          "reply_count": 36,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "全速前進〜ヨーソロー❕ https://t.co/yFh1cS59UE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2092249762552828057",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 1026,
+          "like_count": 46932,
+          "listed_count": 5,
+          "media_count": 770,
+          "tweet_count": 3555
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-29T16:16:12.000Z",
+        "description": "NANIMONO(@NANIMONO_idol) 黄色 ねぎしぷりんだよ🍮食いしん坊ビール大好きインキャ🍺群馬県出身147cm！きょうもビールがうまい！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "NANIMONO_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/purin__oi4?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/purin__oi4?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/sjgBxGegEm"
+              }
+            ]
+          }
+        },
+        "id": "1178342689206493185",
+        "is_identity_verified": false,
+        "location": " #せーのでぷっちん  #きょうもぷりんがうまい ",
+        "most_recent_tweet_id": "2092247469610676385",
+        "name": "眠岸ぷりん",
+        "pinned_tweet_id": "1995418029463933353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178342689206493185/1652787302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061751449021972480/7OwrC2VF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108643,
+          "following_count": 251,
+          "like_count": 122380,
+          "listed_count": 655,
+          "media_count": 1431,
+          "tweet_count": 17775
+        },
+        "url": "https://t.co/sjgBxGegEm",
+        "username": "NANIMONO_purin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
