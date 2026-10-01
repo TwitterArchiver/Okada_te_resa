@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2100817270591377471",
+    "created_at": "2026-09-18T06:48:40.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100839405904929212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040872171602694144",
+          "start": 0,
+          "username": "Joehxc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100839405904929212",
+    "in_reply_to_user_id": "2040872171602694144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100817270591377471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joehxc0 耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100817259983994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeaKtdbAAAJ4PW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2100817270591377471",
+        "created_at": "2026-09-18T06:48:40.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100839405904929212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040872171602694144",
+              "start": 0,
+              "username": "Joehxc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100839405904929212",
+        "in_reply_to_user_id": "2040872171602694144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100817270591377471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joehxc0 耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100817259983994880"
+          ]
+        },
+        "author_id": "2040872171602694144",
+        "conversation_id": "2100817270591377471",
+        "created_at": "2026-09-18T05:20:43.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100817270591377471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5zBczoPSN",
+              "end": 43,
+              "expanded_url": "https://x.com/Joehxc0/status/2100817270591377471/photo/1",
+              "media_key": "3_2100817259983994880",
+              "start": 20,
+              "url": "https://t.co/e5zBczoPSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100817270591377471",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100817259983994880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现这东西能耍 医生开的还没吃 唉唉 https://t.co/e5zBczoPSN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2100839405904929212",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 1044,
+          "like_count": 48771,
+          "listed_count": 8,
+          "media_count": 796,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T19:20:41.000Z",
+        "description": "没有道德浪漫脑 永远年轻臭婊子 泛性恋这一块 easyguy 耍起 你的臭婊子和尼古丁天使\n随时DM任何人除非你明确说过不闲聊 被骂被挂只会block 争吵很没意义所以我不反驳",
+        "id": "2040872171602694144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100821336436490412",
+        "name": "Joe",
+        "pinned_tweet_id": "2050290259775390162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040872171602694144/1775724293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094495107466870784/H6nO87dF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 772,
+          "like_count": 4676,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "Joehxc0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103847437949677568",
+        "3_2103847437656076288"
+      ],
+      "media_source_tweet_id": [
+        "2103847450759066000",
+        "2103847450759066000"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2103953688629014639",
+    "created_at": "2026-09-26T21:03:43.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T22:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103953688629014639"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 21,
+          "tag": "シャニマスソロライブMSP_day1"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1374459238815125514",
+          "start": 3,
+          "username": "nari_milktea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9tK9QzvDl",
+          "end": 103,
+          "expanded_url": "https://x.com/nari_milktea/status/2103847450759066000/photo/1",
+          "media_key": "3_2103847437949677568",
+          "start": 80,
+          "url": "https://t.co/a9tK9QzvDl"
+        },
+        {
+          "display_url": "pic.x.com/a9tK9QzvDl",
+          "end": 103,
+          "expanded_url": "https://x.com/nari_milktea/status/2103847450759066000/photo/1",
+          "media_key": "3_2103847437656076288",
+          "start": 80,
+          "url": "https://t.co/a9tK9QzvDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103953688629014639",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103847437949677568"
+      },
+      {
+        "media_key": "3_2103847437656076288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1759
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103847450759066000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nari_milktea: ⟡\n\n#シャニマスソロライブMSP_day1 𓈒𓏸︎︎\n有難う御座いました ·͜·\n明日もルカと頑張ります！何卒 🖤\n\n⟡ https://t.co/a9tK9QzvDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2855,
+        "media_key": "3_2103847437949677568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJeGSCbMAAZ7cR.jpg",
+        "width": 1903
+      },
+      {
+        "height": 2869,
+        "media_key": "3_2103847437656076288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJeGQ8bMAAGVbV.jpg",
+        "width": 1912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103847437949677568",
+            "3_2103847437656076288"
+          ],
+          "media_source_tweet_id": [
+            "2103847450759066000",
+            "2103847450759066000"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2103953688629014639",
+        "created_at": "2026-09-26T21:03:43.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103953688629014639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 21,
+              "tag": "シャニマスソロライブMSP_day1"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1374459238815125514",
+              "start": 3,
+              "username": "nari_milktea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9tK9QzvDl",
+              "end": 103,
+              "expanded_url": "https://x.com/nari_milktea/status/2103847450759066000/photo/1",
+              "media_key": "3_2103847437949677568",
+              "start": 80,
+              "url": "https://t.co/a9tK9QzvDl"
+            },
+            {
+              "display_url": "pic.x.com/a9tK9QzvDl",
+              "end": 103,
+              "expanded_url": "https://x.com/nari_milktea/status/2103847450759066000/photo/1",
+              "media_key": "3_2103847437656076288",
+              "start": 80,
+              "url": "https://t.co/a9tK9QzvDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103953688629014639",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103847437949677568"
+          },
+          {
+            "media_key": "3_2103847437656076288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1759
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103847450759066000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nari_milktea: ⟡\n\n#シャニマスソロライブMSP_day1 𓈒𓏸︎︎\n有難う御座いました ·͜·\n明日もルカと頑張ります！何卒 🖤\n\n⟡ https://t.co/a9tK9QzvDl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103847437949677568",
+            "3_2103847437656076288"
+          ]
+        },
+        "author_id": "1374459238815125514",
+        "conversation_id": "2103847450759066000",
+        "created_at": "2026-09-26T14:01:34.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103847450759066000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 3,
+              "tag": "シャニマスソロライブMSP_day1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9tK9QzvDl",
+              "end": 85,
+              "expanded_url": "https://x.com/nari_milktea/status/2103847450759066000/photo/1",
+              "media_key": "3_2103847437949677568",
+              "start": 62,
+              "url": "https://t.co/a9tK9QzvDl"
+            },
+            {
+              "display_url": "pic.x.com/a9tK9QzvDl",
+              "end": 85,
+              "expanded_url": "https://x.com/nari_milktea/status/2103847450759066000/photo/1",
+              "media_key": "3_2103847437656076288",
+              "start": 62,
+              "url": "https://t.co/a9tK9QzvDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103847450759066000",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103847437949677568"
+          },
+          {
+            "media_key": "3_2103847437656076288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 110118,
+          "like_count": 7446,
+          "quote_count": 100,
+          "reply_count": 63,
+          "retweet_count": 1759
+        },
+        "reply_settings": "everyone",
+        "text": "⟡\n\n#シャニマスソロライブMSP_day1 𓈒𓏸︎︎\n有難う御座いました ·͜·\n明日もルカと頑張ります！何卒 🖤\n\n⟡ https://t.co/a9tK9QzvDl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2103953688629014639",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 1050,
+          "like_count": 48979,
+          "listed_count": 8,
+          "media_count": 798,
+          "tweet_count": 3653
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T20:34:08.000Z",
+        "description": "青二プロ所属 声優┊紅茶とホラーとボカロが好きです\n写真・動画の無断利用・転載、一切お控え下さいませ\n通知欄拝見しております。いつも応援の程、誠に有難う御座います",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nari_milktea?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nari_milktea?igsh=MWVzeWVkeG1hYXN5bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5FU0JCgkUQ"
+              }
+            ]
+          }
+        },
+        "id": "1374459238815125514",
+        "is_identity_verified": false,
+        "location": "i & h┊水澄ぐみ様 ( @misumigumi )",
+        "most_recent_tweet_id": "2103847450759066000",
+        "name": "川口 莉奈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374459238815125514/1784306655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039402845758435328/F4lLRGQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67903,
+          "following_count": 334,
+          "like_count": 38175,
+          "listed_count": 1807,
+          "media_count": 313,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/5FU0JCgkUQ",
+        "username": "nari_milktea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

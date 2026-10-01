@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2104439628216590382",
+    "created_at": "2026-09-28T05:48:22.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104448107245375624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1412414370890518533",
+          "start": 0,
+          "username": "ramsemzm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104448107245375624",
+    "in_reply_to_user_id": "1412414370890518533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104439628216590382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ramsemzm1 这个衣服好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10166,
+        "height": 1920,
+        "media_key": "13_2104439581286539264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104439581286539264/img/_gr5vHCqPl7Z_Vsm.jpg",
+        "public_metrics": {
+          "view_count": 59
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104439581286539264/vid/avc1/720x1280/j4-fWnXW91ioSvq5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104439581286539264/vid/avc1/1080x1920/ai050X5-px5kesU-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104439581286539264/vid/avc1/320x568/hd1vgBIGS7n8WPBx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104439581286539264/vid/avc1/480x852/nRS0V4FmIlwTI5LQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104439581286539264/pl/ZQfgJ5LdrIklnbOD.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2104439628216590382",
+        "created_at": "2026-09-28T05:48:22.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104448107245375624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1412414370890518533",
+              "start": 0,
+              "username": "ramsemzm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104448107245375624",
+        "in_reply_to_user_id": "1412414370890518533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104439628216590382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ramsemzm1 这个衣服好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104439581286539264"
+          ]
+        },
+        "author_id": "1412414370890518533",
+        "conversation_id": "2104439628216590382",
+        "created_at": "2026-09-28T05:14:40.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104439628216590382"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "男の娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnvaaC4t8F",
+              "end": 55,
+              "expanded_url": "https://x.com/ramsemzm1/status/2104439628216590382/video/1",
+              "media_key": "13_2104439581286539264",
+              "start": 32,
+              "url": "https://t.co/KnvaaC4t8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104439628216590382",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104439581286539264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘬 给你吃\n\n#男の娘 #男娘 #可爱的男孩子 #femboy https://t.co/KnvaaC4t8F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2104448107245375624",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 1051,
+          "like_count": 49058,
+          "listed_count": 9,
+          "media_count": 800,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-06T14:13:29.000Z",
+        "description": "情侣S/女生属性4i Pegging/Sp/Tk..\n欢迎扩列\n常驻广深",
+        "id": "1412414370890518533",
+        "is_identity_verified": false,
+        "location": "Irvine, CA",
+        "most_recent_tweet_id": "2104441799226089693",
+        "name": "Jakirooo",
+        "pinned_tweet_id": "2051390085053169684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412414370890518533/1776023563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070593181557940224/qtHPG-hO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 1474,
+          "like_count": 6900,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "ramsemzm1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

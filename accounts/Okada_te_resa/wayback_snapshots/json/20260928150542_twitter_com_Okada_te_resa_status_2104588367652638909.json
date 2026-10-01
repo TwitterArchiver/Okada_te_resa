@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104509908192563200"
+      ],
+      "media_source_tweet_id": [
+        "2104509913838018948"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      }
+    ],
+    "conversation_id": "2104588367652638909",
+    "created_at": "2026-09-28T15:05:42.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104588367652638909"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "ゆちゃ的"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "253177157",
+          "start": 3,
+          "username": "aimi_sound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8CS0KCBCC",
+          "end": 106,
+          "expanded_url": "https://x.com/aimi_sound/status/2104509913838018948/photo/1",
+          "media_key": "3_2104509908192563200",
+          "start": 83,
+          "url": "https://t.co/h8CS0KCBCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104588367652638909",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104509908192563200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104509913838018948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aimi_sound: ＼本日まで／\n10/31に発売記念イベントやります‼️\nスペイン楽しかったトーク‼️\n話したいこといっぱあるーーーー😭💕\n#ゆちゃ的 https://t.co/h8CS0KCBCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104509908192563200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTS4nIAbkAAncbB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104509908192563200"
+          ],
+          "media_source_tweet_id": [
+            "2104509913838018948"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          }
+        ],
+        "conversation_id": "2104588367652638909",
+        "created_at": "2026-09-28T15:05:42.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104588367652638909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "ゆちゃ的"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "253177157",
+              "start": 3,
+              "username": "aimi_sound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8CS0KCBCC",
+              "end": 106,
+              "expanded_url": "https://x.com/aimi_sound/status/2104509913838018948/photo/1",
+              "media_key": "3_2104509908192563200",
+              "start": 83,
+              "url": "https://t.co/h8CS0KCBCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104588367652638909",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104509908192563200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104509913838018948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aimi_sound: ＼本日まで／\n10/31に発売記念イベントやります‼️\nスペイン楽しかったトーク‼️\n話したいこといっぱあるーーーー😭💕\n#ゆちゃ的 https://t.co/h8CS0KCBCC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104509908192563200"
+          ]
+        },
+        "author_id": "253177157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          }
+        ],
+        "conversation_id": "2104509913838018948",
+        "created_at": "2026-09-28T09:53:58.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104509913838018948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "ゆちゃ的"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8CS0KCBCC",
+              "end": 90,
+              "expanded_url": "https://x.com/aimi_sound/status/2104509913838018948/photo/1",
+              "media_key": "3_2104509908192563200",
+              "start": 67,
+              "url": "https://t.co/h8CS0KCBCC"
+            },
+            {
+              "display_url": "x.com/yuchateki/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/yuchateki/status/2104165459079664107",
+              "start": 91,
+              "url": "https://t.co/CGqA5rtwOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104509913838018948",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104509908192563200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 46365,
+          "like_count": 2120,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104165459079664107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "＼本日まで／\n10/31に発売記念イベントやります‼️\nスペイン楽しかったトーク‼️\n話したいこといっぱあるーーーー😭💕\n#ゆちゃ的 https://t.co/h8CS0KCBCC https://t.co/CGqA5rtwOT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2104588367652638909",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 1052,
+          "like_count": 49101,
+          "listed_count": 9,
+          "media_count": 800,
+          "tweet_count": 3669
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-16T18:24:01.000Z",
+        "description": "イラストロジック／VoiceActor／Singer／AiM:Øriginal／#チームY／INTP-AC／https://t.co/XL60i51CUE／#あいみんみてや／FC #OKOMAISON🍚／",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "チームY"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "あいみんみてや"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "tag": "OKOMAISON"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/aimin_official",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/aimin_official",
+                "start": 54,
+                "url": "https://t.co/XL60i51CUE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aimin_officia…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aimin_official?si=qdGBEqyXi6MZf7W0",
+                "start": 0,
+                "url": "https://t.co/yPK9NdSUdd"
+              }
+            ]
+          }
+        },
+        "id": "253177157",
+        "is_identity_verified": false,
+        "location": "響・キングレコード",
+        "most_recent_tweet_id": "2104577982480449881",
+        "name": "愛美/AIMI",
+        "pinned_tweet_id": "2100444523465953589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253177157/1703854618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790017537419448320/CpfWdOtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473929,
+          "following_count": 32,
+          "like_count": 4117,
+          "listed_count": 7726,
+          "media_count": 8434,
+          "tweet_count": 42291
+        },
+        "url": "https://t.co/yPK9NdSUdd",
+        "username": "aimi_sound",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

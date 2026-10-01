@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2104252118450487662",
+    "created_at": "2026-09-27T16:49:34.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104252118450487662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nari_milktea/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/nari_milktea/status/2104183223769329845",
+          "start": 3,
+          "url": "https://t.co/q53iH1aikd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104252118450487662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104183223769329845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/q53iH1aikd"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "リガーズトゥアバンドーンを纏うルカ\nとっても神聖で、強いのに儚くて、とっても大好き\n\nオサレカンパニーさん、本当に有難う御座います ·͜·♡",
+        "height": 2827,
+        "media_key": "3_2104183212117499904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOPe6SaoAAfukj.jpg",
+        "width": 1885
+      },
+      {
+        "height": 2716,
+        "media_key": "3_2104183212138471424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOPe6XaoAAs-DI.jpg",
+        "width": 2037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2104252118450487662",
+        "created_at": "2026-09-27T16:49:34.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104252118450487662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nari_milktea/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/nari_milktea/status/2104183223769329845",
+              "start": 3,
+              "url": "https://t.co/q53iH1aikd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104252118450487662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104183223769329845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/q53iH1aikd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104183212117499904",
+            "3_2104183212138471424"
+          ]
+        },
+        "author_id": "1374459238815125514",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2104183223769329845",
+        "created_at": "2026-09-27T12:15:49.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104183223769329845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 3,
+              "tag": "シャニマスソロライブMSP_day2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LIQ4iQAii",
+              "end": 99,
+              "expanded_url": "https://x.com/nari_milktea/status/2104183223769329845/photo/1",
+              "media_key": "3_2104183212117499904",
+              "start": 76,
+              "url": "https://t.co/8LIQ4iQAii"
+            },
+            {
+              "display_url": "pic.x.com/8LIQ4iQAii",
+              "end": 99,
+              "expanded_url": "https://x.com/nari_milktea/status/2104183223769329845/photo/1",
+              "media_key": "3_2104183212138471424",
+              "start": 76,
+              "url": "https://t.co/8LIQ4iQAii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104183223769329845",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "リガーズトゥアバンドーンを纏うルカ\nとっても神聖で、強いのに儚くて、とっても大好き\n\nオサレカンパニーさん、本当に有難う御座います ·͜·♡",
+            "media_key": "3_2104183212117499904"
+          },
+          {
+            "media_key": "3_2104183212138471424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 73585,
+          "like_count": 6675,
+          "quote_count": 30,
+          "reply_count": 87,
+          "retweet_count": 1752
+        },
+        "reply_settings": "everyone",
+        "text": "⟡\n\n#シャニマスソロライブMSP_day2 𓈒𓏸︎︎\n2日間有難う御座いました(՞ . .՞)\"\nランウェイで輝くアイドル達、素敵でした✦.*\n\n⟡ https://t.co/8LIQ4iQAii"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2104252118450487662",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 1050,
+          "like_count": 49036,
+          "listed_count": 9,
+          "media_count": 799,
+          "tweet_count": 3661
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T20:34:08.000Z",
+        "description": "青二プロ所属 声優┊紅茶とホラーとボカロが好きです\n写真・動画の無断利用・転載、一切お控え下さいませ\n通知欄拝見しております。いつも応援の程、誠に有難う御座います",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nari_milktea?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nari_milktea?igsh=MWVzeWVkeG1hYXN5bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5FU0JCgkUQ"
+              }
+            ]
+          }
+        },
+        "id": "1374459238815125514",
+        "is_identity_verified": false,
+        "location": "i & h┊水澄ぐみ様 ( @misumigumi )",
+        "most_recent_tweet_id": "2104188988580110773",
+        "name": "川口 莉奈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374459238815125514/1784306655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039402845758435328/F4lLRGQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68048,
+          "following_count": 334,
+          "like_count": 38180,
+          "listed_count": 1814,
+          "media_count": 314,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/5FU0JCgkUQ",
+        "username": "nari_milktea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

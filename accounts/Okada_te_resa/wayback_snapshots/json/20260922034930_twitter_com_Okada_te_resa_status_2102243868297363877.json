@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2101993486299865088"
+      ],
+      "media_source_tweet_id": [
+        "2101993563647103008"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102243868297363877",
+    "created_at": "2026-09-22T03:49:30.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102243868297363877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038197907216609280",
+          "start": 3,
+          "username": "jus3citron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jffCJDoGGN",
+          "end": 39,
+          "expanded_url": "https://x.com/jus3citron/status/2101993563647103008/photo/1",
+          "media_key": "16_2101993486299865088",
+          "start": 16,
+          "url": "https://t.co/jffCJDoGGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102243868297363877",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2101993486299865088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101993563647103008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jus3citron: https://t.co/jffCJDoGGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "16_2101993486299865088",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSvH8F8WoAAwFcP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSvH8F8WoAAwFcP.mp4"
+          }
+        ],
+        "width": 232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2101993486299865088"
+          ],
+          "media_source_tweet_id": [
+            "2101993563647103008"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102243868297363877",
+        "created_at": "2026-09-22T03:49:30.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102243868297363877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038197907216609280",
+              "start": 3,
+              "username": "jus3citron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jffCJDoGGN",
+              "end": 39,
+              "expanded_url": "https://x.com/jus3citron/status/2101993563647103008/photo/1",
+              "media_key": "16_2101993486299865088",
+              "start": 16,
+              "url": "https://t.co/jffCJDoGGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102243868297363877",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2101993486299865088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101993563647103008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jus3citron: https://t.co/jffCJDoGGN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2101993486299865088"
+          ]
+        },
+        "author_id": "2038197907216609280",
+        "conversation_id": "2101993563647103008",
+        "created_at": "2026-09-21T11:14:53.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101993563647103008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jffCJDoGGN",
+              "end": 23,
+              "expanded_url": "https://x.com/jus3citron/status/2101993563647103008/photo/1",
+              "media_key": "16_2101993486299865088",
+              "start": 0,
+              "url": "https://t.co/jffCJDoGGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101993563647103008",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2101993486299865088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1919,
+          "impression_count": 132721,
+          "like_count": 12073,
+          "quote_count": 70,
+          "reply_count": 19,
+          "retweet_count": 1584
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jffCJDoGGN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2102243868297363877",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 1050,
+          "like_count": 48815,
+          "listed_count": 8,
+          "media_count": 796,
+          "tweet_count": 3648
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T10:13:47.000Z",
+        "description": "opsec demon",
+        "id": "2038197907216609280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102148946231452145",
+        "name": "fghfgh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038197907216609280/1780150271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060725507738525701/owzJwUDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 140,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "jus3citron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

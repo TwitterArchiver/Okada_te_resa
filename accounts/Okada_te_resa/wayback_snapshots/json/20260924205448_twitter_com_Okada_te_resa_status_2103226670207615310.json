@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102989590344908800",
+        "3_2102989590349103104"
+      ],
+      "media_source_tweet_id": [
+        "2102989606186811844",
+        "2102989606186811844"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2103226670207615310",
+    "created_at": "2026-09-24T20:54:48.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T21:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103226670207615310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1060132463584849920",
+          "start": 3,
+          "username": "Kanon_Shizaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bl9tb8wYv",
+          "end": 45,
+          "expanded_url": "https://x.com/Kanon_Shizaki/status/2102989606186811844/photo/1",
+          "media_key": "3_2102989590344908800",
+          "start": 22,
+          "url": "https://t.co/9bl9tb8wYv"
+        },
+        {
+          "display_url": "pic.x.com/9bl9tb8wYv",
+          "end": 45,
+          "expanded_url": "https://x.com/Kanon_Shizaki/status/2102989606186811844/photo/1",
+          "media_key": "3_2102989590349103104",
+          "start": 22,
+          "url": "https://t.co/9bl9tb8wYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103226670207615310",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102989590344908800"
+      },
+      {
+        "media_key": "3_2102989590349103104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102989606186811844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanon_Shizaki: 🎃🍂 https://t.co/9bl9tb8wYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102989590344908800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9R4-raQAA3QpQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102989590349103104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9R4-saQAAMjOS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102989590344908800",
+            "3_2102989590349103104"
+          ],
+          "media_source_tweet_id": [
+            "2102989606186811844",
+            "2102989606186811844"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2103226670207615310",
+        "created_at": "2026-09-24T20:54:48.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103226670207615310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1060132463584849920",
+              "start": 3,
+              "username": "Kanon_Shizaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bl9tb8wYv",
+              "end": 45,
+              "expanded_url": "https://x.com/Kanon_Shizaki/status/2102989606186811844/photo/1",
+              "media_key": "3_2102989590344908800",
+              "start": 22,
+              "url": "https://t.co/9bl9tb8wYv"
+            },
+            {
+              "display_url": "pic.x.com/9bl9tb8wYv",
+              "end": 45,
+              "expanded_url": "https://x.com/Kanon_Shizaki/status/2102989606186811844/photo/1",
+              "media_key": "3_2102989590349103104",
+              "start": 22,
+              "url": "https://t.co/9bl9tb8wYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103226670207615310",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102989590344908800"
+          },
+          {
+            "media_key": "3_2102989590349103104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102989606186811844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanon_Shizaki: 🎃🍂 https://t.co/9bl9tb8wYv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102989590344908800",
+            "3_2102989590349103104"
+          ]
+        },
+        "author_id": "1060132463584849920",
+        "conversation_id": "2102989606186811844",
+        "created_at": "2026-09-24T05:12:48.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102989606186811844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bl9tb8wYv",
+              "end": 26,
+              "expanded_url": "https://x.com/Kanon_Shizaki/status/2102989606186811844/photo/1",
+              "media_key": "3_2102989590344908800",
+              "start": 3,
+              "url": "https://t.co/9bl9tb8wYv"
+            },
+            {
+              "display_url": "pic.x.com/9bl9tb8wYv",
+              "end": 26,
+              "expanded_url": "https://x.com/Kanon_Shizaki/status/2102989606186811844/photo/1",
+              "media_key": "3_2102989590349103104",
+              "start": 3,
+              "url": "https://t.co/9bl9tb8wYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102989606186811844",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102989590344908800"
+          },
+          {
+            "media_key": "3_2102989590349103104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 853,
+          "impression_count": 116631,
+          "like_count": 8248,
+          "quote_count": 48,
+          "reply_count": 43,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "🎃🍂 https://t.co/9bl9tb8wYv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2103226670207615310",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 1048,
+          "like_count": 48867,
+          "listed_count": 8,
+          "media_count": 796,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-07T11:30:50.000Z",
+        "description": "Vocalist/singer-songwriter/Artist/Voice actor/BanGDream! Roselia key.白金燐子/ 郵送物のご発送先 〒107-0062 東京都港区南青山２丁目３１−６ Le UnDeux南青山602号室 マネジメント宛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/7252yiab",
+                "end": 23,
+                "expanded_url": "https://potofu.me/7252yiab",
+                "start": 0,
+                "url": "https://t.co/UDrYc9wDd1"
+              }
+            ]
+          }
+        },
+        "id": "1060132463584849920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102989606186811844",
+        "name": "Kanon Shizaki 志崎樺音",
+        "pinned_tweet_id": "2099106495199932630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060132463584849920/1723834806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047878859534868480/wNBuOxAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248674,
+          "following_count": 296,
+          "like_count": 3888,
+          "listed_count": 2496,
+          "media_count": 2312,
+          "tweet_count": 7894
+        },
+        "url": "https://t.co/UDrYc9wDd1",
+        "username": "Kanon_Shizaki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

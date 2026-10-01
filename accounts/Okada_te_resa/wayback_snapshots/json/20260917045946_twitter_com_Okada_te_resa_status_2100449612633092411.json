@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100398884799561728"
+      ],
+      "media_source_tweet_id": [
+        "2100398904298922266"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2100449612633092411",
+    "created_at": "2026-09-17T04:59:46.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100449612633092411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1392729083562266624",
+          "start": 3,
+          "username": "TBJorry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bOdGTVw1iJ",
+          "end": 81,
+          "expanded_url": "https://x.com/TBJorry/status/2100398904298922266/video/1",
+          "media_key": "13_2100398884799561728",
+          "start": 58,
+          "url": "https://t.co/bOdGTVw1iJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100449612633092411",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2100398884799561728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100398904298922266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TBJorry: 아니 구도가 너무 폭력적임 고양이가 뭐하는지 궁금해서 홈캠 돌리다가 발견한 모습 https://t.co/bOdGTVw1iJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10681,
+        "height": 720,
+        "media_key": "13_2100398884799561728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100398884799561728/img/XC0QmoqfSNAEtg25.jpg",
+        "public_metrics": {
+          "view_count": 109101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100398884799561728/vid/avc1/360x270/5mcfg4fIdTAPFZCE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100398884799561728/vid/avc1/480x360/hAXyJrq5R53NH8zJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100398884799561728/vid/avc1/960x720/4G1Xy-_Dn6Q1v0OW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100398884799561728/pl/my-jl4p5lFrYKS7h.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100398884799561728"
+          ],
+          "media_source_tweet_id": [
+            "2100398904298922266"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2100449612633092411",
+        "created_at": "2026-09-17T04:59:46.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100449612633092411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1392729083562266624",
+              "start": 3,
+              "username": "TBJorry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOdGTVw1iJ",
+              "end": 81,
+              "expanded_url": "https://x.com/TBJorry/status/2100398904298922266/video/1",
+              "media_key": "13_2100398884799561728",
+              "start": 58,
+              "url": "https://t.co/bOdGTVw1iJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100449612633092411",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2100398884799561728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100398904298922266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TBJorry: 아니 구도가 너무 폭력적임 고양이가 뭐하는지 궁금해서 홈캠 돌리다가 발견한 모습 https://t.co/bOdGTVw1iJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100398884799561728"
+          ]
+        },
+        "author_id": "1392729083562266624",
+        "conversation_id": "2100398904298922266",
+        "created_at": "2026-09-17T01:38:16.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100398904298922266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOdGTVw1iJ",
+              "end": 68,
+              "expanded_url": "https://x.com/TBJorry/status/2100398904298922266/video/1",
+              "media_key": "13_2100398884799561728",
+              "start": 45,
+              "url": "https://t.co/bOdGTVw1iJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100398904298922266",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2100398884799561728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 615,
+          "impression_count": 234692,
+          "like_count": 11049,
+          "quote_count": 62,
+          "reply_count": 26,
+          "retweet_count": 3333
+        },
+        "reply_settings": "everyone",
+        "text": "아니 구도가 너무 폭력적임 고양이가 뭐하는지 궁금해서 홈캠 돌리다가 발견한 모습 https://t.co/bOdGTVw1iJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2100449612633092411",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 1043,
+          "like_count": 48682,
+          "listed_count": 8,
+          "media_count": 795,
+          "tweet_count": 3635
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-13T06:31:21.000Z",
+        "description": "쪼리 & 비니 집사, 일상, 음식, 여행, 의미",
+        "id": "1392729083562266624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100448487867568178",
+        "name": "쪼리 JJory",
+        "pinned_tweet_id": "2100398904298922266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392729083562266624/1769413312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017757650906451972/jzoR0K07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7194,
+          "following_count": 4206,
+          "like_count": 336304,
+          "listed_count": 21,
+          "media_count": 4298,
+          "tweet_count": 174830
+        },
+        "url": "",
+        "username": "TBJorry",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

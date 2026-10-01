@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2100213820786692097"
+      ],
+      "media_source_tweet_id": [
+        "2100213861790150774"
+      ]
+    },
+    "author_id": "1767107094313160704",
+    "conversation_id": "2100532528084132019",
+    "created_at": "2026-09-17T10:29:15.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100532528084132019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2086222641917005824",
+          "start": 3,
+          "username": "ChandraBed5dia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w3F0Kdox5L",
+          "end": 43,
+          "expanded_url": "https://x.com/ChandraBed5dia/status/2100213861790150774/video/1",
+          "media_key": "7_2100213820786692097",
+          "start": 20,
+          "url": "https://t.co/w3F0Kdox5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100532528084132019",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "7_2100213820786692097"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100213861790150774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ChandraBed5dia: https://t.co/w3F0Kdox5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35689,
+        "height": 720,
+        "media_key": "7_2100213820786692097",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2100213820786692097/pu/img/4FyzezizrOW43jYK.jpg",
+        "public_metrics": {
+          "view_count": 138944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100213820786692097/pu/vid/avc1/480x270/3lLZZJSOHHBBuO3q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100213820786692097/pu/vid/avc1/640x360/5LbiJJ3Bj5iBXTbL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100213820786692097/pu/vid/avc1/1280x720/Bh45KNyW69vxBxyJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2100213820786692097/pu/pl/KTB3yUBCEC4rxI9v.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2100213820786692097"
+          ],
+          "media_source_tweet_id": [
+            "2100213861790150774"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2100532528084132019",
+        "created_at": "2026-09-17T10:29:15.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100532528084132019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2086222641917005824",
+              "start": 3,
+              "username": "ChandraBed5dia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3F0Kdox5L",
+              "end": 43,
+              "expanded_url": "https://x.com/ChandraBed5dia/status/2100213861790150774/video/1",
+              "media_key": "7_2100213820786692097",
+              "start": 20,
+              "url": "https://t.co/w3F0Kdox5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100532528084132019",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_2100213820786692097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100213861790150774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ChandraBed5dia: https://t.co/w3F0Kdox5L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2100213820786692097"
+          ]
+        },
+        "author_id": "2086222641917005824",
+        "conversation_id": "2100213861790150774",
+        "created_at": "2026-09-16T13:22:59.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100213861790150774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3F0Kdox5L",
+              "end": 23,
+              "expanded_url": "https://x.com/ChandraBed5dia/status/2100213861790150774/video/1",
+              "media_key": "7_2100213820786692097",
+              "start": 0,
+              "url": "https://t.co/w3F0Kdox5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100213861790150774",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_2100213820786692097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1835,
+          "impression_count": 420947,
+          "like_count": 7146,
+          "quote_count": 39,
+          "reply_count": 0,
+          "retweet_count": 618
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/w3F0Kdox5L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2100532528084132019",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 1044,
+          "like_count": 48697,
+          "listed_count": 8,
+          "media_count": 795,
+          "tweet_count": 3638
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T22:47:33.000Z",
+        "description": "",
+        "id": "2086222641917005824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100321871774499265",
+        "name": "Chandra Bedar",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086222853628690432/k4nPLIGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 8,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "ChandraBed5dia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

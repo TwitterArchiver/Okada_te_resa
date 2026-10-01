@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767107094313160704",
+    "conversation_id": "2098661575381160356",
+    "created_at": "2026-09-13T01:25:20.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098946094902477194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001987427259604992",
+          "start": 0,
+          "username": "ya356844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098946094902477194",
+    "in_reply_to_user_id": "2001987427259604992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098661575381160356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya356844 这是你吗你就发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2098660318088138752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_wcKvaEAAP5Fy.jpg",
+        "width": 982
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2098660320420233216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_wcTbbAAATpi2.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767107094313160704",
+        "conversation_id": "2098661575381160356",
+        "created_at": "2026-09-13T01:25:20.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098946094902477194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001987427259604992",
+              "start": 0,
+              "username": "ya356844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098946094902477194",
+        "in_reply_to_user_id": "2001987427259604992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098661575381160356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya356844 这是你吗你就发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098660318088138752",
+            "3_2098660320420233216"
+          ]
+        },
+        "author_id": "2001987427259604992",
+        "conversation_id": "2098661575381160356",
+        "created_at": "2026-09-12T06:34:45.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098661575381160356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLCkYLrbLu",
+              "end": 73,
+              "expanded_url": "https://x.com/ya356844/status/2098661575381160356/photo/1",
+              "media_key": "3_2098660318088138752",
+              "start": 50,
+              "url": "https://t.co/pLCkYLrbLu"
+            },
+            {
+              "display_url": "pic.x.com/pLCkYLrbLu",
+              "end": 73,
+              "expanded_url": "https://x.com/ya356844/status/2098661575381160356/photo/1",
+              "media_key": "3_2098660320420233216",
+              "start": 50,
+              "url": "https://t.co/pLCkYLrbLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098661575381160356",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098660318088138752"
+          },
+          {
+            "media_key": "3_2098660320420233216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7030,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其實我是一個很容易想太多的人\n一句無心的話 我可能會記很久\n如果你看到這樣的我\n會願意慢慢認識我嗎 https://t.co/pLCkYLrbLu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2098946094902477194",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 1045,
+          "like_count": 48405,
+          "listed_count": 8,
+          "media_count": 790,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T12:06:21.000Z",
+        "description": "被阿嬤養大的女生~\n很膽小自卑\n但很希望能與你認識~\n我的夥伴：@cocoWW375",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "cocoWW375"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niniovo77",
+                "end": 23,
+                "expanded_url": "https://t.me/niniovo77",
+                "start": 0,
+                "url": "https://t.co/pXqcKR0JuC"
+              }
+            ]
+          }
+        },
+        "id": "2001987427259604992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098661575381160356",
+        "name": "嘟嘟寶貝",
+        "pinned_tweet_id": "2096598170067452148",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086356158596734976/JD2UA6kg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 0,
+          "like_count": 4114,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/pXqcKR0JuC",
+        "username": "ya356844",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
